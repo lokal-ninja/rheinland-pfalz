@@ -1,8 +1,8 @@
 {
-    "name": "Lokal Ninja - Baden-Württemberg",
+    "name": "Lokal Ninja - Rheinland-Pfalz",
     "lang": "de",
-    "short_name": "LN Baden-Württemberg",
-    "description": "Entdecke alle Einkaufsmöglichkeiten in Baden-Württemberg",
+    "short_name": "LN Rheinland-Pfalz",
+    "description": "Entdecke alle Einkaufsmöglichkeiten in Rheinland-Pfalz",
     "theme_color": "#d86f00",
     "background_color": "#fdfdfd",
     "display": "standalone",
