@@ -1,0 +1,4 @@
+---
+title: Schönborn
+url: /schoenborn/
+---

@@ -1,0 +1,4 @@
+---
+title: Klingenmünster
+url: /klingenmuenster/
+---

@@ -1,0 +1,4 @@
+---
+title: Schloßböckelheim
+url: /schlossboeckelheim/
+---

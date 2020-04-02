@@ -1,0 +1,4 @@
+---
+title: Walsdorf
+url: /walsdorf/
+---

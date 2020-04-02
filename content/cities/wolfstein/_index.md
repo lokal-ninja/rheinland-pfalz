@@ -1,0 +1,4 @@
+---
+title: Wolfstein
+url: /wolfstein/
+---

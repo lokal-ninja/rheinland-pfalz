@@ -1,0 +1,4 @@
+---
+title: "Frischkauf"
+url: /ludwigshafen-am-rhein/frischkauf/
+---

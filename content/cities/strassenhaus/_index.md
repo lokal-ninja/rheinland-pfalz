@@ -1,0 +1,4 @@
+---
+title: Straßenhaus
+url: /strassenhaus/
+---

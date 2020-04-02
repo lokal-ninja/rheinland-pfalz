@@ -1,0 +1,4 @@
+---
+title: Trippstadt
+url: /trippstadt/
+---

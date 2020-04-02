@@ -1,0 +1,4 @@
+---
+title: Lustadt
+url: /lustadt/
+---

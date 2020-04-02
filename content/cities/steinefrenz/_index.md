@@ -1,0 +1,4 @@
+---
+title: Steinefrenz
+url: /steinefrenz/
+---

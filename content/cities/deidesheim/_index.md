@@ -1,0 +1,4 @@
+---
+title: Deidesheim
+url: /deidesheim/
+---

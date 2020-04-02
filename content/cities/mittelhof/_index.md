@@ -1,0 +1,4 @@
+---
+title: Mittelhof
+url: /mittelhof/
+---

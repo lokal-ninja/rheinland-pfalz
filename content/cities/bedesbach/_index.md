@@ -1,0 +1,4 @@
+---
+title: Bedesbach
+url: /bedesbach/
+---

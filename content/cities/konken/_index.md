@@ -1,0 +1,4 @@
+---
+title: Konken
+url: /konken/
+---

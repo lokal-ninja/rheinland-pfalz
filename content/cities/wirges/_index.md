@@ -1,0 +1,4 @@
+---
+title: Wirges
+url: /wirges/
+---

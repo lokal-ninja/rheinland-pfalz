@@ -1,0 +1,4 @@
+---
+title: Mittelbrunn
+url: /mittelbrunn/
+---

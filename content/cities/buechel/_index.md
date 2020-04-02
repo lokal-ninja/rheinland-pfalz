@@ -1,0 +1,4 @@
+---
+title: Büchel
+url: /buechel/
+---

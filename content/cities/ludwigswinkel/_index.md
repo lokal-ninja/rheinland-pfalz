@@ -1,0 +1,4 @@
+---
+title: Ludwigswinkel
+url: /ludwigswinkel/
+---

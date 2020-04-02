@@ -1,0 +1,4 @@
+---
+title: Ettringen
+url: /ettringen/
+---

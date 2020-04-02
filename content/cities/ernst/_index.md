@@ -1,0 +1,4 @@
+---
+title: Ernst
+url: /ernst/
+---

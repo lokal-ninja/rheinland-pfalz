@@ -1,0 +1,4 @@
+---
+title: Bolanden
+url: /bolanden/
+---

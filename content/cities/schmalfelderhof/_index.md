@@ -1,0 +1,4 @@
+---
+title: Schmalfelderhof
+url: /schmalfelderhof/
+---

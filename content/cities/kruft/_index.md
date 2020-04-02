@@ -1,0 +1,4 @@
+---
+title: Kruft
+url: /kruft/
+---

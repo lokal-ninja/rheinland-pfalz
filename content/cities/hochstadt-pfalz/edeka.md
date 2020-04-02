@@ -1,0 +1,4 @@
+---
+title: "Edeka"
+url: /hochstadt-pfalz/edeka/
+---

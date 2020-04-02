@@ -1,0 +1,4 @@
+---
+title: "Aldi"
+url: /mainz/aldi-2/
+---

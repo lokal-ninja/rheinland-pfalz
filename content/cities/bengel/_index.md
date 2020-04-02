@@ -1,0 +1,4 @@
+---
+title: Bengel
+url: /bengel/
+---

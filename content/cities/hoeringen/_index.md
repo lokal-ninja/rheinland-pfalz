@@ -1,0 +1,4 @@
+---
+title: Höringen
+url: /hoeringen/
+---

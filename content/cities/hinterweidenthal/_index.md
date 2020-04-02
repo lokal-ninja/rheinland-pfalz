@@ -1,0 +1,4 @@
+---
+title: Hinterweidenthal
+url: /hinterweidenthal/
+---

@@ -1,0 +1,4 @@
+---
+title: Büchenbeuren
+url: /buechenbeuren/
+---

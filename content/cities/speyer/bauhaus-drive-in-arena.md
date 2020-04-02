@@ -1,0 +1,4 @@
+---
+title: "Bauhaus Drive-In Arena"
+url: /speyer/bauhaus-drive-in-arena/
+---

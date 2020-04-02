@@ -1,0 +1,4 @@
+---
+title: Hatzenbühl
+url: /hatzenbuehl/
+---

@@ -1,0 +1,4 @@
+---
+title: "Fielmann"
+url: /frankenthal-pfalz/fielmann/
+---

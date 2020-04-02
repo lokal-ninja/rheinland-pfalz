@@ -1,0 +1,4 @@
+---
+title: Frankenstein
+url: /frankenstein/
+---

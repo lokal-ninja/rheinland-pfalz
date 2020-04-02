@@ -1,0 +1,4 @@
+---
+title: Freckenfeld
+url: /freckenfeld/
+---

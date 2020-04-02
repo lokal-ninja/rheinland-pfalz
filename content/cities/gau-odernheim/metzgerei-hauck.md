@@ -1,0 +1,4 @@
+---
+title: "Metzgerei Hauck"
+url: /gau-odernheim/metzgerei-hauck/
+---

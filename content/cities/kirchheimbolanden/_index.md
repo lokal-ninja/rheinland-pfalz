@@ -1,0 +1,4 @@
+---
+title: Kirchheimbolanden
+url: /kirchheimbolanden/
+---

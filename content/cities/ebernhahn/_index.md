@@ -1,0 +1,4 @@
+---
+title: Ebernhahn
+url: /ebernhahn/
+---

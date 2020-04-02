@@ -1,0 +1,4 @@
+---
+title: Pellingen
+url: /pellingen/
+---

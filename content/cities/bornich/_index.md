@@ -1,0 +1,4 @@
+---
+title: Bornich
+url: /bornich/
+---

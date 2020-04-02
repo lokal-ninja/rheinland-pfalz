@@ -1,0 +1,4 @@
+---
+title: "Holzofenbäckerei Schillinger"
+url: /bad-bertrich/holzofenbaeckerei-schillinger/
+---

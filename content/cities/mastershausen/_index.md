@@ -1,0 +1,4 @@
+---
+title: Mastershausen
+url: /mastershausen/
+---

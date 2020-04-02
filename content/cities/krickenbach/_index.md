@@ -1,0 +1,4 @@
+---
+title: Krickenbach
+url: /krickenbach/
+---

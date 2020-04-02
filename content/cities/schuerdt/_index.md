@@ -1,0 +1,4 @@
+---
+title: Schürdt
+url: /schuerdt/
+---

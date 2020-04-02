@@ -1,0 +1,4 @@
+---
+title: Rosenkopf
+url: /rosenkopf/
+---

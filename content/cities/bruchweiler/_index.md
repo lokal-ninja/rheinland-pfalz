@@ -1,0 +1,4 @@
+---
+title: Bruchweiler
+url: /bruchweiler/
+---

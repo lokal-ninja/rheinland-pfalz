@@ -1,0 +1,4 @@
+---
+title: Kandel
+url: /kandel/
+---

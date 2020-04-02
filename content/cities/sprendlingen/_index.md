@@ -1,0 +1,4 @@
+---
+title: Sprendlingen
+url: /sprendlingen/
+---

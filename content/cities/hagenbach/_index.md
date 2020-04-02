@@ -1,0 +1,4 @@
+---
+title: Hagenbach
+url: /hagenbach/
+---

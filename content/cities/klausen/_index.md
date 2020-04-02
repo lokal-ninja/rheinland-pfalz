@@ -1,0 +1,4 @@
+---
+title: Klausen
+url: /klausen/
+---

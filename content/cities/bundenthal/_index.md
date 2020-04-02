@@ -1,0 +1,4 @@
+---
+title: Bundenthal
+url: /bundenthal/
+---

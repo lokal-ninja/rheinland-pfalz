@@ -1,0 +1,4 @@
+---
+title: Schönecken
+url: /schoenecken/
+---

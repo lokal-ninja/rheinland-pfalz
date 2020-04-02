@@ -1,0 +1,4 @@
+---
+title: Schindhard
+url: /schindhard/
+---

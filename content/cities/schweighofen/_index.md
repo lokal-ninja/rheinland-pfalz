@@ -1,0 +1,4 @@
+---
+title: Schweighofen
+url: /schweighofen/
+---

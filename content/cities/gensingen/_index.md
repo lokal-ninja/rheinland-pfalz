@@ -1,0 +1,4 @@
+---
+title: Gensingen
+url: /gensingen/
+---

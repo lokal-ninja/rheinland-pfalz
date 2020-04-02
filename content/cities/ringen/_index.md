@@ -1,0 +1,4 @@
+---
+title: Ringen
+url: /ringen/
+---

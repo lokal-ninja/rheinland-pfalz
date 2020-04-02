@@ -1,0 +1,4 @@
+---
+title: Gondenbrett
+url: /gondenbrett/
+---

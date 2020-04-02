@@ -1,0 +1,4 @@
+---
+title: Partenheim
+url: /partenheim/
+---
