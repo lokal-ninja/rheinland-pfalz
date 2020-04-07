@@ -1,12 +1,12 @@
-id: 6697406788
-type: node
+id: 37436980
+type: way
 shop: Supermarkt
-latitude: 49.208173300000006
-longitude: 8.126318300000001
+latitude: 49.202152700000006
+longitude: 8.1237086
 postcode: 76829
 city: Landau in der Pfalz
-street: "Im Justus"
-housenumber: 2a
+street: "Wieslauterstraße"
+housenumber: 57
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/filialen/landau/im-justus-2a.html"
+opening_hours: "Mo-Sa 07:00-21:00; Su, PH off"
+website: ""

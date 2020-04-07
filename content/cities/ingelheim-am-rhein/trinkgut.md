@@ -1,4 +1,4 @@
 ---
-title: "trinkgut"
+title: "Trinkgut"
 url: /ingelheim-am-rhein/trinkgut/
 ---

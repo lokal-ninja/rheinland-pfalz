@@ -1,12 +1,12 @@
-id: 106492293
-type: way
+id: 7366274978
+type: node
 shop: Supermarkt
-latitude: 49.106261800000006
-longitude: 8.010329500000001
+latitude: 49.106086100000006
+longitude: 8.010582000000001
 postcode: 76887
 city: Bad Bergzabern
 street: "Lindelbrunnstraße"
 housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00;Su,PH off"
-website: ""
+opening_hours: "Mo-Sa 07:30-22:00"
+website: "https://www.penny.de/marktsuche/"
