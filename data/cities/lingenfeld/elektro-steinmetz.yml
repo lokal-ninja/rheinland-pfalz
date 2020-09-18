@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.2517356
 longitude: 8.3488425
-postcode: 67360
+postcode: "67360"
 city: Lingenfeld
 street: "Altspeyerer Straße"
 housenumber: 4

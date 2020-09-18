@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5926738
 longitude: 7.5303982000000005
-postcode: 56593
+postcode: "56593"
 city: Horhausen (Westerwald)
 street: "Landblum"
 housenumber: 2

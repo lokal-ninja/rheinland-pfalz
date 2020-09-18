@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.438558500000006
 longitude: 7.767390400000001
-postcode: 67655
+postcode: "67655"
 city: Kaiserslautern
 street: "Richard-Wagner-Straße"
 housenumber: 78

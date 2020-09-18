@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.743218500000005
 longitude: 6.6632702
-postcode: 54295
+postcode: "54295"
 city: Trier
 street: "Olewiger Straße"
 housenumber: 163

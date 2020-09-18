@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.889124300000006
 longitude: 7.1165257
-postcode: 54472
+postcode: "54472"
 city: Longkamp
 street: "Andreasstraße"
 housenumber: 19

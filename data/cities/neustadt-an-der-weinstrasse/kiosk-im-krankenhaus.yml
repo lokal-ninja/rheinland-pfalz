@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.3467813
 longitude: 8.1495543
-postcode: 67433
+postcode: "67433"
 city: Neustadt an der Weinstraße
 street: "Stiftstraße"
 housenumber: 10

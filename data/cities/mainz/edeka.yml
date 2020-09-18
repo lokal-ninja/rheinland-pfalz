@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.9941681
 longitude: 8.184369400000001
-postcode: 55126
+postcode: "55126"
 city: Mainz
 street: "Gonsenheimer Straße"
 housenumber: 66

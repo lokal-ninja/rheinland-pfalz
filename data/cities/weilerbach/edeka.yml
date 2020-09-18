@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4757083
 longitude: 7.637122400000001
-postcode: 67685
+postcode: "67685"
 city: Weilerbach
 street: "Isigny-Allee"
 housenumber: 1

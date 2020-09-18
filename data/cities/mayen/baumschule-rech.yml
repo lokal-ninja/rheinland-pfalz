@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.3162347
 longitude: 7.212964800000001
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "Trierer Weg"
 housenumber: 54

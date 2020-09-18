@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 50.5882641
 longitude: 7.1141703000000005
-postcode: 53501
+postcode: "53501"
 city: Grafschaft
 street: "Meckenheimer Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.472653300000005
 longitude: 7.789756000000001
-postcode: 56422
+postcode: "56422"
 city: Wirges
 street: "Samoborstraße"
 housenumber: 5

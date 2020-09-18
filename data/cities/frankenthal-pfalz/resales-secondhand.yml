@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 49.536644
 longitude: 8.353998800000001
-postcode: 67227
+postcode: "67227"
 city: Frankenthal (Pfalz)
 street: "Wormser Straße"
 housenumber: 15-17
 phone: ""
-opening_hours: "Mo-Fr. 09.00—19.00Uhr; Sa 09.00—18.00Uhr"
+opening_hours: "Mo-Fr 09:00—19:00; Sa 09:00—18:00"
 website: ""

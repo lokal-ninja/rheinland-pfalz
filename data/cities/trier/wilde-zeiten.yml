@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.756604800000005
 longitude: 6.6397599000000005
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Fleischstraße"
 housenumber: 68-76

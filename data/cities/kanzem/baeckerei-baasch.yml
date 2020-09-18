@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.666613000000005
 longitude: 6.575883800000001
-postcode: 54441
+postcode: "54441"
 city: Kanzem
 street: "Brückenstraße"
 housenumber: 6

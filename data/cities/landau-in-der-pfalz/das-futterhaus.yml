@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.1917831
 longitude: 8.1389419
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Max-Planck-Straße"
 housenumber: 2

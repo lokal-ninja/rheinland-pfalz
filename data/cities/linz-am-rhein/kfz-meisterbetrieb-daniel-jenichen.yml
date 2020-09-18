@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.570525100000005
 longitude: 7.274197900000001
-postcode: 53545
+postcode: "53545"
 city: Linz am Rhein
 street: "Linzhausenstraße"
 housenumber: 36

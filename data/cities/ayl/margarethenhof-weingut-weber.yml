@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 49.627877000000005
 longitude: 6.556997
-postcode: 54441
+postcode: "54441"
 city: Ayl
 street: "Kirchstraße"
 housenumber: 17

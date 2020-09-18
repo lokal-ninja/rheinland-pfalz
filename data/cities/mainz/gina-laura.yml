@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.9676975
 longitude: 8.2284389
-postcode: 55128
+postcode: "55128"
 city: Mainz
 street: "Haifa-Allee"
 housenumber: 1

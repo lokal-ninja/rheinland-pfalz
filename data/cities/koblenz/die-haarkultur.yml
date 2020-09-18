@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.3674783
 longitude: 7.6517777
-postcode: 56077
+postcode: "56077"
 city: Koblenz
 street: "Immendorfer Straße"
 housenumber: 3

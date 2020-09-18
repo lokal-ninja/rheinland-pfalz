@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.2147463
 longitude: 6.4422630000000005
-postcode: 54595
+postcode: "54595"
 city: Prüm
 street: "Rudolf-Diesel-Straße"
 housenumber: 1

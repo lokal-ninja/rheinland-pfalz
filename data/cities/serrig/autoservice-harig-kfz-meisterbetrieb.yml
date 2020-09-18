@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.5784942
 longitude: 6.5754104
-postcode: 54455
+postcode: "54455"
 city: Serrig
 street: "Domänenstraße"
 housenumber: 57a

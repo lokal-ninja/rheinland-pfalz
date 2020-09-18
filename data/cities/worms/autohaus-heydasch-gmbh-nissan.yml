@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.6152815
 longitude: 8.339363200000001
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Horchheimer Straße"
 housenumber: 

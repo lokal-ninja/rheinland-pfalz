@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.3747358
 longitude: 8.0491028
-postcode: 65582
+postcode: "65582"
 city: Diez
 street: "Industriestraße"
 housenumber: 11

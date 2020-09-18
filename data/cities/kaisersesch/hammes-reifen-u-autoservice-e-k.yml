@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.2339843
 longitude: 7.1522334
-postcode: 56759
+postcode: "56759"
 city: Kaisersesch
 street: "August-Horch-Straße"
 housenumber: 2

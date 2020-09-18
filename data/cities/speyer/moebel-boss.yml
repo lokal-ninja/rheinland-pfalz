@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.334975
 longitude: 8.415361
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Iggelheimer Straße"
 housenumber: 28

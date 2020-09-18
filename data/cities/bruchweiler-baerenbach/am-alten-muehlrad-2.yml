@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.112905600000005
 longitude: 7.803348000000001
-postcode: 76891
+postcode: "76891"
 city: Bruchweiler-Bärenbach
 street: "Hauptstraße"
 housenumber: 18

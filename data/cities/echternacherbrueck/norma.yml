@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8140347
 longitude: 6.4341176
-postcode: 54668
+postcode: "54668"
 city: Echternacherbrück
 street: "Bitburger Straße"
 housenumber: 1a

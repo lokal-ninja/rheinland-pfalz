@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.9250459
 longitude: 6.8413304
-postcode: 54528
+postcode: "54528"
 city: Salmtal
 street: "Salmstraße"
 housenumber: 31

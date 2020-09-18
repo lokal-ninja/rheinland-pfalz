@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.67349230000001
 longitude: 8.2318092
-postcode: 67599
+postcode: "67599"
 city: Gundheim
 street: "Am Graben"
 housenumber: 

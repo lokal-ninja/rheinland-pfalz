@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.195646200000006
 longitude: 8.2058956
-postcode: 76877
+postcode: "76877"
 city: Offenbach an der Queich
 street: "Ottersheimer Straße"
 housenumber: 12

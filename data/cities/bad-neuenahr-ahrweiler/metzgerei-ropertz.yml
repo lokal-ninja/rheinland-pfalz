@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.541101100000006
 longitude: 7.093765
-postcode: 53474
+postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
 street: "Oberhutstraße"
 housenumber: 26

@@ -3,10 +3,10 @@ type: node
 shop: Möbel
 latitude: 49.34698950000001
 longitude: 8.2455839
-postcode: 67454
+postcode: "67454"
 city: Haßloch
 street: "Hans-Böckler-Straße"
 housenumber: 23
-phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: ""
+phone: "+49 6324 969960"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off"
+website: "https://www.daenischesbettenlager.de/filiale/f/f482/rheinland-pfalz/hassloch/hans-boeckler-strasse-23"

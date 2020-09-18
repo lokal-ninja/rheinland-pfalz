@@ -1,12 +1,12 @@
-id: 30980131
-type: way
+id: 7378915916
+type: node
 shop: Supermarkt
-latitude: 49.083117900000005
-longitude: 8.2638985
-postcode: 76751
+latitude: 49.0833589
+longitude: 8.2638773
+postcode: "76751"
 city: Jockgrim
 street: "Mittelwegring"
 housenumber: 45
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=%20Mittelwegring%2045%2076751%20Jockgrim&Mode=None"

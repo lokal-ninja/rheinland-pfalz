@@ -3,7 +3,7 @@ type: node
 shop: Boot
 latitude: 49.6240388
 longitude: 8.379010000000001
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Alemannenstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.1436635
 longitude: 8.0195872
-postcode: 
+postcode: ""
 city: Klingenmünster
 street: "Weinstraße"
 housenumber: 87

@@ -3,10 +3,10 @@ type: way
 shop: Bäckerei
 latitude: 49.987820000000006
 longitude: 8.278883200000001
-postcode: 55131
+postcode: "55131"
 city: Mainz
 street: "An der Goldgrube"
 housenumber: 52
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-18:00"
-website: "http://www.barbarossa-baeckerei.de/index.php?id=129&fid=327&ort=Mainz"
+opening_hours: "Mo-Su 07:00-18:00"
+website: "https://www.barbarossa-baeckerei.de/filialen/"

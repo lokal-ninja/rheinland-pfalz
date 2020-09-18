@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.944316500000006
 longitude: 8.214726200000001
-postcode: 55270
+postcode: "55270"
 city: Klein-Winternheim
 street: "Am Wasserhaus"
 housenumber: 2

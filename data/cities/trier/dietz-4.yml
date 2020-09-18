@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.7492237
 longitude: 6.6308856
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Gilbertstraße"
 housenumber: 58

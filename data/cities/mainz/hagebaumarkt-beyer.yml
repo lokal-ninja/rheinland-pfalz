@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.9588844
 longitude: 8.261278
-postcode: 55129
+postcode: "55129"
 city: Mainz
 street: "Robert-Bosch-Straße"
 housenumber: 19

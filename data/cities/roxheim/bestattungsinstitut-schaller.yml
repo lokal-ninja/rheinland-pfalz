@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 49.866228
 longitude: 7.8138081
-postcode: 55595
+postcode: "55595"
 city: Roxheim
 street: "Bergstraße"
 housenumber: 17

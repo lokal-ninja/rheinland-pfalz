@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.3412966
 longitude: 7.570606400000001
-postcode: 56075
+postcode: "56075"
 city: Koblenz
 street: "Potsdamer Straße"
 housenumber: 31

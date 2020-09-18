@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.4487742
 longitude: 7.3506276
-postcode: 66903
+postcode: "66903"
 city: Ohmbach
 street: "Hauptstraße"
 housenumber: 55

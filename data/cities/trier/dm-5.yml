@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.7431629
 longitude: 6.6435526000000005
-postcode: 54295
+postcode: "54295"
 city: Trier
 street: "Wisportstraße"
 housenumber: 12

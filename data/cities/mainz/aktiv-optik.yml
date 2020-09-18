@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.967063800000005
 longitude: 8.2295163
-postcode: 55128
+postcode: "55128"
 city: Mainz
 street: "Haifa-Allee"
 housenumber: 1

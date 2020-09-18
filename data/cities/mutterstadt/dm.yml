@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.4250757
 longitude: 8.362532100000001
-postcode: 67112
+postcode: "67112"
 city: Mutterstadt
 street: "An der Fohlenweide"
 housenumber: 13a

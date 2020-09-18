@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.492758800000004
 longitude: 8.3710471
-postcode: 67071
+postcode: "67071"
 city: Ludwigshafen am Rhein
 street: "Dürkheimer Straße"
 housenumber: 28

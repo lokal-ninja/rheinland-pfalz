@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.761676200000004
 longitude: 6.6473645
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Paulinstraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.1013163
 longitude: 7.997567300000001
-postcode: 76887
+postcode: "76887"
 city: Bad Bergzabern
 street: "Marktstraße"
 housenumber: 32

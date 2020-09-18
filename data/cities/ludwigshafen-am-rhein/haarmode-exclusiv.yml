@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4608806
 longitude: 8.4040292
-postcode: 67067
+postcode: "67067"
 city: Ludwigshafen am Rhein
 street: "Königsbacher Straße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.643295300000005
 longitude: 8.3683998
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Petrus-Dorn-Straße"
 housenumber: 3a

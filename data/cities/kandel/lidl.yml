@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.085477600000004
 longitude: 8.2119633
-postcode: 76870
+postcode: "76870"
 city: Kandel
 street: "Klärstraße"
 housenumber: 2

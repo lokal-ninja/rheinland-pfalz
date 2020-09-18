@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.970301500000005
 longitude: 8.0210313
-postcode: 55435
+postcode: "55435"
 city: Gau-Algesheim
 street: "Rheinstraße"
 housenumber: 50

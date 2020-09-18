@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.301151600000004
 longitude: 7.642088
-postcode: 56112
+postcode: "56112"
 city: Lahnstein
 street: "Am Kurpark"
 housenumber: 2

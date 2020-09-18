@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.200197800000005
 longitude: 7.8559741
-postcode: 56355
+postcode: "56355"
 city: Nastätten
 street: "Römerstraße"
 housenumber: 56

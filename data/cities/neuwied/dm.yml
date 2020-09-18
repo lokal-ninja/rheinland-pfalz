@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.4313973
 longitude: 7.4631512
-postcode: 56564
+postcode: "56564"
 city: Neuwied
 street: "Heddesdorfer Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.9856052
 longitude: 8.2877533
-postcode: 55131
+postcode: "55131"
 city: Mainz
 street: "Görresstraße"
 housenumber: 30

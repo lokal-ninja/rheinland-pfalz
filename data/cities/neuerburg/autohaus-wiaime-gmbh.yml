@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.0202037
 longitude: 6.2882682
-postcode: 54673
+postcode: "54673"
 city: Neuerburg
 street: "In der Enz"
 housenumber: 3

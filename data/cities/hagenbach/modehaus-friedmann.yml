@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.0170328
 longitude: 8.2486557
-postcode: 76767
+postcode: "76767"
 city: Hagenbach
 street: "Jahnstraße"
 housenumber: 7

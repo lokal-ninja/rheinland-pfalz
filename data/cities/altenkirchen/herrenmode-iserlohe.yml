@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.6862629
 longitude: 7.643014900000001
-postcode: 57610
+postcode: "57610"
 city: Altenkirchen
 street: "Wilhelmstraße"
 housenumber: 51

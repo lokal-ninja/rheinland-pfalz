@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.801441700000005
 longitude: 8.3448373
-postcode: 67583
+postcode: "67583"
 city: Guntersblum
 street: "Kurzer Flurweg"
 housenumber: 4

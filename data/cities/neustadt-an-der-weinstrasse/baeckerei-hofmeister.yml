@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.354137
 longitude: 8.1369477
-postcode: 67433
+postcode: "67433"
 city: Neustadt an der Weinstraße
 street: "Hauptstraße"
 housenumber: 96

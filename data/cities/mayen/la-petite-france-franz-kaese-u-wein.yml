@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.3301181
 longitude: 7.2244998
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "Brückenstraße"
 housenumber: 4

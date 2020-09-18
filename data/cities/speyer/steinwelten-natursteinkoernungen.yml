@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.3300962
 longitude: 8.4285589
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Werkstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.163250100000006
 longitude: 7.9298729
-postcode: 76857
+postcode: "76857"
 city: Gossersweiler-Stein
 street: "Sankt Georgstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7444367
 longitude: 8.2261184
-postcode: 67596
+postcode: "67596"
 city: Dittelsheim-Heßloch
 street: "Bismarckstraße"
 housenumber: 8

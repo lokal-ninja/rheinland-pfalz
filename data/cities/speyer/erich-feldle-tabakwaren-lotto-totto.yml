@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 49.3174417
 longitude: 8.4371813
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Maximilianstraße"
 housenumber: 88

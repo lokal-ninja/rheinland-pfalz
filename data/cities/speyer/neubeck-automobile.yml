@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3391534
 longitude: 8.427635200000001
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Landwehrstraße"
 housenumber: 34

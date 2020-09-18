@@ -3,7 +3,7 @@ type: node
 shop: Rahmen
 latitude: 49.5065667
 longitude: 8.2121986
-postcode: 67251
+postcode: "67251"
 city: Freinsheim
 street: "Breite Straße"
 housenumber: 4

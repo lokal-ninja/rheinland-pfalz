@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7518949
 longitude: 6.6300198
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Karl-Marx-Straße"
 housenumber: 69

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.9263746
 longitude: 8.3278221
-postcode: 55294
+postcode: "55294"
 city: Bodenheim
 street: "Im Bürgel"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.0044764
 longitude: 8.2620394
-postcode: 55118
+postcode: "55118"
 city: Mainz
 street: "Gartenfeldstraße"
 housenumber: 7

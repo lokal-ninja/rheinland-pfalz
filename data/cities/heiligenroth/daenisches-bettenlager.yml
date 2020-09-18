@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.447870200000004
 longitude: 7.8471856
-postcode: 56412
+postcode: "56412"
 city: Heiligenroth
 street: "Industriestraße"
 housenumber: 

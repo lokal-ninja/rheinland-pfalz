@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.27730510000001
 longitude: 7.6263398
-postcode: 56321
+postcode: "56321"
 city: Rhens
 street: "Mainzer Straße"
 housenumber: 75

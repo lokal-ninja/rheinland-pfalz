@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.7428661
 longitude: 6.6419967
-postcode: 54295
+postcode: "54295"
 city: Trier
 street: "Wisportstraße"
 housenumber: 20

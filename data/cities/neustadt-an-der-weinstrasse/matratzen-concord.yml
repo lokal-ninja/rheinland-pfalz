@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.3510848
 longitude: 8.1521434
-postcode: 67433
+postcode: "67433"
 city: Neustadt an der Weinstraße
 street: "Martin-Luther-Straße"
 housenumber: 2

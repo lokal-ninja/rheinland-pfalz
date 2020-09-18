@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.779771000000004
 longitude: 6.6879714
-postcode: 54293
+postcode: "54293"
 city: Trier
 street: "Pfalzeler Straße"
 housenumber: 41

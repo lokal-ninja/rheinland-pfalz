@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.283032500000004
 longitude: 8.3951153
-postcode: 67354
+postcode: "67354"
 city: Römerberg
 street: "Viehtriftstraße"
 housenumber: 8

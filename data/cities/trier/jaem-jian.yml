@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.7599804
 longitude: 6.6390995
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Bruchhausenstraße"
 housenumber: 22

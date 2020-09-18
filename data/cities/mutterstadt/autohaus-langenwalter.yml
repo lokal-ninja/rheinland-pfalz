@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.4465535
 longitude: 8.3545275
-postcode: 67112
+postcode: "67112"
 city: Mutterstadt
 street: "Oggersheimer Straße"
 housenumber: 54

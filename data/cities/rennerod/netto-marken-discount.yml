@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.602536900000004
 longitude: 8.0635528
-postcode: 56477
+postcode: "56477"
 city: Rennerod
 street: "Seitensteiner Straße"
 housenumber: 2a

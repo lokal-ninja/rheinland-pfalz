@@ -3,9 +3,9 @@ type: node
 shop: Lebensmittel
 latitude: 49.6825379
 longitude: 6.4482412
-postcode: 6793
+postcode: "6793"
 city: Grevenmacher
-street: "Route de Trèves"
+street: "Rue de Trèves"
 housenumber: 52
 phone: "+352 759328-1"
 opening_hours: ""

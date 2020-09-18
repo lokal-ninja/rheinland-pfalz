@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.9377525
 longitude: 6.643687300000001
-postcode: 54662
+postcode: "54662"
 city: Speicher
 street: "Kapellenstraße"
 housenumber: 58-60

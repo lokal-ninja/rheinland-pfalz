@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.797826900000004
 longitude: 6.8272709
-postcode: 54346
+postcode: "54346"
 city: Mehring
 street: "Brückenstraße"
 housenumber: 26

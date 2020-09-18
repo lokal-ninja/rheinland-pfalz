@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.2266923
 longitude: 7.354825300000001
-postcode: 66482
+postcode: "66482"
 city: Zweibrücken
 street: "Etzelweg"
 housenumber: 252

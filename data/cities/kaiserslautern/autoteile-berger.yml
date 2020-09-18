@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 49.449025600000006
 longitude: 7.7812245
-postcode: 67657
+postcode: "67657"
 city: Kaiserslautern
 street: "Hilgardring"
 housenumber: 12

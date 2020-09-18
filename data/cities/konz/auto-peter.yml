@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.6938569
 longitude: 6.5662789
-postcode: 54329
+postcode: "54329"
 city: Konz
 street: "Konzerbrück"
 housenumber: 35

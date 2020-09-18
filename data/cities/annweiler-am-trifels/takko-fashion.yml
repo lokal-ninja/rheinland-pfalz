@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.2056222
 longitude: 7.972463100000001
-postcode: 76855
+postcode: "76855"
 city: Annweiler am Trifels
 street: "Landauer Straße"
 housenumber: 37

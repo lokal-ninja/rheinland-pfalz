@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.754523500000005
 longitude: 6.6413061
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Konstantinstraße"
 housenumber: 7-11

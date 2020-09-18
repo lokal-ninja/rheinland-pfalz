@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.907846400000004
 longitude: 8.201652900000001
-postcode: 55268
+postcode: "55268"
 city: Nieder-Olm
 street: "Bahnhofstraße"
 housenumber: 2

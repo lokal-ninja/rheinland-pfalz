@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.0251323
 longitude: 8.117775
-postcode: 65343
+postcode: "65343"
 city: Eltville am Rhein
 street: "Rheingauer Straße"
 housenumber: 8

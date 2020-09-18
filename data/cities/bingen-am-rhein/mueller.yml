@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.967778200000005
 longitude: 7.8947677
-postcode: 55411
+postcode: "55411"
 city: Bingen am Rhein
 street: "Speisemarkt"
 housenumber: 4

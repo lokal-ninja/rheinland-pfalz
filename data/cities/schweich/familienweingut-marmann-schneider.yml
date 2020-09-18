@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.8253156
 longitude: 6.757472600000001
-postcode: 54338
+postcode: "54338"
 city: Schweich
 street: "Corneliuspforte"
 housenumber: 63

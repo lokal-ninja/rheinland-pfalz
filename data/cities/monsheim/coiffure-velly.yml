@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.631156000000004
 longitude: 8.200056400000001
-postcode: 67590
+postcode: "67590"
 city: Monsheim
 street: "Robert-Bosch-Straße"
 housenumber: 2

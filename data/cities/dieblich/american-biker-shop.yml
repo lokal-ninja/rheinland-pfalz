@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.2893136
 longitude: 7.5096033
-postcode: 56332
+postcode: "56332"
 city: Dieblich
 street: "Nasshecker Straße"
 housenumber: 

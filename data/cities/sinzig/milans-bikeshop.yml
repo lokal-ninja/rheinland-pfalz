@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.544804400000004
 longitude: 7.2471221
-postcode: 53489
+postcode: "53489"
 city: Sinzig
 street: "Mühlenbachstraße"
 housenumber: 19

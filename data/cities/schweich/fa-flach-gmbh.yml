@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 49.829128000000004
 longitude: 6.741920100000001
-postcode: 54338
+postcode: "54338"
 city: Schweich
 street: "Gewerbegebiet Am Bahnhof"
 housenumber: 1

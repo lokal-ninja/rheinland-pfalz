@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.3070985
 longitude: 8.1271199
-postcode: 67487
+postcode: "67487"
 city: Maikammer
 street: "Hartmannstraße"
 housenumber: 33

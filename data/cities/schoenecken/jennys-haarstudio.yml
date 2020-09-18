@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.155709300000005
 longitude: 6.4657472
-postcode: 54614
+postcode: "54614"
 city: Schönecken
 street: "Hühnerbach"
 housenumber: 2

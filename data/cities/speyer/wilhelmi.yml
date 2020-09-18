@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.3347204
 longitude: 8.4158781
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Iggelheimer Straße"
 housenumber: 26

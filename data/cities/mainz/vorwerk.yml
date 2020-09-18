@@ -3,7 +3,7 @@ type: node
 shop: Staubsauger
 latitude: 50.0008282
 longitude: 8.271141100000001
-postcode: 55116
+postcode: "55116"
 city: Mainz
 street: "Stadthausstraße"
 housenumber: 18

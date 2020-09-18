@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.9672065
 longitude: 8.229052600000001
-postcode: 55128
+postcode: "55128"
 city: Mainz
 street: "Haifa-Allee"
 housenumber: 1

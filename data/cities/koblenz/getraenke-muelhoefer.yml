@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.3597654
 longitude: 7.5579415
-postcode: 56072
+postcode: "56072"
 city: Koblenz
 street: "Raiffeisenstraße"
 housenumber: 124

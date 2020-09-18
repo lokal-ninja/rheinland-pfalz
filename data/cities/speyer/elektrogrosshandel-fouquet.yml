@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 49.309793400000004
 longitude: 8.4438555
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Industriestraße"
 housenumber: 4

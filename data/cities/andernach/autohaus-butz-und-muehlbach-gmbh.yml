@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.412992700000004
 longitude: 7.4087332
-postcode: 56626
+postcode: "56626"
 city: Andernach
 street: "Orensteinstraße"
 housenumber: 2

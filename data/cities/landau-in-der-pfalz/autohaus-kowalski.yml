@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.2103498
 longitude: 8.1444088
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Oberwiesenstraße"
 housenumber: 2

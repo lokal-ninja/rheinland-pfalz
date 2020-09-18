@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.776914700000006
 longitude: 6.6940352
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Ruwerer Straße"
 housenumber: 27

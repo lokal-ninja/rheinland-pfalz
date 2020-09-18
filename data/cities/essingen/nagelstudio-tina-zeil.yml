@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.237786
 longitude: 8.162998400000001
-postcode: 76879
+postcode: "76879"
 city: Essingen
 street: "Birkenstraße"
 housenumber: 2

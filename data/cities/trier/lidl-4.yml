@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.771649000000004
 longitude: 6.664789300000001
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Verteilerring"
 housenumber: 1

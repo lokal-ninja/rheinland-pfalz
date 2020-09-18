@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.6950906
 longitude: 6.566272400000001
-postcode: 54329
+postcode: "54329"
 city: Konz
 street: "Konzerbrück"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.268785300000005
 longitude: 8.327814
-postcode: 67365
+postcode: "67365"
 city: Schwegenheim
 street: "Hauptstraße"
 housenumber: 75

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 49.242400800000006
 longitude: 8.347030400000001
-postcode: 67360
+postcode: "67360"
 city: Lingenfeld
 street: "Germersheimer Straße"
 housenumber: 152

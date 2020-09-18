@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.334177200000006
 longitude: 8.4445038
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Am Rübsamenwühl"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.981487300000005
 longitude: 6.8940885000000005
-postcode: 54516
+postcode: "54516"
 city: Wittlich
 street: "Schloßstraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.447020900000005
 longitude: 7.7087725
-postcode: 67663
+postcode: "67663"
 city: Kaiserslautern
 street: "Opelkreisel"
 housenumber: 26a

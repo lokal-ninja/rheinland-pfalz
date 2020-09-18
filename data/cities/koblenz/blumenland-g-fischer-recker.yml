@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.3697815
 longitude: 7.6241272
-postcode: 56077
+postcode: "56077"
 city: Koblenz
 street: "Arenberger Straße"
 housenumber: 80

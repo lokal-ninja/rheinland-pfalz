@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.1534532
 longitude: 7.772828100000001
-postcode: 66994
+postcode: "66994"
 city: Dahn
 street: "Pirmasenser Straße"
 housenumber: 39a

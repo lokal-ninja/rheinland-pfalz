@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.4591623
 longitude: 7.932225900000001
-postcode: 56414
+postcode: "56414"
 city: Steinefrenz
 street: "Brunnenstraße"
 housenumber: 2

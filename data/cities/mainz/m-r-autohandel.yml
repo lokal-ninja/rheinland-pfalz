@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.9621263
 longitude: 8.2563443
-postcode: 55129
+postcode: "55129"
 city: Mainz
 street: "Carl-Zeiss-Straße"
 housenumber: 28

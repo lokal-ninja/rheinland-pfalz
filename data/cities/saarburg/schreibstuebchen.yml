@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.6080387
 longitude: 6.5487317
-postcode: 54439
+postcode: "54439"
 city: Saarburg
 street: "Auf dem Graben"
 housenumber: 1

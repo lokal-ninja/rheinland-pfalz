@@ -3,7 +3,7 @@ type: node
 shop: Mieten
 latitude: 50.209065100000004
 longitude: 7.921581000000001
-postcode: 56357
+postcode: "56357"
 city: Holzhausen an der Haide
 street: "Reutig"
 housenumber: 15-16

@@ -3,10 +3,10 @@ type: node
 shop: Spirituosen
 latitude: 49.2233542
 longitude: 8.1114219
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Geißelgasse"
-housenumber: 13
+housenumber: 15
 phone: ""
 opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.3603475
 longitude: 7.594205100000001
-postcode: 56068
+postcode: "56068"
 city: Koblenz
 street: "Löhrstraße"
 housenumber: 2

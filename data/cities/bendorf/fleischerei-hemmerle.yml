@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.423128500000004
 longitude: 7.5782392000000005
-postcode: 56170
+postcode: "56170"
 city: Bendorf
 street: "Steinstraße"
 housenumber: 10

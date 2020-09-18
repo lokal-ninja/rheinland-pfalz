@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9671147
 longitude: 8.229221800000001
-postcode: 55128
+postcode: "55128"
 city: Mainz
 street: "Haifa-Allee"
 housenumber: 1

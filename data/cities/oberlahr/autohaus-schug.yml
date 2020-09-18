@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.621353500000005
 longitude: 7.5211429
-postcode: 57641
+postcode: "57641"
 city: Oberlahr
 street: "Bahnhofstraße"
 housenumber: 25-27

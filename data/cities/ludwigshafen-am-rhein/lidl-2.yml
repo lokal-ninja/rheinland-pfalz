@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4877448
 longitude: 8.4152664
-postcode: 67063
+postcode: "67063"
 city: Ludwigshafen am Rhein
 street: "Industriestraße"
 housenumber: 10

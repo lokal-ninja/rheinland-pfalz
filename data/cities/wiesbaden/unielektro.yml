@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.0417306
 longitude: 8.2226186
-postcode: 65203
+postcode: "65203"
 city: Wiesbaden
 street: "Carl-Bosch-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.7592459
 longitude: 6.644098100000001
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Simeonstraße"
 housenumber: 4

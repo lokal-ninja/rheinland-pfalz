@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.753246700000005
 longitude: 6.639412200000001
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Neustraße"
 housenumber: 3

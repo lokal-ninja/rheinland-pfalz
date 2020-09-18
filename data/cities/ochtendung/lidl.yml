@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.3530497
 longitude: 7.39618
-postcode: 56299
+postcode: "56299"
 city: Ochtendung
 street: "Michelsbergstraße"
 housenumber: 1-7

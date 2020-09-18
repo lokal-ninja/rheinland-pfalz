@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.199405500000005
 longitude: 6.8250953
-postcode: 54550
+postcode: "54550"
 city: Daun
 street: "Trierer Straße"
 housenumber: 19

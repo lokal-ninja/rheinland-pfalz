@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.1890051
 longitude: 8.1382449
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Max-Planck-Straße"
 housenumber: 7

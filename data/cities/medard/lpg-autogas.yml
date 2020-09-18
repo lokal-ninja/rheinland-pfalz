@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.6696315
 longitude: 7.616707000000001
-postcode: 67744
+postcode: "67744"
 city: Medard
 street: "Hauptstraße"
 housenumber: 80

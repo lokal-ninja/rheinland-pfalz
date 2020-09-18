@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.5960839
 longitude: 6.5062305
-postcode: 54439
+postcode: "54439"
 city: Saarburg
 street: "Saargaustraße"
 housenumber: 19a

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.4414074
 longitude: 7.7656469
-postcode: 67655
+postcode: "67655"
 city: Kaiserslautern
 street: "Richard-Wagner-Straße"
 housenumber: 40

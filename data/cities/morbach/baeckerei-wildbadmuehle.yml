@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8148441
 longitude: 7.1247813
-postcode: 54497
+postcode: "54497"
 city: Morbach
 street: "Am Dreieck"
 housenumber: 

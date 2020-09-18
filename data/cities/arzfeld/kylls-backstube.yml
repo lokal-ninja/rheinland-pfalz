@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0884097
 longitude: 6.2755407000000005
-postcode: 54687
+postcode: "54687"
 city: Arzfeld
 street: "Hauptstraße"
 housenumber: 15

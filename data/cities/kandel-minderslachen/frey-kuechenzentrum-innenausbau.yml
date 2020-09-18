@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 49.0973477
 longitude: 8.174701200000001
-postcode: 76870
+postcode: "76870"
 city: Kandel-Minderslachen
 street: "Horstring"
 housenumber: 17

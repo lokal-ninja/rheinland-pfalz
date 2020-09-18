@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.6547284
 longitude: 6.9465982
-postcode: 54411
+postcode: "54411"
 city: Hermeskeil
 street: "Trierer Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.9963057
 longitude: 8.2725185
-postcode: 55116
+postcode: "55116"
 city: Mainz
 street: "Heringsbrunnengasse"
 housenumber: 9-11

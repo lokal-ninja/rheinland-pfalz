@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.8425067
 longitude: 7.86249
-postcode: 55543
+postcode: "55543"
 city: Bad Kreuznach
 street: "Salinenstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9824077
 longitude: 8.2785501
-postcode: 55131
+postcode: "55131"
 city: Mainz
 street: "Hechtsheimer Straße"
 housenumber: 35a

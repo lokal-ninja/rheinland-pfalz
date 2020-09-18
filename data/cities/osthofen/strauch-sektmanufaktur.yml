@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.7040395
 longitude: 8.3218954
-postcode: 67574
+postcode: "67574"
 city: Osthofen
 street: "Friedrich-Ebert-Straße"
 housenumber: 31-33

@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 50.0443749
 longitude: 7.80494
-postcode: 65391
+postcode: "65391"
 city: Lorch
 street: "Römerberg"
 housenumber: 6

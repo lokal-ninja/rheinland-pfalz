@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2742669
 longitude: 8.2763957
-postcode: 67361
+postcode: "67361"
 city: Freisbach
 street: "Hauptstraße"
 housenumber: 92

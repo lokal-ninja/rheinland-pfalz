@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 49.119099000000006
 longitude: 8.2786034
-postcode: 76764
+postcode: "76764"
 city: Rheinzabern
 street: "Friedhofstraße"
 housenumber: 2

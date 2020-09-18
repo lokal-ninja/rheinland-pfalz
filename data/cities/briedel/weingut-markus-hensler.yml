@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.0254722
 longitude: 7.1477066
-postcode: 56867
+postcode: "56867"
 city: Briedel
 street: "Hauptstraße"
 housenumber: 151

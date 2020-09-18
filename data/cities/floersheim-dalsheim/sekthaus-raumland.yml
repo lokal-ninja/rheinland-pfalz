@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.660434200000005
 longitude: 8.2041579
-postcode: 67592
+postcode: "67592"
 city: Flörsheim-Dalsheim
 street: "Alzeyer Straße"
 housenumber: 123c

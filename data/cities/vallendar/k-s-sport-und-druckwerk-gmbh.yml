@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 50.4024524
 longitude: 7.6073747
-postcode: 56179
+postcode: "56179"
 city: Vallendar
 street: "Rheinstraße"
 housenumber: 118

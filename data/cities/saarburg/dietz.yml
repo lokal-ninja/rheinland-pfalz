@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.606363300000005
 longitude: 6.5604465
-postcode: 54439
+postcode: "54439"
 city: Saarburg
 street: "Hauptstraße"
 housenumber: 23

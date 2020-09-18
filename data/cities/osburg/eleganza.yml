@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.71554080000001
 longitude: 6.791777000000001
-postcode: 54317
+postcode: "54317"
 city: Osburg
 street: "Klemensstraße"
 housenumber: 40

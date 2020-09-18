@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.621208700000004
 longitude: 8.3600516
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Am Aulweg"
 housenumber: 1

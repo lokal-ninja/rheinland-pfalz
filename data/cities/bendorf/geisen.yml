@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.4247674
 longitude: 7.571384600000001
-postcode: 56170
+postcode: "56170"
 city: Bendorf
 street: "Hauptstraße"
 housenumber: 100

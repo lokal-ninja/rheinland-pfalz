@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.4884326
 longitude: 8.212078100000001
-postcode: 67167
+postcode: "67167"
 city: Erpolzheim
 street: "Bahnhofstraße"
 housenumber: 64

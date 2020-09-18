@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.755348600000005
 longitude: 6.635983100000001
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Zuckerbergstraße"
 housenumber: 23

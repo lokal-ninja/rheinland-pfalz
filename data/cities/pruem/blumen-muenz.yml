@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.206525500000005
 longitude: 6.422017100000001
-postcode: 54595
+postcode: "54595"
 city: Prüm
 street: "Hillstraße"
 housenumber: 18

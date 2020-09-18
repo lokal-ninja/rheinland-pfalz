@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.1377047
 longitude: 7.797872600000001
-postcode: 66994
+postcode: "66994"
 city: Dahn
 street: "Industriestraße"
 housenumber: 4

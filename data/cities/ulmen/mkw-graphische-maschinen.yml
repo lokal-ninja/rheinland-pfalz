@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 50.224224500000005
 longitude: 6.969680100000001
-postcode: 56766
+postcode: "56766"
 city: Ulmen
 street: "Am Weiher"
 housenumber: 1

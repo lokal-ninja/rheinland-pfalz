@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.64564540000001
 longitude: 7.5239802000000005
-postcode: 57632
+postcode: "57632"
 city: Flammersfeld
 street: "Rheinstraße"
 housenumber: 36

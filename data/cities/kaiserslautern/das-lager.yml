@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.4434392
 longitude: 7.7575788
-postcode: 67655
+postcode: "67655"
 city: Kaiserslautern
 street: "Pariser Straße"
 housenumber: 63

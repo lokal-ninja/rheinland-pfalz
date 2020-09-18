@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.754408600000005
 longitude: 6.6403911
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Brotstraße"
 housenumber: 18

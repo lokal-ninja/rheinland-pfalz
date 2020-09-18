@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 49.7038281
 longitude: 8.321414
-postcode: 67574
+postcode: "67574"
 city: Osthofen
 street: "Friedrich-Ebert-Straße"
 housenumber: 39

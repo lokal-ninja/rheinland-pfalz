@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.631772700000006
 longitude: 8.3630578
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Kämmererstraße"
 housenumber: 34

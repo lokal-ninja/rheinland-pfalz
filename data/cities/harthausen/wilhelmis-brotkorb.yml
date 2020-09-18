@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2943982
 longitude: 8.3462043
-postcode: 67376
+postcode: "67376"
 city: Harthausen
 street: "Schwegenheimer Straße"
 housenumber: 5

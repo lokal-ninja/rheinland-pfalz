@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.6054131
 longitude: 6.5558477
-postcode: 54439
+postcode: "54439"
 city: Saarburg
 street: "Güterstraße"
 housenumber: 3

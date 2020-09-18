@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.9199447
 longitude: 7.7920752
-postcode: 55444
+postcode: "55444"
 city: Schweppenhausen
 street: "Hof Steyert"
 housenumber: 

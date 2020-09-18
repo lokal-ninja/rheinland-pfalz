@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.620913300000005
 longitude: 7.428541200000001
-postcode: 53577
+postcode: "53577"
 city: Neustadt (Wied)
 street: "Friedenstraße"
 housenumber: 6

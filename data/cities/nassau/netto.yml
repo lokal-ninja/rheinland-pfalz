@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.3128089
 longitude: 7.798523800000001
-postcode: 56377
+postcode: "56377"
 city: Nassau
 street: "Pontchateau-Platz"
 housenumber: 1

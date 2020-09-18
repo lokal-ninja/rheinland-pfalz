@@ -1,12 +1,12 @@
-id: 6125706126
+id: 2613702897
 type: node
 shop: Drogerie
-latitude: 50.329166900000004
-longitude: 7.221410400000001
-postcode: 56727
+latitude: 50.3268192
+longitude: 7.2432737000000005
+postcode: "56727"
 city: Mayen
-street: "Hahnengasse"
-housenumber: 4
-phone: "+49 2651 498623"
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://www.dm.de/"
+street: "Hausener Straße"
+housenumber: 2-6
+phone: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: ""

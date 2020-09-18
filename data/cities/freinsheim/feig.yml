@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.506531800000005
 longitude: 8.2084243
-postcode: 67251
+postcode: "67251"
 city: Freinsheim
 street: "Bahnhofstraße"
 housenumber: 

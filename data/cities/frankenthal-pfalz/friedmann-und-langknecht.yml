@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.5490216
 longitude: 8.346712
-postcode: 67227
+postcode: "67227"
 city: Frankenthal (Pfalz)
 street: "Siemensstraße"
 housenumber: 37a

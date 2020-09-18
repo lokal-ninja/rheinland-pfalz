@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.5605126
 longitude: 8.3238977
-postcode: 67259
+postcode: "67259"
 city: Beindersheim
 street: "Brunnenweg"
 housenumber: 3

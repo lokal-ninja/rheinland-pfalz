@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.774766400000004
 longitude: 7.6129055
-postcode: 55566
+postcode: "55566"
 city: Meddersheim
 street: "Römerstraße"
 housenumber: 10

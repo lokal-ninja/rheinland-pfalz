@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.2654452
 longitude: 8.134608400000001
-postcode: 67483
+postcode: "67483"
 city: Edesheim
 street: "Staatsstraße"
 housenumber: 43

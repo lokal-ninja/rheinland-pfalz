@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.9201422
 longitude: 8.3345663
-postcode: 55299
+postcode: "55299"
 city: Nackenheim
 street: "Mainzer Straße"
 housenumber: 139

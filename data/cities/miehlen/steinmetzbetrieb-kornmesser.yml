@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 50.2169407
 longitude: 7.8359342000000005
-postcode: 56357
+postcode: "56357"
 city: Miehlen
 street: "Nastätter Straße"
 housenumber: 7

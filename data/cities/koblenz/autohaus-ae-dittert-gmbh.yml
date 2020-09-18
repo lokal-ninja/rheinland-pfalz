@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.367713800000004
 longitude: 7.6223618
-postcode: 56077
+postcode: "56077"
 city: Koblenz
 street: "Arenberger Straße"
 housenumber: 54

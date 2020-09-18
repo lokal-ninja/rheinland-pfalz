@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.5394669
 longitude: 7.0890016000000005
-postcode: 53474
+postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
 street: "Walporzheimer Straße"
 housenumber: 11

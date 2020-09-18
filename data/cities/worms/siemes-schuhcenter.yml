@@ -3,10 +3,10 @@ type: node
 shop: Schuhe
 latitude: 49.625771900000004
 longitude: 8.3599405
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Klosterstraße"
 housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 09:00-20:00"
 website: ""

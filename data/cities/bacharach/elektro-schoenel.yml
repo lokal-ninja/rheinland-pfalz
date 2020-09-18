@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.058717
 longitude: 7.7687854000000005
-postcode: 55422
+postcode: "55422"
 city: Bacharach
 street: "Langstraße"
 housenumber: 23

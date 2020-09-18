@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.876632300000004
 longitude: 8.1644725
-postcode: 55291
+postcode: "55291"
 city: Saulheim
 street: "Marie-Curie-Ring"
 housenumber: 4-8

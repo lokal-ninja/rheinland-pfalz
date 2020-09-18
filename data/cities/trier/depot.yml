@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.755709
 longitude: 6.6408465
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Grabenstraße"
 housenumber: 14

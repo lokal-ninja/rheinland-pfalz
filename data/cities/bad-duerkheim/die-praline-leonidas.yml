@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 49.461494300000005
 longitude: 8.1676638
-postcode: 67098
+postcode: "67098"
 city: Bad Dürkheim
 street: "Schloßkirchenpassage"
 housenumber: 1

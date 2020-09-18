@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.006479600000006
 longitude: 8.255307100000001
-postcode: 55118
+postcode: "55118"
 city: Mainz
 street: ""
 housenumber: 70

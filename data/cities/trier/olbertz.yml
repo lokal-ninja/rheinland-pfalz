@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7628884
 longitude: 6.6448337
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Maarstraße"
 housenumber: 36

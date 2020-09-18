@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 49.983881100000005
 longitude: 8.067858600000001
-postcode: 55218
+postcode: "55218"
 city: Ingelheim am Rhein
 street: "Am Langenberg"
 housenumber: 15

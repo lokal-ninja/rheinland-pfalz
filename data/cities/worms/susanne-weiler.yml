@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.644591000000005
 longitude: 8.3477131
-postcode: 67549
+postcode: "67549"
 city: Worms
 street: "Eckenbertstraße"
 housenumber: 22

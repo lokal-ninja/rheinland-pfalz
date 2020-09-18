@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.108145300000004
 longitude: 7.0561366
-postcode: 56825
+postcode: "56825"
 city: Kliding
 street: "Zum Wiesborn"
 housenumber: 1

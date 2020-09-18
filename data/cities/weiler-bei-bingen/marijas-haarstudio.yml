@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.9557907
 longitude: 7.8681299000000005
-postcode: 55413
+postcode: "55413"
 city: Weiler bei Bingen
 street: "An der Graswiese"
 housenumber: 21

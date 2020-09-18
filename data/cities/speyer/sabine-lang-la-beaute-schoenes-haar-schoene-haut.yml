@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.3167884
 longitude: 8.437023700000001
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Schustergasse"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.3589989
 longitude: 8.143321700000001
-postcode: 67433
+postcode: "67433"
 city: Neustadt an der Weinstraße
 street: "Haardter Straße"
 housenumber: 28a

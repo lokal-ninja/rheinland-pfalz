@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 49.445590800000005
 longitude: 8.3492643
-postcode: 67112
+postcode: "67112"
 city: Mutterstadt
 street: "Hillensheimer Straße"
 housenumber: 25

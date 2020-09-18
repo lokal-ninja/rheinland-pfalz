@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.4255161
 longitude: 8.1893481
-postcode: 67147
+postcode: "67147"
 city: Forst an der Weinstraße
 street: "Weinstraße"
 housenumber: 57

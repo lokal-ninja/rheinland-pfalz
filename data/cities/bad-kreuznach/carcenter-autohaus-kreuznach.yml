@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.847945200000005
 longitude: 7.885066500000001
-postcode: 55543
+postcode: "55543"
 city: Bad Kreuznach
 street: "Bosenheimer Straße"
 housenumber: 239

@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 49.7974929
 longitude: 8.3486916
-postcode: 67583
+postcode: "67583"
 city: Guntersblum
 street: "Viertelstraße"
 housenumber: 23

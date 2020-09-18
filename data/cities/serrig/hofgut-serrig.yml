@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.5831906
 longitude: 6.5841573
-postcode: 54455
+postcode: "54455"
 city: Serrig
 street: "Domänensiedlung"
 housenumber: 5

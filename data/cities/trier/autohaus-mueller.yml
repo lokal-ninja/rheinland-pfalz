@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.77555580000001
 longitude: 6.685001700000001
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Ruwerer Straße"
 housenumber: 1B

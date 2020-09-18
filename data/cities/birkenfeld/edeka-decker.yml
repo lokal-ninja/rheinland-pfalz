@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.6478954
 longitude: 7.159347500000001
-postcode: 55765
+postcode: "55765"
 city: Birkenfeld
 street: "Brückener Straße"
 housenumber: 4

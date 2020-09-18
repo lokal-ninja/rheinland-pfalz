@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 49.4088998
 longitude: 7.3759022000000005
-postcode: 66901
+postcode: "66901"
 city: Schönenberg-Kübelberg
 street: "Bahnhofstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.2072791
 longitude: 8.124652300000001
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Hainbachstraße"
 housenumber: 78

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.1092212
 longitude: 6.9621912
-postcode: 54552
+postcode: "54552"
 city: Strotzbüsch
 street: "Im Hofgarten"
 housenumber: 13B

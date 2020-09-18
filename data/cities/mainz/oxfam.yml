@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.995732600000004
 longitude: 8.276673200000001
-postcode: 55116
+postcode: "55116"
 city: Mainz
 street: "Graben"
 housenumber: 2

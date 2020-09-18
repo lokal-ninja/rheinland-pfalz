@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.756255200000005
 longitude: 6.6401422000000005
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Fleischstraße"
 housenumber: 7

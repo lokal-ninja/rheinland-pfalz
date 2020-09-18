@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8373751
 longitude: 8.1137912
-postcode: 55286
+postcode: "55286"
 city: Wörrstadt
 street: "Pariser Straße"
 housenumber: 83

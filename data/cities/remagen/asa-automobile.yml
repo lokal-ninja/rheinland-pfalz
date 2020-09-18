@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.612728600000004
 longitude: 7.209647500000001
-postcode: 53424
+postcode: "53424"
 city: Remagen
 street: "Pfarrer-Sachsse-Straße"
 housenumber: 14

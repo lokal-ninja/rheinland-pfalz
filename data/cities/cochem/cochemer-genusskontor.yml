@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 50.1454086
 longitude: 7.1660751000000005
-postcode: 56812
+postcode: "56812"
 city: Cochem
 street: "Markt"
 housenumber: 7

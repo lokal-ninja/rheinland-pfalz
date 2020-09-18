@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.1740039
 longitude: 7.0827466
-postcode: 56823
+postcode: "56823"
 city: Büchel
 street: "Hauptstraße"
 housenumber: 26

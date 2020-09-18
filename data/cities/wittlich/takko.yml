@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.9823651
 longitude: 6.892845100000001
-postcode: 54516
+postcode: "54516"
 city: Wittlich
 street: "Schloßstraße"
 housenumber: 13

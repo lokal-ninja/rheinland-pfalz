@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsgeräte
 latitude: 49.317453
 longitude: 8.355530400000001
-postcode: 67374
+postcode: "67374"
 city: Hanhoven
 street: "An den Gewerbewiesen"
 housenumber: 17

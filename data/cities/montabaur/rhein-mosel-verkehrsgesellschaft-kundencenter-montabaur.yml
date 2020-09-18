@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 50.4439172
 longitude: 7.8256657
-postcode: 56410
+postcode: "56410"
 city: Montabaur
 street: "Bahnhofsplatz"
 housenumber: 1-3

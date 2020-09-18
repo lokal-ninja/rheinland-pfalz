@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 49.950428200000005
 longitude: 7.910747000000001
-postcode: 55411
+postcode: "55411"
 city: Bingen am Rhein
 street: "Saarlandstraße"
 housenumber: 164

@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 49.741880300000005
 longitude: 6.6331443000000005
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Matthiasstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1990087
 longitude: 7.856654300000001
-postcode: 56355
+postcode: "56355"
 city: Nastätten
 street: "Rheinstraße"
 housenumber: 5-7

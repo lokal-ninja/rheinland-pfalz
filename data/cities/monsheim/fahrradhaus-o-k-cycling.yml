@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.639635600000005
 longitude: 8.202493
-postcode: 67590
+postcode: "67590"
 city: Monsheim
 street: "Nieder-Flörsheimer Straße"
 housenumber: 8

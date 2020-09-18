@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.0810097
 longitude: 8.1991052
-postcode: 76870
+postcode: "76870"
 city: Kandel
 street: "Sommerstraße"
 housenumber: 

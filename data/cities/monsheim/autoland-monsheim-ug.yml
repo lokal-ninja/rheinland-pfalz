@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.629912000000004
 longitude: 8.2021683
-postcode: 67590
+postcode: "67590"
 city: Monsheim
 street: "Carl-Benz-Straße"
 housenumber: 3

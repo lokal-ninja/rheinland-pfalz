@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.107508100000004
 longitude: 8.0130499
-postcode: 76889
+postcode: "76889"
 city: Pleisweiler-Oberhofen
 street: "Im Weidfeld"
 housenumber: 8

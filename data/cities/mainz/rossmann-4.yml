@@ -1,12 +1,12 @@
 id: 4625122743
 type: node
 shop: Drogerie
-latitude: 50.02384970000001
-longitude: 8.2212624
-postcode: 55120
+latitude: 50.0239586
+longitude: 8.221343000000001
+postcode: "55120"
 city: Mainz
 street: "Alte Markthalle"
-housenumber: 2
-phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
-website: ""
+housenumber: 4
+phone: "+49 6131 6170531"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+website: "https://www.rossmann.de/de/filialen/rheinland-pfalz/mainz/alte-markthalle-4.html"

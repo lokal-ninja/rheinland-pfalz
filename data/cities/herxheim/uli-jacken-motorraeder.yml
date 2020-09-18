@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 49.139131500000005
 longitude: 8.222665600000001
-postcode: 76863
+postcode: "76863"
 city: Herxheim
 street: "Siedlungstraße"
 housenumber: 4

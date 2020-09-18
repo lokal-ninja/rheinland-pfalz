@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.6161
 longitude: 7.332599900000001
-postcode: 
+postcode: ""
 city: Baumholder
 street: "Kennedyallee"
 housenumber: 24

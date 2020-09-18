@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5981059
 longitude: 7.609912100000001
-postcode: 56305
+postcode: "56305"
 city: Puderbach
 street: "Im Bruch"
 housenumber: 1

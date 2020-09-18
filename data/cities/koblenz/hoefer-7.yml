@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.344020300000004
 longitude: 7.587903900000001
-postcode: 56068
+postcode: "56068"
 city: Koblenz
 street: "Hohenzollernstraße"
 housenumber: 132

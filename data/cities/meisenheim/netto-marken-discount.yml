@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.715527300000005
 longitude: 7.664445400000001
-postcode: 55590
+postcode: "55590"
 city: Meisenheim
 street: "Im Briel"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 49.736865200000004
 longitude: 6.6140786
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Luxemburger Straße"
 housenumber: 201

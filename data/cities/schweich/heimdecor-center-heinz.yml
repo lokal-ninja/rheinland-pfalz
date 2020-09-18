@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.820227300000006
 longitude: 6.745018900000001
-postcode: 54338
+postcode: "54338"
 city: Schweich
 street: "In den Schlimmfuhren"
 housenumber: 4

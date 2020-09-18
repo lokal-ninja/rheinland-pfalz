@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.2138549
 longitude: 7.5967406
-postcode: 66953
+postcode: "66953"
 city: Pirmasens
 street: "Zweibrücker Straße"
 housenumber: 149

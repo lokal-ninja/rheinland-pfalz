@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.0064329
 longitude: 8.2839712
-postcode: 55252
+postcode: "55252"
 city: Wiesbaden
 street: "Philippsring"
 housenumber: 2

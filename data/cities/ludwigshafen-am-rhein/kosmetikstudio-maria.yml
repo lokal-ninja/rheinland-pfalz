@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.453347
 longitude: 8.376251400000001
-postcode: 67067
+postcode: "67067"
 city: Ludwigshafen am Rhein
 street: "Kaiserstraße"
 housenumber: 25

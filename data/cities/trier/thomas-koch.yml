@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.73972070000001
 longitude: 6.6146213000000005
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Ottostraße"
 housenumber: 27

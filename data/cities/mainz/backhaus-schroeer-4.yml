@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.9864139
 longitude: 8.2877256
-postcode: 55131
+postcode: "55131"
 city: Mainz
 street: "Heinrich-von-Gagern-Straße"
 housenumber: 26

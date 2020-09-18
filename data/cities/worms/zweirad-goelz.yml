@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.6419264
 longitude: 8.3646116
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Bensheimer Straße"
 housenumber: 18

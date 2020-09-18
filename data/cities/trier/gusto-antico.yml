@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.7531277
 longitude: 6.649776800000001
-postcode: 54295
+postcode: "54295"
 city: Trier
 street: "Gartenfeldstraße"
 housenumber: 23

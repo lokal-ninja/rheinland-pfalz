@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 49.7602393
 longitude: 6.657295100000001
-postcode: 54295
+postcode: "54295"
 city: Trier
 street: "Schönbornstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.998999500000004
 longitude: 8.2681947
-postcode: 55116
+postcode: "55116"
 city: Mainz
 street: "Große Langgasse"
 housenumber: 1a

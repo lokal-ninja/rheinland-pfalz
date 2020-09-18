@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.205038200000004
 longitude: 8.1308728
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Horstring"
 housenumber: 18a

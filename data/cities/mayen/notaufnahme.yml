@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.32889410000001
 longitude: 7.222366200000001
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "Marktstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.1988764
 longitude: 8.2065336
-postcode: 76877
+postcode: "76877"
 city: Offenbach an der Queich
 street: "Interpark"
 housenumber: 1

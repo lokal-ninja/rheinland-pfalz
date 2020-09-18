@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 49.9997076
 longitude: 8.275285700000001
-postcode: 55116
+postcode: "55116"
 city: Mainz
 street: "Liebfrauenplatz"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Sa 09:00-17:00; Su 11:00-17:00"
 website: "https://www.gutenberg-shop.de/"

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.611203800000006
 longitude: 7.4810669
-postcode: 57632
+postcode: "57632"
 city: Peterslahr
 street: "Am Menzenberg"
 housenumber: 5a

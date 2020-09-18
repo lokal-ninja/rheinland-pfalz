@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.8241023
 longitude: 6.896187100000001
-postcode: 54349
+postcode: "54349"
 city: Trittenheim
 street: "Ergeneschstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.899658
 longitude: 8.0294088
-postcode: 55437
+postcode: "55437"
 city: Ober-Hilbersheim
 street: "Kirchgasse"
 housenumber: 2

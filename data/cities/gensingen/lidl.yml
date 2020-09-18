@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 49.9048711
 longitude: 7.9262357
-postcode: 55457
+postcode: "55457"
 city: Gensingen
-street: ""
-housenumber: 
+street: "Am Kieselberg"
+housenumber: 8
 phone: ""
 opening_hours: ""
 website: ""

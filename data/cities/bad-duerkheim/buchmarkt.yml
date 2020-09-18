@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.4606671
 longitude: 8.167206100000001
-postcode: 67098
+postcode: "67098"
 city: Bad Dürkheim
 street: "Römerstraße"
 housenumber: 8

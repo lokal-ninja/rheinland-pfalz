@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.966694700000005
 longitude: 8.269707200000001
-postcode: 55129
+postcode: "55129"
 city: Mainz
 street: "Rheinhessenstraße"
 housenumber: 15

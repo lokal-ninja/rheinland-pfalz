@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.4652436
 longitude: 8.419555
-postcode: 67065
+postcode: "67065"
 city: Ludwigshafen am Rhein
 street: "Bruchwiesenstraße"
 housenumber: 30

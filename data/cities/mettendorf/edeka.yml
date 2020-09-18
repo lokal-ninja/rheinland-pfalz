@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9627793
 longitude: 6.322206400000001
-postcode: 54675
+postcode: "54675"
 city: Mettendorf
 street: "Gewerbegebiet"
 housenumber: 1

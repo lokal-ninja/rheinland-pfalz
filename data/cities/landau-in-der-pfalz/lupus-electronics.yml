@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 49.191986
 longitude: 8.1404903
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Otto-Hahn-Straße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Angeln
 latitude: 49.645059700000004
 longitude: 8.367202800000001
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Petrus-Dorn-Straße"
 housenumber: 28a

@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 50.143598100000006
 longitude: 7.0767329000000005
-postcode: 56825
+postcode: "56825"
 city: Weiler
 street: "Neustraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 49.9671364
 longitude: 8.239529300000001
-postcode: 55128
+postcode: "55128"
 city: Mainz
 street: "Am Schleifweg"
 housenumber: 7

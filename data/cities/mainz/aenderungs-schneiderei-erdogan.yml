@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 49.989455500000005
 longitude: 8.260756
-postcode: 55131
+postcode: "55131"
 city: Mainz
 street: "Schillstraße"
 housenumber: 15a

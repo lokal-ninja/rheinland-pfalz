@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6764619
 longitude: 7.782389800000001
-postcode: 57629
+postcode: "57629"
 city: Müschenbach
 street: "Nisterfeld"
 housenumber: 13

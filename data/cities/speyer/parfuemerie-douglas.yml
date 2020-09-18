@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.3173578
 longitude: 8.4353745
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Maximilianstraße"
 housenumber: 33

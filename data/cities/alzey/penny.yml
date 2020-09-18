@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7467777
 longitude: 8.1060403
-postcode: 55232
+postcode: "55232"
 city: Alzey
 street: "Bahnhofstraße"
 housenumber: 44

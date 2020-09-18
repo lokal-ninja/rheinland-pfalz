@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4662773
 longitude: 8.4315832
-postcode: 67065
+postcode: "67065"
 city: Ludwigshafen am Rhein
 street: "Martin-Greif-Straße"
 housenumber: 7

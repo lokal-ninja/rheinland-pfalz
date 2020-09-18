@@ -3,10 +3,10 @@ type: way
 shop: Wein
 latitude: 49.931346500000004
 longitude: 7.9955429
-postcode: 55435
+postcode: "55435"
 city: Gau-Algesheim
-street: ""
+street: "Laurenziberg"
 housenumber: 14
-phone: ""
+phone: "+49 6725 23 31"
 opening_hours: ""
 website: "http://www.weingut-teschke.de"

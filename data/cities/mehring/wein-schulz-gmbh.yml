@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.794475000000006
 longitude: 6.8370549
-postcode: 54346
+postcode: "54346"
 city: Mehring
 street: "Wiesenflurweg"
 housenumber: 19

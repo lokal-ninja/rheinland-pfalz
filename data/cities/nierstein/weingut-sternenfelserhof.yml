@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.8732592
 longitude: 8.3356043
-postcode: 55283
+postcode: "55283"
 city: Nierstein
 street: "Oberdorfstraße"
 housenumber: 16

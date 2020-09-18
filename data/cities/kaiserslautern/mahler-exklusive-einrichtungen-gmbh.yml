@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.465284800000006
 longitude: 7.766090200000001
-postcode: 67659
+postcode: "67659"
 city: Kaiserslautern
 street: "Bartholomäusring"
 housenumber: 16

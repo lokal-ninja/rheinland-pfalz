@@ -3,10 +3,10 @@ type: node
 shop: Schuhe
 latitude: 50.0008573
 longitude: 8.2710346
-postcode: 55116
+postcode: "55116"
 city: Mainz
 street: "Stadthausstraße"
 housenumber: 16
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 10:00-18:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.7506361
 longitude: 6.6200273
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Eurener Straße"
 housenumber: 13a

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.1496538
 longitude: 7.778619600000001
-postcode: 66994
+postcode: "66994"
 city: Dahn
 street: "Hasenbergstraße"
 housenumber: 9

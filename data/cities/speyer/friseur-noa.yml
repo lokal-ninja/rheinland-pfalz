@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.347577400000006
 longitude: 8.4249781
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Weißdornweg"
 housenumber: 6

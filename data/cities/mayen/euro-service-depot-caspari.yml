@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 50.330629800000004
 longitude: 7.223454800000001
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "An der Stadtmauer"
 housenumber: 4-6

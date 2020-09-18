@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.312671800000004
 longitude: 8.4378469
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "St.-German-Straße"
 housenumber: 8

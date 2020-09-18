@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.985416400000005
 longitude: 6.8874564000000005
-postcode: 54516
+postcode: "54516"
 city: Wittlich
 street: "Kirchstraße"
 housenumber: 

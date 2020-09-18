@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.800309500000004
 longitude: 7.5912851
-postcode: 55569
+postcode: "55569"
 city: Monzingen
 street: "Hauptstraße"
 housenumber: 67

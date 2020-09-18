@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.209581400000005
 longitude: 8.0464567
-postcode: 76833
+postcode: "76833"
 city: Siebeldingen
 street: "Mühlweg"
 housenumber: 8

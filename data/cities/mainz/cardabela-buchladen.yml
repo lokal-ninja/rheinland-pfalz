@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.006191900000005
 longitude: 8.2614534
-postcode: 55118
+postcode: "55118"
 city: Mainz
 street: "Frauenlobstraße"
 housenumber: 

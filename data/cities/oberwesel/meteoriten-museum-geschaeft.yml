@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.108374000000005
 longitude: 7.7247868
-postcode: 55430
+postcode: "55430"
 city: Oberwesel
 street: "Oberstraße"
 housenumber: 10a

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.0057277
 longitude: 8.2590236
-postcode: 55118
+postcode: "55118"
 city: Mainz
 street: "Kurfürstenstraße"
 housenumber: 7

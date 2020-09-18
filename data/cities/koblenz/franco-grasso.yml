@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.356214300000005
 longitude: 7.5700019
-postcode: 56073
+postcode: "56073"
 city: Koblenz
 street: "Ferdinand-Sauerbruch-Straße"
 housenumber: 36

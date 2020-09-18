@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.6112185
 longitude: 8.3574069
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Stauffenbergstraße"
 housenumber: 36

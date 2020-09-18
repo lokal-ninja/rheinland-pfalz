@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.4410831
 longitude: 7.766497
-postcode: 67655
+postcode: "67655"
 city: Kaiserslautern
 street: "Richard-Wagner-Straße"
 housenumber: 35

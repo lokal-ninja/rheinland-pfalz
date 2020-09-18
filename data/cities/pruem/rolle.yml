@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.2040486
 longitude: 6.4246746
-postcode: 54595
+postcode: "54595"
 city: Prüm
 street: "Gerberweg"
 housenumber: 47

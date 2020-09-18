@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.7208276
 longitude: 6.5945526
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Monaiser Straße"
 housenumber: 11b

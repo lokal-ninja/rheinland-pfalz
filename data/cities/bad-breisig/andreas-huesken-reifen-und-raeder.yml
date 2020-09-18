@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.5136255
 longitude: 7.2925491000000005
-postcode: 53498
+postcode: "53498"
 city: Bad Breisig
 street: "Gartenstraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.6975728
 longitude: 8.2029159
-postcode: 67598
+postcode: "67598"
 city: Gundersheim
 street: "An der Weidenmühle"
 housenumber: 1

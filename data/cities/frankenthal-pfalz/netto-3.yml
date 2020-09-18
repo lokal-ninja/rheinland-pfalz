@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.5388813
 longitude: 8.3502364
-postcode: 67227
+postcode: "67227"
 city: Frankenthal (Pfalz)
 street: "Eisenbahnstraße"
 housenumber: 23

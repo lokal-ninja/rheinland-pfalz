@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.948269
 longitude: 7.7878373000000005
-postcode: 55442
+postcode: "55442"
 city: Stromberg
 street: "Königsberger Straße"
 housenumber: 1

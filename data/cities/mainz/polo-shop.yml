@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.9611579
 longitude: 8.2673614
-postcode: 55129
+postcode: "55129"
 city: Mainz
 street: "Robert-Koch-Straße"
 housenumber: 12

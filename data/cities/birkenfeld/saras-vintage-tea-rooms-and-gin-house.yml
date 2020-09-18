@@ -3,10 +3,10 @@ type: node
 shop: Tee
 latitude: 49.6473968
 longitude: 7.1683330000000005
-postcode: 55765
+postcode: "55765"
 city: Birkenfeld
 street: "Hauptstraße"
 housenumber: 9
 phone: ""
-opening_hours: "We-Su 08:30+"
+opening_hours: "Mo, Tu, Th 09:00-16:00; Fr, Sa 09:00-12:00, 19:00-00:00; Su 09:00-12:00; we off"
 website: ""

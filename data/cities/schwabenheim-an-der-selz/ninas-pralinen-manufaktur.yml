@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 49.932084200000006
 longitude: 8.098909
-postcode: 55270
+postcode: "55270"
 city: Schwabenheim an der Selz
 street: "Schulstraße"
 housenumber: 11

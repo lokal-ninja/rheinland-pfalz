@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.9425846
 longitude: 7.895698400000001
-postcode: 55424
+postcode: "55424"
 city: Münster-Sarmsheim
 street: "Rheinstraße"
 housenumber: 105

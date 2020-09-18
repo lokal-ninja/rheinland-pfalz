@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.7452021
 longitude: 6.634704
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Saarstraße"
 housenumber: 68

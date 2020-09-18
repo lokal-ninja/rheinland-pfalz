@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.984279400000005
 longitude: 7.521450700000001
-postcode: 55469
+postcode: "55469"
 city: Simmern
 street: "Marktstraße"
 housenumber: 63

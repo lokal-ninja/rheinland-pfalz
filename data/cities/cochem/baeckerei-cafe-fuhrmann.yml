@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1380381
 longitude: 7.178954200000001
-postcode: 56812
+postcode: "56812"
 city: Cochem
 street: "Ellerer Straße"
 housenumber: 1

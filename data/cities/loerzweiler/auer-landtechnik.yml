@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.8986661
 longitude: 8.2927718
-postcode: 55296
+postcode: "55296"
 city: Lörzweiler
 street: "Mainzer Straße"
 housenumber: 12

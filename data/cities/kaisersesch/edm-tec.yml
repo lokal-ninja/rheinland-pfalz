@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 50.2358835
 longitude: 7.1504526
-postcode: 56759
+postcode: "56759"
 city: Kaisersesch
 street: "Wilhelm-Conrad-Röntgen-Straße"
 housenumber: 8

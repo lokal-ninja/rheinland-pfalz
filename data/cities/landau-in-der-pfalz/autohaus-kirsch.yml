@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.2092212
 longitude: 8.1454629
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Horstring"
 housenumber: 4

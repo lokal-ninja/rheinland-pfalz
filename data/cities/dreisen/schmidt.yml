@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 49.602228600000004
 longitude: 8.013771
-postcode: 67816
+postcode: "67816"
 city: Dreisen
 street: "Bahnhofstraße"
 housenumber: 3
-phone: ""
+phone: "+49 6357 96344"
 opening_hours: ""
-website: ""
+website: "https://www.baeckerei-w-schmidt.de/"

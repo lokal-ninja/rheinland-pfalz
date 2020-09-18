@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.981106200000006
 longitude: 8.2441144
-postcode: 55128
+postcode: "55128"
 city: Mainz
 street: "Wilhelmsstraße"
 housenumber: 2

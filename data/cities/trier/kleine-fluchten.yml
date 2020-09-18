@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 49.759300100000004
 longitude: 6.641952600000001
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Margaretengäßchen"
 housenumber: 4

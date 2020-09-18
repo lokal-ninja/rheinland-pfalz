@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.845041800000004
 longitude: 7.8214604
-postcode: 55593
+postcode: "55593"
 city: Rüdesheim
 street: "Industriestraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.784019
 longitude: 7.739391
-postcode: 55585
+postcode: "55585"
 city: Duchroth
 street: "Schloßstraße"
 housenumber: 1

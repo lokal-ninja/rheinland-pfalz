@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.081945000000005
 longitude: 8.1962854
-postcode: 76870
+postcode: "76870"
 city: Kandel
 street: "Hauptstraße"
 housenumber: 92

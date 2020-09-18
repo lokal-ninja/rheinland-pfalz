@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.4613839
 longitude: 8.1679188
-postcode: 67098
+postcode: "67098"
 city: Bad Dürkheim
 street: "Weinstraße Nord"
 housenumber: 2

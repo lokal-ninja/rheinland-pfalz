@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.207230200000005
 longitude: 6.415728700000001
-postcode: 54595
+postcode: "54595"
 city: Prüm
 street: "Kalvarienbergstraße"
 housenumber: 37-41

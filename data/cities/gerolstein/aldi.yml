@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.2229973
 longitude: 6.647930400000001
-postcode: 54568
+postcode: "54568"
 city: Gerolstein
 street: "Sarresdorfer Straße"
 housenumber: 65

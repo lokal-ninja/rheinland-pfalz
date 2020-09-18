@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9210049
 longitude: 7.0653256
-postcode: 54470
+postcode: "54470"
 city: Bernkastel-Kues
 street: "Cusanusstraße"
 housenumber: 53

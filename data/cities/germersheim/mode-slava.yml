@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.2195727
 longitude: 8.3713774
-postcode: 76726
+postcode: "76726"
 city: Germersheim
 street: "Sandstraße"
 housenumber: 16

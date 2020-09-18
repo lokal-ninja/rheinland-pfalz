@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.448205200000004
 longitude: 7.8472752
-postcode: 56412
+postcode: "56412"
 city: Heiligenroth
 street: "Industriestraße"
 housenumber: 

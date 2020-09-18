@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.4779215
 longitude: 7.789017500000001
-postcode: 56422
+postcode: "56422"
 city: Wirges
 street: "Auf der Klaus"
 housenumber: 10-12

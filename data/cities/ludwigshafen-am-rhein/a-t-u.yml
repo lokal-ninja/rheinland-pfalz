@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4897514
 longitude: 8.3942767
-postcode: 67063
+postcode: "67063"
 city: Ludwigshafen am Rhein
 street: "Industriestraße"
 housenumber: 119

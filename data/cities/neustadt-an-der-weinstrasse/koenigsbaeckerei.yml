@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.3370666
 longitude: 8.2057304
-postcode: 67435
+postcode: "67435"
 city: Neustadt an der Weinstraße
 street: "Lilienthalstraße"
 housenumber: 46

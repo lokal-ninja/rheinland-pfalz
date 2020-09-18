@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.001806800000004
 longitude: 8.270966900000001
-postcode: 55116
+postcode: "55116"
 city: Mainz
 street: "Schusterstraße"
 housenumber: 41-45

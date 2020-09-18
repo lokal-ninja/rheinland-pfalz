@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 50.4316953
 longitude: 7.666440700000001
-postcode: 56203
+postcode: "56203"
 city: Höhr-Grenzhausen
 street: "Rheinstraße"
 housenumber: 41

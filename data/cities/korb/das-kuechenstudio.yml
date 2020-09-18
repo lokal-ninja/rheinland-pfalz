@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 50.6551132
 longitude: 7.8890402
-postcode: 57648
+postcode: "57648"
 city: Korb
 street: "Grenzweg"
 housenumber: 3

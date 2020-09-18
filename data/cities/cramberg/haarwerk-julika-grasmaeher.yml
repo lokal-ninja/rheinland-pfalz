@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.3413297
 longitude: 7.949171600000001
-postcode: 65558
+postcode: "65558"
 city: Cramberg
 street: "Hauptstraße"
 housenumber: 45a

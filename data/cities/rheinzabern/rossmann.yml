@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.123138000000004
 longitude: 8.276017600000001
-postcode: 76764
+postcode: "76764"
 city: Rheinzabern
 street: "Neun-Morgen"
 housenumber: 17

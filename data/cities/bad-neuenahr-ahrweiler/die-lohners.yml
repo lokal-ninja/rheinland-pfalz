@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5391399
 longitude: 7.0871069
-postcode: 53474
+postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
 street: "Am Silberberg"
 housenumber: 2

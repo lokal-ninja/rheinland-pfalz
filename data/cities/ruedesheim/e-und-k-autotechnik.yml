@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.8467295
 longitude: 7.8253963
-postcode: 55593
+postcode: "55593"
 city: Rüdesheim
 street: "Am Wiesenberg"
 housenumber: 4

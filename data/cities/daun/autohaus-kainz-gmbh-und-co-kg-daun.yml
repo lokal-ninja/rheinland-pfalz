@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.1913211
 longitude: 6.804114800000001
-postcode: 54550
+postcode: "54550"
 city: Daun
 street: "Hamsterweg"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.143285000000006
 longitude: 7.1249007
-postcode: 56814
+postcode: "56814"
 city: Faid
 street: "Vor den Birken"
 housenumber: 4

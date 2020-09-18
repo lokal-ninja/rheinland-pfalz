@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.9768588
 longitude: 8.279243000000001
-postcode: 55131
+postcode: "55131"
 city: Mainz
 street: "Hechtsheimer Straße"
 housenumber: 21

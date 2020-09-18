@@ -1,6 +1,6 @@
 ---
 title: Mertert
 url: /mertert/
-latitude: 49.700302
-longitude: 6.4819417
+latitude: 49.7002005
+longitude: 6.4815968
 ---

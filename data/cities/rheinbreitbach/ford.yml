@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.6240024
 longitude: 7.229080400000001
-postcode: 53619
+postcode: "53619"
 city: Rheinbreitbach
 street: "Im Kettenfeld"
 housenumber: 1

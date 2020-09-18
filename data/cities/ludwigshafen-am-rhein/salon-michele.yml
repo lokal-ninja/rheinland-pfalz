@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.4688663
 longitude: 8.4452955
-postcode: 67061
+postcode: "67061"
 city: Ludwigshafen am Rhein
 street: "Mundenheimer Straße"
 housenumber: 150

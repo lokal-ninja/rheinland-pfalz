@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.229734900000004
 longitude: 7.827128500000001
-postcode: 56357
+postcode: "56357"
 city: Miehlen
 street: "Marienfelser Straße"
 housenumber: 28

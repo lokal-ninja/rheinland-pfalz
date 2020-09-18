@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.8245232
 longitude: 6.749678
-postcode: 54338
+postcode: "54338"
 city: Schweich
 street: "Bahnhofstraße"
 housenumber: 25

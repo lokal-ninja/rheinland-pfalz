@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.1498726
 longitude: 8.2311911
-postcode: 76863
+postcode: "76863"
 city: Herxheim
 street: "Im Riegel"
 housenumber: 2

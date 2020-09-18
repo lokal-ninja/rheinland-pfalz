@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.846771200000006
 longitude: 8.3605528
-postcode: 55276
+postcode: "55276"
 city: Oppenheim
 street: "In den Weingärten"
 housenumber: 80

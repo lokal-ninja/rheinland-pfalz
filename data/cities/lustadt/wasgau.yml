@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2449358
 longitude: 8.275498
-postcode: 67363
+postcode: "67363"
 city: Lustadt
 street: "Untere Hauptstraße"
 housenumber: 114

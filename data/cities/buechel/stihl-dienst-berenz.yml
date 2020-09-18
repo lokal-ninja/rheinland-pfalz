@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 50.174691700000004
 longitude: 7.0898607
-postcode: 56823
+postcode: "56823"
 city: Büchel
 street: "Auf der Kunn"
 housenumber: 29

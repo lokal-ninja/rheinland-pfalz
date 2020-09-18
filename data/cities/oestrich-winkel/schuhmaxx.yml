@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.008583400000006
 longitude: 8.037616
-postcode: 65375
+postcode: "65375"
 city: Oestrich-Winkel
 street: "Untere Bein"
 housenumber: 5

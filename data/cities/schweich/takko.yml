@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.820723
 longitude: 6.7410744000000005
-postcode: 54338
+postcode: "54338"
 city: Schweich
 street: "Im Ermesgraben"
 housenumber: 1f

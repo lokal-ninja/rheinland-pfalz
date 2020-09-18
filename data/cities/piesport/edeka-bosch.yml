@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.881749400000004
 longitude: 6.918157600000001
-postcode: 54498
+postcode: "54498"
 city: Piesport
 street: "Im Steinerling"
 housenumber: 2

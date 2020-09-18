@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.086753
 longitude: 8.210678600000001
-postcode: 76870
+postcode: "76870"
 city: Kandel
 street: "Nansenstraße"
 housenumber: 2

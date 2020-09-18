@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.3321644
 longitude: 7.7040630000000005
-postcode: 56130
+postcode: "56130"
 city: Bad Ems
 street: "Nieverner Straße"
 housenumber: 13A

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.214122700000004
 longitude: 7.594990200000001
-postcode: 66953
+postcode: "66953"
 city: Pirmasens
 street: "Turnstraße"
 housenumber: 71

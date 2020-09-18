@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.3606415
 longitude: 7.5972344000000005
-postcode: 56068
+postcode: "56068"
 city: Koblenz
 street: "Entenpfuhl"
 housenumber: 29

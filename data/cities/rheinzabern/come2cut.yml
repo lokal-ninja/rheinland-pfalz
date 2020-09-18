@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.116078900000005
 longitude: 8.278963300000001
-postcode: 76764
+postcode: "76764"
 city: Rheinzabern
 street: "Florentinusplatz"
 housenumber: 7

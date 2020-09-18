@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 49.960169500000006
 longitude: 8.228453
-postcode: 55127
+postcode: "55127"
 city: Mainz
 street: "Im Borner Grund"
 housenumber: 51

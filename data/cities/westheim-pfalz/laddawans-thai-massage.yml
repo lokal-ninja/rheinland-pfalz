@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.2386817
 longitude: 8.3211545
-postcode: 67368
+postcode: "67368"
 city: Westheim (Pfalz)
 street: "Akazienstraße"
 housenumber: 8

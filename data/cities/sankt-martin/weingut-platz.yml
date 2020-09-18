@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.299307000000006
 longitude: 8.100064
-postcode: 67487
+postcode: "67487"
 city: Sankt Martin
 street: "Wooggasse"
 housenumber: 1

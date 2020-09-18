@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.1884274
 longitude: 8.1367347
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Albert-Einstein-Straße"
 housenumber: 17

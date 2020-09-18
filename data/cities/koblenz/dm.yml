@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.357773300000005
 longitude: 7.592122700000001
-postcode: 56068
+postcode: "56068"
 city: Koblenz
 street: "Löhrstraße"
 housenumber: 70-72

@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 49.758686700000005
 longitude: 6.639145900000001
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Walramsneustraße"
 housenumber: 1

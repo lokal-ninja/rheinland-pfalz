@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.748111200000004
 longitude: 7.821897000000001
-postcode: 57580
+postcode: "57580"
 city: Gebhardshain
 street: "Wissener Straße"
 housenumber: 6-8

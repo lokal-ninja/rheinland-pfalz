@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.0086523
 longitude: 8.2471133
-postcode: 55122
+postcode: "55122"
 city: Mainz
 street: "Mombacher Straße"
 housenumber: 42

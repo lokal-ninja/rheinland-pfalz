@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.1970424
 longitude: 8.1118279
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Marktstraße"
 housenumber: 70

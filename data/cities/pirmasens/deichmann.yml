@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.193615
 longitude: 7.588159
-postcode: 66954
+postcode: "66954"
 city: Pirmasens
 street: "Arnulfstraße"
 housenumber: 74

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.9757624
 longitude: 8.0661701
-postcode: 55218
+postcode: "55218"
 city: Ingelheim am Rhein
 street: "Mainzer Straße"
 housenumber: 26

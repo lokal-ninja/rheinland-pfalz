@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.010267400000004
 longitude: 8.2659003
-postcode: 55118
+postcode: "55118"
 city: Mainz
 street: "Rheinallee"
 housenumber: 24-26

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.7205968
 longitude: 7.300347400000001
-postcode: 55743
+postcode: "55743"
 city: Idar-Oberstein
 street: "Hauptstraße"
 housenumber: 73

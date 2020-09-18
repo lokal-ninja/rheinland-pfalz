@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.5478528
 longitude: 7.6427076000000005
-postcode: 56269
+postcode: "56269"
 city: Dierdorf
 street: "Königsberger Straße"
 housenumber: 8

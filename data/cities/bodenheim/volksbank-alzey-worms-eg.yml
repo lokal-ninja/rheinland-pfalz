@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.9298165
 longitude: 8.306836200000001
-postcode: 55294
+postcode: "55294"
 city: Bodenheim
 street: "Jahnstraße"
 housenumber: 6-8

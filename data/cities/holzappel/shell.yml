@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.3542939
 longitude: 7.8985117
-postcode: 56379
+postcode: "56379"
 city: Holzappel
 street: "Hauptstraße"
 housenumber: 104

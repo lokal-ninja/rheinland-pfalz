@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.9856612
 longitude: 6.7020983
-postcode: 54529
+postcode: "54529"
 city: Spangdahlem
 street: "Maxwell Boulevard"
 housenumber: 144

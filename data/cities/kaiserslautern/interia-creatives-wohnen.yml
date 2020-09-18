@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.4449729
 longitude: 7.731186
-postcode: 67663
+postcode: "67663"
 city: Kaiserslautern
 street: "Merkurstraße"
 housenumber: 4

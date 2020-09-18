@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.3580928
 longitude: 7.595901100000001
-postcode: 56068
+postcode: "56068"
 city: Koblenz
 street: "Zentralplatz"
 housenumber: 2

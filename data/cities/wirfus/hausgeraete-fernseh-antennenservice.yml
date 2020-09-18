@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.199697
 longitude: 7.2058268000000005
-postcode: 56814
+postcode: "56814"
 city: Wirfus
 street: "Hauptstraße"
 housenumber: 19

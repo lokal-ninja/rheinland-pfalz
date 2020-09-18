@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.194039200000006
 longitude: 7.8479336
-postcode: 76846
+postcode: "76846"
 city: Hauenstein
 street: "Bruchweg"
 housenumber: 4

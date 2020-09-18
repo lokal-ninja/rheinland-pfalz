@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.6787659
 longitude: 6.952119300000001
-postcode: 54411
+postcode: "54411"
 city: Hermeskeil
 street: "Römerstraße"
 housenumber: 

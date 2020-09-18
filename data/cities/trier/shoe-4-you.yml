@@ -3,10 +3,10 @@ type: node
 shop: Schuhe
 latitude: 49.771000900000004
 longitude: 6.654803
-postcode: 
+postcode: ""
 city: Trier
 street: "An der Hospitalsmühle"
-housenumber: 14
+housenumber: 16
 phone: ""
 opening_hours: ""
 website: ""

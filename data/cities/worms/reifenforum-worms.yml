@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 49.6180791
 longitude: 8.355579200000001
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Cornelius-Heyl-Straße"
 housenumber: 59 A

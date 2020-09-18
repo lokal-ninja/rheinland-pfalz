@@ -1,12 +1,12 @@
-id: 24334592
-type: way
+id: 7478007856
+type: node
 shop: Supermarkt
-latitude: 49.976271700000005
-longitude: 8.2846755
-postcode: 55130
+latitude: 50.023704
+longitude: 8.2218128
+postcode: "55120"
 city: Mainz
-street: "Heiligkreuzweg"
-housenumber: 120a
+street: "Alte Markthalle"
+housenumber: 2
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+website: "https://www.lidl.de/de/filialsuche/"

@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 50.070554200000004
 longitude: 7.036226200000001
-postcode: 56864
+postcode: "56864"
 city: Bad Bertrich
 street: "Kurfürstenstraße"
 housenumber: 69

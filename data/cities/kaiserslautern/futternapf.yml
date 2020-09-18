@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 49.4438448
 longitude: 7.7181164
-postcode: 67663
+postcode: "67663"
 city: Kaiserslautern
 street: "Denisstraße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.358699200000004
 longitude: 7.5922048
-postcode: 56068
+postcode: "56068"
 city: Koblenz
 street: "Hohenfelder Straße"
 housenumber: 17-19

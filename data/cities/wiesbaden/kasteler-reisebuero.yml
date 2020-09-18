@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.0071771
 longitude: 8.285221
-postcode: 55252
+postcode: "55252"
 city: Wiesbaden
 street: "Kloberstraße"
 housenumber: 

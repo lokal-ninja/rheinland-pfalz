@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.4371603
 longitude: 7.8286461
-postcode: 56410
+postcode: "56410"
 city: Montabaur
 street: "Bahnhofstraße"
 housenumber: 11

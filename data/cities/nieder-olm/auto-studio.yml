@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.9122184
 longitude: 8.1862013
-postcode: 55268
+postcode: "55268"
 city: Nieder-Olm
 street: "Am Hahnenbusch"
 housenumber: 14a

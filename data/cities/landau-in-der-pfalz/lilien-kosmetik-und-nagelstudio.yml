@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.2107314
 longitude: 8.1436416
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Oberwiesenstraße"
 housenumber: 3

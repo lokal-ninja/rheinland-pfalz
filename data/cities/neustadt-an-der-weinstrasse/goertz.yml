@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.354724600000004
 longitude: 8.151893000000001
-postcode: 67433
+postcode: "67433"
 city: Neustadt an der Weinstraße
 street: "Martin-Luther-Straße"
 housenumber: 63

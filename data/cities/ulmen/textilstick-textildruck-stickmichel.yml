@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 50.2099393
 longitude: 6.9806369
-postcode: 56766
+postcode: "56766"
 city: Ulmen
 street: "In der Lay"
 housenumber: 8

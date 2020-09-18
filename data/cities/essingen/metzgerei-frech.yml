@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.235875300000004
 longitude: 8.163171700000001
-postcode: 76879
+postcode: "76879"
 city: Essingen
 street: "Raiffeisenstraße"
 housenumber: 2

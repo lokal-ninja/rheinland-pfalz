@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.981964700000006
 longitude: 8.244531700000001
-postcode: 55128
+postcode: "55128"
 city: Mainz
 street: "Bahnstraße"
 housenumber: 2

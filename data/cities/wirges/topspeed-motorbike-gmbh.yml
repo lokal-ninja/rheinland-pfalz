@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 50.4754487
 longitude: 7.7897081
-postcode: 56422
+postcode: "56422"
 city: Wirges
 street: "Christian-Heibel-Straße"
 housenumber: 51

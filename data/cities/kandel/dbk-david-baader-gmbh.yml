@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.082753600000004
 longitude: 8.2059634
-postcode: 76870
+postcode: "76870"
 city: Kandel
 street: "Josef-David-Straße"
 housenumber: 1

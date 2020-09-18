@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.2735168
 longitude: 7.8352969
-postcode: 56379
+postcode: "56379"
 city: Singhofen
 street: "Hauptstraße"
 housenumber: 54

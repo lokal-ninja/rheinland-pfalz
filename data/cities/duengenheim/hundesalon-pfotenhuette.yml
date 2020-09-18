@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 50.259542800000006
 longitude: 7.1703793000000005
-postcode: 56761
+postcode: "56761"
 city: Düngenheim
 street: "Beilsteiner Weg"
 housenumber: 5

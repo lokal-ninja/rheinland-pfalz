@@ -1,12 +1,12 @@
-id: 31254164
-type: way
+id: 7471623176
+type: node
 shop: Supermarkt
-latitude: 49.1113957
-longitude: 8.2811383
-postcode: 76764
+latitude: 49.1111658
+longitude: 8.2817675
+postcode: "76764"
 city: Rheinzabern
 street: "Jockgrimer Straße"
 housenumber: 41
-phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: ""
+phone: "+49 7272 933884"
+opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+website: "https://www.rewe.de/marktseite/rheinzabern/840192/rewe-markt-jockgrimer-strasse-41/"

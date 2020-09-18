@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.9222788
 longitude: 8.2656145
-postcode: 55129
+postcode: "55129"
 city: Mainz
 street: "Am Kesseltal"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.979176100000004
 longitude: 8.116266000000001
-postcode: 55263
+postcode: "55263"
 city: Ingelheim am Rhein
 street: "Kirchstraße"
 housenumber: 5

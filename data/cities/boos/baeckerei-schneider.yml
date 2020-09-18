@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.311241300000006
 longitude: 7.0159143
-postcode: 56729
+postcode: "56729"
 city: Boos
 street: "Kehrstraße"
 housenumber: 6

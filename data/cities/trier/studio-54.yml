@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 49.7705977
 longitude: 6.6761604000000005
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Metternichstraße"
 housenumber: 54

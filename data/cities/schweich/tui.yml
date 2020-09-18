@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.820528100000004
 longitude: 6.744849100000001
-postcode: 54338
+postcode: "54338"
 city: Schweich
 street: "In den Schlimmfuhren"
 housenumber: 2

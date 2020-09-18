@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.0068233
 longitude: 8.0281763
-postcode: 65375
+postcode: "65375"
 city: Oestrich-Winkel
 street: "Mühlstraße"
 housenumber: 3

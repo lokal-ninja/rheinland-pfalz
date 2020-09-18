@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.636304100000004
 longitude: 7.944406300000001
-postcode: 56470
+postcode: "56470"
 city: Bad Marienberg (Westerwald)
 street: "Westerburger Straße"
 housenumber: 1

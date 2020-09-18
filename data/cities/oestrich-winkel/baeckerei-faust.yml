@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0083573
 longitude: 8.0377236
-postcode: 65375
+postcode: "65375"
 city: Oestrich-Winkel
 street: "Untere Bein"
 housenumber: 7

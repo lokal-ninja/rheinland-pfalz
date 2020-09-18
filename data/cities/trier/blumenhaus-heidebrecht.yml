@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.7518058
 longitude: 6.6215839
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Hornstraße"
 housenumber: 1

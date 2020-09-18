@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.882795900000005
 longitude: 6.952377500000001
-postcode: 54487
+postcode: "54487"
 city: Wintrich
 street: "Bergstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.309283300000004
 longitude: 8.4408483
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Winternheimer Straße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.3174992
 longitude: 8.437497200000001
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Maximilianstraße"
 housenumber: 90

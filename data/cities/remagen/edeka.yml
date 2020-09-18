@@ -1,12 +1,12 @@
-id: 7023419733
+id: 254926535
 type: node
 shop: Supermarkt
-latitude: 50.618033000000004
-longitude: 7.205764100000001
-postcode: 53424
+latitude: 50.5769645
+longitude: 7.243205700000001
+postcode: "53424"
 city: Remagen
-street: "Hauptstraße"
-housenumber: 133
+street: "Goethestraße"
+housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://edeka-rudolphi.de"
+website: ""

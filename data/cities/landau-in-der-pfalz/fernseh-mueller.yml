@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.1946281
 longitude: 8.1282539
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "In den Grabengärten"
 housenumber: 4

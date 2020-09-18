@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.087423
 longitude: 8.2097348
-postcode: 76870
+postcode: "76870"
 city: Kandel
 street: "Nansenstraße"
 housenumber: 2

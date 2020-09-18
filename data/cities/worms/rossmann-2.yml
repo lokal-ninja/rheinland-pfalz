@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.6262726
 longitude: 8.3628804
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Schönauer Straße"
 housenumber: 20

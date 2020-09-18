@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.7399761
 longitude: 6.694387300000001
-postcode: 54296
+postcode: "54296"
 city: Trier
 street: "Kohlenstraße"
 housenumber: 60-62

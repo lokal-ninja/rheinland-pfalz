@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.9589087
 longitude: 8.263652
-postcode: 55129
+postcode: "55129"
 city: Mainz
 street: "Robert-Bosch-Straße"
 housenumber: 9

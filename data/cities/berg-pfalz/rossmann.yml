@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.980793500000004
 longitude: 8.184988800000001
-postcode: 76768
+postcode: "76768"
 city: Berg (Pfalz)
 street: "Mühläcker"
 housenumber: 6

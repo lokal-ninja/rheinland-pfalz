@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.699893800000005
 longitude: 8.328356300000001
-postcode: 67474
+postcode: "67474"
 city: Osthofen
 street: "Flurweg"
 housenumber: 7

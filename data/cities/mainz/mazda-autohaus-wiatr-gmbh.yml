@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.982367100000005
 longitude: 8.167265800000001
-postcode: 55126
+postcode: "55126"
 city: Mainz
 street: "Flugplatzstraße"
 housenumber: 37

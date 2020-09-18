@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.1500719
 longitude: 8.232809900000001
-postcode: 76863
+postcode: "76863"
 city: Herxheim
 street: "Im Riegel"
 housenumber: 3

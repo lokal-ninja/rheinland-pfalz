@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.2223765
 longitude: 8.160469
-postcode: 76879
+postcode: "76879"
 city: Bornheim
 street: "Dammheimer Straße"
 housenumber: 10

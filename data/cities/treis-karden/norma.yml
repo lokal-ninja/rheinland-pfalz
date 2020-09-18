@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.169578300000005
 longitude: 7.2959879
-postcode: 56253
+postcode: "56253"
 city: Treis-Karden
 street: "Am Laach"
 housenumber: 5-7

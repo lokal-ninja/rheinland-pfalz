@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.15709510000001
 longitude: 6.466038500000001
-postcode: 54614
+postcode: "54614"
 city: Schönecken
 street: "Hinter Isabellen"
 housenumber: 10

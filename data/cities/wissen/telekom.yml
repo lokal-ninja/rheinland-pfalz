@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.782391600000004
 longitude: 7.7378885
-postcode: 57537
+postcode: "57537"
 city: Wissen
 street: "Rathausstraße"
 housenumber: 26

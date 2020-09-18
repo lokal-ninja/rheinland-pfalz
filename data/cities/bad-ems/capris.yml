@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.3338836
 longitude: 7.7139936
-postcode: 56130
+postcode: "56130"
 city: Bad Ems
 street: "Wipsch"
 housenumber: 1

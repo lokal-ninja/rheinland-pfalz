@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.988485600000004
 longitude: 7.868130300000001
-postcode: 65385
+postcode: "65385"
 city: Rüdesheim am Rhein
 street: "Niederwaldstraße"
 housenumber: 23

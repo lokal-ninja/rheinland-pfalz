@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.441139400000004
 longitude: 8.3444445
-postcode: 67112
+postcode: "67112"
 city: Mutterstadt
 street: "Neustadter Straße"
 housenumber: 76

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.824567200000004
 longitude: 6.704214
-postcode: 54293
+postcode: "54293"
 city: Trier
 street: "Koblenzer Straße"
 housenumber: 5

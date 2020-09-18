@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.244421100000004
 longitude: 7.3649743
-postcode: 66482
+postcode: "66482"
 city: Zweibrücken
 street: "Alte Ixheimer Straße"
 housenumber: 55

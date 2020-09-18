@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 50.442446200000006
 longitude: 7.832214400000001
-postcode: 56410
+postcode: "56410"
 city: Montabaur
 street: "Allmannshausen"
 housenumber: 13

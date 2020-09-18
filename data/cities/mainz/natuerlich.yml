@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0102363
 longitude: 8.262311200000001
-postcode: 55118
+postcode: "55118"
 city: Mainz
 street: "Josefsstraße"
 housenumber: 65

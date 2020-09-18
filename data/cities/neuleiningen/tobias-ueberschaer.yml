@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.5420133
 longitude: 8.1411651
-postcode: 67271
+postcode: "67271"
 city: Neuleiningen
 street: "Mittelgasse"
 housenumber: 17

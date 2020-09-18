@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.905098200000005
 longitude: 6.8826498
-postcode: 54524
+postcode: "54524"
 city: Klausen
 street: "Eberhardstraße"
 housenumber: 3

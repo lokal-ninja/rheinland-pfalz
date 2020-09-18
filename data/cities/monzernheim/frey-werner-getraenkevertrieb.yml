@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.721605000000004
 longitude: 8.233786
-postcode: 55234
+postcode: "55234"
 city: Monzernheim
 street: "Bahnhofstraße"
 housenumber: 44

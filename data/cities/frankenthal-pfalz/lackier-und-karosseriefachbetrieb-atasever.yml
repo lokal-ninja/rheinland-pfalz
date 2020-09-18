@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.544932200000005
 longitude: 8.3392576
-postcode: 67227
+postcode: "67227"
 city: Frankenthal (Pfalz)
 street: "Carl-Benz-Straße"
 housenumber: 21

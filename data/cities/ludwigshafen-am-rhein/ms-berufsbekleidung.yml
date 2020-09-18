@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.4831208
 longitude: 8.363680800000001
-postcode: 67071
+postcode: "67071"
 city: Ludwigshafen am Rhein
 street: "Hedwig-Laudien-Ring"
 housenumber: 41

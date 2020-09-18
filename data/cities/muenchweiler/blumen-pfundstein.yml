@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.2189892
 longitude: 7.7038001000000005
-postcode: 66981
+postcode: "66981"
 city: Münchweiler
 street: "Schulstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.7459348
 longitude: 6.6353871
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Saarstraße"
 housenumber: 65

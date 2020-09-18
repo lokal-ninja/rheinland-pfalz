@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 50.544603300000006
 longitude: 7.1080537
-postcode: 53474
+postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
 street: "Max-Planck-Straße"
 housenumber: 8

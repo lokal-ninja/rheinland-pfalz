@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 50.0077713
 longitude: 8.2840402
-postcode: 55252
+postcode: "55252"
 city: Wiesbaden
 street: "Mainzer Straße"
 housenumber: 35

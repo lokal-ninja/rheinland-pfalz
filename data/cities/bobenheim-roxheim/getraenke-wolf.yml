@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.569215400000004
 longitude: 8.3706048
-postcode: 67240
+postcode: "67240"
 city: Bobenheim-Roxheim
 street: "In der Köst"
 housenumber: 11 A

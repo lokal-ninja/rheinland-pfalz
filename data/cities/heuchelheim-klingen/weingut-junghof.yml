@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.1455591
 longitude: 8.0560604
-postcode: 76831
+postcode: "76831"
 city: Heuchelheim-Klingen
 street: "Hauptstraße"
 housenumber: 21

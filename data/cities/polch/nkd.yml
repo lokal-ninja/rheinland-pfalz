@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.302945400000006
 longitude: 7.328647800000001
-postcode: 56751
+postcode: "56751"
 city: Polch
 street: "Vor Geisenach"
 housenumber: 4

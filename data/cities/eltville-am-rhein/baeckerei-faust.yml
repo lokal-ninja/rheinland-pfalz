@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0143925
 longitude: 8.0575705
-postcode: 65347
+postcode: "65347"
 city: Eltville am Rhein
 street: "Waldbachstraße"
 housenumber: 4

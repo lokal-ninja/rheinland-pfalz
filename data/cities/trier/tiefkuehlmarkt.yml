@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.743115200000005
 longitude: 6.612349900000001
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Eurener Straße"
 housenumber: 141

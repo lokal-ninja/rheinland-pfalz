@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.784587800000004
 longitude: 8.192368
-postcode: 55239
+postcode: "55239"
 city: Gau-Odernheim
 street: "Obermarkt"
 housenumber: 4

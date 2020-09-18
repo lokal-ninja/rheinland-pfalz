@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.2133655
 longitude: 6.9727459000000005
-postcode: 56766
+postcode: "56766"
 city: Ulmen
 street: "Ritter-Heinrich-Straße"
 housenumber: 1

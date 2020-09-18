@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.7214565
 longitude: 7.3728131
-postcode: 55743
+postcode: "55743"
 city: Idar-Oberstein
 street: "Industriestraße"
 housenumber: 1

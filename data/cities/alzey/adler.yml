@@ -3,10 +3,10 @@ type: way
 shop: Kleidung
 latitude: 49.747866900000005
 longitude: 8.1363721
-postcode: 55232
+postcode: "55232"
 city: Alzey
-street: ""
-housenumber: 
+street: "Rudolf-Diesel-Straße"
+housenumber: 2
 phone: ""
 opening_hours: ""
 website: ""

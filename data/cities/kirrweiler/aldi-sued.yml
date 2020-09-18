@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.2897789
 longitude: 8.1413548
-postcode: 67489
+postcode: "67489"
 city: Kirrweiler
 street: "Staatsstraße"
 housenumber: 1

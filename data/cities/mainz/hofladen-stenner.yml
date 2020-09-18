@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.9815109
 longitude: 8.2327546
-postcode: 55128
+postcode: "55128"
 city: Mainz
 street: "In der Klauer"
 housenumber: 10

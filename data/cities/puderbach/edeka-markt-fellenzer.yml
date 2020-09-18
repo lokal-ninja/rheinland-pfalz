@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.59331400000001
 longitude: 7.608046600000001
-postcode: 56305
+postcode: "56305"
 city: Puderbach
 street: "Urbacher Straße"
 housenumber: 24

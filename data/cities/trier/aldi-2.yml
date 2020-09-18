@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.7539067
 longitude: 6.637641400000001
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Nagelstraße"
 housenumber: 27

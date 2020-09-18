@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.1876054
 longitude: 8.140319700000001
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Gustav-Hertz-Straße"
 housenumber: 2

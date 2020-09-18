@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 50.5772234
 longitude: 7.272719400000001
-postcode: 53545
+postcode: "53545"
 city: Ockenfels
 street: "Hauptstraße"
-housenumber: 
+housenumber: 20
 phone: ""
 opening_hours: ""
 website: "http://www.seifenfein.de"

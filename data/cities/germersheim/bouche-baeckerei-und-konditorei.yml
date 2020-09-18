@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2106371
 longitude: 8.3679381
-postcode: 76726
+postcode: "76726"
 city: Germersheim
 street: "Königsberger Straße"
 housenumber: 25

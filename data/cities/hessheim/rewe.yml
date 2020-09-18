@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.544737000000005
 longitude: 8.313247800000001
-postcode: 67258
+postcode: "67258"
 city: Heßheim
 street: "Frankenthaler Straße"
 housenumber: 29

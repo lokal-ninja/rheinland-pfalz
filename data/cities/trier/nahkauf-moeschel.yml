@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.7540521
 longitude: 6.6359713000000005
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Brückenstraße"
 housenumber: 4

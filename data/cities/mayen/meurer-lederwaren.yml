@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 50.33009070000001
 longitude: 7.224599700000001
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "Brückenstraße"
 housenumber: 2

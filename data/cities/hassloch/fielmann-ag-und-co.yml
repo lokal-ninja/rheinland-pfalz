@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.363046100000005
 longitude: 8.2570204
-postcode: 67454
+postcode: "67454"
 city: Haßloch
 street: "Rathausplatz"
 housenumber: 4

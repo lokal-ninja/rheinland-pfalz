@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.597468500000005
 longitude: 7.995940300000001
-postcode: 56459
+postcode: "56459"
 city: Pottum
 street: "Hauptstraße"
 housenumber: 20A

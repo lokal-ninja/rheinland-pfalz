@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.4443823
 longitude: 7.7062594
-postcode: 67663
+postcode: "67663"
 city: Kaiserslautern
 street: "Opelkreisel"
 housenumber: 16

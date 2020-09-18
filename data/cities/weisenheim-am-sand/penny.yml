@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.5101111
 longitude: 8.249362900000001
-postcode: 67256
+postcode: "67256"
 city: Weisenheim am Sand
 street: "Almenweg"
 housenumber: 4

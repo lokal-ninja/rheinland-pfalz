@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.0168456
 longitude: 8.0696337
-postcode: 65347
+postcode: "65347"
 city: Eltville am Rhein
 street: "Rheinallee"
 housenumber: 67

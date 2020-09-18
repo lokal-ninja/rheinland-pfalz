@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.6448644
 longitude: 8.3633824
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Mainzer Straße"
 housenumber: 94

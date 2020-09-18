@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.469082400000005
 longitude: 7.796479700000001
-postcode: 56422
+postcode: "56422"
 city: Wirges
 street: "Südstraße"
 housenumber: 24

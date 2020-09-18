@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 49.6054788
 longitude: 6.543120600000001
-postcode: 54439
+postcode: "54439"
 city: Saarburg
 street: "Heckingstraße"
 housenumber: 20

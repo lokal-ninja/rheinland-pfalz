@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.215018300000004
 longitude: 8.364277900000001
-postcode: 76726
+postcode: "76726"
 city: Germersheim
 street: "Theodor-Heuss-Straße"
 housenumber: 61

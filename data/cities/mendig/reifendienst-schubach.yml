@@ -3,10 +3,10 @@ type: way
 shop: Reifen
 latitude: 50.361426800000004
 longitude: 7.3020519
-postcode: 56743
+postcode: "56743"
 city: Mendig
-street: "Am Alten Fort"
+street: "Am alten Fort"
 housenumber: 12a
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.reifendienst-schubach.de/"

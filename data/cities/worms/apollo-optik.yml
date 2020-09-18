@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.6309606
 longitude: 8.3622794
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Kämmererstraße"
 housenumber: 20

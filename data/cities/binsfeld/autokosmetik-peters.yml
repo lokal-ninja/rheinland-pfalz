@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.966962900000006
 longitude: 6.7176362
-postcode: 54518
+postcode: "54518"
 city: Binsfeld
 street: "Industriestraße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.641573900000004
 longitude: 8.1338459
-postcode: 67308
+postcode: "67308"
 city: Zellertal
 street: "Hauptstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.339038800000004
 longitude: 8.432174400000001
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Tullastraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.7704383
 longitude: 6.7245977
-postcode: 54318
+postcode: "54318"
 city: Mertesdorf
 street: "Im Mühlengrund"
 housenumber: 1

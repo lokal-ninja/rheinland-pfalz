@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.3912482
 longitude: 7.3913251
-postcode: 56637
+postcode: "56637"
 city: Plaidt
 street: "Miesenheimer Straße"
 housenumber: 1

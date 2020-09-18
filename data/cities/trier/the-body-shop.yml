@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.756308700000005
 longitude: 6.6411439
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Grabenstraße"
 housenumber: 21

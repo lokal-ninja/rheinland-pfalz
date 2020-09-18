@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.2002667
 longitude: 7.8317231000000005
-postcode: 76846
+postcode: "76846"
 city: Hauenstein
 street: "Gebrüder-Seibel-Straße"
 housenumber: 4

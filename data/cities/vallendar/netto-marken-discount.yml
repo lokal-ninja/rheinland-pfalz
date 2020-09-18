@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.394912600000005
 longitude: 7.6162372000000005
-postcode: 56179
+postcode: "56179"
 city: Vallendar
 street: "Rheinstraße"
 housenumber: 46

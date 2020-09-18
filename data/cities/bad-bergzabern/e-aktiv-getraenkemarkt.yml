@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.1023233
 longitude: 8.0052374
-postcode: 76887
+postcode: "76887"
 city: Bad Bergzabern
 street: "Kapeller Straße"
 housenumber: 11a

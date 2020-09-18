@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.606589400000004
 longitude: 6.5457213
-postcode: 54439
+postcode: "54439"
 city: Saarburg
 street: "Heckingstraße"
 housenumber: 12-14

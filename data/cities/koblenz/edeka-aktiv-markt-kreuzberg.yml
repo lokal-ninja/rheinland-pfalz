@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.344065500000006
 longitude: 7.5873257
-postcode: 56068
+postcode: "56068"
 city: Koblenz
 street: "Hohenzollernstraße"
 housenumber: 132

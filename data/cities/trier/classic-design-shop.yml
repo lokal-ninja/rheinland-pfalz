@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.7627223
 longitude: 6.636448000000001
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Lindenstraße"
 housenumber: 10

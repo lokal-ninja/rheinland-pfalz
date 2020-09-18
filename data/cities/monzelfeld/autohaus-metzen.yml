@@ -1,12 +1,12 @@
-id: 458754453
-type: node
+id: 314963953
+type: way
 shop: Autohaus
-latitude: 49.8934444
-longitude: 7.077602000000001
-postcode: 54472
+latitude: 49.8933971
+longitude: 7.0771402000000005
+postcode: "54472"
 city: Monzelfeld
 street: "Sauergarten"
 housenumber: 4
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:30-13:00"
+opening_hours: ""
 website: ""

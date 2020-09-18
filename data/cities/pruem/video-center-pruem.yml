@@ -3,7 +3,7 @@ type: way
 shop: Videothek
 latitude: 50.208867500000004
 longitude: 6.4156597
-postcode: 54595
+postcode: "54595"
 city: Prüm
 street: "Tiergartenstraße"
 housenumber: 65

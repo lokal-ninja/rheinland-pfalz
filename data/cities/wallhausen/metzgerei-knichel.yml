@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.8889847
 longitude: 7.7689215
-postcode: 55595
+postcode: "55595"
 city: Wallhausen
 street: "Hauptstraße"
 housenumber: 43

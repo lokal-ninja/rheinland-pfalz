@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.441480500000004
 longitude: 7.767758000000001
-postcode: 67655
+postcode: "67655"
 city: Kaiserslautern
 street: "Glockenstraße"
 housenumber: 4

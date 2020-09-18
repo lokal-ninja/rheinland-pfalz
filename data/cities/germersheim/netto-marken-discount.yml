@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1939634
 longitude: 8.3566555
-postcode: 76726
+postcode: "76726"
 city: Germersheim
 street: "Sepp-Herberger-Straße"
 housenumber: 1

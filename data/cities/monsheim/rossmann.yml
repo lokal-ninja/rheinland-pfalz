@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.631515300000004
 longitude: 8.2013342
-postcode: 67590
+postcode: "67590"
 city: Monsheim
 street: "Robert-Bosch-Straße"
 housenumber: 6

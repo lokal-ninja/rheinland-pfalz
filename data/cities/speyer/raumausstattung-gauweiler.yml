@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.3136876
 longitude: 8.4266947
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Mittelkämmererstraße"
 housenumber: 19

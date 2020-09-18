@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.3175516
 longitude: 8.4357483
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Maximilianstraße"
 housenumber: 77

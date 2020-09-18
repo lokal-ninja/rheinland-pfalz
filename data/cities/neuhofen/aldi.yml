@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4208488
 longitude: 8.4127246
-postcode: 67141
+postcode: "67141"
 city: Neuhofen
 street: "Industriestraße"
 housenumber: 10

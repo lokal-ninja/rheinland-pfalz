@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.965221400000004
 longitude: 7.894258700000001
-postcode: 55411
+postcode: "55411"
 city: Bingen am Rhein
 street: "Schmittstraße"
 housenumber: 49

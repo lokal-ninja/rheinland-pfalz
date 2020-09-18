@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.467447400000005
 longitude: 8.433674400000001
-postcode: 67065
+postcode: "67065"
 city: Ludwigshafen am Rhein
 street: "Herderstraße"
 housenumber: 2

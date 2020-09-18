@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7726984
 longitude: 8.255169
-postcode: 67586
+postcode: "67586"
 city: Hillesheim
 street: "Bahnhofstraße"
 housenumber: 60

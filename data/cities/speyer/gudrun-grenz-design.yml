@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.3178289
 longitude: 8.435506
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Korngasse"
 housenumber: 28

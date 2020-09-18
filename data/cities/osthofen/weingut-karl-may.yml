@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.705523500000005
 longitude: 8.320682
-postcode: 67574
+postcode: "67574"
 city: Osthofen
 street: "Ludwig-Schwamb-Straße"
 housenumber: 22

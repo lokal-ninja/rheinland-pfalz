@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.8602635
 longitude: 7.9887497000000005
-postcode: 55576
+postcode: "55576"
 city: Sprendlingen
 street: "St. Johanner Straße"
 housenumber: 20

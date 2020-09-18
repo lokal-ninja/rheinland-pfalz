@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.1822238
 longitude: 7.6285932
-postcode: 66955
+postcode: "66955"
 city: Pirmasens
 street: "Beckenhofer Straße"
 housenumber: 2

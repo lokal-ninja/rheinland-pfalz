@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.36356
 longitude: 8.244344400000001
-postcode: 67454
+postcode: "67454"
 city: Haßloch
 street: "Neustadter Straße"
 housenumber: 45

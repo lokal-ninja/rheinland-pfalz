@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.3254889
 longitude: 8.4285697
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Bahnhofstraße"
 housenumber: 49

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.560341300000005
 longitude: 7.3470366
-postcode: 53562
+postcode: "53562"
 city: Rothe Kreuz
 street: "Rothe Kreuz"
 housenumber: 2a

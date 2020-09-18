@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 49.823320100000004
 longitude: 6.899357800000001
-postcode: 54349
+postcode: "54349"
 city: Trittenheim
 street: "Spielesstraße"
 housenumber: 4

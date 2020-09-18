@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.137813400000006
 longitude: 8.216708500000001
-postcode: 76863
+postcode: "76863"
 city: Herxheim
 street: "St.-Christophorus-Straße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.9125741
 longitude: 8.1238513
-postcode: 55271
+postcode: "55271"
 city: Stadecken-Elsheim
 street: "Schulstraße"
 housenumber: 51

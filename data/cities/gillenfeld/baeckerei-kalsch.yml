@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.127519400000004
 longitude: 6.9056522000000005
-postcode: 54558
+postcode: "54558"
 city: Gillenfeld
 street: "Pulvermaarstraße"
 housenumber: 10

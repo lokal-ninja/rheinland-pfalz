@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.568105100000004
 longitude: 7.460901600000001
-postcode: 66885
+postcode: "66885"
 city: Bedesbach
 street: "Hauptstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.377769900000004
 longitude: 7.5825433
-postcode: 56070
+postcode: "56070"
 city: Koblenz
 street: "Am Berg"
 housenumber: 3

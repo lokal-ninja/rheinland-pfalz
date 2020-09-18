@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.863145
 longitude: 8.3320167
-postcode: 55283
+postcode: "55283"
 city: Nierstein
 street: "Freyburger Allee"
 housenumber: 1

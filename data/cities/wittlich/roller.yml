@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.9781009
 longitude: 6.8883776
-postcode: 54516
+postcode: "54516"
 city: Wittlich
 street: "Römerstraße"
 housenumber: 72

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.572117500000004
 longitude: 7.055783300000001
-postcode: 53501
+postcode: "53501"
 city: Grafschaft
 street: "Gudenauring"
 housenumber: 27

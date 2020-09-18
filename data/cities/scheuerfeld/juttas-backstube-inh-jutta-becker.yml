@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.7869266
 longitude: 7.8375624
-postcode: 57584
+postcode: "57584"
 city: Scheuerfeld
 street: "Kirchstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.341223500000005
 longitude: 8.4259719
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Draisstraße"
 housenumber: 16

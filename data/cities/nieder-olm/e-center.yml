@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9136533
 longitude: 8.1792098
-postcode: 55268
+postcode: "55268"
 city: Nieder-Olm
 street: "Am Giener"
 housenumber: 23

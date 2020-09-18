@@ -1,12 +1,12 @@
-id: 24159168
-type: way
+id: 469186352
+type: node
 shop: Supermarkt
-latitude: 49.968949200000004
-longitude: 8.2356605
-postcode: 55128
+latitude: 50.0004701
+longitude: 8.248187900000001
+postcode: "55122"
 city: Mainz
-street: "Drechslerweg"
-housenumber: 1
+street: "Dr. Martin-Luther-King Weg"
+housenumber: 20
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=55122 Mainz%2C Dr. Martin-Luther-King-Weg 20&Mode=None"

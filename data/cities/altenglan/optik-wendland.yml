@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 49.5505171
 longitude: 7.4620157
-postcode: 66885
+postcode: "66885"
 city: Altenglan
 street: "Bahnhofstraße"
 housenumber: 24

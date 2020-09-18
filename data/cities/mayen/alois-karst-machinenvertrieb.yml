@@ -3,7 +3,7 @@ type: node
 shop: Landwirtschaftlich
 latitude: 50.3216095
 longitude: 7.2299107000000005
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "Polcher Straße"
 housenumber: 103

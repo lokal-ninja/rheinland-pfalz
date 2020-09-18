@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.7728052
 longitude: 6.660066100000001
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Zurmaiener Straße"
 housenumber: 160-168

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.323976900000005
 longitude: 7.2076066
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "Eichenstraße"
 housenumber: 45

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4770808
 longitude: 7.643226200000001
-postcode: 67685
+postcode: "67685"
 city: Weilerbach
 street: "Danziger Straße"
 housenumber: 28

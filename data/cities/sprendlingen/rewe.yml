@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.861362
 longitude: 7.9780531
-postcode: 55576
+postcode: "55576"
 city: Sprendlingen
 street: "Kreuznacher Straße"
 housenumber: 72

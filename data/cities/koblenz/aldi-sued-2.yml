@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.357737900000004
 longitude: 7.5756987
-postcode: 56073
+postcode: "56073"
 city: Koblenz
 street: "Moselweißer Straße"
 housenumber: 115
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-21:00"
 website: "https://www.aldi-sued.de/"

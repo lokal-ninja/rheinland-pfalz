@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.435702600000006
 longitude: 7.4861848
-postcode: 56564
+postcode: "56564"
 city: Neuwied
 street: "Stettiner Straße"
 housenumber: 3a

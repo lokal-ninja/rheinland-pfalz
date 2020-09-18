@@ -1,12 +1,12 @@
-id: 185746282
-type: way
+id: 7580983348
+type: node
 shop: Kleidung
-latitude: 49.1980954
-longitude: 8.115555
-postcode: 76829
+latitude: 49.1978875
+longitude: 8.115705700000001
+postcode: "76829"
 city: Landau in der Pfalz
-street: "Ostbahnstraße"
-housenumber: 1
-phone: ""
+street: "Königstraße"
+housenumber: 31
+phone: "+49 6341 92180"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: ""
+website: "https://www.mode-jost.de/standorte/standorte/landau/"

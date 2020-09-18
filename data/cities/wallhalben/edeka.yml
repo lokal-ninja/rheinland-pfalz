@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.318840400000006
 longitude: 7.52292
-postcode: 66917
+postcode: "66917"
 city: Wallhalben
 street: "Im Bruch"
 housenumber: 11

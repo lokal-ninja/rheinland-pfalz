@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.424507600000005
 longitude: 8.423051000000001
-postcode: 67141
+postcode: "67141"
 city: Neuhofen
 street: "Freiligrathstraße"
 housenumber: 14

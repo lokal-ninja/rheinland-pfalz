@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.329523900000005
 longitude: 7.223042
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "Marktstraße"
 housenumber: 21

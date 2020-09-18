@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.8568025
 longitude: 6.7577197
-postcode: 54343
+postcode: "54343"
 city: Föhren
 street: "Am Reischelbach"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.822234
 longitude: 6.8832328
-postcode: 54340
+postcode: "54340"
 city: Leiwen
 street: "Euchariusstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.7642711
 longitude: 6.651601500000001
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Paulinstraße"
 housenumber: 114

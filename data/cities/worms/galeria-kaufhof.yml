@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 49.631652
 longitude: 8.3628756
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Kämmererstraße"
 housenumber: 24 - 32

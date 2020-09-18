@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 49.9504803
 longitude: 8.217819
-postcode: 55270
+postcode: "55270"
 city: Klein-Winternheim
 street: "Auf dem Langloos"
 housenumber: 14

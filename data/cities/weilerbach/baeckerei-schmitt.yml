@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.481726900000005
 longitude: 7.632213900000001
-postcode: 67685
+postcode: "67685"
 city: Weilerbach
 street: "Rummelstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9465097
 longitude: 7.896136800000001
-postcode: 55424
+postcode: "55424"
 city: Münster-Sarmsheim
 street: "Rheinstraße"
 housenumber: 57

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9953726
 longitude: 8.2673086
-postcode: 55116
+postcode: "55116"
 city: Mainz
 street: "Gaustraße"
 housenumber: 21

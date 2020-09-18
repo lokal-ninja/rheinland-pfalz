@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.341193800000006
 longitude: 7.5704763
-postcode: 56075
+postcode: "56075"
 city: Koblenz
 street: "Potsdamer Straße"
 housenumber: 37

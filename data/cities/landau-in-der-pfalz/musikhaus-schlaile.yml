@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 49.1958623
 longitude: 8.109875200000001
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Westbahnstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.984109700000005
 longitude: 8.2451124
-postcode: 55128
+postcode: "55128"
 city: Mainz
 street: "Lanzelhohl"
 housenumber: 17

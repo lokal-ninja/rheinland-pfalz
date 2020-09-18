@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.755712
 longitude: 6.734188100000001
-postcode: 54320
+postcode: "54320"
 city: Waldrach
 street: "In der Köschwies"
 housenumber: 7

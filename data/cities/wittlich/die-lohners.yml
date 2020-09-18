@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.9774642
 longitude: 6.888677800000001
-postcode: 54516
+postcode: "54516"
 city: Wittlich
 street: "Römerstraße"
 housenumber: 74

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.836891900000005
 longitude: 8.109095400000001
-postcode: 55286
+postcode: "55286"
 city: Wörrstadt
 street: "Leipziger Straße"
 housenumber: 3

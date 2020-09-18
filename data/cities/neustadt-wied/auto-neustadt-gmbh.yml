@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.6254281
 longitude: 7.429164
-postcode: 53577
+postcode: "53577"
 city: Neustadt (Wied)
 street: "Bahnhofstraße"
 housenumber: 6

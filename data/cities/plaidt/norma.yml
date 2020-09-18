@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.3885512
 longitude: 7.3827411000000005
-postcode: 56637
+postcode: "56637"
 city: Plaidt
 street: "Fraukircher Straße"
 housenumber: 26

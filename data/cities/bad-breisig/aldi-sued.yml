@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.515305000000005
 longitude: 7.291866000000001
-postcode: 53498
+postcode: "53498"
 city: Bad Breisig
 street: "Gartenstraße"
 housenumber: 38-40

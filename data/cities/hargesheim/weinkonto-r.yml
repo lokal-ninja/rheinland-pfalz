@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.861704200000005
 longitude: 7.827125100000001
-postcode: 55595
+postcode: "55595"
 city: Hargesheim
 street: "Lindenstraße"
 housenumber: 13a

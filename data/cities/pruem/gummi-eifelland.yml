@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.209655600000005
 longitude: 6.416349800000001
-postcode: 54595
+postcode: "54595"
 city: Prüm
 street: "Tiergartenstraße"
 housenumber: 92

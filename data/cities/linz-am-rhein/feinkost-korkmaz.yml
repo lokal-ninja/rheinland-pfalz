@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 50.567275800000004
 longitude: 7.2814303
-postcode: 53545
+postcode: "53545"
 city: Linz am Rhein
 street: "Buttermarkt"
 housenumber: 1

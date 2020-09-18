@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.455814600000004
 longitude: 7.784007600000001
-postcode: 56428
+postcode: "56428"
 city: Dernbach
 street: "Rheinstraße"
 housenumber: 4a

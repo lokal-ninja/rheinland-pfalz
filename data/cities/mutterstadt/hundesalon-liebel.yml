@@ -3,7 +3,7 @@ type: way
 shop: Gardinen
 latitude: 49.4402777
 longitude: 8.361762200000001
-postcode: 67112
+postcode: "67112"
 city: Mutterstadt
 street: "Ringstraße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.3909917
 longitude: 8.4318449
-postcode: 67165
+postcode: "67165"
 city: Waldsee
 street: "Albert-Einstein-Allee"
 housenumber: 43

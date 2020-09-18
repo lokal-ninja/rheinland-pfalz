@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.759126
 longitude: 6.640263
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Moselstraße"
 housenumber: 11

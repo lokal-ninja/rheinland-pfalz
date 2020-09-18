@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.972605300000005
 longitude: 6.521064300000001
-postcode: 54634
+postcode: "54634"
 city: Bitburg
 street: "Neuerburger Straße"
 housenumber: 1

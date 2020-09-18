@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.4251324
 longitude: 7.571922900000001
-postcode: 56170
+postcode: "56170"
 city: Bendorf
 street: "Hauptstraße"
 housenumber: 129

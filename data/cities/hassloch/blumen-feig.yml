@@ -3,10 +3,10 @@ type: node
 shop: Blumen
 latitude: 49.366065400000004
 longitude: 8.2553294
-postcode: 67454
+postcode: "67454"
 city: Haßloch
 street: "Bahnhofstraße"
 housenumber: 34
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 6324 2174"
+opening_hours: "Mo-Fr 08:00-12:30,14:30-18:30; Sa 08:00-13:00; Su,PH 10:00-12:00"
+website: "https://firma-feig.de/blumengeschaeft"

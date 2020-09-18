@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.8202755
 longitude: 6.7414024
-postcode: 54338
+postcode: "54338"
 city: Schweich
 street: "Im Ermesgraben"
 housenumber: 1c

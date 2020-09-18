@@ -3,10 +3,10 @@ type: node
 shop: Kramladen
 latitude: 50.029822
 longitude: 8.2194657
-postcode: 55120
+postcode: "55120"
 city: Mainz
 street: "Rheinallee"
 housenumber: 130
-phone: "+49 6131"
+phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "www.knueller-maerkte.de/unsere-maerkte/mainz-mombach.html"
+website: "https://www.jawoll.de/filialen/mainz"

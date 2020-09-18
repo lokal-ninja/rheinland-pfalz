@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.4247456
 longitude: 7.572066800000001
-postcode: 56170
+postcode: "56170"
 city: Bendorf
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 49.7576065
 longitude: 6.642510400000001
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Glockenstraße"
 housenumber: 16

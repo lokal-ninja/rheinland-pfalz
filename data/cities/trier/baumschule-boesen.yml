@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.733859100000004
 longitude: 6.617470600000001
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Teichweg"
 housenumber: 1

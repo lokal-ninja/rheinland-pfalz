@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.3759717
 longitude: 7.6094872
-postcode: 56070
+postcode: "56070"
 city: Koblenz
 street: "Hochstraße"
 housenumber: 86

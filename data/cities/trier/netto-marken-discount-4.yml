@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7425287
 longitude: 6.634361500000001
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Hawstraße"
 housenumber: 2b

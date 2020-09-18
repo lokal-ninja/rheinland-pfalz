@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.354738600000005
 longitude: 7.2198088
-postcode: 56729
+postcode: "56729"
 city: Ettringen
 street: "Alte Schulstraße"
 housenumber: 34

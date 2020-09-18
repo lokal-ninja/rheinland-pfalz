@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 49.3098563
 longitude: 8.380902200000001
-postcode: 67373
+postcode: "67373"
 city: Dudenhofen
 street: "Am Gewerbering"
 housenumber: 9

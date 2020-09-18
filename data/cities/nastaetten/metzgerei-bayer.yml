@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.199986800000005
 longitude: 7.854704600000001
-postcode: 56355
+postcode: "56355"
 city: Nastätten
 street: "Bahnhofstraße"
 housenumber: 3

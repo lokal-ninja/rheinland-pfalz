@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.1962011
 longitude: 8.1613661
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Queichheimer Hauptstraße"
 housenumber: 249a

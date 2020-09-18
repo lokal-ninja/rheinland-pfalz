@@ -1,12 +1,12 @@
-id: 4950529547
+id: 7804297230
 type: node
 shop: Bäckerei
-latitude: 49.3562366
-longitude: 8.260686100000001
-postcode: 67454
+latitude: 49.348604300000005
+longitude: 8.2449063
+postcode: "67454"
 city: Haßloch
-street: ""
-housenumber: 
-phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-12:00"
-website: ""
+street: "Hans-Böckler-Straße"
+housenumber: 20
+phone: "+49 6324 9697044"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.baeckergoertz.de/#filialenstart/filialfinder"

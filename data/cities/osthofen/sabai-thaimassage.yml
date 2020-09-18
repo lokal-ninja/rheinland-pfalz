@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.703046900000004
 longitude: 8.32479
-postcode: 67574
+postcode: "67574"
 city: Osthofen
 street: "Goldbergstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8066553
 longitude: 7.8794905
-postcode: 57548
+postcode: "57548"
 city: Kirchen (Sieg)
 street: "Bahnhofstraße"
 housenumber: 15

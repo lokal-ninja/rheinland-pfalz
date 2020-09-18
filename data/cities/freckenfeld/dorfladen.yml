@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.0659178
 longitude: 8.116062900000001
-postcode: 76872
+postcode: "76872"
 city: Freckenfeld
 street: "Hauptstraße"
 housenumber: 73

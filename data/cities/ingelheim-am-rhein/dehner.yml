@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.0015269
 longitude: 8.1340036
-postcode: 55262
+postcode: "55262"
 city: Ingelheim am Rhein
 street: "Prof.-Karl-Bohland-Straße"
 housenumber: 4

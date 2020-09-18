@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.7713466
 longitude: 6.656820300000001
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Zurmaiener Straße"
 housenumber: 155-157

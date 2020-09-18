@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8083412
 longitude: 6.6848796
-postcode: 54293
+postcode: "54293"
 city: Trier
 street: "An der Ehranger Mühle"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 50.025237800000006
 longitude: 8.1180313
-postcode: 65343
+postcode: "65343"
 city: Eltville am Rhein
 street: "Rheingauer Straße"
 housenumber: 10

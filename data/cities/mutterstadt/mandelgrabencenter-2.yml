@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.4365334
 longitude: 8.3667326
-postcode: 67112
+postcode: "67112"
 city: Mutterstadt
 street: "Dahlienstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.015093500000006
 longitude: 7.1809048
-postcode: 56856
+postcode: "56856"
 city: Zell (Mosel)
 street: "Notenau"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.242254300000006
 longitude: 8.3240991
-postcode: 67368
+postcode: "67368"
 city: Westheim (Pfalz)
 street: "Schulstraße"
 housenumber: 15

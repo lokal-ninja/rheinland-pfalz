@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0928185
 longitude: 6.812874900000001
-postcode: 54531
+postcode: "54531"
 city: Manderscheid
 street: "Kurfürstenstraße"
 housenumber: 20

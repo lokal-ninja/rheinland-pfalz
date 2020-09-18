@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.245044
 longitude: 8.3422582
-postcode: 67360
+postcode: "67360"
 city: Lingenfeld
 street: "Robertsauer Straße"
 housenumber: 7

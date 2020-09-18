@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 49.754568400000004
 longitude: 6.637433000000001
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Fleischstraße"
 housenumber: 30

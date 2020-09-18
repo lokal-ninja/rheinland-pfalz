@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.359636
 longitude: 7.4614020000000005
-postcode: 56220
+postcode: "56220"
 city: Bassenheim
 street: "Koblenzer Straße"
 housenumber: 48

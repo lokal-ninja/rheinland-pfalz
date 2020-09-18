@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.197182000000005
 longitude: 6.8163863000000005
-postcode: 54550
+postcode: "54550"
 city: Daun
 street: "Bitburger Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.2196505
 longitude: 8.371218
-postcode: 76726
+postcode: "76726"
 city: Germersheim
 street: "Sandstraße"
 housenumber: 17

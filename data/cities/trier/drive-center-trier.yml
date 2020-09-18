@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.753750000000004
 longitude: 6.6239623000000005
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Aachener Straße"
 housenumber: 24

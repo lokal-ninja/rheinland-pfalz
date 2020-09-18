@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.0090571
 longitude: 8.03958
-postcode: 65375
+postcode: "65375"
 city: Oestrich-Winkel
 street: "Rheingaustraße"
 housenumber: 13

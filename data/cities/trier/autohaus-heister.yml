@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.7761092
 longitude: 6.6903296
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Ruwerer Straße"
 housenumber: 21

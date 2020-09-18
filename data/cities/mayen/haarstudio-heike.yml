@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.33078080000001
 longitude: 7.220784200000001
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "Am Wittbender Tor"
 housenumber: 5

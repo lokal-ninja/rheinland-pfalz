@@ -1,6 +1,6 @@
 ---
 title: Longuich
 url: /longuich/
-latitude: 
-longitude: 
+latitude: 49.8069349
+longitude: 6.7728954
 ---

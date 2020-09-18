@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7442926
 longitude: 6.4990611000000005
-postcode: 6691
+postcode: "6691"
 city: Moersdorf
 street: "Ale Wee"
 housenumber: 1

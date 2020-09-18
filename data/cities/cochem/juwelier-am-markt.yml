@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.145216000000005
 longitude: 7.1657586
-postcode: 56812
+postcode: "56812"
 city: Cochem
 street: "Oberbachstraße"
 housenumber: 1

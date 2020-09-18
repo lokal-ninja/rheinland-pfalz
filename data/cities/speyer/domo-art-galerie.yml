@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 49.3126344
 longitude: 8.4274942
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Landauer Straße"
 housenumber: 37

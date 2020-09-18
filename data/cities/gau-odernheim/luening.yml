@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.778031500000004
 longitude: 8.1884786
-postcode: 55239
+postcode: "55239"
 city: Gau-Odernheim
 street: ""
 housenumber: 

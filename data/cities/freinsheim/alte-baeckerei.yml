@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 49.5071838
 longitude: 8.2105491
-postcode: 67251
+postcode: "67251"
 city: Freinsheim
 street: "Wallstraße"
 housenumber: 1

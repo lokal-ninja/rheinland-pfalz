@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.650209600000004
 longitude: 6.450227000000001
-postcode: 54453
+postcode: "54453"
 city: Nittel
 street: "Bachstraße"
 housenumber: 1a

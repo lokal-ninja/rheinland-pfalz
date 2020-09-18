@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.743312700000004
 longitude: 6.6876476
-postcode: 54296
+postcode: "54296"
 city: Trier
 street: "Im Treff"
 housenumber: 23

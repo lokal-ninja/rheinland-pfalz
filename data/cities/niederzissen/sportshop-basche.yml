@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.4614854
 longitude: 7.224254500000001
-postcode: 56651
+postcode: "56651"
 city: Niederzissen
 street: "Brohltalstraße"
 housenumber: 56

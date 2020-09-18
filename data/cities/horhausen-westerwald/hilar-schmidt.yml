@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.5883277
 longitude: 7.5308584000000005
-postcode: 56593
+postcode: "56593"
 city: Horhausen (Westerwald)
 street: "Rheinstraße"
 housenumber: 36

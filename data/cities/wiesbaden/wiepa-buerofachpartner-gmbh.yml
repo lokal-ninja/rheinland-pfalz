@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.042288500000005
 longitude: 8.216189100000001
-postcode: 65203
+postcode: "65203"
 city: Wiesbaden
 street: "Fritz-Haber-Straße"
 housenumber: 4

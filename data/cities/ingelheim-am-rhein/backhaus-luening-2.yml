@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.975262
 longitude: 8.0548824
-postcode: 55218
+postcode: "55218"
 city: Ingelheim am Rhein
 street: "Georg-Rückert-Straße"
 housenumber: 3

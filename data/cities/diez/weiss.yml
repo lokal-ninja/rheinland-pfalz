@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.3715157
 longitude: 8.0112193
-postcode: 65582
+postcode: "65582"
 city: Diez
 street: "Wilhelmstraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.436729
 longitude: 7.570369200000001
-postcode: 56170
+postcode: "56170"
 city: Bendorf
 street: "Koblenz-Olper-Straße"
 housenumber: 91

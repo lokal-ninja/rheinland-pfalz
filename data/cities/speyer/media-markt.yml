@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.33178830000001
 longitude: 8.429728
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Wormser Landstraße"
 housenumber: 94

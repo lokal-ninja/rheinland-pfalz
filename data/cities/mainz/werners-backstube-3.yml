@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9818258
 longitude: 8.2445818
-postcode: 55128
+postcode: "55128"
 city: Mainz
 street: "Rathausstraße"
 housenumber: 14

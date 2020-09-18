@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 49.9799452
 longitude: 6.9523717000000005
-postcode: 54516
+postcode: "54516"
 city: Wittlich
 street: "Belinger Straße"
 housenumber: 79

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4788605
 longitude: 8.446727600000001
-postcode: 67059
+postcode: "67059"
 city: Ludwigshafen am Rhein
 street: "Wredestraße"
 housenumber: 55

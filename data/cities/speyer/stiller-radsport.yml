@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.316891000000005
 longitude: 8.4302474
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Gilgenstraße"
 housenumber: 24

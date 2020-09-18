@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.2351892
 longitude: 7.0696954000000005
-postcode: 56759
+postcode: "56759"
 city: Laubach
 street: "Bahnhofstraße"
 housenumber: 13

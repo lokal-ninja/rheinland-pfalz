@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.149603400000004
 longitude: 8.233459
-postcode: 76863
+postcode: "76863"
 city: Herxheim
 street: "Im Riegel"
 housenumber: 5

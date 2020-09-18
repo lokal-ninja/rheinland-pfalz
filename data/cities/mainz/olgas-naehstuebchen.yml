@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 49.9819705
 longitude: 8.244347300000001
-postcode: 55128
+postcode: "55128"
 city: Mainz
 street: "Rathausstraße"
 housenumber: 5

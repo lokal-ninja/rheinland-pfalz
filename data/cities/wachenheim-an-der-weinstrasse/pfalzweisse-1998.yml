@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.438411800000004
 longitude: 8.1820803
-postcode: 67157
+postcode: "67157"
 city: Wachenheim an der Weinstraße
 street: "Weinstraße"
 housenumber: 30

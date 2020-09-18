@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 49.068919
 longitude: 8.1263085
-postcode: 
+postcode: ""
 city: Freckenfeld
 street: "Hauptstraße"
 housenumber: 
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+website: "https://www.autohaus-memmer.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.1961985
 longitude: 8.1481177
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Queichheimer Hauptstraße"
 housenumber: 175

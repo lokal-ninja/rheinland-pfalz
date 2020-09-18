@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.91592
 longitude: 7.068288600000001
-postcode: 54470
+postcode: "54470"
 city: Bernkastel-Kues
 street: "Gartenstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.3545408
 longitude: 8.1369732
-postcode: 67433
+postcode: "67433"
 city: Neustadt an der Weinstraße
 street: "Hauptstraße"
 housenumber: 106-108

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.133074300000004
 longitude: 8.1336493
-postcode: 76865
+postcode: "76865"
 city: Rohrbach
 street: "Hauptstraße"
 housenumber: 90

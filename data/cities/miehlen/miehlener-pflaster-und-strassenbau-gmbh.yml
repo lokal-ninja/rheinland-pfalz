@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 50.2160311
 longitude: 7.847094800000001
-postcode: 56357
+postcode: "56357"
 city: Miehlen
 street: "Laubornstraße"
 housenumber: 9

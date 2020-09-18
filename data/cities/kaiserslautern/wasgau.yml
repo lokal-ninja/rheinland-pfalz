@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4332806
 longitude: 7.753655
-postcode: 67663
+postcode: "67663"
 city: Kaiserslautern
 street: "Carl-Euler-Straße"
 housenumber: 6

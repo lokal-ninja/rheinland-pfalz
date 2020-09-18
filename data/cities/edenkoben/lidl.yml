@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.285152700000005
 longitude: 8.139590100000001
-postcode: 67480
+postcode: "67480"
 city: Edenkoben
 street: "Luitpoldstraße"
 housenumber: 78

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.097268500000006
 longitude: 8.2790327
-postcode: 76751
+postcode: "76751"
 city: Jockgrim
 street: "Schelmenwaldplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 49.756880300000006
 longitude: 6.6417292
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Hauptmarkt"
 housenumber: 2

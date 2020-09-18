@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.3160443
 longitude: 8.389097900000001
-postcode: 67373
+postcode: "67373"
 city: Dudenhofen
 street: "Landauer Straße"
 housenumber: 2

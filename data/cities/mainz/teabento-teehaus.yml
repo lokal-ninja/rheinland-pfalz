@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 49.9949847
 longitude: 8.2671945
-postcode: 55116
+postcode: "55116"
 city: Mainz
 street: "Gaustraße"
 housenumber: 9

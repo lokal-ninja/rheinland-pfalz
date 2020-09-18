@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.6316738
 longitude: 8.364816300000001
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Am Römischen Kaiser"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.823201600000004
 longitude: 6.7273999
-postcode: 54338
+postcode: "54338"
 city: Schweich
 street: "Im Handwerkerhof"
 housenumber: 2

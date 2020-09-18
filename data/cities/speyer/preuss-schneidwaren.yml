@@ -3,10 +3,10 @@ type: node
 shop: Haushaltsartikel
 latitude: 49.3176506
 longitude: 8.4325565
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Korngasse"
 housenumber: 11
-phone: ""
+phone: "+49 6232 75443"
 opening_hours: ""
 website: ""

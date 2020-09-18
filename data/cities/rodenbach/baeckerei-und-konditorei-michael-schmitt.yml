@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.471824500000004
 longitude: 7.6711971000000005
-postcode: 67688
+postcode: "67688"
 city: Rodenbach
 street: "Am Tränkwald"
 housenumber: 16

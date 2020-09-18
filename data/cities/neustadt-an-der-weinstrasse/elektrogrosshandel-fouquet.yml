@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 49.3439045
 longitude: 8.1581123
-postcode: 67433
+postcode: "67433"
 city: Neustadt an der Weinstraße
 street: "Chemnitzer Straße"
 housenumber: 8

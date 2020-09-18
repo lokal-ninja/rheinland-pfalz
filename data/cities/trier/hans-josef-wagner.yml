@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.726348300000005
 longitude: 6.6313607
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Am Sandbach"
 housenumber: 7

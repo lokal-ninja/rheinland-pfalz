@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.4515047
 longitude: 7.855767
-postcode: 56412
+postcode: "56412"
 city: Heiligenroth
 street: "Industriestraße"
 housenumber: 28a

@@ -3,7 +3,7 @@ type: way
 shop: Landwirtschaftlich
 latitude: 50.2048229
 longitude: 6.422458300000001
-postcode: 54595
+postcode: "54595"
 city: Prüm
 street: "Bahnhofstraße"
 housenumber: 26

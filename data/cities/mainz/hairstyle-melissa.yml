@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.0000896
 longitude: 8.2704649
-postcode: 55116
+postcode: "55116"
 city: Mainz
 street: "Betzelsstraße"
 housenumber: 8-10

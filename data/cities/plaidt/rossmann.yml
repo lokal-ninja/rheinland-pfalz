@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.389014200000005
 longitude: 7.382566400000001
-postcode: 56637
+postcode: "56637"
 city: Plaidt
 street: "Fraukircher Straße"
 housenumber: 26 d

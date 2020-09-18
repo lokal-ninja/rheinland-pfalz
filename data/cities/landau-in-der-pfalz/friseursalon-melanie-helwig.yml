@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.203271900000004
 longitude: 8.1336914
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Horststraße"
 housenumber: 114d

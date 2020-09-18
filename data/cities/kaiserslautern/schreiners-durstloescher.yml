@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.449983700000004
 longitude: 7.7895586
-postcode: 67657
+postcode: "67657"
 city: Kaiserslautern
 street: "Mennonitenstraße"
 housenumber: 11

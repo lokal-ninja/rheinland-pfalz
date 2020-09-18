@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.786970000000004
 longitude: 7.6388759
-postcode: 55566
+postcode: "55566"
 city: Bad Sobernheim
 street: "Westtangente"
 housenumber: 3

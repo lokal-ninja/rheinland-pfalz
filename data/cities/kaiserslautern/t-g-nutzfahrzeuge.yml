@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.4422901
 longitude: 7.7289934
-postcode: 67663
+postcode: "67663"
 city: Kaiserslautern
 street: "Merkurstraße"
 housenumber: 17

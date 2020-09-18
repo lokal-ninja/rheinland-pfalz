@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.3953433
 longitude: 7.529112100000001
-postcode: 56218
+postcode: "56218"
 city: Mülheim-Kärlich
 street: "Industriestraße"
 housenumber: 18-20

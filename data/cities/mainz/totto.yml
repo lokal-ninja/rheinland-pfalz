@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.9806807
 longitude: 8.2675395
-postcode: 55131
+postcode: "55131"
 city: Mainz
 street: "Berliner Straße"
 housenumber: 

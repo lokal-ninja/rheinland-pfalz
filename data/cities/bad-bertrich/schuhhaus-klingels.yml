@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.0701698
 longitude: 7.0347550000000005
-postcode: 56864
+postcode: "56864"
 city: Bad Bertrich
 street: "Kurfürstenstraße"
 housenumber: 47

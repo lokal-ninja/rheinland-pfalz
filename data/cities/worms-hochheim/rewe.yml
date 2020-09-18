@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.614403100000004
 longitude: 8.3290603
-postcode: 67551
+postcode: "67551"
 city: Worms - Hochheim
 street: "Kolpingstraße"
 housenumber: 90

@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 49.7581366
 longitude: 6.6424485
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Simeonstraße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 50.110169400000004
 longitude: 6.9656720000000005
-postcode: 54552
+postcode: "54552"
 city: Strotzbüsch
 street: "Hontheimer Straße"
 housenumber: 3

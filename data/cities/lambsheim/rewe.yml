@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.508329
 longitude: 8.289031000000001
-postcode: 67245
+postcode: "67245"
 city: Lambsheim
 street: "Landmundstraße"
 housenumber: 1-3

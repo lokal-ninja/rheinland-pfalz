@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6298286
 longitude: 7.2279542
-postcode: 53604
+postcode: "53604"
 city: Bad Honnef
 street: "Wittichenauer Straße"
 housenumber: 11

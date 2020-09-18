@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.022877300000005
 longitude: 8.2361366
-postcode: 55120
+postcode: "55120"
 city: Mainz
 street: "Rheinallee"
 housenumber: 179

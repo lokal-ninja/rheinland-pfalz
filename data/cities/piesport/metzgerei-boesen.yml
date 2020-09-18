@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.8789171
 longitude: 6.9257103
-postcode: 54498
+postcode: "54498"
 city: Piesport
 street: "Bahnhofstraße"
 housenumber: 16 A

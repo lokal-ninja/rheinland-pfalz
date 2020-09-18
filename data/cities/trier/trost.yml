@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 49.7276712
 longitude: 6.6052137
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Niederkircher Straße"
 housenumber: 15

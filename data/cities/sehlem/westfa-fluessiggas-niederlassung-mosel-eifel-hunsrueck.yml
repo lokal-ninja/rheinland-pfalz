@@ -3,7 +3,7 @@ type: way
 shop: Gasflaschen
 latitude: 49.902502500000004
 longitude: 6.8228759000000005
-postcode: 54518
+postcode: "54518"
 city: Sehlem
 street: "Johann-Brand-Straße"
 housenumber: 2

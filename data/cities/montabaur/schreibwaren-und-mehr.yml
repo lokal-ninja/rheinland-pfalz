@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.4407689
 longitude: 7.8291588
-postcode: 56410
+postcode: "56410"
 city: Montabaur
 street: "Alleestraße"
 housenumber: 24

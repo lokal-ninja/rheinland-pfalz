@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.9988715
 longitude: 8.2678863
-postcode: 55116
+postcode: "55116"
 city: Mainz
 street: "Kötherhofstraße"
 housenumber: 5

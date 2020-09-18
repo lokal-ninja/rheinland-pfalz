@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.220385
 longitude: 7.279428800000001
-postcode: 56754
+postcode: "56754"
 city: Brohl
 street: "Neugasse"
 housenumber: 8

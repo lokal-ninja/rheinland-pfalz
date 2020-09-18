@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.086378100000005
 longitude: 7.211308300000001
-postcode: 56820
+postcode: "56820"
 city: Senheim
 street: "Drillesplatz"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.1092784
 longitude: 7.2093575
-postcode: 56820
+postcode: "56820"
 city: Briedern
 street: "Hauptstraße"
 housenumber: 14

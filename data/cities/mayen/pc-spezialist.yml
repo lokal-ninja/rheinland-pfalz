@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.326339700000005
 longitude: 7.2493265000000005
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "Eduard-Rhein-Straße"
 housenumber: 3

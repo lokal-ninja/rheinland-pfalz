@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.6317083
 longitude: 8.349540300000001
-postcode: 67549
+postcode: "67549"
 city: Worms
 street: "Alzeyer Straße"
 housenumber: 

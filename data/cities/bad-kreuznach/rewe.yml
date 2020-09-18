@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.814657800000006
 longitude: 7.8477212000000005
-postcode: 55583
+postcode: "55583"
 city: Bad Kreuznach
 street: "Weinbergstraße"
 housenumber: 3

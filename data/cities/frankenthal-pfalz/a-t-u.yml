@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.5456821
 longitude: 8.3525116
-postcode: 67227
+postcode: "67227"
 city: Frankenthal (Pfalz)
 street: "Wormser Straße"
 housenumber: 103

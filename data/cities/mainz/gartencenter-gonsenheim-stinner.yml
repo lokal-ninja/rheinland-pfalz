@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.9967375
 longitude: 8.2070875
-postcode: 55124
+postcode: "55124"
 city: Mainz
 street: "Zwanzig-Morgen-Weg"
 housenumber: 1

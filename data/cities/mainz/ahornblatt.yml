@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.988993900000004
 longitude: 8.2536457
-postcode: 55131
+postcode: "55131"
 city: Mainz
 street: "Untere Zahlbacher Straße"
 housenumber: 1a

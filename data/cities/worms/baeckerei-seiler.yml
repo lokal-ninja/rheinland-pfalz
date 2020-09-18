@@ -1,12 +1,12 @@
-id: 1511783904
-type: node
+id: 142034744
+type: way
 shop: Bäckerei
-latitude: 49.6105941
-longitude: 8.3207742
-postcode: 67551
+latitude: 49.610495300000004
+longitude: 8.320816
+postcode: "67551"
 city: Worms
 street: "Untere Hauptstraße"
-housenumber: 66
+housenumber: 68
 phone: ""
 opening_hours: ""
 website: ""

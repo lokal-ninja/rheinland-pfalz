@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.5640324
 longitude: 8.1639446
-postcode: 67269
+postcode: "67269"
 city: Grünstadt
 street: "Hauptstraße"
 housenumber: 41-43

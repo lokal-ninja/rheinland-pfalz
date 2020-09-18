@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.9615219
 longitude: 8.2656949
-postcode: 55129
+postcode: "55129"
 city: Mainz
 street: "Robert-Koch-Straße"
 housenumber: 19

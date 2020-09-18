@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.327057700000005
 longitude: 7.2435149
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "Hausener Straße"
 housenumber: 2-6

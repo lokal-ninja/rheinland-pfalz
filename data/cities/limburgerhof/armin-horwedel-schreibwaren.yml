@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.422853800000006
 longitude: 8.3942425
-postcode: 67117
+postcode: "67117"
 city: Limburgerhof
 street: "Burgunder Platz"
 housenumber: 14

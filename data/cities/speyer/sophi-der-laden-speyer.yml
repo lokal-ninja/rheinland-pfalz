@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.321320400000005
 longitude: 8.417642
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Lessingstraße"
 housenumber: 2

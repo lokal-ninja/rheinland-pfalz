@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4292705
 longitude: 8.313586500000001
-postcode: 67125
+postcode: "67125"
 city: Dannstadt-Schauernheim
 street: "Hauptstraße"
 housenumber: 47

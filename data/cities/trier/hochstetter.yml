@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.758732200000004
 longitude: 6.643316700000001
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Simeonstraße"
 housenumber: 13

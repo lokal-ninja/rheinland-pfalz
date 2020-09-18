@@ -3,7 +3,7 @@ type: node
 shop: Autoservice
 latitude: 50.3321607
 longitude: 7.2606815000000005
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "Nikolaus-Otto-Straße"
 housenumber: 14

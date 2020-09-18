@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 49.4355914
 longitude: 7.755246700000001
-postcode: 67655
+postcode: "67655"
 city: Kaiserslautern
 street: "Königstraße"
 housenumber: 125

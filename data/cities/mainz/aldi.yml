@@ -1,12 +1,12 @@
-id: 469186352
-type: node
+id: 390458976
+type: way
 shop: Supermarkt
-latitude: 50.0004701
-longitude: 8.248187900000001
-postcode: 55122
+latitude: 49.915445500000004
+longitude: 8.2504074
+postcode: "55129"
 city: Mainz
-street: ""
-housenumber: 
+street: "Töngesstraße"
+housenumber: 38a
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"
 website: ""

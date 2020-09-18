@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.7620366
 longitude: 6.648028600000001
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Paulinstraße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.1432731
 longitude: 7.123814
-postcode: 56814
+postcode: "56814"
 city: Faid
 street: "Vor den Birken"
 housenumber: 3

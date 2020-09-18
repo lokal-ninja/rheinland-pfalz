@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.49694
 longitude: 8.157163
-postcode: 67098
+postcode: "67098"
 city: Bad Dürkheim
 street: "Weidenhof"
 housenumber: 3

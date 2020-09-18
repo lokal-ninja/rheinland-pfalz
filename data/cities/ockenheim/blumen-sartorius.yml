@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.946737500000005
 longitude: 7.9678291
-postcode: 55437
+postcode: "55437"
 city: Ockenheim
 street: "Bahnweg"
 housenumber: 15

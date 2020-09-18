@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.656051600000005
 longitude: 6.947219400000001
-postcode: 54411
+postcode: "54411"
 city: Hermeskeil
 street: "Donatusstraße"
 housenumber: 6

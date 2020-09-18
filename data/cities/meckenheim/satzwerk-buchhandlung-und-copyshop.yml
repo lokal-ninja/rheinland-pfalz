@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.403660800000004
 longitude: 8.2401814
-postcode: 67149
+postcode: "67149"
 city: Meckenheim
 street: "Steingasse"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.0402787
 longitude: 8.2391748
-postcode: 65203
+postcode: "65203"
 city: Wiesbaden
 street: "Rathausstraße"
 housenumber: 45a

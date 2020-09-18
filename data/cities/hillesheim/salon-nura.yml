@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.294652000000006
 longitude: 6.6734958
-postcode: 54576
+postcode: "54576"
 city: Hillesheim
 street: "Gartenstraße"
 housenumber: 19

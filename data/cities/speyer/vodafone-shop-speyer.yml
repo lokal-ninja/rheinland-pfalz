@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.3203532
 longitude: 8.4177531
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Heinrich-Heine-Straße"
 housenumber: 5

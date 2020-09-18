@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.849379500000005
 longitude: 8.120620500000001
-postcode: 55286
+postcode: "55286"
 city: Wörrstadt
 street: "Ober-Saulheimer-Straße"
 housenumber: 1

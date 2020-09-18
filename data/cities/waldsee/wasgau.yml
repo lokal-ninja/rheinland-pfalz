@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.391136200000005
 longitude: 8.431882100000001
-postcode: 67165
+postcode: "67165"
 city: Waldsee
 street: "Albert-Einstein-Allee"
 housenumber: 43

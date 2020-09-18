@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.007025500000005
 longitude: 8.285805100000001
-postcode: 55252
+postcode: "55252"
 city: Wiesbaden
 street: "Frankfurter Straße"
 housenumber: 11

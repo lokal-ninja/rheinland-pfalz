@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.3963301
 longitude: 7.5712558
-postcode: 66849
+postcode: "66849"
 city: Landstuhl
 street: "Eichenstraße"
 housenumber: 61 Eingang Hörnchenweg

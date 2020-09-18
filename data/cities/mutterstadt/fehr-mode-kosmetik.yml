@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.4418092
 longitude: 8.3535894
-postcode: 67112
+postcode: "67112"
 city: Mutterstadt
 street: "Neustadter Straße"
 housenumber: 10

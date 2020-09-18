@@ -3,7 +3,7 @@ type: way
 shop: Konditorei
 latitude: 50.292215600000006
 longitude: 7.4632211
-postcode: 56332
+postcode: "56332"
 city: Niederfell
 street: "Moselstraße"
 housenumber: 15

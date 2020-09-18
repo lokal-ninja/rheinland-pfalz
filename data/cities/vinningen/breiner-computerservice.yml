@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 49.1598191
 longitude: 7.552702300000001
-postcode: 66957
+postcode: "66957"
 city: Vinningen
 street: "Bogenstraße"
 housenumber: 1

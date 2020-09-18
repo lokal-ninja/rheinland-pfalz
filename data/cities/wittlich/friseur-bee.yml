@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.9861786
 longitude: 6.8860985
-postcode: 54516
+postcode: "54516"
 city: Wittlich
 street: "Feldstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.2505639
 longitude: 6.413884100000001
-postcode: 54595
+postcode: "54595"
 city: Wascheid
 street: "Hauptstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.0257401
 longitude: 8.226961900000001
-postcode: 55120
+postcode: "55120"
 city: Mainz
 street: "Rheinallee"
 housenumber: 199

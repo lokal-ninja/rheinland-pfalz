@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.7546637
 longitude: 6.6373405000000005
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Fleischstraße"
 housenumber: 49

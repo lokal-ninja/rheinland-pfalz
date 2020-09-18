@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.3173152
 longitude: 8.4360456
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Maximilianstraße"
 housenumber: 28

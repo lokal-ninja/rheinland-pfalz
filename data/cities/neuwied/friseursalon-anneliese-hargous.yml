@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.4624767
 longitude: 7.449437700000001
-postcode: 56567
+postcode: "56567"
 city: Neuwied
 street: "Niederbieberer Straße"
 housenumber: 4

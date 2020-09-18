@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.674981
 longitude: 8.2813029
-postcode: 67550
+postcode: "67550"
 city: Worms
 street: "Fronstraße"
 housenumber: 34

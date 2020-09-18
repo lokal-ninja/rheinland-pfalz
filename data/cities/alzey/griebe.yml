@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.745021400000006
 longitude: 8.1134815
-postcode: 55232
+postcode: "55232"
 city: Alzey
 street: "Sankt-Georgen-Straße"
 housenumber: 

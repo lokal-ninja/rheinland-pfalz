@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 50.5456525
 longitude: 7.1776778000000006
-postcode: 53474
+postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
 street: "Göppinger Straße"
 housenumber: 13a

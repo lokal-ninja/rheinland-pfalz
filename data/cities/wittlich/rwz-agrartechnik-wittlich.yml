@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 49.9836607
 longitude: 6.905067900000001
-postcode: 54516
+postcode: "54516"
 city: Wittlich
 street: "Max-Planck-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.4406089
 longitude: 7.4010701
-postcode: 56626
+postcode: "56626"
 city: Andernach
 street: "Rheinstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.75782
 longitude: 6.6424665
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Simeonstraße"
 housenumber: 26

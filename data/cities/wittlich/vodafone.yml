@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.985630500000006
 longitude: 6.886910500000001
-postcode: 54516
+postcode: "54516"
 city: Wittlich
 street: "Trierer Straße"
 housenumber: 7

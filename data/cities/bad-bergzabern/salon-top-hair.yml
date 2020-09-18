@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.101614600000005
 longitude: 7.995301
-postcode: 76887
+postcode: "76887"
 city: Bad Bergzabern
 street: "Pfarrgasse"
 housenumber: 

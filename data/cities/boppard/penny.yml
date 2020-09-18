@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.214796400000004
 longitude: 7.5419352
-postcode: 56154
+postcode: "56154"
 city: Boppard
 street: "Casinostraße"
 housenumber: 60

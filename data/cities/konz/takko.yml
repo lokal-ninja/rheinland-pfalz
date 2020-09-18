@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.6943707
 longitude: 6.5650436
-postcode: 54329
+postcode: "54329"
 city: Konz
 street: "Wilde Acht"
 housenumber: 3

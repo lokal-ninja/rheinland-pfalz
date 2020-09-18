@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.317545100000004
 longitude: 8.435987
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Maximilianstraße"
 housenumber: 80

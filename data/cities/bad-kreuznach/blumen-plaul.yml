@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.8358945
 longitude: 7.86932
-postcode: 55543
+postcode: "55543"
 city: Bad Kreuznach
 street: "Mannheimer Straße"
 housenumber: 300

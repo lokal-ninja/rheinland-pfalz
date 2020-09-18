@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.912044300000005
 longitude: 7.0676297
-postcode: 54470
+postcode: "54470"
 city: Bernkastel-Kues
 street: "Nikolausufer"
 housenumber: 1 A

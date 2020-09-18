@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.657078000000006
 longitude: 7.9599634
-postcode: 56470
+postcode: "56470"
 city: Bad Marienberg (Westerwald)
 street: "Jahnstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.633946300000005
 longitude: 8.3577034
-postcode: 
+postcode: ""
 city: Worms
 street: ""
 housenumber: 

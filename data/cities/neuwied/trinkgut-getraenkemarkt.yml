@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.4371512
 longitude: 7.4940983
-postcode: 56566
+postcode: "56566"
 city: Neuwied
 street: "Allensteiner Straße"
 housenumber: 22a

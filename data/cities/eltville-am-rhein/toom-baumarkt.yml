@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.023807500000004
 longitude: 8.103524100000001
-postcode: 65346
+postcode: "65346"
 city: Eltville am Rhein
 street: "Erbacher Straße"
 housenumber: 33

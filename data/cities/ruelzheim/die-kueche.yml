@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 49.1506515
 longitude: 8.3004523
-postcode: 76761
+postcode: "76761"
 city: Rülzheim
 street: "Gutenbergstraße"
 housenumber: 18

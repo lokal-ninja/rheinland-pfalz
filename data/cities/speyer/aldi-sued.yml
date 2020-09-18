@@ -1,12 +1,12 @@
-id: 108956809
-type: way
+id: 7379736548
+type: node
 shop: Supermarkt
-latitude: 49.3354718
-longitude: 8.4370055
-postcode: 67346
+latitude: 49.3331408
+longitude: 8.419274600000001
+postcode: "67346"
 city: Speyer
-street: "Tullastraße"
-housenumber: 53
+street: "Iggelheimer Straße"
+housenumber: 18
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
+website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Mittelwegring%2045%20Jockgrim&Mode=None#"

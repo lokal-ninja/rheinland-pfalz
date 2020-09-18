@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.4455528
 longitude: 7.7840334
-postcode: 67655
+postcode: "67655"
 city: Kaiserslautern
 street: "Mannheimer Straße"
 housenumber: 92

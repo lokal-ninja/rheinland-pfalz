@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.315337
 longitude: 8.3927717
-postcode: 67373
+postcode: "67373"
 city: Dudenhofen
 street: "Johann-Walter-Straße"
 housenumber: 

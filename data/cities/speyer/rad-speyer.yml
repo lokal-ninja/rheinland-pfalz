@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.3276594
 longitude: 8.4306608
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Wormser Landstraße"
 housenumber: 67a

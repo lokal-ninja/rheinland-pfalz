@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.185322500000005
 longitude: 7.000600400000001
-postcode: 56766
+postcode: "56766"
 city: Auderath
 street: "Mühlenweg"
 housenumber: 1

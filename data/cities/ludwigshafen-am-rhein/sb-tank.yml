@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.533939100000005
 longitude: 8.388040100000001
-postcode: 67069
+postcode: "67069"
 city: Ludwigshafen am Rhein
 street: "Oppauer Straße"
 housenumber: 108

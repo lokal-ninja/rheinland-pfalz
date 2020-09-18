@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 49.9765474
 longitude: 8.2884597
-postcode: 55130
+postcode: "55130"
 city: Mainz
 street: "Max-Hufschmidt-Straße"
 housenumber: 1

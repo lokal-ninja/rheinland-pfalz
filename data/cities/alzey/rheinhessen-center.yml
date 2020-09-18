@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.7467592
 longitude: 8.138807400000001
-postcode: 55232
+postcode: "55232"
 city: Alzey
 street: "Karl-Heinz-Kipp-Straße"
 housenumber: 23

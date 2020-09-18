@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.763326000000006
 longitude: 6.6632134
-postcode: 54295
+postcode: "54295"
 city: Trier
 street: "Avelsbacher Straße"
 housenumber: 20

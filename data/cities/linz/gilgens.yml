@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5706417
 longitude: 7.2881796
-postcode: 53545
+postcode: "53545"
 city: Linz
 street: "Asbacher Straße"
 housenumber: 69 - 73

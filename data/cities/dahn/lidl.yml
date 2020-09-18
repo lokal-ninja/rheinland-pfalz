@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.138317900000004
 longitude: 7.7964957
-postcode: 66994
+postcode: "66994"
 city: Dahn
 street: "An der Reichenbach"
 housenumber: 2d

@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 50.0444826
 longitude: 7.8036215
-postcode: 65391
+postcode: "65391"
 city: Lorch
 street: "Langgasse"
 housenumber: 2

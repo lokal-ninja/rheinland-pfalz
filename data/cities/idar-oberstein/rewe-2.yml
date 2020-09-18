@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.724669000000006
 longitude: 7.318498300000001
-postcode: 55743
+postcode: "55743"
 city: Idar-Oberstein
 street: "Vollmersbachstraße"
 housenumber: 63

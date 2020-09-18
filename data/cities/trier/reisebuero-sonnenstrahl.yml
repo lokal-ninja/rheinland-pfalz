@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.758086500000005
 longitude: 6.649941200000001
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Roonstraße"
 housenumber: 8

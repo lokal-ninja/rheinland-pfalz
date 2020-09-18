@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8633985
 longitude: 7.726367600000001
-postcode: 51597
+postcode: "51597"
 city: Morsbach
 street: "Zur Hoorwiss"
 housenumber: 1

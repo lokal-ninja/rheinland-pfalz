@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.7386886
 longitude: 6.632239200000001
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Aulstraße"
 housenumber: 3

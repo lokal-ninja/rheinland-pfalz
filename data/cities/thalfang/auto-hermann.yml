@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.751358
 longitude: 7.0072158
-postcode: 54424
+postcode: "54424"
 city: Thalfang
 street: "Bahnhofstraße"
 housenumber: 47

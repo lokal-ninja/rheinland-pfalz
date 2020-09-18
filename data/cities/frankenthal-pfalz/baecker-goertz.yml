@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.523189800000004
 longitude: 8.355115900000001
-postcode: 67227
+postcode: "67227"
 city: Frankenthal (Pfalz)
 street: "Albrecht-Dürer-Ring"
 housenumber: 1

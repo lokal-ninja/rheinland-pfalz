@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.085190600000004
 longitude: 6.809020500000001
-postcode: 54531
+postcode: "54531"
 city: Manderscheid
 street: "Gewerbestraße"
 housenumber: 9

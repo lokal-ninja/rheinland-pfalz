@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.844777900000004
 longitude: 6.4556260000000005
-postcode: 54666
+postcode: "54666"
 city: Irrel
 street: "Hauptstraße"
 housenumber: 30

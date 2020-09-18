@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.2073399
 longitude: 8.126180900000001
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Horstschanze"
 housenumber: 44

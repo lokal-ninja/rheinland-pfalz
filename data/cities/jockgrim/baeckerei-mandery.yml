@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0972195
 longitude: 8.279565700000001
-postcode: 76751
+postcode: "76751"
 city: Jockgrim
 street: "Schelmenwaldplatz"
 housenumber: 2

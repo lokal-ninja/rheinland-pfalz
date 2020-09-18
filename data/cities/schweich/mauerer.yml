@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsartikel
 latitude: 49.823424800000005
 longitude: 6.753370100000001
-postcode: 54338
+postcode: "54338"
 city: Schweich
 street: "Richtstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 50.256476400000004
 longitude: 6.4122405
-postcode: 54595
+postcode: "54595"
 city: Gondenbrett
 street: "Hauptstraße"
 housenumber: 63

@@ -1,12 +1,12 @@
-id: 37932075
-type: way
+id: 7416499586
+type: node
 shop: Supermarkt
-latitude: 49.943468200000005
-longitude: 8.190726100000001
-postcode: 55270
+latitude: 49.943648100000004
+longitude: 8.1910345
+postcode: "55270"
 city: Ober-Olm
 street: "Jägerpfad"
 housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH closed"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Jägerpfad 1 55270 Ober-Olm&Mode=None"

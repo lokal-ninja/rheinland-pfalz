@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.8448836
 longitude: 6.8633495
-postcode: 54340
+postcode: "54340"
 city: Klüsserath
 street: "Mittelstraße"
 housenumber: 109

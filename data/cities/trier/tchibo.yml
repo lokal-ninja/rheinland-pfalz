@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 49.754151900000004
 longitude: 6.6400874000000005
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Brotstraße"
 housenumber: 21-22

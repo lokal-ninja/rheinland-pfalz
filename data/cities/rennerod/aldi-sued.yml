@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6009066
 longitude: 8.065613
-postcode: 56477
+postcode: "56477"
 city: Rennerod
 street: "Gewerbestraße"
 housenumber: 6-8

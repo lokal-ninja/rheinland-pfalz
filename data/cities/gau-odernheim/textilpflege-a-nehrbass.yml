@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.7843936
 longitude: 8.192218200000001
-postcode: 55239
+postcode: "55239"
 city: Gau-Odernheim
 street: "Obermarkt"
 housenumber: 5

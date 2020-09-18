@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.7860445
 longitude: 7.461366900000001
-postcode: 55606
+postcode: "55606"
 city: Kirn
 street: "Übergasse"
 housenumber: 8

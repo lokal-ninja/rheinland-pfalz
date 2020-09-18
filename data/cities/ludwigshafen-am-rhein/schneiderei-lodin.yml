@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 49.475603400000004
 longitude: 8.4433722
-postcode: 67061
+postcode: "67061"
 city: Ludwigshafen am Rhein
 street: "Saarlandstraße"
 housenumber: 147

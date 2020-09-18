@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.6213993
 longitude: 7.427410500000001
-postcode: 53577
+postcode: "53577"
 city: Neustadt (Wied)
 street: "Wiedtalstraße"
 housenumber: 

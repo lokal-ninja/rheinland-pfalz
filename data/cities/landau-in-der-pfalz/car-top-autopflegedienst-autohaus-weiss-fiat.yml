@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.207443000000005
 longitude: 8.1249217
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Hainbachstraße"
 housenumber: 80;82-84

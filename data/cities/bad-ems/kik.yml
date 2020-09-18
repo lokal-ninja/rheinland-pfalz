@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.33447880000001
 longitude: 7.714689900000001
-postcode: 56130
+postcode: "56130"
 city: Bad Ems
 street: "Römerstraße"
 housenumber: 80

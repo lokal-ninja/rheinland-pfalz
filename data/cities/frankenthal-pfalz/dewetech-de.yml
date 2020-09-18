@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.5455794
 longitude: 8.341622000000001
-postcode: 67227
+postcode: "67227"
 city: Frankenthal (Pfalz)
 street: "Adam-Opel-Straße"
 housenumber: 20

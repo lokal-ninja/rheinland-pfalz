@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.663726800000006
 longitude: 7.807544600000001
-postcode: 57627
+postcode: "57627"
 city: Hachenburg
 street: "Kleeberger Weg"
 housenumber: 35

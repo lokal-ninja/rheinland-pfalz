@@ -1,12 +1,12 @@
-id: 47155968
-type: way
+id: 7470525302
+type: node
 shop: Supermarkt
-latitude: 49.340004300000004
-longitude: 8.161140600000001
-postcode: 67433
+latitude: 49.339446200000005
+longitude: 8.1617662
+postcode: "67433"
 city: Neustadt an der Weinstraße
 street: "Adolf-Kolping-Straße"
 housenumber: 173
 phone: "+49 6321 4090"
-opening_hours: "Mo-Fr 08:00-22:00; Sa 07:00-22:00"
-website: "https://www.globus.de/neustadt/kontakt.php"
+opening_hours: "Mo-Fr 08:00-22:00; Sa 07:00-22:00; Su,PH off"
+website: "https://www.globus.de/neustadt/index.php"

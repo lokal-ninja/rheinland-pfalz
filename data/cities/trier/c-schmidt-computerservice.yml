@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.7936799
 longitude: 6.6801938000000005
-postcode: 54293
+postcode: "54293"
 city: Trier
 street: "Ehranger Straße"
 housenumber: 81

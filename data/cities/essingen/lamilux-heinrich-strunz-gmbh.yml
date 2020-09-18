@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.2355296
 longitude: 8.1737476
-postcode: 76879
+postcode: "76879"
 city: Essingen
 street: "Dalbergstraße"
 housenumber: 14

@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 49.9906857
 longitude: 8.2618244
-postcode: 55131
+postcode: "55131"
 city: Mainz
 street: "An der Philippsschanze"
 housenumber: 15
-phone: ""
+phone: "+49 6131 573101"
 opening_hours: "Mo-We,Fr 07:00-18:00, Th 07:00-14:00, Sa 07:00-13:00"
 website: "http://www.metzgerei-koeppl.de/"

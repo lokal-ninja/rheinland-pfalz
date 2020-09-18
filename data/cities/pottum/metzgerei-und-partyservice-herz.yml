@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.5974736
 longitude: 7.9993493
-postcode: 56459
+postcode: "56459"
 city: Pottum
 street: "Hauptstraße"
 housenumber: 34

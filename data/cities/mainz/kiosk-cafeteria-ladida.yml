@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.0107398
 longitude: 8.2608443
-postcode: 55118
+postcode: "55118"
 city: Mainz
 street: "Illstraße"
 housenumber: 1

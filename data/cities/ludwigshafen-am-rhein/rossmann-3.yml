@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.4919529
 longitude: 8.376053800000001
-postcode: 67071
+postcode: "67071"
 city: Ludwigshafen am Rhein
 street: "Schillerstraße"
 housenumber: 2

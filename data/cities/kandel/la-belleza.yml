@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.0818931
 longitude: 8.196142100000001
-postcode: 76870
+postcode: "76870"
 city: Kandel
 street: "Hauptstraße"
 housenumber: 92

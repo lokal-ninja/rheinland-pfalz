@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 49.913271300000005
 longitude: 8.1796444
-postcode: 55268
+postcode: "55268"
 city: Nieder-Olm
 street: "Am Giener"
 housenumber: 23a

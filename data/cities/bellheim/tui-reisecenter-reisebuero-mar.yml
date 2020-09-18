@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.1910442
 longitude: 8.2827464
-postcode: 76756
+postcode: "76756"
 city: Bellheim
 street: "Hauptstraße"
 housenumber: 127

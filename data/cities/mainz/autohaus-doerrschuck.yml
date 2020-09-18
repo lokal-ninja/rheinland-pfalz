@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.9731734
 longitude: 8.238032
-postcode: 55128
+postcode: "55128"
 city: Mainz
 street: "Marienborner Straße"
 housenumber: 49

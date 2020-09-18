@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.3179321
 longitude: 8.433609500000001
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Wormser Straße"
 housenumber: 2

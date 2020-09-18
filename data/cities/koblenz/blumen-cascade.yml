@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.3416148
 longitude: 7.5705895000000005
-postcode: 56075
+postcode: "56075"
 city: Koblenz
 street: "Potsdamer Straße"
 housenumber: 10

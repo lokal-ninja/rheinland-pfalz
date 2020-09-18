@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.3301292
 longitude: 7.2234628
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "Marktstraße"
 housenumber: 27

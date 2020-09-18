@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.4226023
 longitude: 8.39409
-postcode: 67117
+postcode: "67117"
 city: Limburgerhof
 street: "Burgunder Platz"
 housenumber: 11

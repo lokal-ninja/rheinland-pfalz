@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.784803000000004
 longitude: 8.190822
-postcode: 55239
+postcode: "55239"
 city: Gau-Odernheim
 street: "Mainzer Straße"
 housenumber: 15

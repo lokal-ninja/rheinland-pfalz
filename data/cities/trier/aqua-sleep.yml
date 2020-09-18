@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.7656993
 longitude: 6.6550288
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Thyrsusstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.8601119
 longitude: 7.990127800000001
-postcode: 55576
+postcode: "55576"
 city: Sprendlingen
 street: "St. Johanner Straße"
 housenumber: 32

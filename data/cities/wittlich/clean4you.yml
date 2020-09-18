@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.9864132
 longitude: 6.8922151000000005
-postcode: 54516
+postcode: "54516"
 city: Wittlich
 street: "Kurfürstenstraße"
 housenumber: 7

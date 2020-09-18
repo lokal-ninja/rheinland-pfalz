@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.195992100000005
 longitude: 8.1418963
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Queichheimer Hauptstraße"
 housenumber: 113

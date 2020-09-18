@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.651923800000006
 longitude: 7.535097800000001
-postcode: 57632
+postcode: "57632"
 city: Flammersfeld
 street: "Kornbitze"
 housenumber: 7

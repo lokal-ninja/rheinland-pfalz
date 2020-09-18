@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.058312400000005
 longitude: 8.0763108
-postcode: 76744
+postcode: "76744"
 city: Wörth am Rhein
 street: "Hauptstraße"
 housenumber: 53

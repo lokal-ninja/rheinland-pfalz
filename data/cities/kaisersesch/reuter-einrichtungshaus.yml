@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.230474300000004
 longitude: 7.132514700000001
-postcode: 56759
+postcode: "56759"
 city: Kaisersesch
 street: "Bahnhofstraße"
 housenumber: 41;43;45

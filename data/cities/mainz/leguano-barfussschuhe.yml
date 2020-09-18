@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.0004518
 longitude: 8.2711471
-postcode: 55116
+postcode: "55116"
 city: Mainz
 street: "Betzelsstraße"
 housenumber: 20-24

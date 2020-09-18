@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.3534457
 longitude: 8.1402204
-postcode: 67433
+postcode: "67433"
 city: Neustadt an der Weinstraße
 street: "Konrad-Adenauer-Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.6317255
 longitude: 6.5521653
-postcode: 54441
+postcode: "54441"
 city: Ayl
 street: "Feldstraße"
 housenumber: 3

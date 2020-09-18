@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.3290456
 longitude: 8.428891700000001
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Karl-Spindler-Straße"
 housenumber: 2

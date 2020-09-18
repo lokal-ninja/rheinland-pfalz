@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.9588252
 longitude: 8.0108762
-postcode: 55435
+postcode: "55435"
 city: Gau-Algesheim
 street: "Gartenfeldstraße"
 housenumber: 3

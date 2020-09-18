@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.1336102
 longitude: 7.5322098
-postcode: 56291
+postcode: "56291"
 city: Thörlingen
 street: "Hauptstraße"
 housenumber: 11-13

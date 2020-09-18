@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.2070402
 longitude: 8.1337221
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Horstring"
 housenumber: 14

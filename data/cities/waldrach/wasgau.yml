@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7577033
 longitude: 6.7318407
-postcode: 54320
+postcode: "54320"
 city: Waldrach
 street: "Trierer Straße"
 housenumber: 47

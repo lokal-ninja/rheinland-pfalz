@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 49.6984805
 longitude: 6.574851000000001
-postcode: 54329
+postcode: "54329"
 city: Konz
 street: "Saar-Mosel-Platz"
 housenumber: 1

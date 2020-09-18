@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2489215
 longitude: 8.342163600000001
-postcode: 67360
+postcode: "67360"
 city: Lingenfeld
 street: "Germersheimer Straße"
 housenumber: 53

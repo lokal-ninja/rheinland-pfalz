@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.205605600000005
 longitude: 7.2408257
-postcode: 56754
+postcode: "56754"
 city: Binningen
 street: "Rosenthaler Weg"
 housenumber: 4

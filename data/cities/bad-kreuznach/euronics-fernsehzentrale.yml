@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.8465312
 longitude: 7.884257900000001
-postcode: 55543
+postcode: "55543"
 city: Bad Kreuznach
 street: "Bosenheimer Straße"
 housenumber: 204

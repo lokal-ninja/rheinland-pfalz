@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.3311513
 longitude: 7.7072032
-postcode: 56130
+postcode: "56130"
 city: Bad Ems
 street: "Ernst-Born-Straße"
 housenumber: 4

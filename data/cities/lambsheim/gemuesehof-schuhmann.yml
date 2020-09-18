@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.516562300000004
 longitude: 8.296636600000001
-postcode: 67245
+postcode: "67245"
 city: Lambsheim
 street: "Niedergärten"
 housenumber: 1

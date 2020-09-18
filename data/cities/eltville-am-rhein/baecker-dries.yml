@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0255385
 longitude: 8.1195385
-postcode: 65343
+postcode: "65343"
 city: Eltville am Rhein
 street: "Marktstraße"
 housenumber: 12

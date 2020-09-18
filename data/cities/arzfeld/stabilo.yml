@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.091817400000004
 longitude: 6.2690324
-postcode: 54687
+postcode: "54687"
 city: Arzfeld
 street: "Industriestraße"
 housenumber: 17

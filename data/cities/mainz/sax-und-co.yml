@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 50.0056632
 longitude: 8.2589549
-postcode: 55118
+postcode: "55118"
 city: Mainz
 street: "Kurfürstenstraße"
 housenumber: 7

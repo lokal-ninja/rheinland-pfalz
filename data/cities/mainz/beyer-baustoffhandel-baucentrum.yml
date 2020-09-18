@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.9574785
 longitude: 8.260851500000001
-postcode: 55129
+postcode: "55129"
 city: Mainz
 street: "Robert-Koch-Straße"
 housenumber: 32

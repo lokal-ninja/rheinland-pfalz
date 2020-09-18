@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.449609800000005
 longitude: 7.777037600000001
-postcode: 67657
+postcode: "67657"
 city: Kaiserslautern
 street: "Gersweilerweg"
 housenumber: 4

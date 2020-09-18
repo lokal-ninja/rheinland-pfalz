@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0881631
 longitude: 7.7618999
-postcode: 56349
+postcode: "56349"
 city: Kaub
 street: "Marktplatz"
 housenumber: 5

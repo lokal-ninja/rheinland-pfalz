@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.488653000000006
 longitude: 7.0955481
-postcode: 53474
+postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
 street: "Mayener Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.3389116
 longitude: 8.4341896
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Tullastraße"
 housenumber: 31

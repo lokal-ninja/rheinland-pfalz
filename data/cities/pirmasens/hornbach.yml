@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.224865400000006
 longitude: 7.589730200000001
-postcode: 66954
+postcode: "66954"
 city: Pirmasens
 street: "Zweibrücker Straße"
 housenumber: 219-223

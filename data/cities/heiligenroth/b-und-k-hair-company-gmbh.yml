@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.448280700000005
 longitude: 7.8466032000000006
-postcode: 56412
+postcode: "56412"
 city: Heiligenroth
 street: "Industriestraße"
 housenumber: 12

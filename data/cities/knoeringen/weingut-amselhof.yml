@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.2374984
 longitude: 8.144478000000001
-postcode: 76833
+postcode: "76833"
 city: Knöringen
 street: "Hauptstraße"
 housenumber: 4

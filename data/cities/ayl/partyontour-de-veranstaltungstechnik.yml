@@ -3,7 +3,7 @@ type: way
 shop: Musik
 latitude: 49.631439300000004
 longitude: 6.556687500000001
-postcode: 54441
+postcode: "54441"
 city: Ayl
 street: "Biebelhausener Straße"
 housenumber: 14a

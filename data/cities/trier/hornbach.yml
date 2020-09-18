@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.7414762
 longitude: 6.6172164
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Nikolaus-Theis-Straße"
 housenumber: 1

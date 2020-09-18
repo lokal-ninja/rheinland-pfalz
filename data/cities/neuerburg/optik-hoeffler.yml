@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.011617400000006
 longitude: 6.2943061
-postcode: 54673
+postcode: "54673"
 city: Neuerburg
 street: "Tränkstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.638965000000006
 longitude: 7.3461555
-postcode: 53578
+postcode: "53578"
 city: Windhagen
 street: "Köhlershohner Straße"
 housenumber: 64

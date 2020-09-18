@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.7496336
 longitude: 8.136869800000001
-postcode: 55232
+postcode: "55232"
 city: Alzey
 street: "Rudolf-Diesel-Straße"
 housenumber: 5

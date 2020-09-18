@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 50.0414122
 longitude: 8.2176004
-postcode: 65203
+postcode: "65203"
 city: Wiesbaden
 street: "Rheingaustraße"
 housenumber: 74-76

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.3318449
 longitude: 8.203021600000001
-postcode: 67435
+postcode: "67435"
 city: Neustadt an der Weinstraße
 street: "Haßlocher Straße"
 housenumber: 55

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.114295500000004
 longitude: 8.2691379
-postcode: 76764
+postcode: "76764"
 city: Rheinzabern
 street: "Pfeifferstraße"
 housenumber: 20

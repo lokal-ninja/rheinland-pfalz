@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 49.720519800000005
 longitude: 6.5910013
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Monaiser Straße"
 housenumber: 1

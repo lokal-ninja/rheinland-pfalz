@@ -1,12 +1,12 @@
-id: 467941938
-type: way
+id: 7478020132
+type: node
 shop: Supermarkt
-latitude: 50.024051400000005
-longitude: 8.2217638
-postcode: 55120
+latitude: 49.968233700000006
+longitude: 8.237949
+postcode: "55128"
 city: Mainz
-street: "Alte Markthalle"
+street: "Am Schleifweg"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+website: "https://www.lidl.de/filialen/mainz/bretzenheim-am-schleifweg-2.html"

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.3628335
 longitude: 8.2570388
-postcode: 67454
+postcode: "67454"
 city: Haßloch
 street: "Rathausplatz"
 housenumber: 2

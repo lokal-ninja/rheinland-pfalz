@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.4367201
 longitude: 7.830221600000001
-postcode: 56410
+postcode: "56410"
 city: Montabaur
 street: "Kleiner Markt"
 housenumber: 1-3

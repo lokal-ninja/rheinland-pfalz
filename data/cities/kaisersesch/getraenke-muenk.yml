@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.229610300000004
 longitude: 7.129553100000001
-postcode: 56759
+postcode: "56759"
 city: Kaisersesch
 street: "Bahnhofstraße"
 housenumber: 61

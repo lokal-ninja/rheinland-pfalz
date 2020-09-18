@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.6091369
 longitude: 6.552805500000001
-postcode: 54439
+postcode: "54439"
 city: Saarburg
 street: "Graf-Siegfried-Straße"
 housenumber: 2a

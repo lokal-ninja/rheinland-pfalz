@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.071583700000005
 longitude: 7.037005300000001
-postcode: 56864
+postcode: "56864"
 city: Bad Bertrich
 street: "Bäderstraße"
 housenumber: 17

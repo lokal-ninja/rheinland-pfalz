@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.4611877
 longitude: 8.1679902
-postcode: 67098
+postcode: "67098"
 city: Bad Dürkheim
 street: "Römerplatz"
 housenumber: 2

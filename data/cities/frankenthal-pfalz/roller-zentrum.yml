@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 49.522272900000004
 longitude: 8.3500796
-postcode: 67227
+postcode: "67227"
 city: Frankenthal (Pfalz)
 street: "Hammstraße"
 housenumber: 11

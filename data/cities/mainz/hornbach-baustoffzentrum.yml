@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.967112
 longitude: 8.238949100000001
-postcode: 55128
+postcode: "55128"
 city: Mainz
 street: "Am Schleifweg"
 housenumber: 5

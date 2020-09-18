@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.5195712
 longitude: 8.3512352
-postcode: 67227
+postcode: "67227"
 city: Frankenthal (Pfalz)
 street: "Daniel-Bechtel-Straße"
 housenumber: 1

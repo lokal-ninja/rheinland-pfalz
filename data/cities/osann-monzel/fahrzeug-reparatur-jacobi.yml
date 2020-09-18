@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.9245061
 longitude: 6.9424992
-postcode: 54518
+postcode: "54518"
 city: Osann-Monzel
 street: "Am Weisenstein"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.2045729
 longitude: 7.599139600000001
-postcode: 66953
+postcode: "66953"
 city: Pirmasens
 street: "Bahnhofstraße"
 housenumber: 46

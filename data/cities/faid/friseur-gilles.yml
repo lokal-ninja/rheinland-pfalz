@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.1447647
 longitude: 7.119128900000001
-postcode: 56814
+postcode: "56814"
 city: Faid
 street: "Kirchweg"
 housenumber: 6

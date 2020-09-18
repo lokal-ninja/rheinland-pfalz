@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.7469763
 longitude: 8.1129259
-postcode: 55232
+postcode: "55232"
 city: Alzey
 street: "Antoniterstraße"
 housenumber: 

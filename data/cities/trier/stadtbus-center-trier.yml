@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 49.758451
 longitude: 6.6407729
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Treviris-Passage"
 housenumber: 16

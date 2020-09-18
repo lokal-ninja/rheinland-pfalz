@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 49.4517782
 longitude: 7.7839704
-postcode: 67657
+postcode: "67657"
 city: Kaiserslautern
 street: "Mainzer Straße"
 housenumber: 65

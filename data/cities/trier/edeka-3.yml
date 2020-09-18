@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.740314500000004
 longitude: 6.6421168
-postcode: 54295
+postcode: "54295"
 city: Trier
 street: "Rotbachstraße"
 housenumber: 25

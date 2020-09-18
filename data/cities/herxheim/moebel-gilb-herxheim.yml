@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.1356137
 longitude: 8.2144311
-postcode: 76863
+postcode: "76863"
 city: Herxheim
 street: "St.-Christophorus-Straße"
 housenumber: 4-6

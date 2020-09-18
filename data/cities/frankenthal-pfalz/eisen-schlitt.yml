@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 49.5377651
 longitude: 8.3525288
-postcode: 67227
+postcode: "67227"
 city: Frankenthal (Pfalz)
 street: "Westliche Ringstraße"
 housenumber: 32a

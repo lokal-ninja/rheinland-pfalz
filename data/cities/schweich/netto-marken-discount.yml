@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.8202305
 longitude: 6.7419416000000005
-postcode: 54338
+postcode: "54338"
 city: Schweich
 street: "Im Ermesgraben"
 housenumber: 1a

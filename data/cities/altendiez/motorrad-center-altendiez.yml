@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 50.3720622
 longitude: 7.9904286
-postcode: 65624
+postcode: "65624"
 city: Altendiez
 street: "Bökelmannstraße"
 housenumber: 2

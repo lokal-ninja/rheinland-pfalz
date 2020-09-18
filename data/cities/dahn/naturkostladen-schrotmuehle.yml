@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.1510875
 longitude: 7.7783039
-postcode: 
+postcode: ""
 city: Dahn
 street: "Marktstraße"
 housenumber: 8

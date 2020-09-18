@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.3581979
 longitude: 7.5967150000000006
-postcode: 56068
+postcode: "56068"
 city: Koblenz
 street: "Zentralplatz"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 50.524199800000005
 longitude: 7.090028200000001
-postcode: 53474
+postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
 street: "Im Maibachtal"
 housenumber: 100

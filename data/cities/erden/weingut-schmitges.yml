@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.9788106
 longitude: 7.0254422000000005
-postcode: 54492
+postcode: "54492"
 city: Erden
 street: "Hauptstraße"
 housenumber: 24

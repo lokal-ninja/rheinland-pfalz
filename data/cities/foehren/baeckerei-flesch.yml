@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.857803000000004
 longitude: 6.7628883
-postcode: 54343
+postcode: "54343"
 city: Föhren
 street: "Hauptstraße"
 housenumber: 13

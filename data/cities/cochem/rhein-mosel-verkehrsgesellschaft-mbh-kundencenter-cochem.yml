@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 50.1475328
 longitude: 7.165538000000001
-postcode: 56812
+postcode: "56812"
 city: Cochem
 street: "Brückenstraße"
 housenumber: 2

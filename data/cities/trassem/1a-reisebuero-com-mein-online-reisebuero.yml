@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.5821831
 longitude: 6.5317734000000005
-postcode: 54441
+postcode: "54441"
 city: Trassem
 street: "Mühlenstraße"
 housenumber: 13

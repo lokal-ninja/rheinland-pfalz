@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 49.3631478
 longitude: 8.2586014
-postcode: 67454
+postcode: "67454"
 city: Haßloch
 street: "Langgasse"
 housenumber: 101

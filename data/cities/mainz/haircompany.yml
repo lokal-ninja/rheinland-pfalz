@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.9807107
 longitude: 8.2678093
-postcode: 55131
+postcode: "55131"
 city: Mainz
 street: "Berliner Straße"
 housenumber: 

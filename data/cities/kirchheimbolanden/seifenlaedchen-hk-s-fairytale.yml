@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.6575551
 longitude: 8.0188694
-postcode: 67292
+postcode: "67292"
 city: Kirchheimbolanden
 street: "Erzbergerstraße"
 housenumber: 15

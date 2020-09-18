@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.1217169
 longitude: 7.0049821
-postcode: 56826
+postcode: "56826"
 city: Lutzerath
 street: "Zum Kehr"
 housenumber: 9

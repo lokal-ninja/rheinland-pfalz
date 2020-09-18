@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.7489659
 longitude: 6.6334512000000005
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Gilbertstraße"
 housenumber: 34

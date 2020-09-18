@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 49.752074
 longitude: 6.9991232000000005
-postcode: 54424
+postcode: "54424"
 city: Thalfang
 street: "Raiffeisenstraße"
 housenumber: 1

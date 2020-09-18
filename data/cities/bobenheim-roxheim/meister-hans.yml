@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.586728300000004
 longitude: 8.359051000000001
-postcode: 67240
+postcode: "67240"
 city: Bobenheim-Roxheim
 street: "Albert-Einstein-Straße"
 housenumber: 32

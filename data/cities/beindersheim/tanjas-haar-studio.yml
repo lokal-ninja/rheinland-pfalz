@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.557671500000005
 longitude: 8.3206868
-postcode: 67259
+postcode: "67259"
 city: Beindersheim
 street: "Königsberger Straße"
 housenumber: 6 a

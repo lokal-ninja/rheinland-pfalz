@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.4559453
 longitude: 7.8073376
-postcode: 67657
+postcode: "67657"
 city: Kaiserslautern
 street: "Europaallee"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.1138946
 longitude: 7.802946700000001
-postcode: 76891
+postcode: "76891"
 city: Bruchweiler-Bärenbach
 street: "Hauptstraße"
 housenumber: 11

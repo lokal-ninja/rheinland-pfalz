@@ -1,12 +1,12 @@
-id: 57753991
-type: way
+id: 7416493579
+type: node
 shop: Supermarkt
-latitude: 50.0260018
-longitude: 8.225986500000001
-postcode: 55120
+latitude: 50.009873000000006
+longitude: 8.2175052
+postcode: "55122"
 city: Mainz
-street: "Rheinallee"
-housenumber: 203
+street: "Bürgermeister-Alexander-Straße"
+housenumber: 9
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Bürgermeister-Alexander-Straße 9 55122 Mainz-Gonsenheim&Mode=None"

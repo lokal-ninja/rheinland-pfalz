@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.2148848
 longitude: 8.1714588
-postcode: 76879
+postcode: "76879"
 city: Bornheim
 street: "Hornbachstraße"
 housenumber: 17

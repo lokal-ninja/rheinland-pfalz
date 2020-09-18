@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.1548218
 longitude: 8.286282100000001
-postcode: 76761
+postcode: "76761"
 city: Rülzheim
 street: "Alte Mühlgasse"
 housenumber: 5

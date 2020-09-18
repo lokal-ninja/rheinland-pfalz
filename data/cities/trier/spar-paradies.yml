@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.7528537
 longitude: 6.638852900000001
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Neustraße"
 housenumber: 92

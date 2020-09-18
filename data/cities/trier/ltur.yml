@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.75497420000001
 longitude: 6.638025900000001
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Fleischstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.020106600000005
 longitude: 8.216953
-postcode: 55120
+postcode: "55120"
 city: Mainz
 street: "Am Lemmchen"
 housenumber: 31a

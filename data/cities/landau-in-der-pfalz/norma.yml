@@ -1,12 +1,12 @@
-id: 189789898
-type: way
+id: 7405512278
+type: node
 shop: Supermarkt
-latitude: 49.203740700000004
-longitude: 8.1211389
-postcode: 76829
+latitude: 49.2039764
+longitude: 8.1212766
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Horststraße"
-housenumber: 37
+housenumber: 35
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00;Su, PH off"
-website: ""
+opening_hours: "Mo-Sa 07:00-21:00; Su, PH off"
+website: "https://www.norma-online.de/de/filialfinder"

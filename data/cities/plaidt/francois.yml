@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.390658800000004
 longitude: 7.3908531
-postcode: 56637
+postcode: "56637"
 city: Plaidt
 street: "Hauptstraße"
 housenumber: 2

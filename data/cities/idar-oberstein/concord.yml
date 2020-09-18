@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.717247500000006
 longitude: 7.305727900000001
-postcode: 55743
+postcode: "55743"
 city: Idar-Oberstein
 street: "Mainzer Straße"
 housenumber: 

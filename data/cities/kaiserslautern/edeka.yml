@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.434439100000006
 longitude: 7.7650408
-postcode: 67663
+postcode: "67663"
 city: Kaiserslautern
 street: "Zollamtstraße"
 housenumber: 28

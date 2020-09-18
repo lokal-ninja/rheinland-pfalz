@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.7201316
 longitude: 7.299288300000001
-postcode: 55743
+postcode: "55743"
 city: Idar-Oberstein
 street: "Mainzer Straße"
 housenumber: 29a

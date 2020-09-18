@@ -3,7 +3,7 @@ type: way
 shop: Tabak
 latitude: 49.799541000000005
 longitude: 6.688607
-postcode: 54293
+postcode: "54293"
 city: Trier
 street: "Unter dem Dostler"
 housenumber: 4

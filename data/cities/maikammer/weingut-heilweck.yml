@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.3041646
 longitude: 8.1370162
-postcode: 67487
+postcode: "67487"
 city: Maikammer
 street: "Marktstraße"
 housenumber: 66

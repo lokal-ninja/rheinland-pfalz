@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 49.439543900000004
 longitude: 8.3620763
-postcode: 67112
+postcode: "67112"
 city: Mutterstadt
 street: "Röntgenplatz"
 housenumber: 3

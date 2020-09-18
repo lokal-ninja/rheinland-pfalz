@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.199924900000006
 longitude: 7.177977800000001
-postcode: 56814
+postcode: "56814"
 city: Illerich
 street: "Kaisersescher Straße"
 housenumber: 5

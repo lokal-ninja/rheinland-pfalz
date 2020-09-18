@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.879667500000004
 longitude: 8.153908000000001
-postcode: 55291
+postcode: "55291"
 city: Saulheim
 street: "Am Ostring"
 housenumber: 1a

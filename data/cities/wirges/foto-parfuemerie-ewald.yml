@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.47123190000001
 longitude: 7.7956706
-postcode: 56422
+postcode: "56422"
 city: Wirges
 street: "Bahnhofstraße"
 housenumber: 33

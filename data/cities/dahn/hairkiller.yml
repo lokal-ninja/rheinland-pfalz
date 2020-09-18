@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.1509629
 longitude: 7.7783727
-postcode: 66994
+postcode: "66994"
 city: Dahn
 street: "Marktstraße"
 housenumber: 12

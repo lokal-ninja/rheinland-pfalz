@@ -1,4 +1,4 @@
 ---
-title: "O.Veit"
+title: "O. Veit"
 url: /bendorf/o-veit/
 ---

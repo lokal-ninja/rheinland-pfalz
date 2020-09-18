@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.408429000000005
 longitude: 8.186996
-postcode: 67146
+postcode: "67146"
 city: Deidesheim
 street: "Weinstraße"
 housenumber: 36

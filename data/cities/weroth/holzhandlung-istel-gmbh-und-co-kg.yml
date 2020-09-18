@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 50.466329300000005
 longitude: 7.9480538
-postcode: 56414
+postcode: "56414"
 city: Weroth
 street: "In der Mark"
 housenumber: 5-6

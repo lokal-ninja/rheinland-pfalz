@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.3967011
 longitude: 7.516912700000001
-postcode: 56218
+postcode: "56218"
 city: Mülheim-Kärlich
 street: "Industriestraße"
 housenumber: 51a

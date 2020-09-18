@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.719526
 longitude: 6.5924334
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Monaiser Straße"
 housenumber: 23

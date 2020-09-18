@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.882662700000004
 longitude: 8.074476
-postcode: 55288
+postcode: "55288"
 city: Partenheim
 street: "Vordergasse"
 housenumber: 94

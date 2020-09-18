@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.978099500000006
 longitude: 7.9256517
-postcode: 65385
+postcode: "65385"
 city: Rüdesheim am Rhein
 street: "Rheinstraße"
 housenumber: 32

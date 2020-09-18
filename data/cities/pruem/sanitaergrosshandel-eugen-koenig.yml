@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.215812
 longitude: 6.4416425
-postcode: 54595
+postcode: "54595"
 city: Prüm
 street: "Jakob-Fugger-Straße"
 housenumber: 1

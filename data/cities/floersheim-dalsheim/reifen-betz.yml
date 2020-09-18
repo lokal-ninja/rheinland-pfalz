@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 49.651995500000005
 longitude: 8.2180821
-postcode: 67592
+postcode: "67592"
 city: Flörsheim-Dalsheim
 street: "Willy-Brandt-Ring"
 housenumber: 5

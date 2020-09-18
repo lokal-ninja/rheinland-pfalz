@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.7500153
 longitude: 6.7418472000000005
-postcode: 54320
+postcode: "54320"
 city: Waldrach
 street: "Trierer Straße"
 housenumber: 3

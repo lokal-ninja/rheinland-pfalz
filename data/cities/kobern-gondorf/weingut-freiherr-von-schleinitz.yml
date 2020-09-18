@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.3095208
 longitude: 7.457880200000001
-postcode: 56330
+postcode: "56330"
 city: Kobern-Gondorf
 street: "Kirchstraße"
 housenumber: 15-17

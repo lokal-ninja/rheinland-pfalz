@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.567022300000005
 longitude: 6.5859509
-postcode: 54455
+postcode: "54455"
 city: Serrig
 street: "Römerstraße"
 housenumber: 63

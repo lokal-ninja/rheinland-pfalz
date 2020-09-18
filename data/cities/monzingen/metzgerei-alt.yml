@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.7998786
 longitude: 7.5910092
-postcode: 55569
+postcode: "55569"
 city: Monzingen
 street: "Hauptstraße"
 housenumber: 68

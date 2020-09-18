@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.6963482
 longitude: 6.5584945
-postcode: 54332
+postcode: "54332"
 city: Wasserliesch
 street: "Am Wiesenkreuz"
 housenumber: 2

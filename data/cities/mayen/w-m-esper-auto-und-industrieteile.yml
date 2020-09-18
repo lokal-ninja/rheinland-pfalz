@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.3278824
 longitude: 7.235959
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "Koblenzer Straße"
 housenumber: 90

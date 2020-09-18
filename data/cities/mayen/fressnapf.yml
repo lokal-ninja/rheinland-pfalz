@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.3290547
 longitude: 7.2515004
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "Am Wasserturm"
 housenumber: 21

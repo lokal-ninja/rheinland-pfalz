@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.1523203
 longitude: 7.774477500000001
-postcode: 66994
+postcode: "66994"
 city: Dahn
 street: "Pirmasenser Straße"
 housenumber: 27

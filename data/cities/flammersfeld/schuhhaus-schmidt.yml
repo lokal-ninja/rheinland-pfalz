@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.646592000000005
 longitude: 7.526780700000001
-postcode: 57632
+postcode: "57632"
 city: Flammersfeld
 street: "Raiffeisenstraße"
 housenumber: 22

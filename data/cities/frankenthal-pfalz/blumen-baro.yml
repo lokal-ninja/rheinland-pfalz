@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.545821600000004
 longitude: 8.370535
-postcode: 67227
+postcode: "67227"
 city: Frankenthal (Pfalz)
 street: "Mörscher Straße"
 housenumber: 147

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.762984
 longitude: 6.649082600000001
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Paulinstraße"
 housenumber: 70

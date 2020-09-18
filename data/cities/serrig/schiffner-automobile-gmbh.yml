@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.576387100000005
 longitude: 6.573371900000001
-postcode: 54455
+postcode: "54455"
 city: Serrig
 street: "Bachstraße"
 housenumber: 16

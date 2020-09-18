@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.967678600000006
 longitude: 6.5248578
-postcode: 54634
+postcode: "54634"
 city: Bitburg
 street: "Mötscher Straße"
 housenumber: 4a

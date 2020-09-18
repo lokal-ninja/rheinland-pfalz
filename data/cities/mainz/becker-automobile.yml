@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.0091631
 longitude: 8.214341600000001
-postcode: 55124
+postcode: "55124"
 city: Mainz
 street: "An der Krimm"
 housenumber: 25

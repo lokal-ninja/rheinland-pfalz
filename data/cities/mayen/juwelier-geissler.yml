@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.3290724
 longitude: 7.2222039
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "Göbelstraße"
 housenumber: 6

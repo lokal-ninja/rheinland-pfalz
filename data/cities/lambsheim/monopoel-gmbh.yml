@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.5074661
 longitude: 8.2988634
-postcode: 67245
+postcode: "67245"
 city: Lambsheim
 street: "Gerberstraße"
 housenumber: 2

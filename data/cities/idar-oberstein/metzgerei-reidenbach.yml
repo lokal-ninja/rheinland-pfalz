@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.7024076
 longitude: 7.3220985
-postcode: 55743
+postcode: "55743"
 city: Idar-Oberstein
 street: "Hauptstraße"
 housenumber: 336

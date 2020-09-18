@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.5223785
 longitude: 8.4009728
-postcode: 67069
+postcode: "67069"
 city: Ludwigshafen am Rhein
 street: "Karolinenstraße"
 housenumber: 21

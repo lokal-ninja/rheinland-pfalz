@@ -3,10 +3,10 @@ type: node
 shop: Autowerkstatt
 latitude: 49.9754949
 longitude: 8.2840238
-postcode: 55130
+postcode: "55130"
 city: Mainz
 street: "Heiligkreuzweg"
 housenumber: 
 phone: "+49 6131 839475"
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-17:00"
 website: ""

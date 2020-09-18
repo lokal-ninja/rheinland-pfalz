@@ -1,12 +1,12 @@
-id: 110454631
-type: way
+id: 7478009360
+type: node
 shop: Supermarkt
-latitude: 50.0126739
-longitude: 8.2467004
-postcode: 55122
+latitude: 49.9760518
+longitude: 8.284533600000001
+postcode: "55130"
 city: Mainz
-street: "Hattenbergstraße"
-housenumber: 7
+street: "Heiligkreuzweg"
+housenumber: 120A
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+website: "https://www.lidl.de/filialen/mainz/weisenau-heiligkreuzweg-120a.html"

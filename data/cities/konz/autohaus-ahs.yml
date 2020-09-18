@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.6986258
 longitude: 6.5791101
-postcode: 54329
+postcode: "54329"
 city: Konz
 street: "An der Eisenbahn"
 housenumber: 6

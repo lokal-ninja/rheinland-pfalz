@@ -3,7 +3,7 @@ type: way
 shop: Holz
 latitude: 50.6276622
 longitude: 7.4431924
-postcode: 53577
+postcode: "53577"
 city: Neustadt/Wied-Thalhof
 street: "Thalhof"
 housenumber: 1

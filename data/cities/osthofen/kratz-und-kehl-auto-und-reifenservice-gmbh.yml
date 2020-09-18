@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.700763
 longitude: 8.334584600000001
-postcode: 67574
+postcode: "67574"
 city: Osthofen
 street: "Wonnegaustraße"
 housenumber: 4

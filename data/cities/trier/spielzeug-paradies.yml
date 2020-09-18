@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.753965900000004
 longitude: 6.6372663
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Nagelstraße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.1990343
 longitude: 8.1133582
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Theaterstraße"
 housenumber: 6

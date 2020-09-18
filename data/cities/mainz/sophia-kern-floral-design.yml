@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.9984722
 longitude: 8.273483800000001
-postcode: 55116
+postcode: "55116"
 city: Mainz
 street: "Leichhof"
 housenumber: 24

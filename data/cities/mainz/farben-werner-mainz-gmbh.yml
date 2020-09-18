@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 49.960673400000005
 longitude: 8.2527218
-postcode: 55129
+postcode: "55129"
 city: Mainz
 street: "August-Horch-Straße"
 housenumber: 22

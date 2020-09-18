@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.1973518
 longitude: 7.856243200000001
-postcode: 56355
+postcode: "56355"
 city: Nastätten
 street: "Brückwiese"
 housenumber: 

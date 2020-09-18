@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.652515400000006
 longitude: 7.197991600000001
-postcode: 53179
+postcode: "53179"
 city: Bonn
 street: "Mainzer Straße"
 housenumber: 304

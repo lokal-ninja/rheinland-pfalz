@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.638967900000004
 longitude: 8.359968700000001
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Oppenheimer Straße"
 housenumber: 2

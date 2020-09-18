@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1075486
 longitude: 8.2464154
-postcode: 76770
+postcode: "76770"
 city: Hatzenbühl
 street: "Kirchstraße"
 housenumber: 30

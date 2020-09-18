@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.3767128
 longitude: 7.5840746
-postcode: 56070
+postcode: "56070"
 city: Koblenz
 street: "Am Sender"
 housenumber: 1

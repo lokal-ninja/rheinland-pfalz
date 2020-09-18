@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.9114864
 longitude: 8.1755025
-postcode: 55268
+postcode: "55268"
 city: Nieder-Olm
 street: "Am Hofgut"
 housenumber: 3

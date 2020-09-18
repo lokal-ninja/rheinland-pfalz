@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.027128600000005
 longitude: 8.222409200000001
-postcode: 55120
+postcode: "55120"
 city: Mainz
 street: "Am Mombacher Kreisel"
 housenumber: 3

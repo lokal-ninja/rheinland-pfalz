@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.9044487
 longitude: 8.1996915
-postcode: 55268
+postcode: "55268"
 city: Nieder-Olm
 street: "Wilhelm-Holzamer-Weg"
 housenumber: 35

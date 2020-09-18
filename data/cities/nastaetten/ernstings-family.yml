@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.19965740000001
 longitude: 7.853194
-postcode: 56355
+postcode: "56355"
 city: Nastätten
 street: "Bahnhofstraße"
 housenumber: 13

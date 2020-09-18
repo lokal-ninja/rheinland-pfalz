@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.9678175
 longitude: 8.2282119
-postcode: 55128
+postcode: "55128"
 city: Mainz
 street: "Haifa-Allee"
 housenumber: 1

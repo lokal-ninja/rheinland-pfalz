@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.481411200000004
 longitude: 8.4273945
-postcode: 67059
+postcode: "67059"
 city: Ludwigshafen am Rhein
 street: "Burgundenstraße"
 housenumber: 34

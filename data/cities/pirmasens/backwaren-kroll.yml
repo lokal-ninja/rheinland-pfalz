@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.2027161
 longitude: 7.6073884000000005
-postcode: 66953
+postcode: "66953"
 city: Pirmasens
 street: "Luisenstraße"
 housenumber: 2a

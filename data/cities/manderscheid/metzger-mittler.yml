@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.0927124
 longitude: 6.8120687
-postcode: 54531
+postcode: "54531"
 city: Manderscheid
 street: "Kurfürstenstraße"
 housenumber: 30

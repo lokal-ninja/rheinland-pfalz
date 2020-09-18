@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 49.4821979
 longitude: 7.6222091
-postcode: 67685
+postcode: "67685"
 city: Weilerbach
 street: "Am Elpel"
 housenumber: 6

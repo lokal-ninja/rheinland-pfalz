@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.040708
 longitude: 8.2207431
-postcode: 65203
+postcode: "65203"
 city: Wiesbaden
 street: "Rheingaustraße"
 housenumber: 90

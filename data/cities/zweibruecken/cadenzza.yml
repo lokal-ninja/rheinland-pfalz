@@ -3,7 +3,7 @@ type: way
 shop: Uhren
 latitude: 49.2295731
 longitude: 7.4059622
-postcode: 66482
+postcode: "66482"
 city: Zweibrücken
 street: "Londoner Bogen"
 housenumber: 94a

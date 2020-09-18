@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.878100100000005
 longitude: 6.8055095
-postcode: 54523
+postcode: "54523"
 city: Hetzerath
 street: "Bahnhofstraße"
 housenumber: 34 B

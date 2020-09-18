@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.196731500000006
 longitude: 8.1141798
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Kronstraße"
 housenumber: 39

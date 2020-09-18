@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.471188600000005
 longitude: 7.7681221
-postcode: 67659
+postcode: "67659"
 city: Kaiserslautern
 street: "Am Obergarten"
 housenumber: 18

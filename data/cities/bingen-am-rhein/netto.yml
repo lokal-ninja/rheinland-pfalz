@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.967922
 longitude: 7.888700600000001
-postcode: 55411
+postcode: "55411"
 city: Bingen am Rhein
 street: "Bingerbrücker Straße"
 housenumber: 3

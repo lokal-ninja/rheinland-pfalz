@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.4236567
 longitude: 8.366551600000001
-postcode: 67112
+postcode: "67112"
 city: Mutterstadt
 street: "An der Fohlenweide"
 housenumber: 31

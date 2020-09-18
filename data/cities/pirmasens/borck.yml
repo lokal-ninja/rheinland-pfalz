@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.201032000000005
 longitude: 7.605442900000001
-postcode: 66953
+postcode: "66953"
 city: Pirmasens
 street: "Schloßstraße"
 housenumber: 40

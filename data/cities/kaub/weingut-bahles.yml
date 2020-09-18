@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.083969700000004
 longitude: 7.7681373
-postcode: 56349
+postcode: "56349"
 city: Kaub
 street: "Bahnstraße"
 housenumber: 10

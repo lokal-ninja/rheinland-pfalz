@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.630555400000006
 longitude: 8.351245
-postcode: 67549
+postcode: "67549"
 city: Worms
 street: "Alzeyer Straße"
 housenumber: 23

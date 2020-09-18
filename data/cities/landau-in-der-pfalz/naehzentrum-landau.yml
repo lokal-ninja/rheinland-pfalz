@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 49.198833500000006
 longitude: 8.112889800000001
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Kronstraße"
 housenumber: 2

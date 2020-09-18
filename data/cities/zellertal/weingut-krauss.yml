@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.6489351
 longitude: 8.1403604
-postcode: 67308
+postcode: "67308"
 city: Zellertal
 street: "Zeller Hauptstraße"
 housenumber: 3

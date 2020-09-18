@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.471162500000005
 longitude: 7.7954838
-postcode: 56422
+postcode: "56422"
 city: Wirges
 street: "Bahnhofstraße"
 housenumber: 35

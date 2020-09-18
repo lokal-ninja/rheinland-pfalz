@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.7801338
 longitude: 6.6668044
-postcode: 54293
+postcode: "54293"
 city: Trier
 street: "Biewerer Straße"
 housenumber: 117

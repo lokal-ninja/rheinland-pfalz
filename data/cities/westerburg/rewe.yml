@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5562223
 longitude: 7.9836317
-postcode: 56457
+postcode: "56457"
 city: Westerburg
 street: "Günther-Koch-Straße"
 housenumber: 29

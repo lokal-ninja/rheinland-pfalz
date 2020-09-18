@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7424168
 longitude: 6.8059262
-postcode: 54317
+postcode: "54317"
 city: Thomm
 street: "Trierer Straße"
 housenumber: 2

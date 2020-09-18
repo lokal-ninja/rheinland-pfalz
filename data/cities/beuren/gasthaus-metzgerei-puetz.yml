@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.094714100000004
 longitude: 7.0784985
-postcode: 56825
+postcode: "56825"
 city: Beuren
 street: "Oberdorfstraße"
 housenumber: 10

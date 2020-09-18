@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.329979900000005
 longitude: 7.2236674
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "Marktstraße"
 housenumber: 44

@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.6812461
 longitude: 6.6733289000000005
-postcode: 54331
+postcode: "54331"
 city: Pellingen
 street: "Hochwaldblick"
 housenumber: 5

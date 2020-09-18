@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.6590385
 longitude: 8.2064503
-postcode: 67592
+postcode: "67592"
 city: Flörsheim-Dalsheim
 street: "Uhlandstraße"
 housenumber: 19

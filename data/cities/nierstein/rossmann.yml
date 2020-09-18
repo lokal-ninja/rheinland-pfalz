@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.8632799
 longitude: 8.3309975
-postcode: 55283
+postcode: "55283"
 city: Nierstein
 street: "Freyburger Allee"
 housenumber: 7-11

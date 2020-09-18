@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 50.3881256
 longitude: 7.558756600000001
-postcode: 56070
+postcode: "56070"
 city: Koblenz
 street: "Carl-Zeiss-Straße"
 housenumber: 6

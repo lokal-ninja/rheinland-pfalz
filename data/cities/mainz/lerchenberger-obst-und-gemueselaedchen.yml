@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.9596658
 longitude: 8.1997526
-postcode: 55127
+postcode: "55127"
 city: Mainz
 street: "Regerstraße"
 housenumber: 25

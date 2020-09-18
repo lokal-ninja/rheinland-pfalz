@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0037262
 longitude: 6.904537100000001
-postcode: 54516
+postcode: "54516"
 city: Wittlich
 street: "Grünewaldstraße"
 housenumber: 34

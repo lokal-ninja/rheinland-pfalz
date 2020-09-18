@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.777736600000004
 longitude: 6.724600400000001
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Karthäuserhof"
 housenumber: 1

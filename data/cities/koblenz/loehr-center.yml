@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.3598811
 longitude: 7.5906824
-postcode: 56068
+postcode: "56068"
 city: Koblenz
 street: "Hohenfelder Straße"
 housenumber: 22

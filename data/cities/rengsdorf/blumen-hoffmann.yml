@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.501947200000004
 longitude: 7.4966736
-postcode: 56579
+postcode: "56579"
 city: Rengsdorf
 street: "Westerwaldstraße"
 housenumber: 21

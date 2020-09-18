@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.4647723
 longitude: 7.7273386
-postcode: 56235
+postcode: "56235"
 city: Ransbach-Baumbach
 street: "Marktplatz"
 housenumber: 16

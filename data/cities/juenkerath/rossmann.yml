@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.3490498
 longitude: 6.5658184
-postcode: 54584
+postcode: "54584"
 city: Jünkerath
 street: "Auf dem Wehrt"
 housenumber: 17

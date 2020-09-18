@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 50.5392376
 longitude: 7.0881335000000005
-postcode: 53474
+postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
 street: "Walporzheimer Straße"
 housenumber: 19

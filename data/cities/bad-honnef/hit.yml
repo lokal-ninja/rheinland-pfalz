@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6315242
 longitude: 7.2254852000000005
-postcode: 53604
+postcode: "53604"
 city: Bad Honnef
 street: "Berck-sur-Mer Straße"
 housenumber: 1

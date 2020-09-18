@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7026716
 longitude: 8.2553952
-postcode: 67593
+postcode: "67593"
 city: Westhofen
 street: "Jahnstraße"
 housenumber: 35

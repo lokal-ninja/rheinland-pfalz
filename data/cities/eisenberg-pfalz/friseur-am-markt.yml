@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.5597549
 longitude: 8.0717202
-postcode: 67304
+postcode: "67304"
 city: Eisenberg (Pfalz)
 street: "Am Marktplatz"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.7013454
 longitude: 7.3358438
-postcode: 55743
+postcode: "55743"
 city: Idar-Oberstein
 street: "Schönlautenbach"
 housenumber: 1

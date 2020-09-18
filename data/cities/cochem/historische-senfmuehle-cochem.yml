@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.147590900000004
 longitude: 7.1629806
-postcode: 56812
+postcode: "56812"
 city: Cochem
 street: "Endertstraße"
 housenumber: 18

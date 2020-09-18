@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 50.462315200000006
 longitude: 7.877326900000001
-postcode: 56412
+postcode: "56412"
 city: Ruppach-Goldhausen
 street: "Hauptstraße"
 housenumber: 38

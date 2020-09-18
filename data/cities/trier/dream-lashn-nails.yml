@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.7591891
 longitude: 6.644017000000001
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Simeonstraße"
 housenumber: 5

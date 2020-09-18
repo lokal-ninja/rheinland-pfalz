@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.294578300000005
 longitude: 8.4100445
-postcode: 67354
+postcode: "67354"
 city: Römerberg
 street: "Eisenbahnstraße"
 housenumber: 2

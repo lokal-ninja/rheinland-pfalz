@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 50.0021502
 longitude: 8.210731000000001
-postcode: 55124
+postcode: "55124"
 city: Mainz
 street: "Hermann-Ehlers-Straße"
 housenumber: 19

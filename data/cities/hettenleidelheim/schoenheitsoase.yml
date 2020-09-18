@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.53830060000001
 longitude: 8.0731076
-postcode: 67310
+postcode: "67310"
 city: Hettenleidelheim
 street: "Stauferweg"
 housenumber: 18

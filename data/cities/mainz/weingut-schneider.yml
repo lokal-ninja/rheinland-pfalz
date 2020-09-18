@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.957731900000006
 longitude: 8.2776377
-postcode: 55129
+postcode: "55129"
 city: Mainz
 street: "Klein-Winternheimer Weg"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 49.2016033
 longitude: 7.604899400000001
-postcode: 66953
+postcode: "66953"
 city: Pirmasens
 street: "Hauptstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.9793785
 longitude: 8.2394431
-postcode: 55128
+postcode: "55128"
 city: Mainz
 street: "An der Oberpforte"
 housenumber: 16

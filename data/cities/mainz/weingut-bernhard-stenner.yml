@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.959049300000004
 longitude: 8.279870500000001
-postcode: 55129
+postcode: "55129"
 city: Mainz
 street: "Grauelstraße"
 housenumber: 11

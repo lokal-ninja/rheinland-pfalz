@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 49.6588952
 longitude: 6.901554000000001
-postcode: 54413
+postcode: "54413"
 city: Gusenburg
 street: "Am Schießstand"
 housenumber: 1

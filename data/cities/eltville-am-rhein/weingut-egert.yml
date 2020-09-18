@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 50.0156524
 longitude: 8.0650862
-postcode: 65347
+postcode: "65347"
 city: Eltville am Rhein
 street: "Rheinallee"
 housenumber: 33

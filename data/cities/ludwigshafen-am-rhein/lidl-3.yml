@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.525286300000005
 longitude: 8.3971449
-postcode: 67069
+postcode: "67069"
 city: Ludwigshafen am Rhein
 street: "Edigheimer Straße"
 housenumber: 137

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.316950000000006
 longitude: 8.43743
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Königsplatz"
 housenumber: 

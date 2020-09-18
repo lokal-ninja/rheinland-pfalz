@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.492035
 longitude: 8.378041000000001
-postcode: 67071
+postcode: "67071"
 city: Ludwigshafen am Rhein
 street: "Mannheimer Straße"
 housenumber: 7

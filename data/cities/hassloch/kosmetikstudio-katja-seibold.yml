@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.358306400000004
 longitude: 8.2661773
-postcode: 67454
+postcode: "67454"
 city: Haßloch
 street: "Forstgasse"
 housenumber: 79

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.9574301
 longitude: 8.015411700000001
-postcode: 55435
+postcode: "55435"
 city: Gau-Algesheim
 street: "Langgasse"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.2232119
 longitude: 6.650886000000001
-postcode: 54568
+postcode: "54568"
 city: Gerolstein
 street: "Sarresdorfer Straße"
 housenumber: 41

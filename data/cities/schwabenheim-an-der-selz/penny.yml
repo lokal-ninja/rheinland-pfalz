@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9241941
 longitude: 8.092789100000001
-postcode: 55270
+postcode: "55270"
 city: Schwabenheim an der Selz
 street: "Bubenheimer Straße"
 housenumber: 11

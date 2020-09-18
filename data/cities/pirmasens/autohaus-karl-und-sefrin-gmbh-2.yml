@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.214596400000005
 longitude: 7.5949347000000005
-postcode: 66954
+postcode: "66954"
 city: Pirmasens
 street: "Zweibrücker Straße"
 housenumber: 171

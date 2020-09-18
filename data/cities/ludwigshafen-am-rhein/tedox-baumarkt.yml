@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.4854442
 longitude: 8.421984400000001
-postcode: 67063
+postcode: "67063"
 city: Ludwigshafen am Rhein
 street: "Industriestraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 49.7512598
 longitude: 6.6207364
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Eurener Straße"
 housenumber: 12

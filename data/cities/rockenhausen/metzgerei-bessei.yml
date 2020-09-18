@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.628907600000005
 longitude: 7.819962500000001
-postcode: 67806
+postcode: "67806"
 city: Rockenhausen
 street: "Luitpoldstraße"
 housenumber: 6

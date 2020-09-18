@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.178828700000004
 longitude: 6.6282744000000005
-postcode: 54574
+postcode: "54574"
 city: Birresborn
 street: "Gerolsteiner Straße"
 housenumber: 32A

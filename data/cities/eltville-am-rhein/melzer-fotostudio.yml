@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.019017500000004
 longitude: 8.094571100000001
-postcode: 65346
+postcode: "65346"
 city: Eltville am Rhein
 street: "Albrechtstraße"
 housenumber: 2

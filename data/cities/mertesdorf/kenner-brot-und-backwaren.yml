@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.772752700000005
 longitude: 6.733683500000001
-postcode: 54318
+postcode: "54318"
 city: Mertesdorf
 street: "Hauptstraße"
 housenumber: 84

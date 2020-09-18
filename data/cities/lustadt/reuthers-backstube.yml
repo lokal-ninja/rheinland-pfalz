@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.244109900000005
 longitude: 8.275745200000001
-postcode: 67363
+postcode: "67363"
 city: Lustadt
 street: "Obere Hauptstraße"
 housenumber: 275

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.755810800000006
 longitude: 6.640931500000001
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Grabenstraße"
 housenumber: 16

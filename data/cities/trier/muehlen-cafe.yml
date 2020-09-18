@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7557266
 longitude: 6.639241
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Fleischstraße"
 housenumber: 15

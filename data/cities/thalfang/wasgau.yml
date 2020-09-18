@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7505279
 longitude: 7.001401400000001
-postcode: 54424
+postcode: "54424"
 city: Thalfang
 street: "Charlottenhöhe"
 housenumber: 11

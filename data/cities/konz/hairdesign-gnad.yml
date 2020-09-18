@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.6989595
 longitude: 6.5741535
-postcode: 54329
+postcode: "54329"
 city: Konz
 street: "Rudolph-Schmitt-Passage"
 housenumber: 5

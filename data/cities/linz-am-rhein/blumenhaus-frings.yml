@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.572053200000006
 longitude: 7.2904548
-postcode: 53545
+postcode: "53545"
 city: Linz am Rhein
 street: "Asbacher Straße"
 housenumber: 

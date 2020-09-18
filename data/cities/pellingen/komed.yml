@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 49.680600500000004
 longitude: 6.6721952
-postcode: 54331
+postcode: "54331"
 city: Pellingen
 street: "Hochwaldblick"
 housenumber: 3

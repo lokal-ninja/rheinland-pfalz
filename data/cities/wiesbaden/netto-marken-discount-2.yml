@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.006248600000006
 longitude: 8.287881200000001
-postcode: 55252
+postcode: "55252"
 city: Wiesbaden
 street: "Philippsring"
 housenumber: 18

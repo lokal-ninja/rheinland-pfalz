@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.3342728
 longitude: 8.4359819
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Auestraße"
 housenumber: 18a

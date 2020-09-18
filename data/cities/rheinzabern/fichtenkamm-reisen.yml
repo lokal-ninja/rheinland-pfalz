@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 49.1205426
 longitude: 8.2725839
-postcode: 76764
+postcode: "76764"
 city: Rheinzabern
 street: "Mühlgasse"
 housenumber: 38

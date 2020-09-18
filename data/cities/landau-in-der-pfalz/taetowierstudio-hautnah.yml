@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 49.1888122
 longitude: 8.1402733
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Karl-Ziegler-Straße"
 housenumber: 4

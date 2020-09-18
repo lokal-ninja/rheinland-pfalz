@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.2033466
 longitude: 7.9619584
-postcode: 76855
+postcode: "76855"
 city: Annweiler am Trifels
 street: "Altenstraße"
 housenumber: 6

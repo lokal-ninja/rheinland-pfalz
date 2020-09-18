@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.9756992
 longitude: 8.0558333
-postcode: 55218
+postcode: "55218"
 city: Ingelheim am Rhein
 street: "Georg-Rückert-Straße"
 housenumber: 9

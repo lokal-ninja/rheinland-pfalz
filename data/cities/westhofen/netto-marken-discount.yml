@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7076014
 longitude: 8.251012000000001
-postcode: 67593
+postcode: "67593"
 city: Westhofen
 street: "An der Wittgeshohl"
 housenumber: 9

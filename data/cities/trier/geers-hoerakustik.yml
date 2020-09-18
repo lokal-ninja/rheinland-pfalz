@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.7580973
 longitude: 6.6496104
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Theodor-Heuss-Allee"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.3417991
 longitude: 7.571202800000001
-postcode: 56075
+postcode: "56075"
 city: Koblenz
 street: "Potsdamer Straße"
 housenumber: 9

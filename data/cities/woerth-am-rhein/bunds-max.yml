@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.0340039
 longitude: 8.291069700000001
-postcode: 76744
+postcode: "76744"
 city: Wörth am Rhein
 street: "Eisenbahnstraße"
 housenumber: 62

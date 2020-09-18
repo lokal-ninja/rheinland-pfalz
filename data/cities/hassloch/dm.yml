@@ -1,12 +1,12 @@
-id: 294810178
-type: way
+id: 7804271447
+type: node
 shop: Drogerie
-latitude: 49.367997700000004
-longitude: 8.266436200000001
-postcode: 67454
+latitude: 49.3678784
+longitude: 8.266193300000001
+postcode: "67454"
 city: Haßloch
 street: "Herrenweg"
 housenumber: 4
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 6324 5930454"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.dm.de/store/de-2318/hassloch/herrenweg-4"

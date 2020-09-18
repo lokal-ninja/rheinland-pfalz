@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.729211400000004
 longitude: 6.601856700000001
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Luxemburger Straße"
 housenumber: 232

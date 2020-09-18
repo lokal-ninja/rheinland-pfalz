@@ -3,10 +3,10 @@ type: node
 shop: Foto
 latitude: 49.7551758
 longitude: 6.6707288
-postcode: 54296
+postcode: "54296"
 city: Trier
 street: "Peter-Joseph-Lenné-Straße"
 housenumber: 1
 phone: "+49 651 938020"
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-19:30; Sa 10:30-20:30"
 website: "http://photography-yaph.com"

@@ -1,12 +1,12 @@
-id: 298098059
-type: node
+id: 45405508
+type: way
 shop: Baumarkt
-latitude: 50.326223600000006
-longitude: 7.253803100000001
-postcode: 56727
+latitude: 50.3259224
+longitude: 7.254340600000001
+postcode: "56727"
 city: Mayen
-street: ""
-housenumber: 
+street: "Betzinger Landstraße"
+housenumber: 5
 phone: "+49 2651 96290"
 opening_hours: "Mo-Sa 08:00-20:00"
 website: "https://www.obi.de/#"

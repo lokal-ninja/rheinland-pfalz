@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.316423300000004
 longitude: 8.4362536
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Schulergasse"
 housenumber: 2

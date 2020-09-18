@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.3175551
 longitude: 8.4356759
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Maximilianstraße"
 housenumber: 76

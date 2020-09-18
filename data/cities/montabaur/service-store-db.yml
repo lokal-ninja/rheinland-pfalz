@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.4446601
 longitude: 7.825322000000001
-postcode: 56410
+postcode: "56410"
 city: Montabaur
 street: "Staudter Straße"
 housenumber: 1

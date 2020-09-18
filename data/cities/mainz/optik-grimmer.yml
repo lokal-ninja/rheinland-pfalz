@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.9809799
 longitude: 8.244882200000001
-postcode: 55128
+postcode: "55128"
 city: Mainz
 street: "Am Mühlbach"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.7633012
 longitude: 6.649563000000001
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Paulinstraße"
 housenumber: 82

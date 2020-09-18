@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.926285400000005
 longitude: 7.0607224
-postcode: 54470
+postcode: "54470"
 city: Bernkastel-Kues
 street: "Gewerbestraße"
 housenumber: 1

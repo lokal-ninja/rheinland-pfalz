@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6199492
 longitude: 7.427485900000001
-postcode: 53577
+postcode: "53577"
 city: Neustadt (Wied)
 street: "Wiedtalstraße"
 housenumber: 31

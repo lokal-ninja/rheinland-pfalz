@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 50.449388500000005
 longitude: 7.8531051000000005
-postcode: 56412
+postcode: "56412"
 city: Heiligenroth
 street: "Industriestraße"
 housenumber: 24

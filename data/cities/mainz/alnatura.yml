@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.999209
 longitude: 8.2685055
-postcode: 55116
+postcode: "55116"
 city: Mainz
 street: "Große Langgasse"
 housenumber: 8

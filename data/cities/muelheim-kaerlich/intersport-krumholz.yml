@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 50.3948082
 longitude: 7.5285625000000005
-postcode: 56218
+postcode: "56218"
 city: Mülheim-Kärlich
 street: "Industriestraße"
 housenumber: 11-13

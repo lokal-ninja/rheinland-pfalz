@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.446439600000005
 longitude: 7.7949171
-postcode: 67657
+postcode: "67657"
 city: Kaiserslautern
 street: "Donnersbergstraße"
 housenumber: 85

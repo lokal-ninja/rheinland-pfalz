@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.7583648
 longitude: 6.6429907
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Simeonstraße"
 housenumber: 17

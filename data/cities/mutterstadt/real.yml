@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.423516600000006
 longitude: 8.3635751
-postcode: 67112
+postcode: "67112"
 city: Mutterstadt
 street: "An der Fohlenweide"
 housenumber: 21

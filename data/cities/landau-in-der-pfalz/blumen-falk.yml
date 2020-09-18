@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.195346400000005
 longitude: 8.0977268
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Annweilerstraße"
 housenumber: 41

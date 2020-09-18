@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.3160747
 longitude: 8.423917300000001
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Gießhübelstraße"
 housenumber: 20

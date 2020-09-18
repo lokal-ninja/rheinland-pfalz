@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.195829
 longitude: 6.8291067000000005
-postcode: 54550
+postcode: "54550"
 city: Daun
 street: "Abt-Richard-Straße"
 housenumber: 3a

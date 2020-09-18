@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.554097000000006
 longitude: 8.1863864
-postcode: 67281
+postcode: "67281"
 city: Kirchheim an der Weinstraße
 street: "Rosengartenweg"
 housenumber: 1

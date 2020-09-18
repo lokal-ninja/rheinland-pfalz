@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.735617500000004
 longitude: 7.812794200000001
-postcode: 67821
+postcode: "67821"
 city: Alsenz
 street: "Niedermoscheler Straße"
 housenumber: 1

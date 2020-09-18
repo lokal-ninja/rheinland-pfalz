@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.2819164
 longitude: 7.6166792
-postcode: 56321
+postcode: "56321"
 city: Rhens
 street: "Hochstraße"
 housenumber: 23

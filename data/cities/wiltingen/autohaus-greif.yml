@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.661929
 longitude: 6.5918228
-postcode: 54459
+postcode: "54459"
 city: Wiltingen
 street: "Klosterbergstraße"
 housenumber: 115

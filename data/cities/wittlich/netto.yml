@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.988537900000004
 longitude: 6.9026465
-postcode: 54516
+postcode: "54516"
 city: Wittlich
 street: "Friedrichstraße"
 housenumber: 56

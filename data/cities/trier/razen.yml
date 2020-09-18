@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7578352
 longitude: 6.6451788
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Sichelstraße"
 housenumber: 26

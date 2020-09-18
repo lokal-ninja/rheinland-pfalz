@@ -3,7 +3,7 @@ type: node
 shop: Immobilien
 latitude: 50.5889024
 longitude: 7.5307541
-postcode: 56593
+postcode: "56593"
 city: Horhausen (Westerwald)
 street: "Rheinstraße"
 housenumber: 44

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.2823274
 longitude: 8.1272974
-postcode: 67480
+postcode: "67480"
 city: Edenkoben
 street: "Weinstraße"
 housenumber: 92

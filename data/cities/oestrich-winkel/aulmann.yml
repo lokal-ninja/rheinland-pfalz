@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9978922
 longitude: 8.0062139
-postcode: 65375
+postcode: "65375"
 city: Oestrich-Winkel
 street: "Hauptstraße"
 housenumber: 76

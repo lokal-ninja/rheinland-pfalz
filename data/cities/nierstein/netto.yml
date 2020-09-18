@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8631747
 longitude: 8.331382900000001
-postcode: 55283
+postcode: "55283"
 city: Nierstein
 street: "Freyburger Allee"
 housenumber: 1

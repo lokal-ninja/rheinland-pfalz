@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.998546700000006
 longitude: 8.0077919
-postcode: 65375
+postcode: "65375"
 city: Oestrich-Winkel
 street: "Hauptstraße"
 housenumber: 60

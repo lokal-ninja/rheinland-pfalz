@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4698931
 longitude: 7.444121600000001
-postcode: 66907
+postcode: "66907"
 city: Glan-Münchweiler
 street: "Bahnhofstraße"
 housenumber: 6

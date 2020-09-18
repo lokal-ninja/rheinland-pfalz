@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.751794000000004
 longitude: 6.6378344
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Neustraße"
 housenumber: 76

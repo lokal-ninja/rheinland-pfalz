@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 49.2113979
 longitude: 8.125864
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Im Grein"
 housenumber: 1c

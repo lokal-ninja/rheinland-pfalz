@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1031976
 longitude: 8.0130602
-postcode: 76887
+postcode: "76887"
 city: Bad Bergzabern
 street: "Kapeller Straße"
 housenumber: 

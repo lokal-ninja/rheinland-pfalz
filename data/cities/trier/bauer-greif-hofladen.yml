@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.714795900000006
 longitude: 6.5881883000000006
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Oberkirch"
 housenumber: 8

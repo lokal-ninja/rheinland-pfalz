@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.544673200000005
 longitude: 7.100259200000001
-postcode: 53474
+postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
 street: "Wilhelmstraße"
 housenumber: 8

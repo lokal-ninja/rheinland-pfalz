@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.006256400000005
 longitude: 8.2557376
-postcode: 55118
+postcode: "55118"
 city: Mainz
 street: "Boppstraße"
 housenumber: 62-64

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.7563435
 longitude: 6.6492336000000005
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Ostallee"
 housenumber: 3

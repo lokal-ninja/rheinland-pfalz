@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 49.3292633
 longitude: 8.4303462
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Mausbergweg"
 housenumber: 3

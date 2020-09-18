@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 49.1128392
 longitude: 8.2303878
-postcode: 76770
+postcode: "76770"
 city: Hatzenbühl
 street: "Gereutäcker"
 housenumber: 16

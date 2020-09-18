@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4629734
 longitude: 8.1818624
-postcode: 67098
+postcode: "67098"
 city: Bad Dürkheim
 street: "Im Rustengut"
 housenumber: 64

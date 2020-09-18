@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.726560600000006
 longitude: 6.632577100000001
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Castelnauplatz"
 housenumber: 3

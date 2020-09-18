@@ -3,7 +3,7 @@ type: way
 shop: Instrumente
 latitude: 50.192253300000004
 longitude: 6.8061847
-postcode: 54550
+postcode: "54550"
 city: Daun
 street: "Steinbockstraße"
 housenumber: 13

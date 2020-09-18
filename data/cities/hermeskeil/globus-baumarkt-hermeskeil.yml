@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.6787416
 longitude: 6.9535837
-postcode: 54411
+postcode: "54411"
 city: Hermeskeil
 street: "Römerstraße"
 housenumber: 1

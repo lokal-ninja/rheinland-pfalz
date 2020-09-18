@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 49.9704782
 longitude: 8.269124600000001
-postcode: 55129
+postcode: "55129"
 city: Mainz
 street: "Friedrich-Koenig-Straße"
 housenumber: 6

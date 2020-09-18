@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 49.757969200000005
 longitude: 6.6437116000000005
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Rindertanzstraße"
 housenumber: 7

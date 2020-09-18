@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.299485600000004
 longitude: 8.1019631
-postcode: 67487
+postcode: "67487"
 city: Sankt Martin
 street: "Mühlstraße"
 housenumber: 1

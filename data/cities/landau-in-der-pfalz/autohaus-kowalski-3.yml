@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.2123458
 longitude: 8.1242602
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Nußdorfer Heide"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.4583389
 longitude: 7.5999964
-postcode: 56170
+postcode: "56170"
 city: Bendorf
 street: "Westerwaldstraße"
 housenumber: 77

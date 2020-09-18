@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.237271400000004
 longitude: 8.089023000000001
-postcode: 76833
+postcode: "76833"
 city: Böchingen
 street: "Hauptstraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.7215963
 longitude: 6.5903774
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Monaiser Straße"
 housenumber: 3

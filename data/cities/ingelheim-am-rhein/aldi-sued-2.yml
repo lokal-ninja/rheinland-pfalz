@@ -1,12 +1,12 @@
-id: 140742545
-type: way
+id: 7416594124
+type: node
 shop: Supermarkt
-latitude: 50.0010082
-longitude: 8.1320948
-postcode: 55262
+latitude: 50.000919100000004
+longitude: 8.131733500000001
+postcode: "55262"
 city: Ingelheim am Rhein
 street: "Im Schäfersborn"
 housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Im%20Sch%C3%A4fersborn%201%2055262%20Heidesheim&Mode=None"

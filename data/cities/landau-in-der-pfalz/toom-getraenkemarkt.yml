@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.2080944
 longitude: 8.1235133
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Hainbachstraße"
 housenumber: 77a

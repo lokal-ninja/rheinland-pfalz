@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.505925000000005
 longitude: 8.2122338
-postcode: 67251
+postcode: "67251"
 city: Freinsheim
 street: "Haintorstraße"
 housenumber: 3

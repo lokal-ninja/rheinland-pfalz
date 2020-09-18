@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.6333927
 longitude: 8.3588308
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Wilhelm-Leuschner-Straße"
 housenumber: 11

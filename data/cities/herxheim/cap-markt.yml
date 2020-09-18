@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.146086100000005
 longitude: 8.2148289
-postcode: 76863
+postcode: "76863"
 city: Herxheim
 street: "Obere Hauptstraße"
 housenumber: 7

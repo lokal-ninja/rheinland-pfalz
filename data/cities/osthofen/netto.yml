@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.700619800000005
 longitude: 8.3334366
-postcode: 67574
+postcode: "67574"
 city: Osthofen
 street: "Wonnegaustraße"
 housenumber: 2

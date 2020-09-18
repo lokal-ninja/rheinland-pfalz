@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.8577926
 longitude: 6.762626200000001
-postcode: 54343
+postcode: "54343"
 city: Föhren
 street: "Hauptstraße"
 housenumber: 13

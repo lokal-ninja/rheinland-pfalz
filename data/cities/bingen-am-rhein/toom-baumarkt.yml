@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.9508171
 longitude: 7.902042000000001
-postcode: 55411
+postcode: "55411"
 city: Bingen am Rhein
 street: "Schultheiß-Kollei-Straße"
 housenumber: 17

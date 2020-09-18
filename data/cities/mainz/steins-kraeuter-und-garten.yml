@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.001561300000006
 longitude: 8.2241263
-postcode: 55124
+postcode: "55124"
 city: Mainz
 street: "Mainzer Straße"
 housenumber: 180

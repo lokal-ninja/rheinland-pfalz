@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1339136
 longitude: 7.2328175
-postcode: 56814
+postcode: "56814"
 city: Bruttig-Fankel
 street: "Klosterstraße"
 housenumber: 2

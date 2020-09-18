@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.198329900000004
 longitude: 6.8260836000000005
-postcode: 54550
+postcode: "54550"
 city: Daun
 street: "Trierer Straße"
 housenumber: 10

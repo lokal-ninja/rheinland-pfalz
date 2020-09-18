@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.1511349
 longitude: 8.2973371
-postcode: 76761
+postcode: "76761"
 city: Rülzheim
 street: "Max-Planck-Straße"
 housenumber: 4

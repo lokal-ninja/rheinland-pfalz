@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 49.8081612
 longitude: 6.685377600000001
-postcode: 54293
+postcode: "54293"
 city: Trier
 street: "Kyllstraße"
 housenumber: 8

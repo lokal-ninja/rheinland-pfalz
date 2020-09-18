@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.312775800000004
 longitude: 8.4381815
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "St.-German-Straße"
 housenumber: 8

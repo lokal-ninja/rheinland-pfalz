@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.3090155
 longitude: 8.4242788
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Landauer Straße"
 housenumber: 65

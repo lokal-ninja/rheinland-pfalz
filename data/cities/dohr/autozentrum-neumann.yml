@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.134103
 longitude: 7.1278695
-postcode: 56812
+postcode: "56812"
 city: Dohr
 street: "Am Heckbaum"
 housenumber: 1

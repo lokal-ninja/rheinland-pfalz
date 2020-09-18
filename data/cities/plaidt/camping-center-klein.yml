@@ -3,7 +3,7 @@ type: way
 shop: Wohnwagen
 latitude: 50.380169
 longitude: 7.385699000000001
-postcode: 56637
+postcode: "56637"
 city: Plaidt
 street: "Gewerbegebiet A61/L117"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3800327
 longitude: 7.427457100000001
-postcode: 66892
+postcode: "66892"
 city: Bruchmühlbach-Miesau
 street: "Kaiserstraße"
 housenumber: 348

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1161395
 longitude: 8.2809965
-postcode: 76764
+postcode: "76764"
 city: Rheinzabern
 street: "Außerdorf"
 housenumber: 49

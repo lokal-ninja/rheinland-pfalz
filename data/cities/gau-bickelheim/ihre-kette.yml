@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.835547700000006
 longitude: 8.0205299
-postcode: 55599
+postcode: "55599"
 city: Gau-Bickelheim
 street: "Wallertheimer Straße"
 housenumber: 2

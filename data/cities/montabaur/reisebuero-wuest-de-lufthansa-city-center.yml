@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.436210700000004
 longitude: 7.829656300000001
-postcode: 56410
+postcode: "56410"
 city: Montabaur
 street: "Konrad-Adenauer-Platz"
 housenumber: 7

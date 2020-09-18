@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.201761000000005
 longitude: 8.125003300000001
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Maximilianstraße"
 housenumber: 11

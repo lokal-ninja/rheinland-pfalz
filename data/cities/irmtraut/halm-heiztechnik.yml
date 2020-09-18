@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 50.558194300000004
 longitude: 8.064421900000001
-postcode: 56479
+postcode: "56479"
 city: Irmtraut
 street: "Langewies"
 housenumber: 21

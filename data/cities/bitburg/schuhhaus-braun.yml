@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.9726313
 longitude: 6.5240141000000005
-postcode: 54634
+postcode: "54634"
 city: Bitburg
 street: "Hauptstraße"
 housenumber: 5

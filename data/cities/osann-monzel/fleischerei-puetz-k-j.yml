@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.9218549
 longitude: 6.9520178
-postcode: 54518
+postcode: "54518"
 city: Osann-Monzel
 street: "Bernkasteler Straße"
 housenumber: 46

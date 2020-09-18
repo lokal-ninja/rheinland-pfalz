@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.3713111
 longitude: 8.011841500000001
-postcode: 65582
+postcode: "65582"
 city: Diez
 street: "Wilhelmstraße"
 housenumber: 39

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.846887100000004
 longitude: 8.3602872
-postcode: 55276
+postcode: "55276"
 city: Oppenheim
 street: "In den Weingärten"
 housenumber: 78

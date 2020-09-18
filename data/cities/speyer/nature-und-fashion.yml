@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.3203801
 longitude: 8.417961400000001
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Heinrich-Heine-Straße"
 housenumber: 

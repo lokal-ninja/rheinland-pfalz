@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.1653236
 longitude: 7.7042919
-postcode: 56346
+postcode: "56346"
 city: Sankt Goarshausen
 street: "Wellmicher Straße"
 housenumber: 117

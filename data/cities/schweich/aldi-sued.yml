@@ -1,9 +1,9 @@
-id: 1932346683
-type: node
+id: 172413395
+type: way
 shop: Supermarkt
-latitude: 49.8195245
-longitude: 6.7464819
-postcode: 54338
+latitude: 49.819743200000005
+longitude: 6.746304800000001
+postcode: "54338"
 city: Schweich
 street: "In den Schlimmfuhren"
 housenumber: 10

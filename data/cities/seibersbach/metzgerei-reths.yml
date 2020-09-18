@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.9620523
 longitude: 7.717793
-postcode: 55444
+postcode: "55444"
 city: Seibersbach
 street: "Hauptstraße"
 housenumber: 24

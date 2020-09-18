@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 49.438438000000005
 longitude: 7.763518400000001
-postcode: 67655
+postcode: "67655"
 city: Kaiserslautern
 street: "Beethovenstraße"
 housenumber: 56

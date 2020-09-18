@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.1680427
 longitude: 7.2895292000000005
-postcode: 56253
+postcode: "56253"
 city: Treis-Karden
 street: "Am Laach"
 housenumber: 21-23

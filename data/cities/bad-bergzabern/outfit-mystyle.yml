@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.099523700000006
 longitude: 7.991576500000001
-postcode: 76887
+postcode: "76887"
 city: Bad Bergzabern
 street: "Kurtalstraße"
 housenumber: 9

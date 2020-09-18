@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.020534600000005
 longitude: 6.2902208
-postcode: 54673
+postcode: "54673"
 city: Neuerburg
 street: "Kölner Straße"
 housenumber: 10

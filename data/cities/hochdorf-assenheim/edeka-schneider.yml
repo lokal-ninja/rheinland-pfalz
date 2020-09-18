@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4323719
 longitude: 8.3052492
-postcode: 67126
+postcode: "67126"
 city: Hochdorf-Assenheim
 street: "Im Keltenfeld"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.257289500000006
 longitude: 7.0155357
-postcode: 56767
+postcode: "56767"
 city: Uersfeld
 street: "Ober dem Wasserborn"
 housenumber: 1

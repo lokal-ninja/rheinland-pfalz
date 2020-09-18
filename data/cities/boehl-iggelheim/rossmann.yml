@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 49.373905900000004
 longitude: 8.3060796
-postcode: 67459
+postcode: "67459"
 city: Böhl-Iggelheim
 street: "Am Schwarzweiher"
 housenumber: 9b
-phone: "+49 6324 9679986"
-opening_hours: ""
+phone: ""
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
 website: ""

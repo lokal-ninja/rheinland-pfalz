@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 49.468262800000005
 longitude: 8.175572200000001
-postcode: 67098
+postcode: "67098"
 city: Bad Dürkheim
 street: "Gutleutstraße"
 housenumber: 52

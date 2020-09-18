@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.2094387
 longitude: 8.12514
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Im Justus"
 housenumber: 1

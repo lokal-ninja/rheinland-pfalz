@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.0807419
 longitude: 8.1896041
-postcode: 76870
+postcode: "76870"
 city: Kandel
 street: "Hauptstraße"
 housenumber: 15

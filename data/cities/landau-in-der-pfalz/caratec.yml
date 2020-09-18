@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 49.191239
 longitude: 8.142762300000001
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Carl-Bosch-Straße"
 housenumber: 7

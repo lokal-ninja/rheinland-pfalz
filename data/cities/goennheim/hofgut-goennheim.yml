@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.447917600000004
 longitude: 8.2393219
-postcode: 67161
+postcode: "67161"
 city: Gönnheim
 street: "Ludwigstraße"
 housenumber: 52

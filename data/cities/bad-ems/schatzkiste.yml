@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 50.3289914
 longitude: 7.7292043
-postcode: 56130
+postcode: "56130"
 city: Bad Ems
 street: "Mainzer Straße"
 housenumber: 8

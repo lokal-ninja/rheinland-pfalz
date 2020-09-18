@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.7037258
 longitude: 8.3216737
-postcode: 67574
+postcode: "67574"
 city: Osthofen
 street: "Friedrich-Ebert-Straße"
 housenumber: 46

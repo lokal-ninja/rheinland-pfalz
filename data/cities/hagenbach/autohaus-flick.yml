@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 49.013275300000004
 longitude: 8.2559612
-postcode: 
+postcode: ""
 city: Hagenbach
 street: "Schwarzwaldstraße"
 housenumber: 5-9
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-14:30"
 website: ""

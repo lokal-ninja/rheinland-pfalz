@@ -3,10 +3,10 @@ type: node
 shop: Computer
 latitude: 49.459390500000005
 longitude: 8.1686785
-postcode: 67098
+postcode: "67098"
 city: Bad Dürkheim
 street: "Weinstraße Süd"
 housenumber: 4
 phone: "+4963228529"
-opening_hours: ""
+opening_hours: "Mo,We,Th,Fr 09:00-12:30,14:30-18:00; Tu 14:30-18:00; Sa 09:30-12:30"
 website: "https://www.graus-buerotechnik.de/"

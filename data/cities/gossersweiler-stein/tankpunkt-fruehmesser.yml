@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.1634286
 longitude: 7.9301333000000005
-postcode: 76857
+postcode: "76857"
 city: Gossersweiler-Stein
 street: "Sankt Georgstraße"
 housenumber: 1

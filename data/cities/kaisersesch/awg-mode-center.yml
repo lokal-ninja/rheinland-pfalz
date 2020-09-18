@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.2356713
 longitude: 7.148774
-postcode: 56759
+postcode: "56759"
 city: Kaisersesch
 street: "Wilhelm-Conrad-Röntgen-Straße"
 housenumber: 2 A

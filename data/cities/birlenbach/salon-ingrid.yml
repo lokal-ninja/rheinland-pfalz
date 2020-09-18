@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.3577859
 longitude: 8.002729
-postcode: 65626
+postcode: "65626"
 city: Birlenbach
 street: "Schulstraße"
 housenumber: 9

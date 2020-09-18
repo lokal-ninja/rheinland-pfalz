@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.431087100000006
 longitude: 7.4584307
-postcode: 56564
+postcode: "56564"
 city: Neuwied
 street: "Langendorfer Straße"
 housenumber: 95-97

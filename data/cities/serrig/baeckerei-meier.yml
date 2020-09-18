@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.5745858
 longitude: 6.574868
-postcode: 54455
+postcode: "54455"
 city: Serrig
 street: "Martinusstraße"
 housenumber: 1

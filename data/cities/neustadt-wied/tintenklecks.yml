@@ -1,12 +1,12 @@
 id: 626777534
 type: node
 shop: Schreibwaren
-latitude: 50.622131800000005
-longitude: 7.427541700000001
-postcode: 53577
+latitude: 50.622234500000005
+longitude: 7.4275307
+postcode: "53577"
 city: Neustadt (Wied)
 street: "Wiedtalstraße"
 housenumber: 10
-phone: "+49-2683-939381"
-opening_hours: ""
+phone: "+49 2683 939381"
+opening_hours: "Mo-Fr 08:30-13:00, 14:00-18:30; Sa 08:30-13:00"
 website: ""

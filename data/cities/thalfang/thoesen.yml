@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.7514995
 longitude: 6.997977700000001
-postcode: 54424
+postcode: "54424"
 city: Thalfang
 street: "Saarstraße"
 housenumber: 8

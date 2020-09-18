@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 49.842521700000006
 longitude: 7.8609501
-postcode: 55543
+postcode: "55543"
 city: Bad Kreuznach
 street: "Mannheimer Straße"
 housenumber: 152 - 160

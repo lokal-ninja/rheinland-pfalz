@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.7980699
 longitude: 6.825021700000001
-postcode: 54346
+postcode: "54346"
 city: Mehring
 street: "Brückenstraße"
 housenumber: 11

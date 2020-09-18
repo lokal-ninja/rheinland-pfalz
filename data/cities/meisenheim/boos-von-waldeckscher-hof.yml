@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.707432000000004
 longitude: 7.6704566000000005
-postcode: 55590
+postcode: "55590"
 city: Meisenheim
 street: "Obergasse"
 housenumber: 26

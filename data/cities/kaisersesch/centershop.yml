@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 50.236147200000005
 longitude: 7.1458686
-postcode: 56759
+postcode: "56759"
 city: Kaisersesch
 street: "Alte Mayener Straße"
 housenumber: 2A

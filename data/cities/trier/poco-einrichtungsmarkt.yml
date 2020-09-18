@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.721850100000005
 longitude: 6.5851129
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Im Siebenborn"
 housenumber: 5-7

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.7308077
 longitude: 6.607691600000001
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Niederkircher Straße"
 housenumber: 4

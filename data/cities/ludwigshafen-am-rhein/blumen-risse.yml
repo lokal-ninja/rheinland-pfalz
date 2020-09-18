@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.4873234
 longitude: 8.3520783
-postcode: 67071
+postcode: "67071"
 city: Ludwigshafen am Rhein
 street: "Oderstraße"
 housenumber: 3

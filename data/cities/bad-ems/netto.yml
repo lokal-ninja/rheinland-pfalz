@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.3454762
 longitude: 7.7196647
-postcode: 56130
+postcode: "56130"
 city: Bad Ems
 street: "Arzbacher Straße"
 housenumber: 73

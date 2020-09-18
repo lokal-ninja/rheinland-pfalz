@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.196644500000005
 longitude: 8.112190700000001
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Marktstraße"
 housenumber: 89

@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 50.007177000000006
 longitude: 8.285702
-postcode: 55252
+postcode: "55252"
 city: Wiesbaden
 street: "Frankfurter Straße"
 housenumber: 13

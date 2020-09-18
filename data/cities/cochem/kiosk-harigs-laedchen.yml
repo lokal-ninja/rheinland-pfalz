@@ -3,7 +3,7 @@ type: node
 shop: Lotterie
 latitude: 50.147025400000004
 longitude: 7.1647961
-postcode: 56812
+postcode: "56812"
 city: Cochem
 street: "Endertstraße"
 housenumber: 3

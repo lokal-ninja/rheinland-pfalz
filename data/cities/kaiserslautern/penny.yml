@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.444319300000004
 longitude: 7.784994500000001
-postcode: 67655
+postcode: "67655"
 city: Kaiserslautern
 street: "Altenwoogstraße"
 housenumber: 42

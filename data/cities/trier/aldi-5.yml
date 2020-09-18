@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7467875
 longitude: 6.617781900000001
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Martha-Brach-Straße"
 housenumber: 4

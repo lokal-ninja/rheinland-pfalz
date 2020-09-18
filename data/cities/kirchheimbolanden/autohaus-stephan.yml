@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.6597361
 longitude: 8.0156164
-postcode: 67292
+postcode: "67292"
 city: Kirchheimbolanden
 street: "Marnheimer Straße"
 housenumber: 68

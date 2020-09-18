@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1644839
 longitude: 7.8130107
-postcode: 56357
+postcode: "56357"
 city: Niederwallmenach
 street: "Taunusstraße"
 housenumber: 3

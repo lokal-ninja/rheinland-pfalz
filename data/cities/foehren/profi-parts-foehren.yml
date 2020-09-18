@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 49.8591819
 longitude: 6.793107200000001
-postcode: 54343
+postcode: "54343"
 city: Föhren
 street: "Europa-Allee"
 housenumber: 44

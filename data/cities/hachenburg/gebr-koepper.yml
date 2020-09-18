@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.6657249
 longitude: 7.8103629
-postcode: 57627
+postcode: "57627"
 city: Hachenburg
 street: "Saynstraße"
 housenumber: 35

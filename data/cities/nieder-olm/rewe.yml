@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.907957800000005
 longitude: 8.1987041
-postcode: 55268
+postcode: "55268"
 city: Nieder-Olm
 street: "Bussolengo-Platz"
 housenumber: 10-12

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.331346
 longitude: 7.699679000000001
-postcode: 56132
+postcode: "56132"
 city: Nievern
 street: "Auf der Lay"
 housenumber: 5

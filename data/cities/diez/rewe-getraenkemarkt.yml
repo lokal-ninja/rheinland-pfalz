@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.3713665
 longitude: 8.0352301
-postcode: 65582
+postcode: "65582"
 city: Diez
 street: "Am Backsteinbrand"
 housenumber: 6

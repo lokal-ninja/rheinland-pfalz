@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.4613096
 longitude: 8.168757900000001
-postcode: 67098
+postcode: "67098"
 city: Bad Dürkheim
 street: "Mannheimer Straße"
 housenumber: 3-5

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.3907767
 longitude: 8.431982300000001
-postcode: 67165
+postcode: "67165"
 city: Waldsee
 street: "Albert-Einstein-Allee"
 housenumber: 43

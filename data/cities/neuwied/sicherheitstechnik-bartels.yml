@@ -3,10 +3,10 @@ type: node
 shop: Schlüsseldienst
 latitude: 50.4408528
 longitude: 7.4652734
-postcode: 56564
+postcode: "56564"
 city: Neuwied
 street: "Rasselsteiner Straße"
 housenumber: 2a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"
 website: ""

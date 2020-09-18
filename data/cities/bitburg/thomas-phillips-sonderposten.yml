@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9617413
 longitude: 6.521173
-postcode: 54634
+postcode: "54634"
 city: Bitburg
 street: "Saarstraße"
 housenumber: 44A

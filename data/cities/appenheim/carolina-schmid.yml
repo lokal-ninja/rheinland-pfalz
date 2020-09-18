@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.935056
 longitude: 8.0320104
-postcode: 55437
+postcode: "55437"
 city: Appenheim
 street: "Vorm Westerberg"
 housenumber: 13

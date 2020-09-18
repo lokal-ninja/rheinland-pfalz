@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.977996100000006
 longitude: 7.519769500000001
-postcode: 55469
+postcode: "55469"
 city: Simmern
 street: "Gemündener Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.9808363
 longitude: 8.2431303
-postcode: 55128
+postcode: "55128"
 city: Mainz
 street: "Wilhelmsstraße"
 housenumber: 14

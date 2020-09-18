@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.9728429
 longitude: 6.5204651
-postcode: 54634
+postcode: "54634"
 city: Bitburg
 street: "Rautenberg"
 housenumber: 1

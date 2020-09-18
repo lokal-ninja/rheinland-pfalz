@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.3848045
 longitude: 8.299488100000001
-postcode: 67459
+postcode: "67459"
 city: Böhl-Iggelheim
 street: "Schifferstadter Straße"
 housenumber: 5

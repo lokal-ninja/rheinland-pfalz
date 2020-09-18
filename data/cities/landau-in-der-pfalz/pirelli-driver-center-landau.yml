@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 49.2112561
 longitude: 8.1432406
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Oberwiesenstraße"
 housenumber: 7

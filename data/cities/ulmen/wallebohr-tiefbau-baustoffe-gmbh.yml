@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 50.224959000000005
 longitude: 6.972381
-postcode: 56766
+postcode: "56766"
 city: Ulmen
 street: "Industriestraße"
 housenumber: 6

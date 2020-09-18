@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.7638364
 longitude: 6.657220700000001
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Franz-Georg-Straße"
 housenumber: 50

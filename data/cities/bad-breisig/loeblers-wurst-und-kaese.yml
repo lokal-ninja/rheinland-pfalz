@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 50.5037114
 longitude: 7.2831087000000005
-postcode: 53498
+postcode: "53498"
 city: Bad Breisig
 street: "Hauptstraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.6559163
 longitude: 7.591280500000001
-postcode: 67742
+postcode: "67742"
 city: Lauterecken
 street: "Saarbrücker Straße"
 housenumber: 11

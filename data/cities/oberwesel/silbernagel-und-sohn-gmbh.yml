@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 50.1116424
 longitude: 7.721749300000001
-postcode: 55430
+postcode: "55430"
 city: Oberwesel
 street: "Am Katzenturm"
 housenumber: 3

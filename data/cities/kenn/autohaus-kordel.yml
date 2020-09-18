@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.80512
 longitude: 6.727651600000001
-postcode: 54344
+postcode: "54344"
 city: Kenn
 street: "Gewerbegebiet"
 housenumber: 18

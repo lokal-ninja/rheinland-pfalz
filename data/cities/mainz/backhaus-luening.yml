@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.008419700000005
 longitude: 8.261822500000001
-postcode: 55118
+postcode: "55118"
 city: Mainz
 street: "Forsterstraße"
 housenumber: 10

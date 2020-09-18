@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.7214955
 longitude: 8.257499000000001
-postcode: 67595
+postcode: "67595"
 city: Bechtheim
 street: "Bechtheim West"
 housenumber: 18

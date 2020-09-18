@@ -3,7 +3,7 @@ type: way
 shop: Teppiche
 latitude: 49.684951700000006
 longitude: 6.5572333
-postcode: 54329
+postcode: "54329"
 city: Konz
 street: "Am Maarbach"
 housenumber: 4

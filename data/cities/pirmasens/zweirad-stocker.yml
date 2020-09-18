@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.1984798
 longitude: 7.603868500000001
-postcode: 66954
+postcode: "66954"
 city: Pirmasens
 street: "Pirminiusstraße"
 housenumber: 2

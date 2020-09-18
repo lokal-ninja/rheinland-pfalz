@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.6324241
 longitude: 8.361308000000001
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Obermarkt"
 housenumber: 15

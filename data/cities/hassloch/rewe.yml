@@ -1,12 +1,12 @@
-id: 1739099517
+id: 7804314299
 type: node
 shop: Supermarkt
-latitude: 49.3562376
-longitude: 8.260576
-postcode: 67454
+latitude: 49.3564188
+longitude: 8.2605734
+postcode: "67454"
 city: Haßloch
 street: "Lindenstraße"
-housenumber: 15
-phone: ""
+housenumber: 13
+phone: "+49 6324 5930642"
 opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/meinkaufsbox/markt/marktinfo.html?marketId=831039"
+website: "https://www.rewe.de/marktseite/hassloch/831039/rewe-markt-lindenstr-13/"

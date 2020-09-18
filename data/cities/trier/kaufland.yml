@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7555868
 longitude: 6.6239359
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Aachener Straße"
 housenumber: 58

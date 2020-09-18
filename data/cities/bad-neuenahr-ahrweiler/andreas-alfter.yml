@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.546446
 longitude: 7.176098400000001
-postcode: 53474
+postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
 street: "Wiesenweg"
 housenumber: 6

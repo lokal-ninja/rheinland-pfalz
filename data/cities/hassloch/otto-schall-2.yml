@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.3613622
 longitude: 8.2567097
-postcode: 67454
+postcode: "67454"
 city: Haßloch
 street: "Schillerstraße"
 housenumber: 19

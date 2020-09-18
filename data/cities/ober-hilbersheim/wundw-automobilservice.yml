@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.9034581
 longitude: 8.0301499
-postcode: 55437
+postcode: "55437"
 city: Ober-Hilbersheim
 street: "Nieder-Hilbersheimer-Straße"
 housenumber: 

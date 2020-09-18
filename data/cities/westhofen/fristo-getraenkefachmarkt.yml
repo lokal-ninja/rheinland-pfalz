@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.702978200000004
 longitude: 8.257179
-postcode: 67593
+postcode: "67593"
 city: Westhofen
 street: "Jahnstraße"
 housenumber: 

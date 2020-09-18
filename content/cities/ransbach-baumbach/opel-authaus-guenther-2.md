@@ -1,4 +1,0 @@
----
-title: "Opel Authaus Günther"
-url: /ransbach-baumbach/opel-authaus-guenther-2/
----

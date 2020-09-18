@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.148624500000004
 longitude: 8.298597500000001
-postcode: 76761
+postcode: "76761"
 city: Rülzheim
 street: "Gutenbergstraße"
 housenumber: 6A

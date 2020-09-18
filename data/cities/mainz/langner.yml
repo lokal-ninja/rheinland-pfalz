@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.00814990000001
 longitude: 8.2619945
-postcode: 55118
+postcode: "55118"
 city: Mainz
 street: "Forsterstraße"
 housenumber: 25

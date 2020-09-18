@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.2684335
 longitude: 8.326998
-postcode: 67365
+postcode: "67365"
 city: Schwegenheim
 street: "Hauptstraße"
 housenumber: 85

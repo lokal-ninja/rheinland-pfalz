@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5457101
 longitude: 7.1258236
-postcode: 53474
+postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
 street: "Weinbergstraße"
 housenumber: 10

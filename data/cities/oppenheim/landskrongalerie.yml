@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.847574800000004
 longitude: 8.3596523
-postcode: 55276
+postcode: "55276"
 city: Oppenheim
 street: "In den Weingärten"
 housenumber: 

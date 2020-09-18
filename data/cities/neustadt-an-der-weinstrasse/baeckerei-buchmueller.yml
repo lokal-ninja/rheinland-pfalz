@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.3700088
 longitude: 8.170165500000001
-postcode: 67435
+postcode: "67435"
 city: Neustadt an der Weinstraße
 street: "Kurpfalzstraße"
 housenumber: 6

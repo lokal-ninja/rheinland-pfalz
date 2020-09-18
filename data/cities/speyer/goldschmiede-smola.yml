@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.319039700000005
 longitude: 8.442761200000001
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Sonnengasse"
 housenumber: 3

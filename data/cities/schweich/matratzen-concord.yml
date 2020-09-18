@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.8200342
 longitude: 6.745018900000001
-postcode: 54338
+postcode: "54338"
 city: Schweich
 street: "In den Schlimmfuhren"
 housenumber: 6

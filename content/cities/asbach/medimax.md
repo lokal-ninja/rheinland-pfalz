@@ -1,4 +1,4 @@
 ---
-title: "MEDIMAX"
+title: "Medimax"
 url: /asbach/medimax/
 ---

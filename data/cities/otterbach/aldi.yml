@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.484287800000004
 longitude: 7.7307912000000005
-postcode: 67731
+postcode: "67731"
 city: Otterbach
 street: "Im Brühl"
 housenumber: 7

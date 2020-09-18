@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.1894519
 longitude: 8.2360512
-postcode: 76879
+postcode: "76879"
 city: Ottersheim bei Landau
 street: "Ludwigstraße"
 housenumber: 50

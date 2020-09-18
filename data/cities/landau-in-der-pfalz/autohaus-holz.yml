@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.2065939
 longitude: 8.124770100000001
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Hainbachstraße"
 housenumber: 70

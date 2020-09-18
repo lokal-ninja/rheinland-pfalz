@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.7511584
 longitude: 6.6205132
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Eurener Straße"
 housenumber: 16

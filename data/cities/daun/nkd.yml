@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.1947005
 longitude: 6.8316343
-postcode: 54550
+postcode: "54550"
 city: Daun
 street: ""
 housenumber: 

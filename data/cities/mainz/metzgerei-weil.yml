@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.9854665
 longitude: 8.175602300000001
-postcode: 55126
+postcode: "55126"
 city: Mainz
 street: "Bierothstraße"
 housenumber: 2

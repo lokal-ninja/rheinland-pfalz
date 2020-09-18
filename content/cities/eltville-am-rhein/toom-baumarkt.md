@@ -1,4 +1,4 @@
 ---
-title: "toom Baumarkt"
+title: "Toom Baumarkt"
 url: /eltville-am-rhein/toom-baumarkt/
 ---

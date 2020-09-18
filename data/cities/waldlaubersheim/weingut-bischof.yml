@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.9287495
 longitude: 7.830289400000001
-postcode: 55444
+postcode: "55444"
 city: Waldlaubersheim
 street: "Genheimer Straße"
 housenumber: 3

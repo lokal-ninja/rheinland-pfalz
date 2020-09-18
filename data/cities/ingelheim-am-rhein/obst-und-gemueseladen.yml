@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.9644138
 longitude: 8.060101900000001
-postcode: 55218
+postcode: "55218"
 city: Ingelheim am Rhein
 street: "Marktplatz"
 housenumber: 6

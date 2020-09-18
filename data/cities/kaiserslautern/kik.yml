@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.4347233
 longitude: 7.765850200000001
-postcode: 67663
+postcode: "67663"
 city: Kaiserslautern
 street: "Zollamtstraße"
 housenumber: 28

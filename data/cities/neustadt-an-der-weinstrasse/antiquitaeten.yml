@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 49.3527532
 longitude: 8.1356664
-postcode: 67433
+postcode: "67433"
 city: Neustadt an der Weinstraße
 street: "Kunigundenstraße"
 housenumber: 8

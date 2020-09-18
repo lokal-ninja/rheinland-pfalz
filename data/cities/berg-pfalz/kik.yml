@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.9804212
 longitude: 8.185213000000001
-postcode: 76768
+postcode: "76768"
 city: Berg (Pfalz)
 street: "Mühläcker"
 housenumber: 4a

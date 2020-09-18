@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 49.9593277
 longitude: 8.251126000000001
-postcode: 55129
+postcode: "55129"
 city: Mainz
 street: "August-Horch-Straße"
 housenumber: 14

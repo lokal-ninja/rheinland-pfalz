@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.004406200000005
 longitude: 8.2603098
-postcode: 55118
+postcode: "55118"
 city: Mainz
 street: "Boppstraße"
 housenumber: 18

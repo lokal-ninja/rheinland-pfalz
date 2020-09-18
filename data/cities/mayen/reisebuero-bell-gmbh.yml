@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.3290574
 longitude: 7.2208417
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "Rosengasse"
 housenumber: 5

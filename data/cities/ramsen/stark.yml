@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.5360931
 longitude: 8.012810700000001
-postcode: 67305
+postcode: "67305"
 city: Ramsen
 street: "Klosterstraße"
 housenumber: 4

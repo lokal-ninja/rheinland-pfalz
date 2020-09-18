@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.813952400000005
 longitude: 6.4339697000000005
-postcode: 54668
+postcode: "54668"
 city: Echternacherbrück
 street: "Bitburger Straße"
 housenumber: 1b

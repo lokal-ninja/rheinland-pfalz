@@ -3,7 +3,7 @@ type: node
 shop: Pferde
 latitude: 50.000525
 longitude: 8.1307937
-postcode: 55262
+postcode: "55262"
 city: Ingelheim am Rhein
 street: "Im Schäfersborn"
 housenumber: 2

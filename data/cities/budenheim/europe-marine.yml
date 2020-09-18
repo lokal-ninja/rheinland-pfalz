@@ -3,7 +3,7 @@ type: way
 shop: Boot
 latitude: 50.027584600000004
 longitude: 8.195075600000001
-postcode: 55257
+postcode: "55257"
 city: Budenheim
 street: "Hechtenkaute"
 housenumber: 1

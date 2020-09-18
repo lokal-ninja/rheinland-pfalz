@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.8204739
 longitude: 6.751496800000001
-postcode: 54338
+postcode: "54338"
 city: Schweich
 street: "Steinerbaum"
 housenumber: 2

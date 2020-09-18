@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.925766
 longitude: 8.3269923
-postcode: 55294
+postcode: "55294"
 city: Bodenheim
 street: "Lange Ruthe"
 housenumber: 9a

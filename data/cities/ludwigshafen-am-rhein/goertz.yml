@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4848347
 longitude: 8.4304656
-postcode: 67059
+postcode: "67059"
 city: Ludwigshafen am Rhein
 street: "Bürgermeister-Grünzweig-Straße"
 housenumber: 59

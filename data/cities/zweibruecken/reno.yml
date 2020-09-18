@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.250412700000005
 longitude: 7.3478089
-postcode: 66482
+postcode: "66482"
 city: Zweibrücken
 street: "Wilkstraße"
 housenumber: 1

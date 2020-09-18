@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.223859600000004
 longitude: 6.6542722
-postcode: 54568
+postcode: "54568"
 city: Gerolstein
 street: "Sarresdorfer Straße"
 housenumber: 22 A

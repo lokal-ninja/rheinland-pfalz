@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.698522600000004
 longitude: 6.574445900000001
-postcode: 54329
+postcode: "54329"
 city: Konz
 street: "Schillerarkaden"
 housenumber: 3

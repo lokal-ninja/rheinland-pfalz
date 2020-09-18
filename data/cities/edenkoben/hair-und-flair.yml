@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.281491200000005
 longitude: 8.1270479
-postcode: 67480
+postcode: "67480"
 city: Edenkoben
 street: "Weinstraße"
 housenumber: 79

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.92866
 longitude: 8.0937467
-postcode: 55270
+postcode: "55270"
 city: Schwabenheim an der Selz
 street: "Mühlstraße"
 housenumber: 2

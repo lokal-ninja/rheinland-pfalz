@@ -3,10 +3,10 @@ type: node
 shop: Tee
 latitude: 50.002217800000004
 longitude: 8.2674468
-postcode: 55116
+postcode: "55116"
 city: Mainz
 street: "Klarastraße"
 housenumber: 23
 phone: "+49 6131 2752550"
-opening_hours: ""
+opening_hours: "Mo-Fr 10:30-18:30; Sa 10:00-16:00"
 website: "http://www.gutee-haus.de"

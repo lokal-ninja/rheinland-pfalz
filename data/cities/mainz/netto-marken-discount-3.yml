@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.984404000000005
 longitude: 8.2545643
-postcode: 55128
+postcode: "55128"
 city: Mainz
 street: "Alfred-Mumbächer-Straße"
 housenumber: 1

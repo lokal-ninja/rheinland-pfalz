@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.456637
 longitude: 8.3374214
-postcode: 67112
+postcode: "67112"
 city: Mutterstadt
 street: "Hillensheimer Hof"
 housenumber: 1a

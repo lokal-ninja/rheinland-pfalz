@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.1479299
 longitude: 7.3961486
-postcode: 56290
+postcode: "56290"
 city: Dommershausen
 street: "Kreuzerwiese"
 housenumber: 1

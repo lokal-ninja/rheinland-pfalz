@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 49.7471759
 longitude: 6.6356868
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Saarstraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 49.9890454
 longitude: 8.2673162
-postcode: 55131
+postcode: "55131"
 city: Mainz
 street: "An der Goldgrube"
 housenumber: 2

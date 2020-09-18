@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.5366019
 longitude: 8.0284875
-postcode: 67305
+postcode: "67305"
 city: Ramsen
 street: "Pfaffenhecke"
 housenumber: 31

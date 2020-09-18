@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.370162300000004
 longitude: 8.0138923
-postcode: 65582
+postcode: "65582"
 city: Diez
 street: "Wilhelmstraße"
 housenumber: 44

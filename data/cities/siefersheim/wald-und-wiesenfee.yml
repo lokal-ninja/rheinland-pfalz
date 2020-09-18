@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.799223100000006
 longitude: 7.9551493
-postcode: 55599
+postcode: "55599"
 city: Siefersheim
 street: "Am Höllberg"
 housenumber: 6a

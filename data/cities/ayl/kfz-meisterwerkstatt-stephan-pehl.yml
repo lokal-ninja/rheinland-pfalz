@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.627538300000005
 longitude: 6.5655424
-postcode: 54441
+postcode: "54441"
 city: Ayl
 street: "Trierer Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.6025227
 longitude: 6.5413744000000005
-postcode: 54439
+postcode: "54439"
 city: Saarburg
 street: "Am Leukbach"
 housenumber: 6

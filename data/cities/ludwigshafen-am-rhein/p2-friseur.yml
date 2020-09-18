@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.522125700000004
 longitude: 8.4030553
-postcode: 67069
+postcode: "67069"
 city: Ludwigshafen am Rhein
 street: "Edigheimer Straße"
 housenumber: 34

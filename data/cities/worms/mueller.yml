@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.632076600000005
 longitude: 8.3646159
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Am Römischen Kaiser"
 housenumber: 9

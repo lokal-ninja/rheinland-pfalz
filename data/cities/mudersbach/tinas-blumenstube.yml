@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.8268423
 longitude: 7.9488516
-postcode: 57555
+postcode: "57555"
 city: Mudersbach
 street: "Koblenzer Straße"
 housenumber: 24

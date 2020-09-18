@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.227696800000004
 longitude: 8.3761233
-postcode: 76726
+postcode: "76726"
 city: Germersheim
 street: "Münchener Straße"
 housenumber: 2

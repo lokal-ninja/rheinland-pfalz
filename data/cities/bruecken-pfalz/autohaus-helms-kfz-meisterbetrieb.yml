@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.437072400000005
 longitude: 7.3578311
-postcode: 66904
+postcode: "66904"
 city: Brücken (Pfalz)
 street: "Hauptstraße"
 housenumber: 111

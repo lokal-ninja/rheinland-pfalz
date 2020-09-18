@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1304163
 longitude: 6.956948100000001
-postcode: 54552
+postcode: "54552"
 city: Immerath
 street: "Hauptstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.0257104
 longitude: 8.220294800000001
-postcode: 55120
+postcode: "55120"
 city: Mainz
 street: "In der Dalheimer Wiese"
 housenumber: 36

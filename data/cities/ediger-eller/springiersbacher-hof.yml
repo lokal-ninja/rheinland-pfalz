@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 50.096426400000006
 longitude: 7.1569823
-postcode: 56814
+postcode: "56814"
 city: Ediger-Eller
 street: "Oberbachstraße"
 housenumber: 30

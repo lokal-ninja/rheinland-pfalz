@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.9814456
 longitude: 6.9078425
-postcode: 54516
+postcode: "54516"
 city: Wittlich
 street: "Justus-Von-Liebig-Straße"
 housenumber: 4

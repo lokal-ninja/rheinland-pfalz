@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.33925970000001
 longitude: 8.2248278
-postcode: 67435
+postcode: "67435"
 city: Neustadt an der Weinstraße
 street: "Im Altenschemel"
 housenumber: 57

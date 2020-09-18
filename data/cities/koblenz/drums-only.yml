@@ -3,7 +3,7 @@ type: way
 shop: Instrumente
 latitude: 50.372485000000005
 longitude: 7.5945955000000005
-postcode: 56070
+postcode: "56070"
 city: Koblenz
 street: "Andernacher Straße"
 housenumber: 90

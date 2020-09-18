@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.4227907
 longitude: 8.3801083
-postcode: 67117
+postcode: "67117"
 city: Limburgerhof
 street: "Mühlweg"
 housenumber: 54

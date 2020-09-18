@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.204294600000004
 longitude: 6.4250154
-postcode: 54595
+postcode: "54595"
 city: Prüm
 street: "Gerberweg"
 housenumber: 45

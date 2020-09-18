@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.247383000000006
 longitude: 8.0782655
-postcode: 76835
+postcode: "76835"
 city: Burrweiler
 street: "Weinstraße"
 housenumber: 6

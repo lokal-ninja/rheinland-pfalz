@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.225429500000004
 longitude: 7.185675600000001
-postcode: 56761
+postcode: "56761"
 city: Hambuch
 street: "Im Winkel"
 housenumber: 9

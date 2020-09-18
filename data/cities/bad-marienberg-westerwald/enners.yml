@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.649263100000006
 longitude: 7.9500209
-postcode: 56470
+postcode: "56470"
 city: Bad Marienberg (Westerwald)
 street: "Bismarckstraße"
 housenumber: 23

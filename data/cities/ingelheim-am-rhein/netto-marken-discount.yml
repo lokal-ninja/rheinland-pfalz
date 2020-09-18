@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.975087200000004
 longitude: 8.121816800000001
-postcode: 55263
+postcode: "55263"
 city: Ingelheim am Rhein
 street: "Mainzer Straße"
 housenumber: 12

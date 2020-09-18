@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8929376
 longitude: 8.0873682
-postcode: 55270
+postcode: "55270"
 city: Jugenheim in Rheinhessen
 street: "Bahnhofstraße"
 housenumber: 18

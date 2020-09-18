@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.7540339
 longitude: 6.6417098
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Konstantinstraße"
 housenumber: 16

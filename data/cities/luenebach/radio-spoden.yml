@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 50.139747500000006
 longitude: 6.347704200000001
-postcode: 54597
+postcode: "54597"
 city: Lünebach
 street: "Pronsfelder Straße"
 housenumber: 3

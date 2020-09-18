@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.546682800000006
 longitude: 7.111910300000001
-postcode: 53474
+postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
 street: "Rotweinstraße"
 housenumber: 3

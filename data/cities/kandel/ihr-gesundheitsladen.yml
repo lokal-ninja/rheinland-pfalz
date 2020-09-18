@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.0819709
 longitude: 8.196124300000001
-postcode: 76870
+postcode: "76870"
 city: Kandel
 street: "Hauptstraße"
 housenumber: 92

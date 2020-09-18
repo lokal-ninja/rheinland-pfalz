@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.530553100000006
 longitude: 7.0767886
-postcode: 53474
+postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
 street: "Walporzheimer Straße"
 housenumber: 146

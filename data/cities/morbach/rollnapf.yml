@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.8146992
 longitude: 7.1258219
-postcode: 54497
+postcode: "54497"
 city: Morbach
 street: "Am Dreieck"
 housenumber: 

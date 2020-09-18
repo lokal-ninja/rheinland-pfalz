@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.0822079
 longitude: 8.1967455
-postcode: 76870
+postcode: "76870"
 city: Kandel
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 49.3318093
 longitude: 8.432236000000001
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Am Rabensteinerweg"
 housenumber: 11

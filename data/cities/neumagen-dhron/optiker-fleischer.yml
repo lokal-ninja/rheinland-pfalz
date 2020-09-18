@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.853015500000005
 longitude: 6.8944131
-postcode: 54347
+postcode: "54347"
 city: Neumagen-Dhron
 street: "Poststraße"
 housenumber: 2A

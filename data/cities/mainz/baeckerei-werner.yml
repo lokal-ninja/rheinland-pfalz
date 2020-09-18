@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9800121
 longitude: 8.2984918
-postcode: 55130
+postcode: "55130"
 city: Mainz
 street: "Otto-Wels-Straße"
 housenumber: 14

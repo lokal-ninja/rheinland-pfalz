@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.958691
 longitude: 7.1055044
-postcode: 56841
+postcode: "56841"
 city: Traben-Trarbach
 street: "Kräuterhausweg"
 housenumber: 19

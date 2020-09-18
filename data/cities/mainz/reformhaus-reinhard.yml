@@ -1,9 +1,9 @@
 id: 5201516104
 type: node
 shop: Lebensmittel
-latitude: 50.000526400000005
-longitude: 8.271415600000001
-postcode: 55116
+latitude: 50.0005455
+longitude: 8.271387800000001
+postcode: "55116"
 city: Mainz
 street: "Betzelsstraße"
 housenumber: 26

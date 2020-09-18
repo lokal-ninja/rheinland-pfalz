@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.7578399
 longitude: 6.625521
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Martinerfeld"
 housenumber: 29-31

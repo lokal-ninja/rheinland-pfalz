@@ -3,7 +3,7 @@ type: way
 shop: Glaserei
 latitude: 49.3352
 longitude: 8.440453100000001
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Nachtweide"
 housenumber: 8

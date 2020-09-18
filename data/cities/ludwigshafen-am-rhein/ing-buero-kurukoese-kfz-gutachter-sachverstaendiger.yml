@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.4834073
 longitude: 8.4296118
-postcode: 67059
+postcode: "67059"
 city: Ludwigshafen am Rhein
 street: "Frankenthaler Straße"
 housenumber: 72

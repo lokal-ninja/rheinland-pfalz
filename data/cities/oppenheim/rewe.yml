@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8458507
 longitude: 8.35407
-postcode: 55276
+postcode: "55276"
 city: Oppenheim
 street: "Sant'-Ambrogio-Ring"
 housenumber: 2

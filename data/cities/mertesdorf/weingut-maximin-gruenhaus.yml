@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 49.7718319
 longitude: 6.7197345
-postcode: 54318
+postcode: "54318"
 city: Mertesdorf
 street: "Hauptstraße"
 housenumber: 1

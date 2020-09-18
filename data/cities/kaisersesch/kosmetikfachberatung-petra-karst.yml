@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.2252007
 longitude: 7.130231
-postcode: 56759
+postcode: "56759"
 city: Kaisersesch
 street: "Engelsbachstraße"
 housenumber: 7A

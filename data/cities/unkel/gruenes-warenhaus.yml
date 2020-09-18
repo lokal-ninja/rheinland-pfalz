@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.6045608
 longitude: 7.220017
-postcode: 53572
+postcode: "53572"
 city: Unkel
 street: "Am Schröterkreuz"
 housenumber: 1a

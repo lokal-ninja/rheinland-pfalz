@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 50.004665
 longitude: 8.2587767
-postcode: 55118
+postcode: "55118"
 city: Mainz
 street: "Osteinstraße"
 housenumber: 16

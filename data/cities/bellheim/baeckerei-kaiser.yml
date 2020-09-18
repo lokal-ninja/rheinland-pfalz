@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1906419
 longitude: 8.2891628
-postcode: 76756
+postcode: "76756"
 city: Bellheim
 street: "Hauptstraße"
 housenumber: 191

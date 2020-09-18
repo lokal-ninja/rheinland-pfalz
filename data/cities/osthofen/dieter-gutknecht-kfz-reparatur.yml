@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.6990014
 longitude: 8.334986
-postcode: 67574
+postcode: "67574"
 city: Osthofen
 street: "An der Lehmgrube"
 housenumber: 7

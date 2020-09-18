@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.344784600000004
 longitude: 8.1382495
-postcode: 67434
+postcode: "67434"
 city: Neustadt an der Weinstraße
 street: "Hambacher Straße"
 housenumber: 48

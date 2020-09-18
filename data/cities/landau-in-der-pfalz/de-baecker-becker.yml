@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2032998
 longitude: 8.1324701
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Horststraße"
 housenumber: 112

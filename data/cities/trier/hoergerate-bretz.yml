@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.7576223
 longitude: 6.642646200000001
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Glockenstraße"
 housenumber: 14

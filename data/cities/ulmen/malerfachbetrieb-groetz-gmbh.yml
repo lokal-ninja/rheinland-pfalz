@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 50.2205269
 longitude: 6.9649383
-postcode: 56766
+postcode: "56766"
 city: Ulmen
 street: "Am Maibüsch"
 housenumber: 6

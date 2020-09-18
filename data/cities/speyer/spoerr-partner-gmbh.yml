@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 49.306427500000005
 longitude: 8.447830900000001
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Am Flugplatz"
 housenumber: 3

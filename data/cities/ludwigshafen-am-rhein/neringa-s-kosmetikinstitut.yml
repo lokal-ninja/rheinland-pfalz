@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 49.4700332
 longitude: 8.445451400000001
-postcode: 67061
+postcode: "67061"
 city: Ludwigshafen am Rhein
 street: "Mundenheimer Straße"
 housenumber: 143

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.362898
 longitude: 8.2570014
-postcode: 67454
+postcode: "67454"
 city: Haßloch
 street: "Rathausplatz"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0114451
 longitude: 7.847660500000001
-postcode: 55413
+postcode: "55413"
 city: Trechtingshausen
 street: "Mainzer Straße"
 housenumber: 50

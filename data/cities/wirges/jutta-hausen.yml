@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.4718712
 longitude: 7.8059114
-postcode: 56422
+postcode: "56422"
 city: Wirges
 street: "Beethovenstraße"
 housenumber: 15

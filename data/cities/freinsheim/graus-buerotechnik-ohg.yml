@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.507014000000005
 longitude: 8.218073200000001
-postcode: 67251
+postcode: "67251"
 city: Freinsheim
 street: "Erpolzheimer Straße"
 housenumber: 26

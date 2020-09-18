@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.6503275
 longitude: 8.362528900000001
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Doktor-Otto-Röhm-Straße"
 housenumber: 

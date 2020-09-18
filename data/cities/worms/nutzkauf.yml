@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.6770304
 longitude: 8.2851432
-postcode: 67550
+postcode: "67550"
 city: Worms
 street: "Wonnegaustraße"
 housenumber: 53

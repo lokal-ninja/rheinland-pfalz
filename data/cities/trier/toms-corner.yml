@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.7585362
 longitude: 6.6348941
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Paulusplatz"
 housenumber: 6

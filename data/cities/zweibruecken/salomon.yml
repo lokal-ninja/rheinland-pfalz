@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.230031700000005
 longitude: 7.4038368000000006
-postcode: 66482
+postcode: "66482"
 city: Zweibrücken
 street: "Londoner Bogen"
 housenumber: 35

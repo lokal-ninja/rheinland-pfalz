@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 49.980923100000005
 longitude: 8.307533000000001
-postcode: 55130
+postcode: "55130"
 city: Mainz
 street: "Wormser Straße"
 housenumber: 153

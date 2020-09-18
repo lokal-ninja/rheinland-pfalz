@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.2366899
 longitude: 8.091771900000001
-postcode: 76833
+postcode: "76833"
 city: Böchingen
 street: "Landauer Straße"
 housenumber: 12

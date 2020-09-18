@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.10810540000001
 longitude: 8.0118586
-postcode: 76889
+postcode: "76889"
 city: Pleisweiler-Oberhofen
 street: "Im Weidfeld"
 housenumber: 10A

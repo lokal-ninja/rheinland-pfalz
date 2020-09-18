@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 49.2816655
 longitude: 8.127082600000001
-postcode: 67480
+postcode: "67480"
 city: Edenkoben
 street: "Weinstraße"
 housenumber: 81

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.649595000000005
 longitude: 8.339390100000001
-postcode: 67550
+postcode: "67550"
 city: Worms
 street: "Dr.-Carl-Sonnenschein-Straße"
 housenumber: 1

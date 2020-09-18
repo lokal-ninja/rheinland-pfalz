@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.6080477
 longitude: 6.548804400000001
-postcode: 54439
+postcode: "54439"
 city: Saarburg
 street: "Auf dem Graben"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 49.995495000000005
 longitude: 8.2764319
-postcode: 55116
+postcode: "55116"
 city: Mainz
 street: "Jakobsbergstraße"
 housenumber: 15

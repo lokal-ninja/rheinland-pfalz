@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.561768900000004
 longitude: 7.5269854
-postcode: 56587
+postcode: "56587"
 city: Oberhonnefeld-Gierend
 street: "Westerwaldstraße"
 housenumber: 21

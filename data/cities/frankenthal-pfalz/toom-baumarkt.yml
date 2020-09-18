@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.5432319
 longitude: 8.3505906
-postcode: 67227
+postcode: "67227"
 city: Frankenthal (Pfalz)
 street: "Eisenbahnstraße"
 housenumber: 77

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.602051800000005
 longitude: 6.540927000000001
-postcode: 54439
+postcode: "54439"
 city: Saarburg
 street: "Am Leukbach"
 housenumber: 12

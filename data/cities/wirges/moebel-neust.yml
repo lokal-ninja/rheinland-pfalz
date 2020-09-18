@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.4742764
 longitude: 7.791923700000001
-postcode: 56422
+postcode: "56422"
 city: Wirges
 street: "Samoborstraße"
 housenumber: 8

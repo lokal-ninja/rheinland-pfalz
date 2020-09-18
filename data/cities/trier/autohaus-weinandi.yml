@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.7444276
 longitude: 6.615260500000001
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Eurener Straße"
 housenumber: 77

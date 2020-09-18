@@ -3,7 +3,7 @@ type: way
 shop: Angeln
 latitude: 49.4422523
 longitude: 7.7297257
-postcode: 67663
+postcode: "67663"
 city: Kaiserslautern
 street: "Merkurstraße"
 housenumber: 15b

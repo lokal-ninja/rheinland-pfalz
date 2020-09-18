@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 49.6320235
 longitude: 8.3629235
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Kämmererstraße"
 housenumber: 43

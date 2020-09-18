@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8592749
 longitude: 6.897793600000001
-postcode: 54347
+postcode: "54347"
 city: Neumagen-Dhron
 street: "Katharinenufer"
 housenumber: 1

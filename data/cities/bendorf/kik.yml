@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.4248686
 longitude: 7.5711443
-postcode: 56170
+postcode: "56170"
 city: Bendorf
 street: "Hauptstraße"
 housenumber: 133

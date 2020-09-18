@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.02544
 longitude: 8.1190487
-postcode: 65343
+postcode: "65343"
 city: Eltville am Rhein
 street: "Rheingauer Straße"
 housenumber: 17

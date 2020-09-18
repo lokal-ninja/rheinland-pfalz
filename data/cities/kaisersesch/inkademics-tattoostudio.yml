@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 50.23042
 longitude: 7.1410612
-postcode: 56759
+postcode: "56759"
 city: Kaisersesch
 street: "Koblenzer Straße"
 housenumber: 47

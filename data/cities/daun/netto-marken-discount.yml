@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.195224800000005
 longitude: 6.8331122
-postcode: 54550
+postcode: "54550"
 city: Daun
 street: "Bahnhofstraße"
 housenumber: 8

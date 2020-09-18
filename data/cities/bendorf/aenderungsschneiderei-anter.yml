@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.423266700000006
 longitude: 7.5762203
-postcode: 56170
+postcode: "56170"
 city: Bendorf
 street: "Hauptstraße"
 housenumber: 100

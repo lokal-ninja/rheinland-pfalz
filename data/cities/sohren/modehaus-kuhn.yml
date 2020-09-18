@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.9310045
 longitude: 7.3059896
-postcode: 55487
+postcode: "55487"
 city: Sohren
 street: "Winterbachstraße"
 housenumber: 2

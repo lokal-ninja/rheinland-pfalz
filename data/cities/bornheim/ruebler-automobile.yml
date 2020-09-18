@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.2167596
 longitude: 8.1798389
-postcode: 76879
+postcode: "76879"
 city: Bornheim
 street: "Hornbachstraße"
 housenumber: 8

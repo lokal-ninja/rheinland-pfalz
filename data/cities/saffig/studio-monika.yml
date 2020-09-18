@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.3801159
 longitude: 7.4159204
-postcode: 56648
+postcode: "56648"
 city: Saffig
 street: "Neuwieder Straße"
 housenumber: 1

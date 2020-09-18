@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.3453869
 longitude: 8.1594724
-postcode: 67433
+postcode: "67433"
 city: Neustadt an der Weinstraße
 street: "Chemnitzer Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0247984
 longitude: 8.116478500000001
-postcode: 65343
+postcode: "65343"
 city: Eltville am Rhein
 street: "Matheus-Müller-Platz"
 housenumber: 4

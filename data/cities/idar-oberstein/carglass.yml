@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.7095618
 longitude: 7.3553258
-postcode: 55743
+postcode: "55743"
 city: Idar-Oberstein
 street: "John-F.-Kennedy-Straße"
 housenumber: 5c

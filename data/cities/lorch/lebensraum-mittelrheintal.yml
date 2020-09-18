@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 50.044221500000006
 longitude: 7.804568300000001
-postcode: 65391
+postcode: "65391"
 city: Lorch
 street: "Römerberg"
 housenumber: 2

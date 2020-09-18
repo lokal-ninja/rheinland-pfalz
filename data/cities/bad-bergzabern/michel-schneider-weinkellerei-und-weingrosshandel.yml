@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.107875500000006
 longitude: 8.0092402
-postcode: 76887
+postcode: "76887"
 city: Bad Bergzabern
 street: "Kurfürstenstraße"
 housenumber: 11

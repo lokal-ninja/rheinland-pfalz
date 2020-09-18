@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.4509983
 longitude: 7.8469693000000005
-postcode: 56412
+postcode: "56412"
 city: Heiligenroth
 street: "Industriestraße"
 housenumber: 

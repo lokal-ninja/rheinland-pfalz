@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.681497900000004
 longitude: 6.561947600000001
-postcode: 54329
+postcode: "54329"
 city: Konz
 street: "Könener Straße"
 housenumber: 53

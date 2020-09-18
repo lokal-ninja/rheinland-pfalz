@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.769361800000006
 longitude: 6.588783500000001
-postcode: 54311
+postcode: "54311"
 city: Trierweiler
 street: "Bergstraße"
 housenumber: 3

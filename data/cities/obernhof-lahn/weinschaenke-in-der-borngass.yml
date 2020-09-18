@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 50.3176745
 longitude: 7.8522711
-postcode: 56379
+postcode: "56379"
 city: Obernhof/Lahn
 street: "Borngasse"
 housenumber: 5

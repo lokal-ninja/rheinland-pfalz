@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 49.2102936
 longitude: 8.129569400000001
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Im Grein"
 housenumber: 18

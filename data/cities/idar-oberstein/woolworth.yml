@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 49.7020963
 longitude: 7.3230396
-postcode: 55743
+postcode: "55743"
 city: Idar-Oberstein
 street: "Hauptstraße"
 housenumber: 357

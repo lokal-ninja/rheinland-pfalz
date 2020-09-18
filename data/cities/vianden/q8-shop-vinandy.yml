@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 49.932654500000005
 longitude: 6.2193398
-postcode: 9412
+postcode: "9412"
 city: Vianden
 street: "Rue de la Frontière"
 housenumber: 11

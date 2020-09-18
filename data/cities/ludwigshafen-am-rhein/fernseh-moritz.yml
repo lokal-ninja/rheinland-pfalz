@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.4680449
 longitude: 8.434369
-postcode: 67061
+postcode: "67061"
 city: Ludwigshafen am Rhein
 street: "Saarlandstraße"
 housenumber: 63

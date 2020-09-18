@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.2843737
 longitude: 8.139474400000001
-postcode: 67480
+postcode: "67480"
 city: Edenkoben
 street: "Staatsstraße"
 housenumber: 8

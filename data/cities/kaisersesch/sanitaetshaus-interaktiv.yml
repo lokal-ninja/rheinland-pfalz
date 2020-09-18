@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.2304277
 longitude: 7.1403445
-postcode: 56759
+postcode: "56759"
 city: Kaisersesch
 street: "Poststraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.754309500000005
 longitude: 6.636694100000001
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Fleischstraße"
 housenumber: 41

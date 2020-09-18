@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 49.9145945
 longitude: 7.068300600000001
-postcode: 54470
+postcode: "54470"
 city: Bernkastel-Kues
 street: "Friedrichstraße"
 housenumber: 5 A

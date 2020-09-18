@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.979228600000006
 longitude: 7.925286900000001
-postcode: 65385
+postcode: "65385"
 city: Rüdesheim am Rhein
 street: "Kirchstraße"
 housenumber: 7b

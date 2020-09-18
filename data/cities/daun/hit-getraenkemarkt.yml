@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.1944766
 longitude: 6.835275800000001
-postcode: 54550
+postcode: "54550"
 city: Daun
 street: "Bahnhofstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9153365
 longitude: 8.343885
-postcode: 55299
+postcode: "55299"
 city: Nackenheim
 street: "Mainzer Straße"
 housenumber: 5

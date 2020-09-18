@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.3522952
 longitude: 8.135559800000001
-postcode: 67433
+postcode: "67433"
 city: Neustadt an der Weinstraße
 street: "Stangenbrunnengasse"
 housenumber: 17

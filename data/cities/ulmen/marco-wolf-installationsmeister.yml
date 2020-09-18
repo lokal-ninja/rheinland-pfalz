@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 50.2217611
 longitude: 6.966530700000001
-postcode: 56766
+postcode: "56766"
 city: Ulmen
 street: "Kelberger Straße"
 housenumber: 57

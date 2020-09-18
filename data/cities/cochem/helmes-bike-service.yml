@@ -3,10 +3,10 @@ type: node
 shop: Motorrad
 latitude: 50.1397995
 longitude: 7.1906295
-postcode: 56812
+postcode: "56812"
 city: Cochem
 street: "Sehler Anlagen"
 housenumber: 54
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 8:00-18:00, Fr 8:00-17:30, Sa 8:00-12:00"
 website: ""

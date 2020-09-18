@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.673297000000005
 longitude: 6.8755366
-postcode: 54421
+postcode: "54421"
 city: Reinsfeld
 street: "Zum Sonnenhang"
 housenumber: 

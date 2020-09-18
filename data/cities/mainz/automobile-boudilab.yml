@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.0185777
 longitude: 8.233796
-postcode: 55120
+postcode: "55120"
 city: Mainz
 street: "Hauptstraße"
 housenumber: 

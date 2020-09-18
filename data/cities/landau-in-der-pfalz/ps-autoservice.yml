@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.2111206
 longitude: 8.1297285
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Im Grein"
 housenumber: 16

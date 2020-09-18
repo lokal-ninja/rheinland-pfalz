@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9431822
 longitude: 8.1908597
-postcode: 55270
+postcode: "55270"
 city: Ober-Olm
 street: "Jägerpfad"
 housenumber: 2

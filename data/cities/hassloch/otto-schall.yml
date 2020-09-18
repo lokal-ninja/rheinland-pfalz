@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.363198000000004
 longitude: 8.2576459
-postcode: 67454
+postcode: "67454"
 city: Haßloch
 street: "Langgasse"
 housenumber: 93

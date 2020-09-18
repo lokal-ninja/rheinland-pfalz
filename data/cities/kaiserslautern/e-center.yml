@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.434038
 longitude: 7.7643291
-postcode: 67663
+postcode: "67663"
 city: Kaiserslautern
 street: "Zollamtstraße"
 housenumber: 28

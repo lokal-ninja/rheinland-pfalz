@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 49.4411506
 longitude: 8.3571507
-postcode: 67112
+postcode: "67112"
 city: Mutterstadt
 street: "Schulstraße"
 housenumber: 14

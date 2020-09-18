@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.0400082
 longitude: 7.131301100000001
-postcode: 56862
+postcode: "56862"
 city: Pünderich
 street: "Hauptstraße"
 housenumber: 32

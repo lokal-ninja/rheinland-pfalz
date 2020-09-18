@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.959775300000004
 longitude: 8.2000857
-postcode: 55127
+postcode: "55127"
 city: Mainz
 street: "Regerstraße"
 housenumber: 19

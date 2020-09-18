@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.7544253
 longitude: 6.6422207
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Palaststraße"
 housenumber: 23

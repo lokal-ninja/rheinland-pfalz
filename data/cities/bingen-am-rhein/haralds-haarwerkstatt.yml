@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.964936300000005
 longitude: 7.8942749
-postcode: 55411
+postcode: "55411"
 city: Bingen am Rhein
 street: "Schmittstraße"
 housenumber: 53

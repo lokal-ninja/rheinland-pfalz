@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.7887477
 longitude: 8.352013600000001
-postcode: 67583
+postcode: "67583"
 city: Guntersblum
 street: "Wormser Straße"
 housenumber: 63

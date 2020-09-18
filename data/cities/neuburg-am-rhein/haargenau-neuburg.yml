@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.989221400000005
 longitude: 8.2466977
-postcode: 76776
+postcode: "76776"
 city: Neuburg am Rhein
 street: "Schulstraße"
 housenumber: 17

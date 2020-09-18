@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.650998
 longitude: 8.208804
-postcode: 67592
+postcode: "67592"
 city: Flörsheim-Dalsheim
 street: "Mölsheimer Straße"
 housenumber: 28-30

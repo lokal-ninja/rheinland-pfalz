@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.1659133
 longitude: 8.322904900000001
-postcode: 76771
+postcode: "76771"
 city: Hördt
 street: "Neue Magazinstraße"
 housenumber: 15

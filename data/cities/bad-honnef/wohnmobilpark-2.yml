@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.648110300000006
 longitude: 7.326848200000001
-postcode: 53604
+postcode: "53604"
 city: Bad Honnef
 street: "Vogelsbitze"
 housenumber: 4 a

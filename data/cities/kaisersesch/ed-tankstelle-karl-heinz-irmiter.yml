@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.234066000000006
 longitude: 7.1482055
-postcode: 56759
+postcode: "56759"
 city: Kaisersesch
 street: "August-Horch-Straße"
 housenumber: 1

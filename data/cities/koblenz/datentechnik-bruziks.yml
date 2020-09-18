@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.3450271
 longitude: 7.5920898
-postcode: 56068
+postcode: "56068"
 city: Koblenz
 street: "Schenkendorfstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.004308
 longitude: 6.606908600000001
-postcode: 54657
+postcode: "54657"
 city: Badem
 street: "Bitburger Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.3200221
 longitude: 8.1887629
-postcode: 67435
+postcode: "67435"
 city: Neustadt an der Weinstraße
 street: "Theodor-Heuss-Straße"
 housenumber: 78

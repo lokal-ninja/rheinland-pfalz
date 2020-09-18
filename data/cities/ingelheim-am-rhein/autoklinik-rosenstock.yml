@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.974360600000004
 longitude: 8.1195152
-postcode: 55263
+postcode: "55263"
 city: Ingelheim am Rhein
 street: "Mainzer Straße"
 housenumber: 1

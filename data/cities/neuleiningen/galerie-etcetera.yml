@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 49.5419356
 longitude: 8.140212400000001
-postcode: 67271
+postcode: "67271"
 city: Neuleiningen
 street: "Mittelgasse"
 housenumber: 27

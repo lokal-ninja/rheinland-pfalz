@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.1050039
 longitude: 7.7301412
-postcode: 55430
+postcode: "55430"
 city: Oberwesel
 street: "Liebfrauenstraße"
 housenumber: 11

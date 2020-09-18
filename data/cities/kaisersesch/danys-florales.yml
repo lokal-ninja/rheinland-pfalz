@@ -1,12 +1,12 @@
 id: 5198581950
 type: node
 shop: Blumen
-latitude: 50.2302162
-longitude: 7.1394552000000004
-postcode: 56759
+latitude: 50.231150500000005
+longitude: 7.140398800000001
+postcode: "56759"
 city: Kaisersesch
-street: "Poststraße"
+street: "Im Weierchen"
 housenumber: 15
 phone: "+49 2653 2653992"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
 website: ""

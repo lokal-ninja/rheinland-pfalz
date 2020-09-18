@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 49.4615201
 longitude: 8.4191274
-postcode: 67065
+postcode: "67065"
 city: Ludwigshafen am Rhein
 street: "Maudacher Straße"
 housenumber: 77, 79

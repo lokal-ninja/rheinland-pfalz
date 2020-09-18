@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.798326100000004
 longitude: 6.8262394
-postcode: 54346
+postcode: "54346"
 city: Mehring
 street: "Im Blumengarten"
 housenumber: 1

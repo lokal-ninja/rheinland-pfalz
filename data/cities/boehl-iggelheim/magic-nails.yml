@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.363295300000004
 longitude: 8.310907700000001
-postcode: 67459
+postcode: "67459"
 city: Böhl-Iggelheim
 street: "Jahnstraße"
 housenumber: 3

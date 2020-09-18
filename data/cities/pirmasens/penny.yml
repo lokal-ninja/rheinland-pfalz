@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.192272900000006
 longitude: 7.599161100000001
-postcode: 66955
+postcode: "66955"
 city: Pirmasens
 street: "Blocksbergstraße"
 housenumber: 52

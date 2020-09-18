@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.0067175
 longitude: 8.2549379
-postcode: 55118
+postcode: "55118"
 city: Mainz
 street: "Lessingstraße"
 housenumber: 5

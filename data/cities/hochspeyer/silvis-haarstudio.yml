@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.441257300000004
 longitude: 7.8958275
-postcode: 67691
+postcode: "67691"
 city: Hochspeyer
 street: "Trippstadter Straße"
 housenumber: 36

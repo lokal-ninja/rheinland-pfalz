@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.342304500000004
 longitude: 7.5481704
-postcode: 56072
+postcode: "56072"
 city: Koblenz
 street: "Gulisastraße"
 housenumber: 15

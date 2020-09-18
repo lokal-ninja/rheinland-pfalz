@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 50.437307800000006
 longitude: 7.4927558
-postcode: 56566
+postcode: "56566"
 city: Neuwied
 street: "Allensteiner Straße"
 housenumber: 22

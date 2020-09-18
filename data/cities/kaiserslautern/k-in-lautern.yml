@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.4436267
 longitude: 7.7649365
-postcode: 67655
+postcode: "67655"
 city: Kaiserslautern
 street: "Fackelrondell"
 housenumber: 1

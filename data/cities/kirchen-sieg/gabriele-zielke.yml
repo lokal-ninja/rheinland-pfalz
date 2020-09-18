@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.808281900000004
 longitude: 7.883364800000001
-postcode: 57548
+postcode: "57548"
 city: Kirchen (Sieg)
 street: "Kirchplatz"
 housenumber: 4

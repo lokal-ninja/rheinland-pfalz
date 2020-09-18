@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 49.8180253
 longitude: 6.702006000000001
-postcode: 54293
+postcode: "54293"
 city: Trier
 street: "Seiferstraße"
 housenumber: 3

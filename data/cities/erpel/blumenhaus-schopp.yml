@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.583862700000005
 longitude: 7.235853700000001
-postcode: 53579
+postcode: "53579"
 city: Erpel
 street: "Kölner Straße"
 housenumber: 52

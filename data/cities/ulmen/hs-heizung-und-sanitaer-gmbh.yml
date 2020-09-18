@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 50.2120059
 longitude: 6.9686637000000005
-postcode: 56766
+postcode: "56766"
 city: Ulmen
 street: "Eifel-Maar-Park"
 housenumber: 2

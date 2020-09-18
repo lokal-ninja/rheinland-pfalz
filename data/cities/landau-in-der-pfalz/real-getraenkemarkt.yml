@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.200106600000005
 longitude: 8.1252055
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Maximilianstraße"
 housenumber: 21

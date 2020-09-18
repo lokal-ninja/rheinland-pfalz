@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.4681792
 longitude: 8.417767300000001
-postcode: 67065
+postcode: "67065"
 city: Ludwigshafen am Rhein
 street: "Raschigstraße"
 housenumber: 9

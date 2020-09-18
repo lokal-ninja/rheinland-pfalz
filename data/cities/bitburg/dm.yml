@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.973314200000004
 longitude: 6.519364400000001
-postcode: 54634
+postcode: "54634"
 city: Bitburg
 street: "Limbourgs Hof"
 housenumber: 4

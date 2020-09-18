@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.631756800000005
 longitude: 8.201298900000001
-postcode: 67590
+postcode: "67590"
 city: Monsheim
 street: "Robert-Bosch-Straße"
 housenumber: 6

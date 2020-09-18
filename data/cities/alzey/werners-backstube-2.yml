@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.7475874
 longitude: 8.107088300000001
-postcode: 55232
+postcode: "55232"
 city: Alzey
 street: "Bahnhofstraße"
 housenumber: 44a

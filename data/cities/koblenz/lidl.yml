@@ -1,12 +1,12 @@
-id: 39436099
-type: way
+id: 7600905800
+type: node
 shop: Supermarkt
-latitude: 50.362796100000004
-longitude: 7.5821433
-postcode: 56073
+latitude: 50.3711453
+longitude: 7.5987350000000005
+postcode: "56070"
 city: Koblenz
-street: "Schlachthofstraße"
-housenumber: 33
+street: "Wallersheimer Weg"
+housenumber: 46-48
 phone: ""
-opening_hours: "Mo-Sa 7:00 - 21:00"
-website: ""
+opening_hours: ""
+website: "www.lidl.de"

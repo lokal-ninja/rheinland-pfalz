@@ -1,12 +1,12 @@
-id: 261733372
+id: 7477015870
 type: node
 shop: Supermarkt
-latitude: 50.003081
-longitude: 8.2671422
-postcode: 55116
+latitude: 50.0030769
+longitude: 8.2671469
+postcode: "55116"
 city: Mainz
 street: "Große Bleiche"
 housenumber: 41-45
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.lidl.de/"
+opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+website: "https://www.lidl.de/filialen/mainz/altstadt-grosse-bleiche-41-45.html"

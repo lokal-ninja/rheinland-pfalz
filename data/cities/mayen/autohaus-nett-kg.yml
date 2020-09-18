@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.3276929
 longitude: 7.2410665000000005
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "Koblenzer Straße"
 housenumber: 146

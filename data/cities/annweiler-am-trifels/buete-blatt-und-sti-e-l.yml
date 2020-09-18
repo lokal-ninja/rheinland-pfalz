@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.2026697
 longitude: 7.964111600000001
-postcode: 76855
+postcode: "76855"
 city: Annweiler am Trifels
 street: "Hauptstraße"
 housenumber: 45

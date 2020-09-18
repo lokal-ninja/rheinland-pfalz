@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.3378377
 longitude: 8.2056658
-postcode: 67435
+postcode: "67435"
 city: Neustadt an der Weinstraße
 street: "Lilienthalstraße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.740520000000004
 longitude: 7.279062000000001
-postcode: 55743
+postcode: "55743"
 city: Idar-Oberstein
 street: "Tiefensteiner Straße"
 housenumber: 230

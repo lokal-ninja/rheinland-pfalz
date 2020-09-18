@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 50.199371500000005
 longitude: 6.825187100000001
-postcode: 54550
+postcode: "54550"
 city: Daun
 street: "Trierer Straße"
 housenumber: 19

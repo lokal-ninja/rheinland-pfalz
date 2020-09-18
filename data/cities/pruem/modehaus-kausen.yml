@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.207548100000004
 longitude: 6.422112
-postcode: 54595
+postcode: "54595"
 city: Prüm
 street: "Tiergartenstraße"
 housenumber: 1-3

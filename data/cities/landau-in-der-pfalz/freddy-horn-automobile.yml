@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.19592290000001
 longitude: 8.1611124
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Queichheimer Hauptstraße"
 housenumber: 249

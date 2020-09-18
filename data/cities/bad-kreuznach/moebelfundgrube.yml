@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.8571706
 longitude: 7.910208900000001
-postcode: 55545
+postcode: "55545"
 city: Bad Kreuznach
 street: "Weinstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.0009305
 longitude: 8.2705201
-postcode: 55116
+postcode: "55116"
 city: Mainz
 street: "Stadthausstraße"
 housenumber: 14

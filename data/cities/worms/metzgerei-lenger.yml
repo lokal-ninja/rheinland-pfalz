@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.633707
 longitude: 8.350874000000001
-postcode: 67549
+postcode: "67549"
 city: Worms
 street: "Friedrich-Ebert-Straße"
 housenumber: 38

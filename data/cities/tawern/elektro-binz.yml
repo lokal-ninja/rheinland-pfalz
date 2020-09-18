@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.674180400000004
 longitude: 6.5195692
-postcode: 54456
+postcode: "54456"
 city: Tawern
 street: "Im Micheltal"
 housenumber: 2

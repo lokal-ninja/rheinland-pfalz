@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.2964306
 longitude: 6.6712879
-postcode: 54576
+postcode: "54576"
 city: Hillesheim
 street: "Kölner Straße"
 housenumber: 37

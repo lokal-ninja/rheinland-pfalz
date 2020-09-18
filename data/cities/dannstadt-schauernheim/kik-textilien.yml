@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.43399470000001
 longitude: 8.316530700000001
-postcode: 67125
+postcode: "67125"
 city: Dannstadt-Schauernheim
 street: "Riedstraße"
 housenumber: 2

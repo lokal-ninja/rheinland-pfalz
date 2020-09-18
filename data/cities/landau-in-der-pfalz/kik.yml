@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.198551900000005
 longitude: 8.1195729
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Ostring"
 housenumber: 17-19

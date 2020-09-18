@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.9771106
 longitude: 6.6359947
-postcode: 54647
+postcode: "54647"
 city: Dudeldorf
 street: "Ordorfer Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.315722400000006
 longitude: 8.134975200000001
-postcode: 67434
+postcode: "67434"
 city: Neustadt an der Weinstraße
 street: "Weinstraße"
 housenumber: 622

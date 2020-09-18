@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.233180600000004
 longitude: 7.1494599
-postcode: 56759
+postcode: "56759"
 city: Kaisersesch
 street: "August-Horch-Straße"
 housenumber: 2 A

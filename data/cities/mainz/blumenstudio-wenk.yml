@@ -3,10 +3,10 @@ type: node
 shop: Blumen
 latitude: 50.003403600000006
 longitude: 8.2649693
-postcode: 55116
+postcode: "55116"
 city: Mainz
 street: "Heidelbergerfaßgasse"
 housenumber: 12
 phone: "+49 6131 234135"
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-16:00"
 website: "http://www.blumenstudiowenk.de"

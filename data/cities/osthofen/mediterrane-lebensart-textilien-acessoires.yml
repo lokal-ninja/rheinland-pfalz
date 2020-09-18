@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.699584
 longitude: 8.3257213
-postcode: 67574
+postcode: "67574"
 city: Osthofen
 street: "Herrnsheimer Straße"
 housenumber: 20

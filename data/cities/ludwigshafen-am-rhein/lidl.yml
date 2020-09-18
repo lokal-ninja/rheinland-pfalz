@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4577339
 longitude: 8.4330003
-postcode: 67065
+postcode: "67065"
 city: Ludwigshafen am Rhein
 street: "Hoheloogstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.3888162
 longitude: 7.382726300000001
-postcode: 56637
+postcode: "56637"
 city: Plaidt
 street: "Fraukircher Straße"
 housenumber: 26 c

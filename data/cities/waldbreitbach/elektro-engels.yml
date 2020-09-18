@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 50.552559300000006
 longitude: 7.4177451
-postcode: 56588
+postcode: "56588"
 city: Waldbreitbach
 street: "Neuwieder Straße"
 housenumber: 50

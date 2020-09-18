@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.7805545
 longitude: 6.6678611000000005
-postcode: 54293
+postcode: "54293"
 city: Trier
 street: "Friedlandstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.245592200000004
 longitude: 8.2678785
-postcode: 67363
+postcode: "67363"
 city: Lustadt
 street: "Karl-Lehr-Straße"
 housenumber: 22

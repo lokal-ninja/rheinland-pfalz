@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.2348568
 longitude: 7.1465962
-postcode: 56759
+postcode: "56759"
 city: Kaisersesch
 street: "Koblenzer Straße"
 housenumber: 1c

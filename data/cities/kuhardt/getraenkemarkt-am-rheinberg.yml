@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.1442489
 longitude: 8.320608100000001
-postcode: 76773
+postcode: "76773"
 city: Kuhardt
 street: "Am Rheinberg"
 housenumber: 10

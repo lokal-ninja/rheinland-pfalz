@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.9702545
 longitude: 8.2701168
-postcode: 55129
+postcode: "55129"
 city: Mainz
 street: "Rheinhessenstraße"
 housenumber: 7

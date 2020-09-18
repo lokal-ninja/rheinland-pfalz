@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.3367188
 longitude: 8.443837400000001
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Am Rübsamenwühl"
 housenumber: 22

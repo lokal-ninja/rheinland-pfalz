@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.451382900000006
 longitude: 8.3784965
-postcode: 67067
+postcode: "67067"
 city: Ludwigshafen am Rhein
 street: "Schweigener Straße"
 housenumber: 4

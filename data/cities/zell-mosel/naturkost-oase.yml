@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.027648600000006
 longitude: 7.1631362
-postcode: 56856
+postcode: "56856"
 city: Zell (Mosel)
 street: "Fliehburgstraße"
 housenumber: 1

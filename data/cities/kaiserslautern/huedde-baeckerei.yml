@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4605298
 longitude: 7.729815
-postcode: 67659
+postcode: "67659"
 city: Kaiserslautern
 street: "Welschgasse"
 housenumber: 2a

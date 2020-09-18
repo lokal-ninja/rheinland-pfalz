@@ -1,12 +1,12 @@
-id: 2603328898
-type: node
+id: 109437080
+type: way
 shop: Autohaus
-latitude: 49.9097384
-longitude: 7.032644400000001
-postcode: 54470
+latitude: 49.9099835
+longitude: 7.0321137
+postcode: "54470"
 city: Bernkastel-Kues
 street: "Moselbahnstraße"
 housenumber: 8
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:30;PH,Su off"
 website: ""

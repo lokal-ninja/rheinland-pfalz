@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.145540200000006
 longitude: 7.1206231
-postcode: 56814
+postcode: "56814"
 city: Faid
 street: "Kelberger Straße"
 housenumber: 23

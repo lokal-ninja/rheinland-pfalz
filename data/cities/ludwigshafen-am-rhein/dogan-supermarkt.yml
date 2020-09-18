@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4907046
 longitude: 8.4373355
-postcode: 67063
+postcode: "67063"
 city: Ludwigshafen am Rhein
 street: "Prinzregentenstraße"
 housenumber: 62

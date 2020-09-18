@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.4525213
 longitude: 7.533527500000001
-postcode: 56566
+postcode: "56566"
 city: Neuwied
 street: "Am Königsgericht"
 housenumber: 1

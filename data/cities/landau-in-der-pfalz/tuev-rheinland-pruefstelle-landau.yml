@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.2075267
 longitude: 8.125898300000001
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Horstschanze"
 housenumber: 46

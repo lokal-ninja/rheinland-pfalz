@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.730808800000005
 longitude: 6.6030784
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Luxemburger Straße"
 housenumber: 234

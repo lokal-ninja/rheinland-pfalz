@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.5201362
 longitude: 8.0529977
-postcode: 67319
+postcode: "67319"
 city: Wattenheim
 street: "Heidebuckel"
 housenumber: 24a

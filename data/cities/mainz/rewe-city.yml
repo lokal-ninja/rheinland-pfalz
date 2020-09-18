@@ -1,12 +1,12 @@
 id: 1149638974
 type: node
 shop: Supermarkt
-latitude: 50.001184200000004
-longitude: 8.2654137
-postcode: 55116
+latitude: 50.001148900000004
+longitude: 8.2653078
+postcode: "55116"
 city: Mainz
 street: "Große Bleiche"
-housenumber: 14-20
+housenumber: 14-18
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 07:00-22:00"
 website: "https://www.rewe.de/marktseite/?wwident=240662"

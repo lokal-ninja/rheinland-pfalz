@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 50.567117700000004
 longitude: 7.281327500000001
-postcode: 53545
+postcode: "53545"
 city: Linz am Rhein
 street: "Mittelstraße"
 housenumber: 25

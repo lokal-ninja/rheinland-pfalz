@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.6315437
 longitude: 8.3613434
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Hafergasse"
 housenumber: 11

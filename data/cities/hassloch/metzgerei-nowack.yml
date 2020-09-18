@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.362648300000004
 longitude: 8.2506816
-postcode: 67454
+postcode: "67454"
 city: Haßloch
 street: "Ohliggasse"
 housenumber: 14

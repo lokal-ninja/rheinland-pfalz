@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.8428417
 longitude: 7.8607054000000005
-postcode: 55543
+postcode: "55543"
 city: Bad Kreuznach
 street: "Mannheimer Straße"
 housenumber: 146

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 49.281584800000005
 longitude: 8.127346600000001
-postcode: 67480
+postcode: "67480"
 city: Edenkoben
 street: "Ludwigsplatz"
 housenumber: 1

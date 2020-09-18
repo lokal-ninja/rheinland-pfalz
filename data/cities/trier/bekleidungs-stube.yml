@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.720538600000005
 longitude: 6.5801004
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Kantstraße"
 housenumber: 15

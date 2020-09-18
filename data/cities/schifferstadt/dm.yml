@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 49.3829805
 longitude: 8.3932155
-postcode: 67105
+postcode: "67105"
 city: Schifferstadt
 street: "Waldspitzweg"
-housenumber: 
-phone: "+49 800 3658633"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/"
+housenumber: 3
+phone: "+49 6235 457704"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+website: "https://www.dm.de/store/de-1166/schifferstadt/waldspitzweg-3"

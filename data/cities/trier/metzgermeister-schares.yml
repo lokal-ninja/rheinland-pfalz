@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.753558000000005
 longitude: 6.6393205
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Fahrstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4312424
 longitude: 8.267688900000001
-postcode: 67127
+postcode: "67127"
 city: Rödersheim-Gronau
 street: "Hauptstraße"
 housenumber: 35

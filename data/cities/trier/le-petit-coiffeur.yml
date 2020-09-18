@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.762844900000005
 longitude: 6.6488693
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Paulinstraße"
 housenumber: 66a

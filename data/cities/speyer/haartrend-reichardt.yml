@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.316848300000004
 longitude: 8.4304722
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Gilgenstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 49.2480684
 longitude: 8.3428772
-postcode: 67360
+postcode: "67360"
 city: Lingenfeld
 street: "Germersheimer Straße"
 housenumber: 70

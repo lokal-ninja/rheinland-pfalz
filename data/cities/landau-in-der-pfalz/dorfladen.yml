@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.187964
 longitude: 8.1656046
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Mörlheimer Hauptstraße"
 housenumber: 67

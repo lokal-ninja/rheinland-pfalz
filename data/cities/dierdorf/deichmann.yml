@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.545661300000006
 longitude: 7.634232900000001
-postcode: 56269
+postcode: "56269"
 city: Dierdorf
 street: "Königsberger Straße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.190014000000005
 longitude: 7.846979800000001
-postcode: 76846
+postcode: "76846"
 city: Hauenstein
 street: "Dahner Straße"
 housenumber: 53

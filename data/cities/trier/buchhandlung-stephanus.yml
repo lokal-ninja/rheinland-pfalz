@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.7432189
 longitude: 6.6877151
-postcode: 54296
+postcode: "54296"
 city: Trier
 street: "Im Treff"
 housenumber: 23

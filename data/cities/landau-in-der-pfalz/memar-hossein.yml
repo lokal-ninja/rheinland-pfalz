@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.2020172
 longitude: 8.124882000000001
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Dammühlstraße"
 housenumber: 11

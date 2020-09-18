@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.721411700000004
 longitude: 7.300023100000001
-postcode: 55743
+postcode: "55743"
 city: Idar-Oberstein
 street: "Hauptstraße"
 housenumber: 56

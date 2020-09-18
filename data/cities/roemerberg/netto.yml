@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2875412
 longitude: 8.4065081
-postcode: 67354
+postcode: "67354"
 city: Römerberg
 street: "Berghäuser Straße"
 housenumber: 140

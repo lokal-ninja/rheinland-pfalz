@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.803869500000005
 longitude: 6.715196000000001
-postcode: 54344
+postcode: "54344"
 city: Kenn
 street: "Am Kenner Haus"
 housenumber: 1

@@ -1,12 +1,12 @@
-id: 170476015
-type: way
+id: 7405817582
+type: node
 shop: Supermarkt
-latitude: 49.2145766
-longitude: 8.3657152
-postcode: 76726
+latitude: 49.2144452
+longitude: 8.3654948
+postcode: "76726"
 city: Germersheim
 street: "Friedrich-Ebert-Straße"
 housenumber: 2
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 07:30-22:00; Su,PH off"
+website: "https://www.penny.de/startseite/"

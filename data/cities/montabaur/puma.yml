@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.4440545
 longitude: 7.828669400000001
-postcode: 56410
+postcode: "56410"
 city: Montabaur
 street: "Am Fashion Outlet"
 housenumber: 22

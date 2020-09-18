@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.6614656
 longitude: 7.3918837
-postcode: 53567
+postcode: "53567"
 city: Asbach
 street: "Am Berg"
 housenumber: 13

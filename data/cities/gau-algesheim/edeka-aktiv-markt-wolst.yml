@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9632865
 longitude: 8.013139800000001
-postcode: 55435
+postcode: "55435"
 city: Gau-Algesheim
 street: "Rheinstraße"
 housenumber: 

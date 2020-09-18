@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.2020228
 longitude: 8.125307600000001
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Dammühlstraße"
 housenumber: 11

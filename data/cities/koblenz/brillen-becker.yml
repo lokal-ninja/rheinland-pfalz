@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.356493
 longitude: 7.5960041
-postcode: 56068
+postcode: "56068"
 city: Koblenz
 street: "Schloßstraße"
 housenumber: 23

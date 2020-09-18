@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 49.886521
 longitude: 6.9535368
-postcode: 54487
+postcode: "54487"
 city: Wintrich
 street: "Moselweinstraße"
 housenumber: 84 A

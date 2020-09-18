@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.550287000000004
 longitude: 8.3396208
-postcode: 67227
+postcode: "67227"
 city: Frankenthal (Pfalz)
 street: "Industriestraße"
 housenumber: 53

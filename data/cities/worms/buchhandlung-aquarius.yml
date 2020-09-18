@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.6327225
 longitude: 8.355064800000001
-postcode: 67549
+postcode: "67549"
 city: Worms
 street: "Zornstraße"
 housenumber: 1

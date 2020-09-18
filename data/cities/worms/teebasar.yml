@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 49.6326199
 longitude: 8.355051900000001
-postcode: 67549
+postcode: "67549"
 city: Worms
 street: "Zornstraße"
 housenumber: 1

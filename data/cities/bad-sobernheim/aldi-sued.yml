@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.785239100000005
 longitude: 7.6460999
-postcode: 55566
+postcode: "55566"
 city: Bad Sobernheim
 street: "Johannisplatz"
 housenumber: 2-3

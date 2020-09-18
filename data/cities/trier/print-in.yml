@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.759324500000005
 longitude: 6.658608
-postcode: 54295
+postcode: "54295"
 city: Trier
 street: "Schönbornstraße"
 housenumber: 33

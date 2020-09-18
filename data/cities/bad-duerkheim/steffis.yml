@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.4601424
 longitude: 8.167245000000001
-postcode: 67098
+postcode: "67098"
 city: Bad Dürkheim
 street: "Stadtplatz"
 housenumber: 8

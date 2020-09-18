@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8150416
 longitude: 6.6154741
-postcode: 54309
+postcode: "54309"
 city: Newel
 street: "Im Mont"
 housenumber: 5

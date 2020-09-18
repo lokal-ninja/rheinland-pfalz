@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.6941398
 longitude: 6.566236300000001
-postcode: 54329
+postcode: "54329"
 city: Konz
 street: "Konzerbrück"
 housenumber: 31

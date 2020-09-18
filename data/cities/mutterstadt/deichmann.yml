@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.4461444
 longitude: 8.3601896
-postcode: 67112
+postcode: "67112"
 city: Mutterstadt
 street: "Ludwigshafener Straße"
 housenumber: 50a

@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 49.3070381
 longitude: 8.4460187
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Industriestraße"
 housenumber: 13

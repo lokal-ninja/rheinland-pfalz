@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.8015854
 longitude: 8.3448361
-postcode: 67583
+postcode: "67583"
 city: Guntersblum
 street: "Kurzer Flurweg"
 housenumber: 6

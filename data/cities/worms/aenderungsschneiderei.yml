@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 49.6336631
 longitude: 8.3511817
-postcode: 67549
+postcode: "67549"
 city: Worms
 street: "Dirolfstraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.3486009
 longitude: 8.1603784
-postcode: 
+postcode: ""
 city: Neustadt an der Weinstraße
 street: "Spitalbachstraße"
 housenumber: 49

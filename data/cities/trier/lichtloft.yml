@@ -3,7 +3,7 @@ type: node
 shop: Lampen
 latitude: 49.743011100000004
 longitude: 6.619633100000001
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Im Speyer"
 housenumber: 21

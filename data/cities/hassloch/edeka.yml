@@ -1,12 +1,12 @@
-id: 165050019
-type: way
+id: 7804271212
+type: node
 shop: Supermarkt
-latitude: 49.3676824
-longitude: 8.2666093
-postcode: 67454
+latitude: 49.367427600000006
+longitude: 8.2663829
+postcode: "67454"
 city: Haßloch
 street: "Am Zwerchgraben"
-housenumber: 3-6
-phone: ""
-opening_hours: ""
-website: ""
+housenumber: 3-5
+phone: "+49 6324 989067"
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "https://www.edeka.de/eh/s%C3%BCdwest/edeka-stiegler-am-zwerchgraben-3-5/index.jsp"

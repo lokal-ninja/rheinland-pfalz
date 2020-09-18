@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.4618127
 longitude: 8.168070400000001
-postcode: 67098
+postcode: "67098"
 city: Bad Dürkheim
 street: "Kurgartenstraße"
 housenumber: 5

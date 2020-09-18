@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.593718700000004
 longitude: 8.0384764
-postcode: 67307
+postcode: "67307"
 city: Göllheim
 street: "Dreisener Straße"
 housenumber: 45

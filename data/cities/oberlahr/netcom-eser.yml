@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.621417
 longitude: 7.5220741
-postcode: 57641
+postcode: "57641"
 city: Oberlahr
 street: "Bahnhofstraße"
 housenumber: 18

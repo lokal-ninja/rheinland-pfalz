@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.1070836
 longitude: 8.013299400000001
-postcode: 76889
+postcode: "76889"
 city: Pleisweiler-Oberhofen
 street: "Im Weidfeld"
 housenumber: 4

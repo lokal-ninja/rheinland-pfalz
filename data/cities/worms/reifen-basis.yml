@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 49.62217690000001
 longitude: 8.3607104
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Klosterstraße"
 housenumber: 37 B

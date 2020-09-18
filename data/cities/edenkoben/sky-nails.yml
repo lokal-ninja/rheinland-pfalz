@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.2804999
 longitude: 8.127085300000001
-postcode: 67480
+postcode: "67480"
 city: Edenkoben
 street: "Weinstraße"
 housenumber: 72

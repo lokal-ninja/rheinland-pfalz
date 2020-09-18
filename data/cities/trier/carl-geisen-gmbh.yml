@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 49.7582711
 longitude: 6.656478600000001
-postcode: 54295
+postcode: "54295"
 city: Trier
 street: "Güterstraße"
 housenumber: 76

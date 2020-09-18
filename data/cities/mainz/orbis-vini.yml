@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 50.0105919
 longitude: 8.2596977
-postcode: 55118
+postcode: "55118"
 city: Mainz
 street: "Feldbergstraße"
 housenumber: 3-7

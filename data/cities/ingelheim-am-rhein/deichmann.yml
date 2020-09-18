@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.9824587
 longitude: 8.0281573
-postcode: 55218
+postcode: "55218"
 city: Ingelheim am Rhein
 street: "Nahering"
 housenumber: 12

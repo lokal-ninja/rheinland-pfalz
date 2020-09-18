@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.6837558
 longitude: 6.8863361
-postcode: 54421
+postcode: "54421"
 city: Reinsfeld
 street: ""
 housenumber: 

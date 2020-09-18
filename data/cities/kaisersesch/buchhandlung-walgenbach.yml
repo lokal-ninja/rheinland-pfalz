@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.2299165
 longitude: 7.1431414
-postcode: 56759
+postcode: "56759"
 city: Kaisersesch
 street: "Gartenstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.75506480000001
 longitude: 6.640708900000001
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Brotstraße"
 housenumber: 8-9

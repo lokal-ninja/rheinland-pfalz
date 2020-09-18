@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.2276529
 longitude: 6.479393000000001
-postcode: 54595
+postcode: "54595"
 city: Weinsheim
 street: "Industriestraße"
 housenumber: 7

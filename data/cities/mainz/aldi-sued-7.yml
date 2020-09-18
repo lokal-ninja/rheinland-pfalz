@@ -1,12 +1,12 @@
-id: 525669436
-type: way
+id: 7416526499
+type: node
 shop: Supermarkt
-latitude: 49.999018400000004
-longitude: 8.177454800000001
-postcode: 55126
+latitude: 49.9764666
+longitude: 8.2352829
+postcode: "55128"
 city: Mainz
-street: "Sertoriusring"
-housenumber: 100
+street: "Essenheimer Straße"
+housenumber: 133
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Essenheimer Straße 133 55128 Mainz-Bretzenheim&Mode=None"

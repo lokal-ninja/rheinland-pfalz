@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.760010300000005
 longitude: 6.6390849
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Bruchhausenstraße"
 housenumber: 22

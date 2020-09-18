@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.6306409
 longitude: 8.3606926
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Schlossplatz"
 housenumber: 

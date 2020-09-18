@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.98630300000001
 longitude: 7.1215815000000005
-postcode: 56850
+postcode: "56850"
 city: Enkirch
 street: "Bahnhofstraße"
 housenumber: 24

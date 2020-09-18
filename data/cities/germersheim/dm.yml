@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.2276497
 longitude: 8.3680517
-postcode: 76726
+postcode: "76726"
 city: Germersheim
 street: "Mainzer Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.9230682
 longitude: 7.965056100000001
-postcode: 55411
+postcode: "55411"
 city: Bingen am Rhein
 street: "Rheinhessenstraße"
 housenumber: 71

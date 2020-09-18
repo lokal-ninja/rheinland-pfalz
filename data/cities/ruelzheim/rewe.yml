@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1492638
 longitude: 8.293587800000001
-postcode: 76761
+postcode: "76761"
 city: Rülzheim
 street: "Gutenbergstraße"
 housenumber: 1

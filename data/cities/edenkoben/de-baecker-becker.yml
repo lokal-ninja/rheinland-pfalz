@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2828193
 longitude: 8.1283289
-postcode: 67480
+postcode: "67480"
 city: Edenkoben
 street: "Luitpoldstraße"
 housenumber: 10

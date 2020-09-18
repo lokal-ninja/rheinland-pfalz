@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.139410000000005
 longitude: 8.2226427
-postcode: 76863
+postcode: "76863"
 city: Herxheim
 street: "Siedlungstraße"
 housenumber: 6

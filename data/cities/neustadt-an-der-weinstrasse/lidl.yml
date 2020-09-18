@@ -1,9 +1,9 @@
-id: 303763915
-type: node
+id: 100461720
+type: way
 shop: Supermarkt
-latitude: 49.3319046
-longitude: 8.2031746
-postcode: 67435
+latitude: 49.331617300000005
+longitude: 8.203272700000001
+postcode: "67435"
 city: Neustadt an der Weinstraße
 street: "Haßlocher Straße"
 housenumber: 55

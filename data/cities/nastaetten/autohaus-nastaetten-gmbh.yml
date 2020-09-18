@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.198003400000005
 longitude: 7.846623600000001
-postcode: 56355
+postcode: "56355"
 city: Nastätten
 street: "Rheinstraße"
 housenumber: 62a

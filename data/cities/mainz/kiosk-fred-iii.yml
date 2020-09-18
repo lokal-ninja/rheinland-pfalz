@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.0128842
 longitude: 8.257082200000001
-postcode: 55118
+postcode: "55118"
 city: Mainz
 street: "Wallaustraße"
 housenumber: 87

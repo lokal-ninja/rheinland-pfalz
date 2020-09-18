@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.7825934
 longitude: 7.6537364000000006
-postcode: 55566
+postcode: "55566"
 city: Bad Sobernheim
 street: "Poststraße"
 housenumber: 20

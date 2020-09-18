@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 49.1677527
 longitude: 7.581230700000001
-postcode: 66957
+postcode: "66957"
 city: Obersimten
 street: "Hauptstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.6093417
 longitude: 6.551286500000001
-postcode: 54439
+postcode: "54439"
 city: Saarburg
 street: "Graf-Siegfried-Straße"
 housenumber: 6

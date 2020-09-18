@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.006446100000005
 longitude: 8.2200418
-postcode: 55122
+postcode: "55122"
 city: Mainz
 street: "Canisiusstraße"
 housenumber: 50a

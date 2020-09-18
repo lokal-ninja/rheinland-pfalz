@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.4444901
 longitude: 8.3493166
-postcode: 67112
+postcode: "67112"
 city: Mutterstadt
 street: "Ritterstraße"
 housenumber: 42

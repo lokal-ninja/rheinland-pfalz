@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.4402685
 longitude: 7.7794254
-postcode: 67655
+postcode: "67655"
 city: Kaiserslautern
 street: "Augustastraße"
 housenumber: 67

@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 49.4176961
 longitude: 8.3253541
-postcode: 67125
+postcode: "67125"
 city: Dannstadt-Schauernheim
 street: "Münchhof"
 housenumber: 1

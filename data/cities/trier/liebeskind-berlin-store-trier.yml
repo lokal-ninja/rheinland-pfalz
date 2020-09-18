@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.7569117
 longitude: 6.6410703
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Hauptmarkt"
 housenumber: 16

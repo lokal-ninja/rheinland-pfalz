@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.5132215
 longitude: 8.2869057
-postcode: 67245
+postcode: "67245"
 city: Lambsheim
 street: "Jahnstraße"
 housenumber: 1

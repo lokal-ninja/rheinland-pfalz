@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 49.35613540000001
 longitude: 7.771341400000001
-postcode: 67705
+postcode: "67705"
 city: Trippstadt
 street: "Hauptstraße"
 housenumber: 61

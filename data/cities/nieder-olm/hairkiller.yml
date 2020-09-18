@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.9069961
 longitude: 8.201432800000001
-postcode: 55268
+postcode: "55268"
 city: Nieder-Olm
 street: "Oppenheimer Straße"
 housenumber: 6

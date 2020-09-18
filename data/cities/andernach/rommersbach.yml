@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.427311100000004
 longitude: 7.407275800000001
-postcode: 56626
+postcode: "56626"
 city: Andernach
 street: "St.-Thomaser-Hohl"
 housenumber: 80

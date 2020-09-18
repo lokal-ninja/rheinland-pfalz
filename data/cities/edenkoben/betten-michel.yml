@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.2804483
 longitude: 8.126864600000001
-postcode: 67480
+postcode: "67480"
 city: Edenkoben
 street: "Weinstraße"
 housenumber: 63

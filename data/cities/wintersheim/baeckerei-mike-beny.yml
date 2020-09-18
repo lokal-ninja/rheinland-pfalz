@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.7782381
 longitude: 8.281848100000001
-postcode: 67587
+postcode: "67587"
 city: Wintersheim
 street: "Eimsheimer Straße"
 housenumber: 5

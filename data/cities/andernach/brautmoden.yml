@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.4364969
 longitude: 7.4015024
-postcode: 56626
+postcode: "56626"
 city: Andernach
 street: "Wilhelmstraße"
 housenumber: 3

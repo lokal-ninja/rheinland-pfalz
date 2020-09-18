@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.483706600000005
 longitude: 8.4245666
-postcode: 67059
+postcode: "67059"
 city: Ludwigshafen am Rhein
 street: "Frankenthaler Straße"
 housenumber: 89

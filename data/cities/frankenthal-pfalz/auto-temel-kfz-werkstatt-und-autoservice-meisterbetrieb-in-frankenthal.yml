@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.534068000000005
 longitude: 8.3506446
-postcode: 67227
+postcode: "67227"
 city: Frankenthal (Pfalz)
 street: "Neumayerring"
 housenumber: 41

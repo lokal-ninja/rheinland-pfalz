@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1963251
 longitude: 8.2864121
-postcode: 76756
+postcode: "76756"
 city: Bellheim
 street: "Albert-Schweitzer-Straße"
 housenumber: 21

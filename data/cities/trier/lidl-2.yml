@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7414446
 longitude: 6.6333865
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Matthiasstraße"
 housenumber: 7-9

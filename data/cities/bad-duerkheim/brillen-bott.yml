@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.4609539
 longitude: 8.1681288
-postcode: 67098
+postcode: "67098"
 city: Bad Dürkheim
 street: "Römerplatz"
 housenumber: 3

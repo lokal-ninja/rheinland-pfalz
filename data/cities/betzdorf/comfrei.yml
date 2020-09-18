@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.791706000000005
 longitude: 7.8686999
-postcode: 57518
+postcode: "57518"
 city: Betzdorf
 street: "Wilhelmstraße"
 housenumber: 55

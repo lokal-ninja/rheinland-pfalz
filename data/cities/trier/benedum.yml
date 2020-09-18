@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.7621243
 longitude: 6.648198300000001
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Paulinstraße"
 housenumber: 49

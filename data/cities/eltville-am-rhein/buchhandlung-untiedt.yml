@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.0259568
 longitude: 8.1191169
-postcode: 65343
+postcode: "65343"
 city: Eltville am Rhein
 street: "Schwalbacher Straße"
 housenumber: 3a

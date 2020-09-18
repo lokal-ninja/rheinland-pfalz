@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.077950300000005
 longitude: 8.1798555
-postcode: 76870
+postcode: "76870"
 city: Kandel
 street: "Saarstraße"
 housenumber: 74

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.3564493
 longitude: 7.569767700000001
-postcode: 56073
+postcode: "56073"
 city: Koblenz
 street: "Ferdinand-Sauerbruch-Straße"
 housenumber: 36

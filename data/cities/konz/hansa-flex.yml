@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 49.6919443
 longitude: 6.5634284
-postcode: 54329
+postcode: "54329"
 city: Konz
 street: "Wilde Acht"
 housenumber: 13

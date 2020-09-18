@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.355904900000006
 longitude: 7.590761100000001
-postcode: 56068
+postcode: "56068"
 city: Koblenz
 street: "Löhrstraße"
 housenumber: 78-80

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.1972703
 longitude: 8.1136997
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Kronstraße"
 housenumber: 31

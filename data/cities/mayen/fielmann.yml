@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.3286798
 longitude: 7.2223676
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "Neustraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.7839651
 longitude: 6.7094309
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Rheinstraße"
 housenumber: 3

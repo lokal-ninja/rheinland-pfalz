@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.467432300000006
 longitude: 7.7769900000000005
-postcode: 56424
+postcode: "56424"
 city: Ebernhahn
 street: "Dernbacher Straße"
 housenumber: 65

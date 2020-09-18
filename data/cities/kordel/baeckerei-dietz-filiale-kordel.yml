@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8381867
 longitude: 6.633844000000001
-postcode: 54306
+postcode: "54306"
 city: Kordel
 street: "Bahnhofstraße"
 housenumber: 7

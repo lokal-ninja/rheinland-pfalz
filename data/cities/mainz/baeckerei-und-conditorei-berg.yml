@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.010259000000005
 longitude: 8.2592441
-postcode: 55118
+postcode: "55118"
 city: Mainz
 street: "Sömmerringplatz"
 housenumber: 6

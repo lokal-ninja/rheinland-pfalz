@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.065902200000004
 longitude: 8.1208706
-postcode: 76872
+postcode: "76872"
 city: Freckenfeld
 street: "Hauptstraße"
 housenumber: 124

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.0041777
 longitude: 8.2608785
-postcode: 55118
+postcode: "55118"
 city: Mainz
 street: "Boppstraße"
 housenumber: 8a

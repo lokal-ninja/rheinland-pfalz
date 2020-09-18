@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.9992498
 longitude: 8.2169614
-postcode: 55124
+postcode: "55124"
 city: Mainz
 street: "Am Leichborn"
 housenumber: 26

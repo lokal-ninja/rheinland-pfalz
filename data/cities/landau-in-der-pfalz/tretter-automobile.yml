@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.190811000000004
 longitude: 8.1317287
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Lise-Meitner-Straße"
 housenumber: 2

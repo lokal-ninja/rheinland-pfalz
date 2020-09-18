@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.506084800000004
 longitude: 8.2125033
-postcode: 67251
+postcode: "67251"
 city: Freinsheim
 street: "Breite Straße"
 housenumber: 9

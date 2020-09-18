@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.219559800000006
 longitude: 8.371210900000001
-postcode: 76726
+postcode: "76726"
 city: Germersheim
 street: "Sandstraße"
 housenumber: 15

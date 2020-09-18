@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 49.9990321
 longitude: 8.2676061
-postcode: 55116
+postcode: "55116"
 city: Mainz
 street: "Emmeransstraße"
 housenumber: 3
 phone: "+49 6131 225880"
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-15:00"
 website: ""

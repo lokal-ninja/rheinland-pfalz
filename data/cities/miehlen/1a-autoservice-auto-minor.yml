@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.2254974
 longitude: 7.828133
-postcode: 56357
+postcode: "56357"
 city: Miehlen
 street: "Bornköppel"
 housenumber: 13

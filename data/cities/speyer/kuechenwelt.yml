@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 49.3346298
 longitude: 8.4148903
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Iggelheimer Straße"
 housenumber: 28

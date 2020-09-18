@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.9597488
 longitude: 8.2000284
-postcode: 55127
+postcode: "55127"
 city: Mainz
 street: "Regerstraße"
 housenumber: 19

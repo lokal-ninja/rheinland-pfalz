@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.487379700000005
 longitude: 8.349290700000001
-postcode: 67071
+postcode: "67071"
 city: Ludwigshafen am Rhein
 street: "Oderstraße"
 housenumber: 6

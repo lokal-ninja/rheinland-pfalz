@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 49.760910200000005
 longitude: 6.6502239
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Thebäerstraße"
 housenumber: 37

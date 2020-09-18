@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.991477100000004
 longitude: 8.2523058
-postcode: 55131
+postcode: "55131"
 city: Mainz
 street: "Untere Zahlbacher Straße"
 housenumber: 22

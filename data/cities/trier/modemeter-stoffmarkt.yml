@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.741682700000005
 longitude: 6.6330824
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Matthiasstraße"
 housenumber: 6

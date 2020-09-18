@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.2393039
 longitude: 8.2009098
-postcode: 76879
+postcode: "76879"
 city: Hochstadt (Pfalz)
 street: "Obere Brückengärten"
 housenumber: 1

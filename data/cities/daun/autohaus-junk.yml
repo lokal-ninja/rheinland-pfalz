@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.1972911
 longitude: 6.8098456
-postcode: 54550
+postcode: "54550"
 city: Daun
 street: "Alter Neunkirchener Weg"
 housenumber: 10

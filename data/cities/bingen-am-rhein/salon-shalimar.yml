@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.9677912
 longitude: 7.895811800000001
-postcode: 55411
+postcode: "55411"
 city: Bingen am Rhein
 street: "Kapuzinerstraße"
 housenumber: 3

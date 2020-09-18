@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.354855
 longitude: 7.221280800000001
-postcode: 56729
+postcode: "56729"
 city: Ettringen
 street: "Neue Schulstraße"
 housenumber: 16

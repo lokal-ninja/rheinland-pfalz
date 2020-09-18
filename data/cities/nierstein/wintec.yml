@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.8621083
 longitude: 8.3310413
-postcode: 55283
+postcode: "55283"
 city: Nierstein
 street: "Freyburger Allee"
 housenumber: 2b

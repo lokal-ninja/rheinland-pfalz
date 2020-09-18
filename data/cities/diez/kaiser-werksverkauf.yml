@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 50.3745107
 longitude: 8.0524159
-postcode: 65582
+postcode: "65582"
 city: Diez
 street: "Industriestraße"
 housenumber: 32

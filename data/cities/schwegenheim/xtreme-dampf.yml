@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 49.273207600000006
 longitude: 8.3304535
-postcode: 67365
+postcode: "67365"
 city: Schwegenheim
 street: "Bahnhofstraße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8017016
 longitude: 7.8573922000000005
-postcode: 57518
+postcode: "57518"
 city: Betzdorf
 street: "Kölner Straße"
 housenumber: 166

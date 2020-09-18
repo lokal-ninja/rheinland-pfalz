@@ -3,7 +3,7 @@ type: way
 shop: Ski
 latitude: 49.4773093
 longitude: 8.288999500000001
-postcode: 67133
+postcode: "67133"
 city: Maxdorf
 street: "Maxdorfer Weg"
 housenumber: 22

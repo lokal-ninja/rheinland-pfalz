@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.2226495
 longitude: 8.320402900000001
-postcode: 67368
+postcode: "67368"
 city: Westheim
 street: "Holzmühle"
 housenumber: 

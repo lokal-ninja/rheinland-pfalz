@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.635017000000005
 longitude: 8.3654094
-postcode: 67547
+postcode: "67547"
 city: Worms
 street: "Remeyerhofstraße"
 housenumber: 7

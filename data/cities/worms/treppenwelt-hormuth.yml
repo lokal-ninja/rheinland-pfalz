@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.6336364
 longitude: 8.3506947
-postcode: 67549
+postcode: "67549"
 city: Worms
 street: "Dirolfstraße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.1992678
 longitude: 7.8589653
-postcode: 56355
+postcode: "56355"
 city: Nastätten
 street: "Poststraße"
 housenumber: 1a

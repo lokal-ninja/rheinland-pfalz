@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.4588255
 longitude: 8.4069541
-postcode: 67065
+postcode: "67065"
 city: Ludwigshafen am Rhein
 street: "Maudacher Straße"
 housenumber: 233

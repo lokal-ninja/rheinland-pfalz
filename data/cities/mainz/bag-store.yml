@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 49.966951300000005
 longitude: 8.2294874
-postcode: 55128
+postcode: "55128"
 city: Mainz
 street: "Haifa-Allee"
 housenumber: 1

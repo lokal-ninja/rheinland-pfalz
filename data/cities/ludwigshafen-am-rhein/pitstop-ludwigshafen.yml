@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4621895
 longitude: 8.4184038
-postcode: 67065
+postcode: "67065"
 city: Ludwigshafen am Rhein
 street: "Maudacher Straße"
 housenumber: 102

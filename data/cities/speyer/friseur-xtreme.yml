@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.3180003
 longitude: 8.431141700000001
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Bahnhofstraße"
 housenumber: 5

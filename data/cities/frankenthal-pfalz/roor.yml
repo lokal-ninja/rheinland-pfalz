@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.5332421
 longitude: 8.3652677
-postcode: 67227
+postcode: "67227"
 city: Frankenthal (Pfalz)
 street: "Am Rosengarten"
 housenumber: 3

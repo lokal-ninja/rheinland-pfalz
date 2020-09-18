@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.337436100000005
 longitude: 8.429755400000001
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Wormser Landstraße"
 housenumber: 253

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.3472287
 longitude: 8.1517928
-postcode: 67434
+postcode: "67434"
 city: Neustadt an der Weinstraße
 street: "Landauer Straße"
 housenumber: 58

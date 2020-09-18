@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.9668914
 longitude: 7.894049600000001
-postcode: 55411
+postcode: "55411"
 city: Bingen am Rhein
 street: "Hasengasse"
 housenumber: 5

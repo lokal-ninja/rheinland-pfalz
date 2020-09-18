@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.183087900000004
 longitude: 8.051786400000001
-postcode: 76831
+postcode: "76831"
 city: Ilbesheim bei Landau in der Pfalz
 street: "Leinsweilerstraße"
 housenumber: 31

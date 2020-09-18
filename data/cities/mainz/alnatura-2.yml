@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0138642
 longitude: 8.2586674
-postcode: 55118
+postcode: "55118"
 city: Mainz
 street: "Rheinallee"
 housenumber: 58a

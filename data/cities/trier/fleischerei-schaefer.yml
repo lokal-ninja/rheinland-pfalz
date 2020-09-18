@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.7405575
 longitude: 6.6074761
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "St.-Helena-Straße"
 housenumber: 23

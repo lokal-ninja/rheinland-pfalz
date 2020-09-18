@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsartikel
 latitude: 49.8569115
 longitude: 6.7985139000000006
-postcode: 54523
+postcode: "54523"
 city: Hetzerath
 street: "Europa-Allee"
 housenumber: 59

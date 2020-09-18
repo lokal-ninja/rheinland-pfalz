@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 49.4669364
 longitude: 8.4485185
-postcode: 67061
+postcode: "67061"
 city: Ludwigshafen am Rhein
 street: "Lagerhausstraße"
 housenumber: 21, 23

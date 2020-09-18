@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 50.659583000000005
 longitude: 7.4220648
-postcode: 53567
+postcode: "53567"
 city: Asbach
 street: "Anton-Limbach-Straße"
 housenumber: 3

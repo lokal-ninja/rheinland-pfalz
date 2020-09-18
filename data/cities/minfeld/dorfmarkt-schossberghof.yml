@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.076593
 longitude: 8.1436373
-postcode: 76872
+postcode: "76872"
 city: Minfeld
 street: "Schoßberghof"
 housenumber: 1

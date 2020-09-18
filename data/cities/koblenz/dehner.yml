@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.3896451
 longitude: 7.557080200000001
-postcode: 56070
+postcode: "56070"
 city: Koblenz
 street: "August-Thyssen-Straße"
 housenumber: 6

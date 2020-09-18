@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.2732819
 longitude: 8.3375951
-postcode: 67365
+postcode: "67365"
 city: Schwegenheim
 street: "Speyerer Straße"
 housenumber: 2

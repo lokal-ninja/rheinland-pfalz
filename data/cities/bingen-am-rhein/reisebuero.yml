@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.968330900000005
 longitude: 7.8987844
-postcode: 55411
+postcode: "55411"
 city: Bingen am Rhein
 street: "Mainzer Straße"
 housenumber: 11

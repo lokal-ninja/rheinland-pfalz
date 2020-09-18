@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 50.3710584
 longitude: 7.594558200000001
-postcode: 56070
+postcode: "56070"
 city: Koblenz
 street: "Andernacher Straße"
 housenumber: 80

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.787414000000005
 longitude: 7.6385148
-postcode: 55566
+postcode: "55566"
 city: Bad Sobernheim
 street: "Monzinger Straße"
 housenumber: 91

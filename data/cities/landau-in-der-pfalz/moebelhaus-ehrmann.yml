@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.2094797
 longitude: 8.1119154
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Lotschstraße"
 housenumber: 9

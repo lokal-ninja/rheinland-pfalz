@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.745924900000006
 longitude: 7.819062400000001
-postcode: 57580
+postcode: "57580"
 city: Gebhardshain
 street: "Hachenburger Straße"
 housenumber: 2

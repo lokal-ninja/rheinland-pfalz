@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.3340133
 longitude: 8.4371617
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: ""
 housenumber: 

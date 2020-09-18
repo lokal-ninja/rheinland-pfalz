@@ -1,12 +1,12 @@
-id: 134199427
-type: way
+id: 469186350
+type: node
 shop: Supermarkt
-latitude: 49.9525549
-longitude: 8.310591800000001
-postcode: 55130
+latitude: 50.0013725
+longitude: 8.2479977
+postcode: "55122"
 city: Mainz
-street: "Parkstraße"
-housenumber: 38
-phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+street: "Dr. Martin-Luther-King Weg"
+housenumber: 20
+phone: "+49 6131 588012"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+website: "https://www.edeka.de/eh/s%C3%BCdwest/e-aktiv-markt-grennrich-dr.-martin-luther-king-weg-20/index.jsp"

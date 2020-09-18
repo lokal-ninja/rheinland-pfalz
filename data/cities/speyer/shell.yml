@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.3378627
 longitude: 8.4291227
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Wormser Landstraße"
 housenumber: 194 B

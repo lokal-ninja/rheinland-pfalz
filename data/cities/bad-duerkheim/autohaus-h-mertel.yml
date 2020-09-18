@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.456312800000006
 longitude: 8.1776506
-postcode: 67098
+postcode: "67098"
 city: Bad Dürkheim
 street: "Friedelsheimer Straße"
 housenumber: 35

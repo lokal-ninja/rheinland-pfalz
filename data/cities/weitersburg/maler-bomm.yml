@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 50.415867600000006
 longitude: 7.6074986
-postcode: 56191
+postcode: "56191"
 city: Weitersburg
 street: "Grenzhausener Straße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.20571
 longitude: 6.4263966
-postcode: 54595
+postcode: "54595"
 city: Prüm
 street: "Gerberweg"
 housenumber: 25

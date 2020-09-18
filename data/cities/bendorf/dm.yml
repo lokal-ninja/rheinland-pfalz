@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.42506890000001
 longitude: 7.5707421
-postcode: 56170
+postcode: "56170"
 city: Bendorf
 street: "Hauptstraße"
 housenumber: 133

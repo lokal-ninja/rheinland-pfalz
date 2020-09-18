@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.949837
 longitude: 6.2658616
-postcode: 54675
+postcode: "54675"
 city: Geichlingen
 street: "Hauptstraße"
 housenumber: 32

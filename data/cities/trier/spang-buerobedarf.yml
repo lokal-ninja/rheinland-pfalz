@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.7431582
 longitude: 6.6874143
-postcode: 54296
+postcode: "54296"
 city: Trier
 street: "Im Treff"
 housenumber: 13

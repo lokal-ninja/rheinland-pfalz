@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.417463100000006
 longitude: 7.581127500000001
-postcode: 56170
+postcode: "56170"
 city: Bendorf
 street: "Vallendarer Straße"
 housenumber: 5

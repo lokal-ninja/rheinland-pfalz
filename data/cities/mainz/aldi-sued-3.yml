@@ -1,12 +1,12 @@
-id: 39355525
-type: way
+id: 7416415622
+type: node
 shop: Supermarkt
-latitude: 49.976248700000006
-longitude: 8.2352208
-postcode: 55128
+latitude: 50.025873600000004
+longitude: 8.2256645
+postcode: "55120"
 city: Mainz
-street: "Essenheimer Straße"
-housenumber: 133
+street: "Rheinallee"
+housenumber: 203
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Rheinallee%20203%2055120%20Mainz-Mombach&Mode=None"

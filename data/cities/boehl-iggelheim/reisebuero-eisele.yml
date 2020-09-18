@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.379422100000006
 longitude: 8.3040476
-postcode: 67459
+postcode: "67459"
 city: Böhl-Iggelheim
 street: "Am Bahnhofsplatz"
 housenumber: 3

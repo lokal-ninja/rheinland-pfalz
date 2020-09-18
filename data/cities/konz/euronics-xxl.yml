@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.695956
 longitude: 6.5645382
-postcode: 54329
+postcode: "54329"
 city: Konz
 street: "Wilde Acht"
 housenumber: 4

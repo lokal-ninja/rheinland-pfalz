@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.9964281
 longitude: 8.277007600000001
-postcode: 55116
+postcode: "55116"
 city: Mainz
 street: "Holzstraße"
 housenumber: 18

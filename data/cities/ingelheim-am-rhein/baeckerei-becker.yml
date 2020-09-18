@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.9757765
 longitude: 8.0647094
-postcode: 55218
+postcode: "55218"
 city: Ingelheim am Rhein
 street: "Mainzer Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.7461208
 longitude: 6.628373000000001
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "St.-Barbara-Ufer"
 housenumber: 42

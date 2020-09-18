@@ -1,12 +1,12 @@
 id: 1578395296
 type: node
 shop: Raumausstattung
-latitude: 50.5419105
-longitude: 7.0946631
-postcode: 53474
+latitude: 50.541748600000005
+longitude: 7.0957843
+postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Oberhutstraße"
-housenumber: 8
-phone: ""
-opening_hours: ""
+street: "Ahrhutstraße"
+housenumber: 32
+phone: "+49 2641 911 7074"
+opening_hours: "Mo 14:00-18:00; Tu-Fr 10:00-13:00, 14:00-18:00; Sa 10:00-14:00"
 website: "http://www.kockerols-am-markt.de/"

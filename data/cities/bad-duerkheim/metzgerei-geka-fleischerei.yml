@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.4687598
 longitude: 8.200476700000001
-postcode: 67098
+postcode: "67098"
 city: Bad Dürkheim
 street: "Bruchstraße"
 housenumber: 8

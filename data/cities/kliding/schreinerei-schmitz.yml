@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 50.108175700000004
 longitude: 7.056102
-postcode: 56825
+postcode: "56825"
 city: Kliding
 street: "Zum Wiesborn"
 housenumber: 1

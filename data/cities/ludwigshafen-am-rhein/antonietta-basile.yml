@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 49.4757564
 longitude: 8.4480778
-postcode: 67061
+postcode: "67061"
 city: Ludwigshafen am Rhein
 street: "Schützenstraße"
 housenumber: 25

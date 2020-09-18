@@ -1,12 +1,12 @@
-id: 59243974
-type: way
+id: 7416514027
+type: node
 shop: Supermarkt
-latitude: 49.9644441
-longitude: 8.2624653
-postcode: 55129
+latitude: 49.964303400000006
+longitude: 8.2621318
+postcode: "55129"
 city: Mainz
 street: "Johannes-Kepler-Straße"
 housenumber: 12
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Johannes-Kepler-Stra%C3%9Fe%2012%2055129%20Mainz-Hechtsheim&Mode=None"

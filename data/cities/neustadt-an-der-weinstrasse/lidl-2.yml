@@ -1,12 +1,12 @@
-id: 345842604
-type: node
+id: 297640435
+type: way
 shop: Supermarkt
-latitude: 49.3562449
-longitude: 8.153246600000001
-postcode: 67433
+latitude: 49.350460500000004
+longitude: 8.1362252
+postcode: "67434"
 city: Neustadt an der Weinstraße
-street: "Martin-Luther-Straße"
-housenumber: 62
+street: "Talstraße"
+housenumber: 14
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su off"
-website: ""
+opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+website: "https://www.lidl.de/filialen/neustadt/talstrasse-14.html"

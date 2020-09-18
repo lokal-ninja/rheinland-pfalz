@@ -3,10 +3,10 @@ type: node
 shop: Optiker
 latitude: 49.3512203
 longitude: 8.1367625
-postcode: 67433
+postcode: "67433"
 city: Neustadt an der Weinstraße
 street: "Hauptstraße"
 housenumber: 31
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 6321 929994"
+opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
+website: "https://www.fielmann.de/niederlassungen/neustadt-a.d.-weinstrasse/67433-hauptstrasse-31/"

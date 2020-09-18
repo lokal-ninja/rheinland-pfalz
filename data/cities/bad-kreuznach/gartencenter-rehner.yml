@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.851584900000006
 longitude: 7.900764700000001
-postcode: 55545
+postcode: "55545"
 city: Bad Kreuznach
 street: "Am Grenzgraben"
 housenumber: 20

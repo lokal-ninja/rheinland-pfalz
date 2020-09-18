@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 49.793734400000005
 longitude: 8.3477273
-postcode: 67583
+postcode: "67583"
 city: Guntersblum
 street: "Kleierstraße"
 housenumber: 11

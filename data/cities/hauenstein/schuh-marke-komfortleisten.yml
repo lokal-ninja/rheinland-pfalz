@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.198747100000006
 longitude: 7.835740100000001
-postcode: 76846
+postcode: "76846"
 city: Hauenstein
 street: "Industriestraße"
 housenumber: 6

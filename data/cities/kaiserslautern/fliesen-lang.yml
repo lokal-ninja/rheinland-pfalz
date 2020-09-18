@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.4440776
 longitude: 7.7263557
-postcode: 67663
+postcode: "67663"
 city: Kaiserslautern
 street: "Denisstraße"
 housenumber: 3

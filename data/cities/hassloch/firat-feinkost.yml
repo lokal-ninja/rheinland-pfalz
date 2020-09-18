@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 49.3643488
 longitude: 8.2560585
-postcode: 67454
+postcode: "67454"
 city: Haßloch
 street: "Bahnhofstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.621641200000006
 longitude: 7.668920000000001
-postcode: 57639
+postcode: "57639"
 city: Oberdreis
 street: "Oberdreiser Kopf"
 housenumber: 3

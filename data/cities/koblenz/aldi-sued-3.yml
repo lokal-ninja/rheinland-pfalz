@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.3627048
 longitude: 7.571002300000001
-postcode: 56073
+postcode: "56073"
 city: Koblenz
 street: "Schlachthofstraße"
 housenumber: 86-88

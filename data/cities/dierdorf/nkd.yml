@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.547811900000006
 longitude: 7.6416991
-postcode: 56269
+postcode: "56269"
 city: Dierdorf
 street: "Königsberger Straße"
 housenumber: 20-22

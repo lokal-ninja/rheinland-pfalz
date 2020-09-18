@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.7451699
 longitude: 8.1109446
-postcode: 55232
+postcode: "55232"
 city: Alzey
 street: "Spießgasse"
 housenumber: 

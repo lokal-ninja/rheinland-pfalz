@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 49.8519675
 longitude: 6.894409100000001
-postcode: 54347
+postcode: "54347"
 city: Neumagen-Dhron
 street: "Römerstraße"
 housenumber: 98

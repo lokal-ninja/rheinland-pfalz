@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.9661677
 longitude: 7.894212700000001
-postcode: 55411
+postcode: "55411"
 city: Bingen am Rhein
 street: "Schmittstraße"
 housenumber: 35

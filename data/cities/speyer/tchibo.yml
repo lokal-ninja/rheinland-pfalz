@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 49.3173636
 longitude: 8.4331849
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Maximilianstraße"
 housenumber: 48

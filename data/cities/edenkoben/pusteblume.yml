@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.2807824
 longitude: 8.1268942
-postcode: 67480
+postcode: "67480"
 city: Edenkoben
 street: "Weinstraße"
 housenumber: 69

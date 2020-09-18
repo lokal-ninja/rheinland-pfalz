@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.631247200000004
 longitude: 8.1999682
-postcode: 67590
+postcode: "67590"
 city: Monsheim
 street: "Robert-Bosch-Straße"
 housenumber: 2

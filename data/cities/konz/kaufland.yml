@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 49.6990348
 longitude: 6.575425
-postcode: 54329
+postcode: "54329"
 city: Konz
 street: "Saar-Mosel-Platz"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: "Mo-Sa 07:00-22:00; PH off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.764665
 longitude: 7.7033426
-postcode: 55571
+postcode: "55571"
 city: Odernheim am Glan
 street: "Hinterruthen"
 housenumber: 4

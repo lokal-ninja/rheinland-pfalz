@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.374227100000006
 longitude: 8.3797312
-postcode: 67105
+postcode: "67105"
 city: Schifferstadt
 street: "Amselweg"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.4209064
 longitude: 8.3947953
-postcode: 67117
+postcode: "67117"
 city: Limburgerhof
 street: "Speyerer Straße"
 housenumber: 89

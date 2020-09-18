@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.38929
 longitude: 7.3388629000000005
-postcode: 56642
+postcode: "56642"
 city: Kruft
 street: "Bundesstraße"
 housenumber: 4a

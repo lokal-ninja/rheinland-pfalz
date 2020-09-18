@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.329130500000005
 longitude: 7.222167600000001
-postcode: 56727
+postcode: "56727"
 city: Mayen
 street: "Göbelstraße"
 housenumber: 8

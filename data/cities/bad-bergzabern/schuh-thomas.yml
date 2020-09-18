@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.1016345
 longitude: 7.9986372
-postcode: 76887
+postcode: "76887"
 city: Bad Bergzabern
 street: "Marktstraße"
 housenumber: 44

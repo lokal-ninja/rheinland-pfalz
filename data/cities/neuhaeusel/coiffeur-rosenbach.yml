@@ -1,12 +1,12 @@
 id: 597860517
 type: node
 shop: Friseur
-latitude: 50.386613600000004
-longitude: 7.7142762000000005
-postcode: 56335
+latitude: 50.386571200000006
+longitude: 7.7144396
+postcode: "56335"
 city: Neuhäusel
 street: "Hauptstraße"
 housenumber: 1
-phone: "+49 2620 2201"
-opening_hours: ""
-website: "https://www.coiffeur-rosenbach.de"
+phone: ""
+opening_hours: "Tu,Th 09:00-19:00, We,Fr 09:00-18:00, Sa 08:00-13:00; Mo,PH off"
+website: ""

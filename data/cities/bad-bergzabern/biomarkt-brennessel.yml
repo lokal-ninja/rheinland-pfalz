@@ -1,12 +1,12 @@
-id: 6424251157
+id: 6431098487
 type: node
 shop: Supermarkt
-latitude: 49.100413800000005
-longitude: 7.995400200000001
-postcode: 76887
+latitude: 49.1004358
+longitude: 7.995368300000001
+postcode: "76887"
 city: Bad Bergzabern
 street: "Marktstraße"
 housenumber: 4
 phone: "+49 63437310"
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00"
+website: "https://www.biomarkt.de/6881_Biomarkt_Brennessel.html"

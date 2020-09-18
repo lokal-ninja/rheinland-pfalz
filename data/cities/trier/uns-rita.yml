@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.762608900000004
 longitude: 6.6449973
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Maarstraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.156589200000006
 longitude: 7.5443457
-postcode: 56281
+postcode: "56281"
 city: Emmelshausen
 street: "Rhein-Mosel-Straße"
 housenumber: 97

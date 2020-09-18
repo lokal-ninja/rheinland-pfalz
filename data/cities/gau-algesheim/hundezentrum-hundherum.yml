@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.968280500000006
 longitude: 8.019759
-postcode: 55435
+postcode: "55435"
 city: Gau-Algesheim
 street: "Rheinstraße"
 housenumber: 

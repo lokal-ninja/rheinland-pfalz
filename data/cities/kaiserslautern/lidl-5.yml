@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4423387
 longitude: 7.738252900000001
-postcode: 67659
+postcode: "67659"
 city: Kaiserslautern
 street: "Vogelwoogstraße"
 housenumber: 40

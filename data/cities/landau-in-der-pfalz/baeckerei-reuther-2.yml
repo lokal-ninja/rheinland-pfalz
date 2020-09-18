@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.211886400000004
 longitude: 8.117137000000001
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
 street: "Gilletstraße"
 housenumber: 1

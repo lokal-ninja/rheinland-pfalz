@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 49.313078700000005
 longitude: 8.4274158
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Landauer Straße"
 housenumber: 38

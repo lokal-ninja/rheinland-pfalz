@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 49.709516900000004
 longitude: 8.349733200000001
-postcode: 67550
+postcode: "67550"
 city: Worms
 street: "Jakob-Hammel-Straße"
 housenumber: 13

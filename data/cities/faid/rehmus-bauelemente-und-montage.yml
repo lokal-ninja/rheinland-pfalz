@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 50.149444700000004
 longitude: 7.1172835
-postcode: 56814
+postcode: "56814"
 city: Faid
 street: "Am Kreisel West"
 housenumber: 2

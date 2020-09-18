@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.299630300000004
 longitude: 8.214181400000001
-postcode: 67435
+postcode: "67435"
 city: Neustadt-Duttweiler
 street: "Dudostraße"
 housenumber: 73

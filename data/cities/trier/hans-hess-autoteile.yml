@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 49.774790900000006
 longitude: 6.6777704
-postcode: 54292
+postcode: "54292"
 city: Trier
 street: "Loebstraße"
 housenumber: 16

@@ -3,10 +3,10 @@ type: way
 shop: Möbel
 latitude: 49.808677900000006
 longitude: 7.1185632000000005
-postcode: 54497
+postcode: "54497"
 city: Morbach
 street: "Reitergasse"
 housenumber: 11
-phone: "+49 06533 9588220"
+phone: "+49 6533 9588220"
 opening_hours: ""
 website: ""

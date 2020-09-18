@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.874700000000004
 longitude: 8.338824
-postcode: 55283
+postcode: "55283"
 city: Nierstein
 street: "Rheinstraße"
 housenumber: 30-32

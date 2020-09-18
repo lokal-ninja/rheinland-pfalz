@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1574874
 longitude: 7.556068400000001
-postcode: 56281
+postcode: "56281"
 city: Emmelshausen
 street: "Trift"
 housenumber: 5

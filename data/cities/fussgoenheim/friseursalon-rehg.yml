@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.4565549
 longitude: 8.2905038
-postcode: 67136
+postcode: "67136"
 city: Fußgönheim
 street: "Keltenstraße"
 housenumber: 2

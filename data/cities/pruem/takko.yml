@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.2035277
 longitude: 6.4220788
-postcode: 54595
+postcode: "54595"
 city: Prüm
 street: "Bahnhofstraße"
 housenumber: 47

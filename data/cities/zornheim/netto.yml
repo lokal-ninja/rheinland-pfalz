@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.889936600000006
 longitude: 8.2204159
-postcode: 55270
+postcode: "55270"
 city: Zornheim
 street: "Pfortengewann"
 housenumber: 1

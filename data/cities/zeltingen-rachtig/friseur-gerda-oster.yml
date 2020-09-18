@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.9530297
 longitude: 7.019106000000001
-postcode: 54492
+postcode: "54492"
 city: Zeltingen-Rachtig
 street: "Kurfürstenstraße"
 housenumber: 40

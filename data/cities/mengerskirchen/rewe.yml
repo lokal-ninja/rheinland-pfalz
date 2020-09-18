@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.561312300000004
 longitude: 8.1566399
-postcode: 35794
+postcode: "35794"
 city: Mengerskirchen
 street: "Zum Sportzentrum"
 housenumber: 6

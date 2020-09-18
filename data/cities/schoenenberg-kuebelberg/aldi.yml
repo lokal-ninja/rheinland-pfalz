@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4103019
 longitude: 7.3812502
-postcode: 66901
+postcode: "66901"
 city: Schönenberg-Kübelberg
 street: "Festwiesenplatz"
 housenumber: 1

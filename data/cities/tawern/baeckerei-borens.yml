@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.6731178
 longitude: 6.5211832
-postcode: 54456
+postcode: "54456"
 city: Tawern
 street: "Römerstraße"
 housenumber: 13

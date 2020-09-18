@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7563687
 longitude: 6.623565
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Hornstraße"
 housenumber: 23

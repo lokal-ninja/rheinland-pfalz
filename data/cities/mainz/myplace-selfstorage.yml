@@ -3,7 +3,7 @@ type: way
 shop: Mieten
 latitude: 50.004588500000004
 longitude: 8.2539523
-postcode: 55122
+postcode: "55122"
 city: Mainz
 street: "Anni-Eisler-Lehmann-Straße"
 housenumber: 2

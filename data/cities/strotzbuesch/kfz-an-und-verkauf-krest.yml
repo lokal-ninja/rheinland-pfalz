@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.109512300000006
 longitude: 6.965935900000001
-postcode: 54552
+postcode: "54552"
 city: Strotzbüsch
 street: "Hontheimer Straße"
 housenumber: 22

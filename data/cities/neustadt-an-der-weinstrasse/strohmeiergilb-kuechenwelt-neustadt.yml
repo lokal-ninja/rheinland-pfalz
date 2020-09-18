@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 49.3534486
 longitude: 8.161828100000001
-postcode: 67433
+postcode: "67433"
 city: Neustadt an der Weinstraße
 street: "Roßlaufstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.581465
 longitude: 8.3509848
-postcode: 67240
+postcode: "67240"
 city: Bobenheim-Roxheim
 street: "Südring"
 housenumber: 4

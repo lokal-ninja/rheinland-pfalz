@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.336043000000004
 longitude: 8.413906
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Iggelheimer Straße"
 housenumber: 30

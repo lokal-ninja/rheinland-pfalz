@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 50.3555226
 longitude: 7.590483600000001
-postcode: 56068
+postcode: "56068"
 city: Koblenz
 street: "Löhrstraße"
 housenumber: 82

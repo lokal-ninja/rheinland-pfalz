@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.451962400000006
 longitude: 7.7847087
-postcode: 67657
+postcode: "67657"
 city: Kaiserslautern
 street: "Mainzer Straße"
 housenumber: 63

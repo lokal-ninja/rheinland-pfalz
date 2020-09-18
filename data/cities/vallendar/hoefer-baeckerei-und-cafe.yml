@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.394282000000004
 longitude: 7.6164902
-postcode: 56179
+postcode: "56179"
 city: Vallendar
 street: "Rheinstraße"
 housenumber: 44

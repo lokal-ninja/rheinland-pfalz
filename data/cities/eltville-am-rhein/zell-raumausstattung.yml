@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0253334
 longitude: 8.118632700000001
-postcode: 
+postcode: ""
 city: Eltville am Rhein
 street: "Rheingauer Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.605065
 longitude: 8.0657259
-postcode: 56477
+postcode: "56477"
 city: Rennerod
 street: "Hauptstraße"
 housenumber: 32

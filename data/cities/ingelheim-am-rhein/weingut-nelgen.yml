@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.975958500000004
 longitude: 8.117673100000001
-postcode: 55263
+postcode: "55263"
 city: Ingelheim am Rhein
 street: "Jahnstraße"
 housenumber: 1

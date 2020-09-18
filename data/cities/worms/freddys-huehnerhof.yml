@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.717475500000006
 longitude: 8.350145600000001
-postcode: 67550
+postcode: "67550"
 city: Worms
 street: "Sommerdamm"
 housenumber: 81

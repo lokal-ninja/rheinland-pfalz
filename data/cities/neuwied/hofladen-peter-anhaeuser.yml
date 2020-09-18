@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.4632401
 longitude: 7.447362600000001
-postcode: 56567
+postcode: "56567"
 city: Neuwied
 street: "Oberdorfstraße"
 housenumber: 24

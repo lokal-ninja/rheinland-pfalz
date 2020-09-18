@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8217548
 longitude: 6.7531572
-postcode: 54338
+postcode: "54338"
 city: Schweich
 street: "Brückenstraße"
 housenumber: 89

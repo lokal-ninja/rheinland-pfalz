@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.749058600000005
 longitude: 6.637093500000001
-postcode: 54290
+postcode: "54290"
 city: Trier
 street: "Saarstraße"
 housenumber: 9

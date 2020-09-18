@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.3586776
 longitude: 7.5991507
-postcode: 56068
+postcode: "56068"
 city: Koblenz
 street: "Clemensstraße"
 housenumber: 12

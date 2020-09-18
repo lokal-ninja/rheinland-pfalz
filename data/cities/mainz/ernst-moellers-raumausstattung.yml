@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.975496400000004
 longitude: 8.2363558
-postcode: 55128
+postcode: "55128"
 city: Mainz
 street: "Vor der Frecht"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.6322727
 longitude: 7.2180995
-postcode: 53604
+postcode: "53604"
 city: Bad Honnef
 street: "Rheinstraße"
 housenumber: 2

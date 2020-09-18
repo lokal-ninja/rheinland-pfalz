@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9037791
 longitude: 8.0664844
-postcode: 55270
+postcode: "55270"
 city: Engelstadt
 street: "Hauptstraße"
 housenumber: 8

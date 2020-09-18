@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7300273
 longitude: 6.5998042
-postcode: 54294
+postcode: "54294"
 city: Trier
 street: "Gottbillstraße"
 housenumber: 12-18

@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 49.3176634
 longitude: 8.4353067
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Maximilianstraße"
 housenumber: 72
