@@ -1,12 +1,12 @@
-id: 2213212136
-type: node
+id: 868798017
+type: way
 shop: Friseur
-latitude: 50.001075500000006
-longitude: 8.2683824
+latitude: 50.001054
+longitude: 8.2683912
 postcode: "55116"
 city: Mainz
-street: ""
+street: "Adolf-Kolping-Straße"
 housenumber: 
-phone: ""
-opening_hours: ""
+phone: "+49 6131 5544889"
+opening_hours: "Mo-Fr 09:30-19:30, Sa 09:30-18:00"
 website: ""

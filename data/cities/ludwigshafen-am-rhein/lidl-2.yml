@@ -1,12 +1,12 @@
-id: 1345182355
-type: node
+id: 192676325
+type: way
 shop: Supermarkt
-latitude: 49.4877448
-longitude: 8.4152664
-postcode: "67063"
+latitude: 49.476948500000006
+longitude: 8.4223146
+postcode: "67059"
 city: Ludwigshafen am Rhein
-street: "Industriestraße"
-housenumber: 10
+street: "Bruchwiesenstraße"
+housenumber: 301
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: "Mo-Sa 07:00-22:00"
 website: ""
