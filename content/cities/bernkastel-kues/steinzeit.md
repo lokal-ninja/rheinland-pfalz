@@ -1,4 +1,4 @@
 ---
-title: "STEINZEIT"
+title: "Steinzeit"
 url: /bernkastel-kues/steinzeit/
 ---

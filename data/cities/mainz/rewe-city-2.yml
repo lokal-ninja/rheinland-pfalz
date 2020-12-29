@@ -1,12 +1,12 @@
-id: 1446477840
+id: 1149638974
 type: node
 shop: Supermarkt
-latitude: 49.9999763
-longitude: 8.269024
+latitude: 50.001148900000004
+longitude: 8.2653078
 postcode: "55116"
 city: Mainz
-street: "Am Kronberger Hof"
-housenumber: 1
+street: "Große Bleiche"
+housenumber: 14-18
 phone: ""
-opening_hours: "07:00 - 22:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "https://www.rewe.de/marktseite/?wwident=240662"

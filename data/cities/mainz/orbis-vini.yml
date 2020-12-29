@@ -1,12 +1,12 @@
 id: 4389782169
 type: node
 shop: Wein
-latitude: 50.0105919
-longitude: 8.2596977
+latitude: 50.0105882
+longitude: 8.2596252
 postcode: "55118"
 city: Mainz
 street: "Feldbergstraße"
-housenumber: 3-7
+housenumber: 3
 phone: "+49 6131 5869545"
-opening_hours: "Fr 13:00-18:00; Sa 10:00-16:00; + nach Vereinbarung"
+opening_hours: "Mo-Fr 13:00-18:00"
 website: "http://orbis-vini.com"

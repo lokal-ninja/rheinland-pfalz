@@ -1,12 +1,12 @@
-id: 7379768689
-type: node
+id: 90447018
+type: way
 shop: Supermarkt
-latitude: 49.3352669
-longitude: 8.4373368
+latitude: 49.333316700000005
+longitude: 8.4191845
 postcode: "67346"
 city: Speyer
-street: "Tullastraße"
-housenumber: 53
+street: "Iggelheimer Straße"
+housenumber: 18
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Tullastra%C3%9Fe%2053%2067346%20Speyer&Mode=None"
+website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Mittelwegring%2045%20Jockgrim&Mode=None#"

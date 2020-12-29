@@ -1,12 +1,12 @@
-id: 7379606758
-type: node
+id: 795861024
+type: way
 shop: Supermarkt
-latitude: 49.1370744
-longitude: 7.799246600000001
+latitude: 49.138361
+longitude: 7.7954606
 postcode: "66994"
 city: Dahn
-street: "Industriestraße"
-housenumber: 10
+street: "An der Reichenbach"
+housenumber: 2e
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Industriestraße 10 66994 Dahn&Mode=None"
+opening_hours: "Mo-Sa 08:00-20:00; Su, PH off"
+website: ""

@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 49.9811756
 longitude: 8.2809027
-postcode: "55131"
+postcode: "55130"
 city: Mainz
 street: "Hechtsheimer Straße"
-housenumber: 
-phone: ""
+housenumber: 2
+phone: "+496611042498"
 opening_hours: "Mo-Sa 08:00-22:00"
-website: ""
+website: "https://www.tegut.com/maerkte/markt/tegut-mainz-hechtsheimer-str-2.html"
