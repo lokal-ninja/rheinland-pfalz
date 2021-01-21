@@ -1,12 +1,11 @@
 id: 1026664711
 type: node
-shop: Haushaltsartikel
 latitude: 50.4431786
 longitude: 7.657586500000001
 postcode: "56203"
 city: Höhr-Grenzhausen
-street: "Rastal-Straße"
-housenumber: 1
-phone: "+49 2624 160"
+street: "Lindenstraße"
+housenumber: 14
+phone: "+49 2624 16-166"
 opening_hours: "Mo-Fr 10:00-18:00"
-website: ""
+website: "https://www.rastal.com/factory-outlet/"

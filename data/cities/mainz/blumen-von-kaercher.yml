@@ -1,6 +1,5 @@
 id: 5447871519
 type: node
-shop: Blumen
 latitude: 50.0080625
 longitude: 8.263526500000001
 postcode: "55118"
@@ -8,5 +7,5 @@ city: Mainz
 street: "Frauenlobplatz"
 housenumber: 4
 phone: "+49 6131 674855"
-opening_hours: "Mo-Fr 08:30-13:00, 14:30-18:30; Sa 08:30-13:00; Su 10:30-12:30"
+opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
 website: "https://www.blumen-von-kaercher.de/"

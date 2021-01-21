@@ -1,6 +1,5 @@
 id: 7518811256
 type: node
-shop: Bücher
 latitude: 49.961111700000004
 longitude: 8.2803296
 postcode: "55129"
@@ -8,5 +7,5 @@ city: Mainz
 street: "Alte Mainzer Straße"
 housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00"
 website: ""

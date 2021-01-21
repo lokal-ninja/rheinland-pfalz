@@ -1,6 +1,5 @@
 id: 836339098
 type: way
-shop: Autowerkstatt
 latitude: 50.118171600000004
 longitude: 7.7985582
 postcode: "56348"
@@ -8,5 +7,5 @@ city: Weisel
 street: "Brückenstraße"
 housenumber: 2a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-12:00, Mo-Fr 13:00-17:00"
 website: ""

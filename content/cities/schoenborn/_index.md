@@ -1,6 +1,6 @@
 ---
 title: Schönborn
 url: /schoenborn/
-latitude: 50.8131531
-longitude: 7.818014600000001
+latitude: 50.8131599
+longitude: 7.8169900000000005
 ---

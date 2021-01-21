@@ -1,6 +1,5 @@
 id: 6245409950
 type: node
-shop: Reisebüro
 latitude: 50.4359684
 longitude: 7.830360600000001
 postcode: "56410"
@@ -8,5 +7,5 @@ city: Montabaur
 street: "Konrad-Adenauer-Platz"
 housenumber: 6
 phone: ""
-opening_hours: "Mo-Fr 09:30-18.00; Sa10:00-13:00"
+opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-13:00"
 website: ""

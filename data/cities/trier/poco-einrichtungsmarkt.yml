@@ -1,6 +1,5 @@
 id: 7177721917
 type: node
-shop: Möbel
 latitude: 49.721850100000005
 longitude: 6.5851129
 postcode: "54294"
@@ -8,5 +7,5 @@ city: Trier
 street: "Im Siebenborn"
 housenumber: 5-7
 phone: "+49 651 2006910"
-opening_hours: "Mo-So 10:00-19:00"
+opening_hours: "Mo-Su 10:00-19:00"
 website: "https://www.poco.de"

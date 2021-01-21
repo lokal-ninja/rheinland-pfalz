@@ -1,6 +1,5 @@
 id: 2392721229
 type: node
-shop: Sanitätshaus
 latitude: 49.082338500000006
 longitude: 8.196656800000001
 postcode: "76870"
@@ -8,5 +7,5 @@ city: Kandel
 street: "Hauptstraße"
 housenumber: 83
 phone: ""
-opening_hours: "Mo-Fr 09:00 - 13:00 & 14:00 - 18:00, Sa: 09:00 - 13:00"
+opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
 website: ""
