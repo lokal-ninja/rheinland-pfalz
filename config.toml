@@ -1,0 +1,20 @@
+baseURL = "https://de.shoogle.net/rheinland-pfalz/"
+languageCode = "de"
+title = "Rheinland-Pfalz"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "rheinland-pfalz"
+
+[taxonomies]
+  shop = "shops"
+
