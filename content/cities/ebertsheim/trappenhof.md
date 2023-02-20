@@ -1,5 +1,5 @@
 ---
 title: "Trappenhof"
 url: /ebertsheim/trappenhof/
-shop: Gemüse & Obst
+shop: Hofladen
 ---

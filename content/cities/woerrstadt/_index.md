@@ -1,6 +1,6 @@
 ---
 title: Wörrstadt
 url: /woerrstadt/
-latitude: 49.838
-longitude: 8.117
+latitude: 49.852
+longitude: 8.122
 ---

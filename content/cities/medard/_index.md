@@ -1,6 +1,6 @@
 ---
 title: Medard
 url: /medard/
-latitude: 49.67
-longitude: 7.617
+latitude: 49.669
+longitude: 7.616
 ---
