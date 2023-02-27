@@ -1,6 +1,6 @@
 ---
 title: Monsheim
 url: /monsheim/
-latitude: 49.631
-longitude: 8.201
+latitude: 49.64
+longitude: 8.202
 ---
