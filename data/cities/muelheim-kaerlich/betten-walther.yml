@@ -1,11 +1,11 @@
-id: 1109736669
-type: node
-latitude: 50.3939
-longitude: 7.53796
+id: 172629569
+type: way
+latitude: 50.39397
+longitude: 7.53781
 postcode: "56218"
 city: Mülheim-Kärlich
 street: "Jungenstraße"
 housenumber: 18
-phone: ""
-opening_hours: ""
-website: "https://www.betten-walther.de/"
+phone: "+49 261 25050"
+opening_hours: "Mo-Fr 09:30-13:00; Sa,Su,TH off"
+website: "https://www.betten-walther.de"

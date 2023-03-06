@@ -1,6 +1,6 @@
 ---
 title: Bacharach
 url: /bacharach/
-latitude: 50.061
-longitude: 7.768
+latitude: 50.053
+longitude: 7.771
 ---

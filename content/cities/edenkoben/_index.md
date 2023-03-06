@@ -1,6 +1,6 @@
 ---
 title: Edenkoben
 url: /edenkoben/
-latitude: 49.283
+latitude: 49.28
 longitude: 8.126
 ---
