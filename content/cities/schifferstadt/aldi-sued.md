@@ -1,5 +1,5 @@
 ---
-title: "ALDI SÜD"
+title: "ALDI Süd"
 url: /schifferstadt/aldi-sued/
 shop: Supermarkt
 ---
