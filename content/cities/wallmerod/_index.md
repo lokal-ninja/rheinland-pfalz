@@ -1,6 +1,6 @@
 ---
 title: Wallmerod
 url: /wallmerod/
-latitude: 50.48
-longitude: 7.955
+latitude: 50.481
+longitude: 7.956
 ---
