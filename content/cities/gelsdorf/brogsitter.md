@@ -1,5 +1,5 @@
 ---
 title: "Brogsitter"
 url: /gelsdorf/brogsitter/
-shop: Spirituosen
+shop: Wein
 ---
