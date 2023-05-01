@@ -1,6 +1,6 @@
 ---
 title: Kettig
 url: /kettig/
-latitude: 50.398
-longitude: 7.462
+latitude: 50.407
+longitude: 7.473
 ---

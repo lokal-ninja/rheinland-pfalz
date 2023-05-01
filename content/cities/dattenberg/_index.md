@@ -1,6 +1,6 @@
 ---
 title: Dattenberg
 url: /dattenberg/
-latitude: 50.561
-longitude: 7.317
+latitude: 50.553
+longitude: 7.29
 ---
