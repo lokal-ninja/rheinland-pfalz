@@ -1,6 +1,6 @@
 ---
 title: Rengsdorf
 url: /rengsdorf/
-latitude: 50.501
-longitude: 7.498
+latitude: 50.51
+longitude: 7.484
 ---
