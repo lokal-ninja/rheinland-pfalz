@@ -1,5 +1,5 @@
 ---
-title: "TAKKO FASHION"
+title: "Takko Fashion"
 url: /herdorf/takko-fashion/
 shop: Kleidung
 ---

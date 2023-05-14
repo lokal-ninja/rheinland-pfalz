@@ -1,6 +1,6 @@
 ---
 title: Mainz
 url: /mainz/
-latitude: 49.981
-longitude: 8.269
+latitude: 50.006
+longitude: 8.221
 ---
