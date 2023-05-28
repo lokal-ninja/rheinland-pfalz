@@ -1,5 +1,5 @@
 ---
-title: "Dm"
+title: "dm"
 url: /mainz/dm/
-shop: Supermarkt
+shop: Drogerie
 ---
