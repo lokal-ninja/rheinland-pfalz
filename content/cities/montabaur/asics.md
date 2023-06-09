@@ -1,5 +1,5 @@
 ---
-title: "Asics"
+title: "ASICS"
 url: /montabaur/asics/
-shop: Sport
+shop: Schuhe
 ---

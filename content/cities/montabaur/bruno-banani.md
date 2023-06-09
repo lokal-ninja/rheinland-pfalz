@@ -1,5 +1,5 @@
 ---
-title: "Bruno Banani"
+title: "bruno banani"
 url: /montabaur/bruno-banani/
 shop: Kleidung
 ---
