@@ -1,6 +1,6 @@
 ---
 title: Kirf
 url: /kirf/
-latitude: 49.565
-longitude: 6.523
+latitude: 49.552
+longitude: 6.48
 ---

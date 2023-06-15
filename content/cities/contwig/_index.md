@@ -1,6 +1,6 @@
 ---
 title: Contwig
 url: /contwig/
-latitude: 49.249
-longitude: 7.445
+latitude: 49.223
+longitude: 7.453
 ---
