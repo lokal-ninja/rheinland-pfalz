@@ -1,6 +1,6 @@
 ---
 title: Katzweiler
 url: /katzweiler/
-latitude: 49.499
-longitude: 7.705
+latitude: 49.503
+longitude: 7.699
 ---
