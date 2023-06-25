@@ -1,6 +1,6 @@
 ---
 title: Wolfstein
 url: /wolfstein/
-latitude: 49.595
-longitude: 7.603
+latitude: 49.585
+longitude: 7.606
 ---
