@@ -1,6 +1,6 @@
 ---
 title: Gerolstein
 url: /gerolstein/
-latitude: 50.224
-longitude: 6.647
+latitude: 50.222
+longitude: 6.664
 ---
