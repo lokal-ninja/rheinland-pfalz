@@ -1,6 +1,6 @@
 ---
 title: Bad Kreuznach
 url: /bad-kreuznach/
-latitude: 49.844
-longitude: 7.862
+latitude: 49.836
+longitude: 7.87
 ---
