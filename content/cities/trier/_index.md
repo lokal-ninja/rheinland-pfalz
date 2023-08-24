@@ -1,6 +1,6 @@
 ---
 title: Trier
 url: /trier/
-latitude: 49.757
-longitude: 6.641
+latitude: 49.763
+longitude: 6.645
 ---

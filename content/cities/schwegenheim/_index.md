@@ -1,6 +1,6 @@
 ---
 title: Schwegenheim
 url: /schwegenheim/
-latitude: 49.271
-longitude: 8.338
+latitude: 49.269
+longitude: 8.328
 ---
