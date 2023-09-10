@@ -1,6 +1,6 @@
 ---
 title: Kruft
 url: /kruft/
-latitude: 50.382
-longitude: 7.33
+latitude: 50.389
+longitude: 7.339
 ---
