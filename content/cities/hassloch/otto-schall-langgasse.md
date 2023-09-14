@@ -1,5 +1,5 @@
 ---
 title: "Otto Schall"
-url: /hassloch/otto-schall/
+url: /hassloch/otto-schall-langgasse/
 shop: Bäckerei
 ---

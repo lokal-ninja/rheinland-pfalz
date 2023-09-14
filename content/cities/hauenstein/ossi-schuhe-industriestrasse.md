@@ -1,5 +1,5 @@
 ---
 title: "Ossi-Schuhe"
-url: /hauenstein/ossi-schuhe/
+url: /hauenstein/ossi-schuhe-industriestrasse/
 shop: Schuhe
 ---

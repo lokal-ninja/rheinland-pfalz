@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /mainz/dm/
+url: /mainz/dm-ludwigsstrasse/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /trier/vodafone/
+url: /trier/vodafone-brotstrasse/
 shop: Handy
 ---

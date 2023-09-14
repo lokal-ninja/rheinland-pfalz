@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /woerth-am-rhein/lidl/
+url: /woerth-am-rhein/lidl-kuehgrunddamm/
 shop: Supermarkt
 ---

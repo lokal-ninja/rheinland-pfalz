@@ -1,5 +1,5 @@
 ---
 title: "Wasgau"
-url: /kusel/wasgau/
+url: /kusel/wasgau-rotenturmweg/
 shop: Supermarkt
 ---

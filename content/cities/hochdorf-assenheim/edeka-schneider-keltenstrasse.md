@@ -1,5 +1,5 @@
 ---
 title: "EDEKA Schneider"
-url: /hochdorf-assenheim/edeka-schneider/
+url: /hochdorf-assenheim/edeka-schneider-keltenstrasse/
 shop: Supermarkt
 ---

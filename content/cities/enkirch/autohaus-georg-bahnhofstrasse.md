@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Georg"
-url: /enkirch/autohaus-georg/
+url: /enkirch/autohaus-georg-bahnhofstrasse/
 shop: Autowerkstatt
 ---

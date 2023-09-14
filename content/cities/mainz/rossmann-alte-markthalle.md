@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /mainz/rossmann/
+url: /mainz/rossmann-alte-markthalle/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kempfelder Steinofenbäckerei"
-url: /idar-oberstein/kempfelder-steinofenbaeckerei/
+url: /idar-oberstein/kempfelder-steinofenbaeckerei-algenrodter-strasse/
 shop: Bäckerei
 ---

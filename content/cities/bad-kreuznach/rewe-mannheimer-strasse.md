@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /bad-kreuznach/rewe/
+url: /bad-kreuznach/rewe-mannheimer-strasse/
 shop: Supermarkt
 ---

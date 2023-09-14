@@ -1,5 +1,5 @@
 ---
 title: "Hoefer"
-url: /koblenz/hoefer/
+url: /koblenz/hoefer-ferdinand-sauerbruch-strasse/
 shop: Bäckerei
 ---

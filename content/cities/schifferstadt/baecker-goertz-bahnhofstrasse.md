@@ -1,5 +1,5 @@
 ---
 title: "Bäcker Görtz"
-url: /schifferstadt/baecker-goertz/
+url: /schifferstadt/baecker-goertz-bahnhofstrasse/
 shop: Bäckerei
 ---

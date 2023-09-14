@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /worms/lidl/
+url: /worms/lidl-klosterstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /bad-kreuznach/mueller/
+url: /bad-kreuznach/mueller-porschestrasse/
 shop: Drogerie
 ---

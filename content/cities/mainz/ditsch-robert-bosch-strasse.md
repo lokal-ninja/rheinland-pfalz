@@ -1,5 +1,5 @@
 ---
 title: "Ditsch"
-url: /mainz/ditsch/
+url: /mainz/ditsch-robert-bosch-strasse/
 shop: Bäckerei
 ---

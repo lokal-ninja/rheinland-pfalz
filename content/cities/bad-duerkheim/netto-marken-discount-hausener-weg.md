@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /bad-duerkheim/netto-marken-discount/
+url: /bad-duerkheim/netto-marken-discount-hausener-weg/
 shop: Supermarkt
 ---

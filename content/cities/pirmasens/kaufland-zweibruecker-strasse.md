@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /pirmasens/kaufland/
+url: /pirmasens/kaufland-zweibruecker-strasse/
 shop: Supermarkt
 ---

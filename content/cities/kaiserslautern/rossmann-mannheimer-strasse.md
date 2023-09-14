@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /kaiserslautern/rossmann/
+url: /kaiserslautern/rossmann-mannheimer-strasse/
 shop: Drogerie
 ---

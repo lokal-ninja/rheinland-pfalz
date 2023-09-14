@@ -1,5 +1,5 @@
 ---
 title: "Basislager"
-url: /bad-neuenahr-ahrweiler/basislager/
+url: /bad-neuenahr-ahrweiler/basislager-wilhelmstrasse/
 shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BauSpezi"
-url: /oppenheim/bauspezi/
+url: /oppenheim/bauspezi-am-wattengraben/
 shop: Baumarkt
 ---

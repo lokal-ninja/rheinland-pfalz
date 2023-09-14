@@ -1,5 +1,5 @@
 ---
 title: "Richards Backhaus"
-url: /boehl-iggelheim/richards-backhaus/
+url: /boehl-iggelheim/richards-backhaus-bahnhofstrasse/
 shop: Bäckerei
 ---

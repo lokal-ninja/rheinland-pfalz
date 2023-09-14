@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /asbach/tedi/
+url: /asbach/tedi-im-steinchen/
 shop: Kramladen
 ---

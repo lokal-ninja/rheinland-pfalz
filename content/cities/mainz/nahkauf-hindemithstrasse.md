@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /mainz/nahkauf/
+url: /mainz/nahkauf-hindemithstrasse/
 shop: Supermarkt
 ---

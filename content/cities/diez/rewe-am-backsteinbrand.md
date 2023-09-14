@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /diez/rewe/
+url: /diez/rewe-am-backsteinbrand/
 shop: Supermarkt
 ---

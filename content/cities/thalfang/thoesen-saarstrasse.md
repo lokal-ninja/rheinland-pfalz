@@ -1,5 +1,5 @@
 ---
 title: "Thösen"
-url: /thalfang/thoesen/
+url: /thalfang/thoesen-saarstrasse/
 shop: Autoteile
 ---

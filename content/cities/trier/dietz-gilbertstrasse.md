@@ -1,5 +1,5 @@
 ---
 title: "Dietz"
-url: /trier/dietz/
+url: /trier/dietz-gilbertstrasse/
 shop: Bäckerei
 ---

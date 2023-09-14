@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /koblenz/dm/
+url: /koblenz/dm-trierer-strasse/
 shop: Drogerie
 ---

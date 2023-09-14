@@ -1,5 +1,5 @@
 ---
 title: "Mühlenz Schuhe"
-url: /hauenstein/muehlenz-schuhe/
+url: /hauenstein/muehlenz-schuhe-industriestrasse/
 shop: Schuhe
 ---

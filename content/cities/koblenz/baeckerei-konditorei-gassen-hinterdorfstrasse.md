@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Konditorei Gassen"
-url: /koblenz/baeckerei-konditorei-gassen/
+url: /koblenz/baeckerei-konditorei-gassen-hinterdorfstrasse/
 shop: Bäckerei
 ---

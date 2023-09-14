@@ -1,5 +1,5 @@
 ---
 title: "Geisen"
-url: /neuwied/geisen/
+url: /neuwied/geisen-augustastrasse/
 shop: Bäckerei
 ---

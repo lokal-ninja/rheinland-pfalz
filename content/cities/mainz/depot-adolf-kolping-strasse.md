@@ -1,5 +1,5 @@
 ---
 title: "Depot"
-url: /mainz/depot/
+url: /mainz/depot-adolf-kolping-strasse/
 shop: Raumausstattung
 ---

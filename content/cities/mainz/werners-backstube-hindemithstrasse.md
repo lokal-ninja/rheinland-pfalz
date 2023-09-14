@@ -1,5 +1,5 @@
 ---
 title: "Werner's Backstube"
-url: /mainz/werners-backstube/
+url: /mainz/werners-backstube-hindemithstrasse/
 shop: Bäckerei
 ---

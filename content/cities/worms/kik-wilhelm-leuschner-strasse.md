@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /worms/kik/
+url: /worms/kik-wilhelm-leuschner-strasse/
 shop: Kleidung
 ---

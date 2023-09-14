@@ -1,5 +1,5 @@
 ---
 title: "Zweirad Boxx"
-url: /mainz/zweirad-boxx/
+url: /mainz/zweirad-boxx-nackstrasse/
 shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hoefer"
-url: /koblenz/hoefer/
+url: /koblenz/hoefer-emser-strasse/
 shop: Bäckerei
 ---

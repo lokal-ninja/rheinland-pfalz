@@ -1,5 +1,5 @@
 ---
 title: "Kramer"
-url: /bendorf/kramer/
+url: /bendorf/kramer-hauptstrasse/
 shop: Schmuck
 ---

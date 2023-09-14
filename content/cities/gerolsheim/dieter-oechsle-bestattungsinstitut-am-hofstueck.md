@@ -1,5 +1,5 @@
 ---
 title: "Dieter Oechsle Bestattungsinstitut"
-url: /gerolsheim/dieter-oechsle-bestattungsinstitut/
+url: /gerolsheim/dieter-oechsle-bestattungsinstitut-am-hofstueck/
 shop: Bestattungen
 ---

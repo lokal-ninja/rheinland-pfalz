@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /mainz/bauhaus/
+url: /mainz/bauhaus-alte-mainzer-strasse/
 shop: Baumarkt
 ---

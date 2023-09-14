@@ -1,5 +1,5 @@
 ---
 title: "Wölfling"
-url: /pirmasens/woelfling/
+url: /pirmasens/woelfling-hauptstrasse/
 shop: Haushaltsartikel
 ---

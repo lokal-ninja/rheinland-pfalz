@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /worms/penny/
+url: /worms/penny-rheinstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "REWE Getränkemarkt"
-url: /mainz/rewe-getraenkemarkt/
+url: /mainz/rewe-getraenkemarkt-an-der-krimm/
 shop: Getränke
 ---

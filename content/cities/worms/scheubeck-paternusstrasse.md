@@ -1,5 +1,5 @@
 ---
 title: "Scheubeck"
-url: /worms/scheubeck/
+url: /worms/scheubeck-paternusstrasse/
 shop: Bäckerei
 ---

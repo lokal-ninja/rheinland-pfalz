@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /mainz/backwerk/
+url: /mainz/backwerk-bahnhofplatz/
 shop: Bäckerei
 ---

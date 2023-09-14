@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /speyer/tedi/
+url: /speyer/tedi-wormser-strasse/
 shop: Kramladen
 ---

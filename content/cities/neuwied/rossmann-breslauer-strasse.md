@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /neuwied/rossmann/
+url: /neuwied/rossmann-breslauer-strasse/
 shop: Drogerie
 ---

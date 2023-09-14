@@ -1,5 +1,5 @@
 ---
 title: "Jack & Jones"
-url: /trier/jack-und-jones/
+url: /trier/jack-und-jones-kornmarkt/
 shop: Kleidung
 ---

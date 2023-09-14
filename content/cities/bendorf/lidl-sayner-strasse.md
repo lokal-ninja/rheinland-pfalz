@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /bendorf/lidl/
+url: /bendorf/lidl-sayner-strasse/
 shop: Supermarkt
 ---

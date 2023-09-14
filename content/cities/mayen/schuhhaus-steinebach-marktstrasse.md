@@ -1,5 +1,5 @@
 ---
 title: "Schuhhaus Steinebach"
-url: /mayen/schuhhaus-steinebach/
+url: /mayen/schuhhaus-steinebach-marktstrasse/
 shop: Schuhe
 ---

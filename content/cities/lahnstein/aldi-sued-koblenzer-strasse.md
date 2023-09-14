@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /lahnstein/aldi-sued/
+url: /lahnstein/aldi-sued-koblenzer-strasse/
 shop: Supermarkt
 ---

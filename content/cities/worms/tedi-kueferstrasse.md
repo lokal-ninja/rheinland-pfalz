@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /worms/tedi/
+url: /worms/tedi-kueferstrasse/
 shop: Kramladen
 ---

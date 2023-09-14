@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /neuwied/bauhaus/
+url: /neuwied/bauhaus-allensteiner-strasse/
 shop: Baumarkt
 ---

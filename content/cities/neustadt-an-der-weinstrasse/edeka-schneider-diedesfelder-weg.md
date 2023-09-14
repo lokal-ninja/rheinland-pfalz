@@ -1,5 +1,5 @@
 ---
 title: "EDEKA Schneider"
-url: /neustadt-an-der-weinstrasse/edeka-schneider/
+url: /neustadt-an-der-weinstrasse/edeka-schneider-diedesfelder-weg/
 shop: Supermarkt
 ---

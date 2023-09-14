@@ -1,5 +1,5 @@
 ---
 title: "Zuckerschote"
-url: /speyer/zuckerschote/
+url: /speyer/zuckerschote-landauer-strasse/
 shop: Gemüse & Obst
 ---

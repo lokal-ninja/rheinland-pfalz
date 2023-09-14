@@ -1,5 +1,5 @@
 ---
 title: "Barbarossa Bäckerei"
-url: /kaiserslautern/barbarossa-baeckerei/
+url: /kaiserslautern/barbarossa-baeckerei-mainzer-strasse/
 shop: Bäckerei
 ---

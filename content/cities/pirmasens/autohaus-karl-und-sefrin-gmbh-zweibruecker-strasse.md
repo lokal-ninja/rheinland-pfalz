@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Karl & Sefrin GmbH"
-url: /pirmasens/autohaus-karl-und-sefrin-gmbh/
+url: /pirmasens/autohaus-karl-und-sefrin-gmbh-zweibruecker-strasse/
 shop: Autohaus
 ---

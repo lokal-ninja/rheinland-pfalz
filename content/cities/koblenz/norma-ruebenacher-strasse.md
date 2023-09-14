@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /koblenz/norma/
+url: /koblenz/norma-ruebenacher-strasse/
 shop: Supermarkt
 ---

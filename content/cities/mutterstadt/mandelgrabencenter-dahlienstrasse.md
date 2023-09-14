@@ -1,5 +1,5 @@
 ---
 title: "Mandelgrabencenter"
-url: /mutterstadt/mandelgrabencenter/
+url: /mutterstadt/mandelgrabencenter-dahlienstrasse/
 shop: Einkaufszentrum
 ---

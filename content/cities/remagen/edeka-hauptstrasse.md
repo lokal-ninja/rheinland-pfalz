@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /remagen/edeka/
+url: /remagen/edeka-hauptstrasse/
 shop: Supermarkt
 ---

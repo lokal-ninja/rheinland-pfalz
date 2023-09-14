@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /bad-kreuznach/norma/
+url: /bad-kreuznach/norma-porschestrasse/
 shop: Supermarkt
 ---

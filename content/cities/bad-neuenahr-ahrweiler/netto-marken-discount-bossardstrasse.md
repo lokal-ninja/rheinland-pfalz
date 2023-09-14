@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /bad-neuenahr-ahrweiler/netto-marken-discount/
+url: /bad-neuenahr-ahrweiler/netto-marken-discount-bossardstrasse/
 shop: Supermarkt
 ---

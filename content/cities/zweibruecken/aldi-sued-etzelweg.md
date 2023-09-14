@@ -1,5 +1,5 @@
 ---
 title: "Aldi Süd"
-url: /zweibruecken/aldi-sued/
+url: /zweibruecken/aldi-sued-etzelweg/
 shop: Supermarkt
 ---

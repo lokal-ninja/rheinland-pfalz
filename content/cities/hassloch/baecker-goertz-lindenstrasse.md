@@ -1,5 +1,5 @@
 ---
 title: "Bäcker Görtz"
-url: /hassloch/baecker-goertz/
+url: /hassloch/baecker-goertz-lindenstrasse/
 shop: Bäckerei
 ---

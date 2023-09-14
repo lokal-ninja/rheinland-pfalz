@@ -1,5 +1,5 @@
 ---
 title: "Würth"
-url: /neuwied/wuerth/
+url: /neuwied/wuerth-allensteiner-strasse/
 shop: Eisenwaren
 ---

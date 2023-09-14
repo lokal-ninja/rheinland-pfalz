@@ -1,5 +1,5 @@
 ---
 title: "Wolsdorff"
-url: /mainz/wolsdorff/
+url: /mainz/wolsdorff-adolf-kolping-strasse/
 shop: Tabak
 ---

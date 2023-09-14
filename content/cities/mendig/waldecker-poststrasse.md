@@ -1,5 +1,5 @@
 ---
 title: "Waldecker"
-url: /mendig/waldecker/
+url: /mendig/waldecker-poststrasse/
 shop: Schreibwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /idar-oberstein/lidl/
+url: /idar-oberstein/lidl-vollmersbachstrasse/
 shop: Supermarkt
 ---

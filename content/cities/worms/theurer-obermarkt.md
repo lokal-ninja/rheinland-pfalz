@@ -1,5 +1,5 @@
 ---
 title: "Theurer"
-url: /worms/theurer/
+url: /worms/theurer-obermarkt/
 shop: Bäckerei
 ---

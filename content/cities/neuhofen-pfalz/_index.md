@@ -1,6 +1,6 @@
 ---
 title: Neuhofen Pfalz
 url: /neuhofen-pfalz/
-latitude: 49.417
-longitude: 8.425
+latitude: 49.422
+longitude: 8.43
 ---

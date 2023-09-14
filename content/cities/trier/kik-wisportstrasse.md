@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /trier/kik/
+url: /trier/kik-wisportstrasse/
 shop: Kleidung
 ---

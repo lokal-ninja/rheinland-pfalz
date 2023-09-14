@@ -1,5 +1,5 @@
 ---
 title: "Tegut"
-url: /mainz/tegut/
+url: /mainz/tegut-katzenberg/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /bad-kreuznach/lidl/
+url: /bad-kreuznach/lidl-brueckes/
 shop: Supermarkt
 ---

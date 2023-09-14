@@ -1,5 +1,5 @@
 ---
 title: "WM Fahrzeugteile"
-url: /mainz/wm-fahrzeugteile/
+url: /mainz/wm-fahrzeugteile-heiligkreuzweg/
 shop: Autoteile
 ---

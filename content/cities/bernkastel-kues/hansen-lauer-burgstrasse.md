@@ -1,5 +1,5 @@
 ---
 title: "Hansen-Lauer"
-url: /bernkastel-kues/hansen-lauer/
+url: /bernkastel-kues/hansen-lauer-burgstrasse/
 shop: Wein
 ---

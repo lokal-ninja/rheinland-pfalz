@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /worms/rossmann/
+url: /worms/rossmann-schoenauer-strasse/
 shop: Drogerie
 ---

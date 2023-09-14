@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /trier/edeka/
+url: /trier/edeka-castelnauplatz/
 shop: Supermarkt
 ---

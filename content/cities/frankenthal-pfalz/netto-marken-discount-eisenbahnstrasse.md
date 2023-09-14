@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /frankenthal-pfalz/netto-marken-discount/
+url: /frankenthal-pfalz/netto-marken-discount-eisenbahnstrasse/
 shop: Supermarkt
 ---

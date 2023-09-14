@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /koblenz/fielmann/
+url: /koblenz/fielmann-hohenfelder-strasse/
 shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /trier/aldi/
+url: /trier/aldi-martha-brach-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /germersheim/kaufland/
+url: /germersheim/kaufland-posthiusstrasse/
 shop: Supermarkt
 ---

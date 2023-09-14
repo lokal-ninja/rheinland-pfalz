@@ -1,5 +1,5 @@
 ---
 title: "Triumph"
-url: /trier/triumph/
+url: /trier/triumph-glockenstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roman Wagner"
-url: /trier/roman-wagner/
+url: /trier/roman-wagner-kohlenstrasse/
 shop: Hörgeräte
 ---

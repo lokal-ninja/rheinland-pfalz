@@ -1,5 +1,5 @@
 ---
 title: "Honda"
-url: /mainz/honda/
+url: /mainz/honda-rheinallee/
 shop: Autohaus
 ---

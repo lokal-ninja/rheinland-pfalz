@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /mudersbach/rewe/
+url: /mudersbach/rewe-industriestrasse/
 shop: Supermarkt
 ---

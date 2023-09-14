@@ -1,5 +1,5 @@
 ---
 title: "Wasgau"
-url: /saarburg/wasgau/
+url: /saarburg/wasgau-heckingstrasse/
 shop: Bäckerei
 ---

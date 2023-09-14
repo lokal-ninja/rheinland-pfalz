@@ -1,5 +1,5 @@
 ---
 title: "Friseursalon"
-url: /kelberg/friseursalon/
+url: /kelberg/friseursalon-mayener-strasse/
 shop: Friseur
 ---

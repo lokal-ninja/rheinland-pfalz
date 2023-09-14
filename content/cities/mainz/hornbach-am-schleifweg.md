@@ -1,5 +1,5 @@
 ---
 title: "HORNBACH"
-url: /mainz/hornbach/
+url: /mainz/hornbach-am-schleifweg/
 shop: Baumarkt
 ---

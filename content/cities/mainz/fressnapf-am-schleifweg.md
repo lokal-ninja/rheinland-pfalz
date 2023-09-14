@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /mainz/fressnapf/
+url: /mainz/fressnapf-am-schleifweg/
 shop: Tiere
 ---

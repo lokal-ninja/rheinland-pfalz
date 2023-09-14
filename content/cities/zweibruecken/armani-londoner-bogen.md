@@ -1,5 +1,5 @@
 ---
 title: "Armani"
-url: /zweibruecken/armani/
+url: /zweibruecken/armani-londoner-bogen/
 shop: Kleidung
 ---

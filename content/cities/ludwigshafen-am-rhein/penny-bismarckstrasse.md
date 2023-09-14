@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /ludwigshafen-am-rhein/penny/
+url: /ludwigshafen-am-rhein/penny-bismarckstrasse/
 shop: Supermarkt
 ---

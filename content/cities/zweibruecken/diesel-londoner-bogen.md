@@ -1,5 +1,5 @@
 ---
 title: "Diesel"
-url: /zweibruecken/diesel/
+url: /zweibruecken/diesel-londoner-bogen/
 shop: Kleidung
 ---

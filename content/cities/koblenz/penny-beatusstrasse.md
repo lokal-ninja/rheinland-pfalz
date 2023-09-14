@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /koblenz/penny/
+url: /koblenz/penny-beatusstrasse/
 shop: Supermarkt
 ---
