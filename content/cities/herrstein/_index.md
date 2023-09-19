@@ -1,6 +1,6 @@
 ---
 title: Herrstein
 url: /herrstein/
-latitude: 49.779
-longitude: 7.338
+latitude: 49.777
+longitude: 7.337
 ---
