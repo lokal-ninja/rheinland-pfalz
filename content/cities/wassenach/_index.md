@@ -1,6 +1,6 @@
 ---
 title: Wassenach
 url: /wassenach/
-latitude: 50.44
+latitude: 50.439
 longitude: 7.279
 ---

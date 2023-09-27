@@ -1,5 +1,5 @@
 ---
-title: "Bäckerei-Lebensmittel"
+title: "Bäckerei - Lebensmittel"
 url: /woerth-am-rhein/baeckerei-lebensmittel/
 shop: Lebensmittel
 ---

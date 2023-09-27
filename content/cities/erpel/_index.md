@@ -1,6 +1,6 @@
 ---
 title: Erpel
 url: /erpel/
-latitude: 50.584
-longitude: 7.236
+latitude: 50.581
+longitude: 7.242
 ---
