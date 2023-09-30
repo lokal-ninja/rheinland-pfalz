@@ -1,6 +1,6 @@
 ---
 title: Thaleischweiler-Fröschen
 url: /thaleischweiler-froeschen/
-latitude: 49.264
-longitude: 7.579
+latitude: 49.26
+longitude: 7.58
 ---
