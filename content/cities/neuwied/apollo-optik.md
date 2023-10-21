@@ -1,5 +1,5 @@
 ---
-title: "Apollo-Optik"
+title: "Apollo Optik"
 url: /neuwied/apollo-optik/
 shop: Optiker
 ---
