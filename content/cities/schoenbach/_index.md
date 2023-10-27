@@ -1,6 +1,6 @@
 ---
 title: Schönbach
 url: /schoenbach/
-latitude: 50.214
-longitude: 6.953
+latitude: 50.215
+longitude: 6.948
 ---

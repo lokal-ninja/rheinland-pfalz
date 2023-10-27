@@ -1,6 +1,6 @@
 ---
 title: Dommershausen
 url: /dommershausen/
-latitude: 50.144
-longitude: 7.398
+latitude: 50.148
+longitude: 7.396
 ---
