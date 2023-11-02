@@ -1,5 +1,5 @@
 ---
 title: "'s Fachl"
 url: /mainz/s-fachl/
-shop: Andenken
+shop: Dorfladen
 ---

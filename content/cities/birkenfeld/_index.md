@@ -1,6 +1,6 @@
 ---
 title: Birkenfeld
 url: /birkenfeld/
-latitude: 49.646
-longitude: 7.167
+latitude: 49.652
+longitude: 7.173
 ---

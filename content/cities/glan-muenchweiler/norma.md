@@ -1,5 +1,5 @@
 ---
-title: "Norma"
+title: "NORMA"
 url: /glan-muenchweiler/norma/
 shop: Supermarkt
 ---

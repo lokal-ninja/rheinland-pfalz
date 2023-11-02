@@ -1,5 +1,5 @@
 ---
-title: "Edeka Stiegler Frankenthal"
+title: "EDEKA Stiegler Frankenthal"
 url: /frankenthal-pfalz/edeka-stiegler-frankenthal/
-shop: Getränke
+shop: Supermarkt
 ---
