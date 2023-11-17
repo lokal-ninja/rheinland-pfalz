@@ -1,5 +1,5 @@
 ---
 title: "Depot"
 url: /wittlich/depot/
-shop: Möbel
+shop: Raumausstattung
 ---

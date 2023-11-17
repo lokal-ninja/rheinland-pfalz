@@ -1,5 +1,5 @@
 ---
 title: "Bijou Brigitte"
 url: /neustadt-an-der-weinstrasse/bijou-brigitte/
-shop: Schmuck
+shop: Modehaus
 ---

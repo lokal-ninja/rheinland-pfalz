@@ -1,5 +1,5 @@
 ---
 title: "Sorgers GmbH"
 url: /muelheim-kaerlich/sorgers-gmbh/
-shop: Leder
+shop: Taschen & Koffer
 ---

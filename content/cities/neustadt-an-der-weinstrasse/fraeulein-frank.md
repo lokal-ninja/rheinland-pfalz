@@ -1,5 +1,5 @@
 ---
-title: "Fräulein Frank"
+title: "fräulein frank"
 url: /neustadt-an-der-weinstrasse/fraeulein-frank/
-shop: Kleidung
+shop: Wolle
 ---
