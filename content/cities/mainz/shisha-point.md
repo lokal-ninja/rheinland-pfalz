@@ -1,5 +1,5 @@
 ---
 title: "Shisha Point"
 url: /mainz/shisha-point/
-shop: Wasserpfeife
+shop: Tabak
 ---
