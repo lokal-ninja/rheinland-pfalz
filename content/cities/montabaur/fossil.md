@@ -1,5 +1,5 @@
 ---
 title: "Fossil"
 url: /montabaur/fossil/
-shop: Allgemein
+shop: Uhren
 ---
