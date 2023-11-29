@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Wilhelmi"
-url: /speyer/baeckerei-wilhelmi-bahnhofstrasse/
+url: /speyer/baeckerei-wilhelmi-waldseer-strasse/
 shop: Bäckerei
 ---
