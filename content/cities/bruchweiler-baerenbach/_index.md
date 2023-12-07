@@ -1,6 +1,6 @@
 ---
 title: Bruchweiler-Bärenbach
 url: /bruchweiler-baerenbach/
-latitude: 49.113
-longitude: 7.802
+latitude: 49.114
+longitude: 7.803
 ---

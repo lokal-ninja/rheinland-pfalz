@@ -1,5 +1,5 @@
 ---
 title: "Mondlicht"
 url: /trier/mondlicht/
-shop: Süßwaren
+shop: Bäckerei
 ---
