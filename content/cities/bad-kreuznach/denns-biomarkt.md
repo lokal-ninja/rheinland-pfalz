@@ -1,5 +1,5 @@
 ---
-title: "denn's Biomarkt"
+title: "Denns BioMarkt"
 url: /bad-kreuznach/denns-biomarkt/
 shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Diez
 url: /diez/
-latitude: 50.371
-longitude: 8.007
+latitude: 50.372
+longitude: 8.009
 ---
