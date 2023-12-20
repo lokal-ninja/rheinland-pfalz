@@ -1,6 +1,6 @@
 ---
 title: Wendelsheim
 url: /wendelsheim/
-latitude: 49.767
-longitude: 8
+latitude: 49.763
+longitude: 7.984
 ---
