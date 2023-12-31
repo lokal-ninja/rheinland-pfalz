@@ -1,5 +1,5 @@
 ---
 title: "Tavoli"
 url: /mainz/tavoli/
-shop: Allgemein
+shop: Haushaltsartikel
 ---

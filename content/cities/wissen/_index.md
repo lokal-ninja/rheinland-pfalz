@@ -1,6 +1,6 @@
 ---
 title: Wissen
 url: /wissen/
-latitude: 50.775
-longitude: 7.726
+latitude: 50.781
+longitude: 7.742
 ---
