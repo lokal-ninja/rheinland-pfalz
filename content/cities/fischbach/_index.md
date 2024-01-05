@@ -1,6 +1,6 @@
 ---
 title: Fischbach
 url: /fischbach/
-latitude: 49.739
-longitude: 7.399
+latitude: 49.744
+longitude: 7.393
 ---

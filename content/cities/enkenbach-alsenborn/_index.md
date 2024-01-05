@@ -1,6 +1,6 @@
 ---
 title: Enkenbach-Alsenborn
 url: /enkenbach-alsenborn/
-latitude: 49.487
-longitude: 7.897
+latitude: 49.486
+longitude: 7.896
 ---
