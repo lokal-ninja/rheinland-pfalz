@@ -1,11 +1,11 @@
 id: 651908286
 type: node
-latitude: 50.35696
-longitude: 7.59455
+latitude: 50.35699
+longitude: 7.59437
 postcode: "56068"
 city: Koblenz
 street: "Schloßstraße"
-housenumber: 34
+housenumber: 34;34a
 phone: ""
 opening_hours: ""
 website: "https://www.blumen-risse.de/"
