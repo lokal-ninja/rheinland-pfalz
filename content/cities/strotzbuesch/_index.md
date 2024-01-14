@@ -1,6 +1,6 @@
 ---
 title: Strotzbüsch
 url: /strotzbuesch/
-latitude: 50.111
-longitude: 6.969
+latitude: 50.109
+longitude: 6.966
 ---
