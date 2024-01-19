@@ -1,5 +1,5 @@
 ---
 title: "Mini Mix"
 url: /bad-marienberg-westerwald/mini-mix/
-shop: Supermarkt
+shop: Lebensmittel
 ---
