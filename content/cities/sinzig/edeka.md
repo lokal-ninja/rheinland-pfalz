@@ -1,5 +1,5 @@
 ---
-title: "Edeka"
+title: "EDEKA"
 url: /sinzig/edeka/
 shop: Supermarkt
 ---
