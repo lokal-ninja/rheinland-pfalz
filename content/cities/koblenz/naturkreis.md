@@ -1,5 +1,5 @@
 ---
 title: "Naturkreis"
 url: /koblenz/naturkreis/
-shop: Allgemein
+shop: Supermarkt
 ---
