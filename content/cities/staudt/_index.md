@@ -1,6 +1,6 @@
 ---
 title: Staudt
 url: /staudt/
-latitude: 50.465
-longitude: 7.826
+latitude: 50.462
+longitude: 7.833
 ---
