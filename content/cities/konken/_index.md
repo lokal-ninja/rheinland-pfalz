@@ -2,5 +2,5 @@
 title: Konken
 url: /konken/
 latitude: 49.509
-longitude: 7.353
+longitude: 7.354
 ---
