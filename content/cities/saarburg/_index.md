@@ -1,6 +1,6 @@
 ---
 title: Saarburg
 url: /saarburg/
-latitude: 49.607
-longitude: 6.546
+latitude: 49.609
+longitude: 6.551
 ---
