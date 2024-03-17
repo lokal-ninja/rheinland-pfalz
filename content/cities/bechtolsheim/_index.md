@@ -1,6 +1,6 @@
 ---
 title: Bechtolsheim
 url: /bechtolsheim/
-latitude: 49.8
-longitude: 8.184
+latitude: 49.806
+longitude: 8.196
 ---
