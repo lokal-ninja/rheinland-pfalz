@@ -1,6 +1,6 @@
 ---
 title: Westerburg
 url: /westerburg/
-latitude: 50.557
-longitude: 7.98
+latitude: 50.558
+longitude: 7.982
 ---
