@@ -1,6 +1,6 @@
 ---
-title: Mainz- Gonsenheim
+title: Mainz-Gonsenheim
 url: /mainz-gonsenheim/
-latitude: 50.005
-longitude: 8.207
+latitude: 50.001
+longitude: 8.216
 ---
