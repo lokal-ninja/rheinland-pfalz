@@ -1,6 +1,6 @@
 ---
 title: Mehlingen
 url: /mehlingen/
-latitude: 49.492
-longitude: 7.856
+latitude: 49.491
+longitude: 7.858
 ---

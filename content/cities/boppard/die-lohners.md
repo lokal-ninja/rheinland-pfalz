@@ -1,5 +1,5 @@
 ---
-title: "Die Lohners"
+title: "Die Lohner's"
 url: /boppard/die-lohners/
 shop: Bäckerei
 ---
