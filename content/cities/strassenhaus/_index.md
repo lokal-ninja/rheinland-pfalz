@@ -1,6 +1,6 @@
 ---
 title: Straßenhaus
 url: /strassenhaus/
-latitude: 50.542
-longitude: 7.52
+latitude: 50.54
+longitude: 7.515
 ---
