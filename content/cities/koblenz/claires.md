@@ -1,5 +1,5 @@
 ---
-title: "claire's"
+title: "Claire's"
 url: /koblenz/claires/
 shop: Modehaus
 ---
