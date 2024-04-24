@@ -1,6 +1,6 @@
 ---
 title: Wallhalben
 url: /wallhalben/
-latitude: 49.318
+latitude: 49.319
 longitude: 7.523
 ---

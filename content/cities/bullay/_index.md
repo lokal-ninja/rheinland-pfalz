@@ -1,6 +1,6 @@
 ---
 title: Bullay
 url: /bullay/
-latitude: 50.055
-longitude: 7.132
+latitude: 50.052
+longitude: 7.136
 ---
