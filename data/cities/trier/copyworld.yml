@@ -1,11 +1,11 @@
 id: 4329432275
 type: node
-latitude: 49.76176
-longitude: 6.64714
+latitude: 49.76181
+longitude: 6.64722
 postcode: "54292"
 city: Trier
 street: "Paulinstraße"
-housenumber: 34
+housenumber: 36
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: ""
+opening_hours: "Mo-Th 10:00-17:00; Fr 10:00-16:00; Sa 09:00-13:00"
+website: "http://www.copyworld-trier.de/"

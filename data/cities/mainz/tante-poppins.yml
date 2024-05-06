@@ -1,11 +1,11 @@
 id: 7523543412
 type: node
 latitude: 49.95828
-longitude: 8.30955
+longitude: 8.30951
 postcode: "55130"
 city: Mainz
 street: "Ludwig-Marx-Straße"
 housenumber: 1
 phone: ""
-opening_hours: "Mo 10:00-13:00,15:00-18:00; Th 10:00-13:00; Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00"
+opening_hours: "Th 15:00-18:00; Fr 10:00-13:00,15:00-18:00; Sa[1] 10:00-13:00"
 website: ""
