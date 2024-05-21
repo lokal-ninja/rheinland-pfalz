@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /landstuhl/aldi-sued-torfstrasse/
+url: /landstuhl/aldi-sued-bahnstrasse/
 shop: Supermarkt
 ---

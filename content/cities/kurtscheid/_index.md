@@ -1,6 +1,6 @@
 ---
 title: Kurtscheid
 url: /kurtscheid/
-latitude: 50.535
-longitude: 7.463
+latitude: 50.536
+longitude: 7.47
 ---
