@@ -1,6 +1,6 @@
 ---
 title: Langenlonsheim
 url: /langenlonsheim/
-latitude: 49.901
-longitude: 7.899
+latitude: 49.896
+longitude: 7.9
 ---
