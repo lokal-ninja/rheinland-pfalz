@@ -1,6 +1,6 @@
 ---
 title: Kirn
 url: /kirn/
-latitude: 49.787
-longitude: 7.458
+latitude: 49.786
+longitude: 7.459
 ---

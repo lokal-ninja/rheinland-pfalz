@@ -1,6 +1,6 @@
 ---
 title: Alsdorf
 url: /alsdorf/
-latitude: 50.781
-longitude: 7.892
+latitude: 50.777
+longitude: 7.891
 ---
