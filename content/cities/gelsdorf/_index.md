@@ -1,6 +1,6 @@
 ---
 title: Gelsdorf
 url: /gelsdorf/
-latitude: 50.586
-longitude: 7.027
+latitude: 50.574
+longitude: 7.035
 ---

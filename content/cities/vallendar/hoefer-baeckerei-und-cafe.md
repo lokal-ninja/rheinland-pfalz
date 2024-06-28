@@ -1,5 +1,5 @@
 ---
-title: "Höfer Bäckerei und Cafe"
+title: "Hoefer Bäckerei und Cafe"
 url: /vallendar/hoefer-baeckerei-und-cafe/
 shop: Bäckerei
 ---

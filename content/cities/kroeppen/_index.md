@@ -1,6 +1,6 @@
 ---
 title: Kröppen
 url: /kroeppen/
-latitude: 49.149
-longitude: 7.529
+latitude: 49.151
+longitude: 7.531
 ---
