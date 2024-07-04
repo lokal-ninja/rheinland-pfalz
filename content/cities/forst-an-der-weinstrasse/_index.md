@@ -1,6 +1,6 @@
 ---
 title: Forst an der Weinstraße
 url: /forst-an-der-weinstrasse/
-latitude: 49.426
-longitude: 8.189
+latitude: 49.421
+longitude: 8.191
 ---
