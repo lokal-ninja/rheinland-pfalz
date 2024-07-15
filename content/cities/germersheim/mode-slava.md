@@ -1,5 +1,5 @@
 ---
-title: "Mode Slava"
+title: "Mode SLAVA"
 url: /germersheim/mode-slava/
 shop: Kleidung
 ---
