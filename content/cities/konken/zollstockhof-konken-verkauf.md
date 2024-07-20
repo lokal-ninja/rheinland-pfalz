@@ -1,5 +1,5 @@
 ---
 title: "ZollstockHof Konken Verkauf"
 url: /konken/zollstockhof-konken-verkauf/
-shop: Supermarkt
+shop: Hofladen
 ---
