@@ -1,5 +1,5 @@
 ---
-title: "ELEMENTS"
+title: "Elements"
 url: /altenkirchen/elements/
 shop: Badezimmer
 ---
