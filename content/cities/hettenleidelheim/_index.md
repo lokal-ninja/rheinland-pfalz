@@ -1,6 +1,6 @@
 ---
 title: Hettenleidelheim
 url: /hettenleidelheim/
-latitude: 49.538
-longitude: 8.073
+latitude: 49.535
+longitude: 8.07
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wirges
 url: /wirges/
-latitude: 50.475
-longitude: 7.792
+latitude: 50.474
+longitude: 7.791
 ---
