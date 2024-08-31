@@ -1,11 +1,11 @@
-id: 115510584
-type: way
-latitude: 49.78524
-longitude: 7.6461
-postcode: "55566"
+id: 12141489734
+type: node
+latitude: 49.78634
+longitude: 7.63937
+postcode: "55569"
 city: Bad Sobernheim
-street: "Johannisplatz"
-housenumber: 2-3
+street: "Westtangente"
+housenumber: 1
 phone: ""
-opening_hours: "Mo 08:00-20:00; Tu-Sa 08:00-20:00; Su off"
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""
