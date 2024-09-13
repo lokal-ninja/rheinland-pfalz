@@ -1,5 +1,5 @@
 ---
-title: "Wasgau Bäckerei"
+title: "WASGAU Bäckerei"
 url: /deidesheim/wasgau-baeckerei/
 shop: Bäckerei
 ---

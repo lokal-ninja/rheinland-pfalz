@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /mainz/aldi-sued-drechslerweg/
 shop: Supermarkt
 ---
