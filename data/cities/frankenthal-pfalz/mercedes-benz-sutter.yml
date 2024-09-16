@@ -1,11 +1,11 @@
 id: 305834554
-type: way
+type: node
 latitude: 49.55035
 longitude: 8.34191
 postcode: "67227"
 city: Frankenthal (Pfalz)
-street: "Industriestraße"
-housenumber: 43
+street: Industriestraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

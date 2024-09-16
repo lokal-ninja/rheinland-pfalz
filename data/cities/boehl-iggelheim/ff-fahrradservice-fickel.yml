@@ -4,8 +4,8 @@ latitude: 49.36395
 longitude: 8.3145
 postcode: "67459"
 city: Böhl-Iggelheim
-street: "Rosenstraße"
-housenumber: 13
-phone: "+49 6324 76893"
-opening_hours: "Nach Vereinbarung"
+street: Rosenstraße
+housenumber: "13"
+phone: +49 6324 76893
+opening_hours: '"Nach Vereinbarung"'
 website: ""

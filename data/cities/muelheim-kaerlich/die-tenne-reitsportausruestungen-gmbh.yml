@@ -1,11 +1,11 @@
 id: 172629582
-type: way
+type: node
 latitude: 50.39326
 longitude: 7.53974
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Hinter der Jungenstraße"
-housenumber: 11
-phone: "+49 261 927490"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-16:00; Su,PH off"
-website: "https://www.die-tenne-reitsport.de"
+street: Hinter der Jungenstraße
+housenumber: "11"
+phone: +49 261 927490
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-16:00; Su,PH off
+website: https://www.die-tenne-reitsport.de

@@ -1,11 +1,11 @@
 id: 216855512
-type: way
+type: node
 latitude: 49.57639
 longitude: 6.57337
 postcode: "54455"
 city: Serrig
-street: "Bachstraße"
-housenumber: 16
+street: Bachstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://schiffner-automobile.de/"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://schiffner-automobile.de/

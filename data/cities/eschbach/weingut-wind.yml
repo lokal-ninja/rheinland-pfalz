@@ -4,8 +4,8 @@ latitude: 49.17562
 longitude: 8.02141
 postcode: "76831"
 city: Eschbach
-street: "Weinstraße"
-housenumber: 5
-phone: "+49 6345 2343"
-opening_hours: "Mo-Sa 09:00-13:00,14:00-18:00, Su 09:00-11:00"
-website: "http://www.weingutwind.de/"
+street: Weinstraße
+housenumber: "5"
+phone: +49 6345 2343
+opening_hours: Mo-Sa 09:00-13:00,14:00-18:00, Su 09:00-11:00
+website: http://www.weingutwind.de/

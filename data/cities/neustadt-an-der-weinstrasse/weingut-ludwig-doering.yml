@@ -1,11 +1,11 @@
 id: 171541090
-type: way
+type: node
 latitude: 49.32246
 longitude: 8.12643
 postcode: ""
 city: Neustadt an der Weinstraße
-street: "Andergasse"
-housenumber: 45
-phone: "+49 6321 80244"
+street: Andergasse
+housenumber: "45"
+phone: +49 6321 80244
 opening_hours: ""
-website: "http://www.weingut-ludwig-doering.de/"
+website: http://www.weingut-ludwig-doering.de/

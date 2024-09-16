@@ -4,8 +4,8 @@ latitude: 49.40818
 longitude: 8.18582
 postcode: "67146"
 city: Deidesheim
-street: "Kirchgasse"
-housenumber: 10
-phone: "+49 6326 6006"
-opening_hours: "Mo-Fr 08:00-18:00; Sa,Su,PH 10:00-15:00"
-website: "http://www.bassermann-jordan.de/"
+street: Kirchgasse
+housenumber: "10"
+phone: +49 6326 6006
+opening_hours: Mo-Fr 08:00-18:00; Sa,Su,PH 10:00-15:00
+website: http://www.bassermann-jordan.de/

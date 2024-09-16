@@ -4,8 +4,8 @@ latitude: 50.00007
 longitude: 8.27296
 postcode: "55116"
 city: Mainz
-street: "Korbgasse"
-housenumber: 1
+street: Korbgasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00
 website: ""

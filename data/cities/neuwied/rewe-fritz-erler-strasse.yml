@@ -1,11 +1,11 @@
 id: 275495648
-type: way
+type: node
 latitude: 50.46233
 longitude: 7.47459
 postcode: "56567"
 city: Neuwied
-street: "Fritz-Erler-Straße"
-housenumber: 7
+street: Fritz-Erler-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:45; Su, PH off"
+opening_hours: Mo-Sa 07:00-21:45; Su, PH off
 website: ""

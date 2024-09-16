@@ -1,11 +1,11 @@
 id: 261185596
-type: way
+type: node
 latitude: 49.63373
 longitude: 8.35074
 postcode: "67549"
 city: Worms
-street: "Friedrich-Ebert-Straße"
-housenumber: 38
+street: Friedrich-Ebert-Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 07:30-13:30; Sa 07:00-12:30"
+opening_hours: Mo-Fr 07:30-13:30; Sa 07:00-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 755772122
-type: way
+type: node
 latitude: 49.4142
 longitude: 7.55835
 postcode: "66849"
 city: Landstuhl
-street: "Saarbrücker Straße"
-housenumber: 51
+street: Saarbrücker Straße
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

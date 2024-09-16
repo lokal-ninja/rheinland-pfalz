@@ -1,11 +1,11 @@
 id: 132758109
-type: way
+type: node
 latitude: 49.66642
 longitude: 8.01571
 postcode: "67292"
 city: Kirchheimbolanden
-street: "Hitzfeldstraße"
-housenumber: 1
-phone: "+49 6352 401230"
-opening_hours: "Mo-Sa 08:00-21:00"
+street: Hitzfeldstraße
+housenumber: "1"
+phone: +49 6352 401230
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 638476894
-type: way
+type: node
 latitude: 50.35696
 longitude: 7.27665
 postcode: "56743"
 city: Thür
-street: "Breitsteinstraße"
-housenumber: 5
-phone: "+49 2652 2296"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-14:00"
-website: "https://www.haarzeit-thuer.de/salon"
+street: Breitsteinstraße
+housenumber: "5"
+phone: +49 2652 2296
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:00-14:00
+website: https://www.haarzeit-thuer.de/salon

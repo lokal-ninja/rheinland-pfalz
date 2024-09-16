@@ -1,11 +1,11 @@
 id: 68237649
-type: way
+type: node
 latitude: 50.42587
 longitude: 7.5694
 postcode: "56170"
 city: Bendorf
-street: "Adolph-Kolping-Straße"
-housenumber: 3
-phone: "+49 2622 9068113"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.futterhaus.de/bendorf/"
+street: Adolph-Kolping-Straße
+housenumber: "3"
+phone: +49 2622 9068113
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.futterhaus.de/bendorf/

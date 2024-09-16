@@ -1,11 +1,11 @@
 id: 145895624
-type: way
+type: node
 latitude: 50.23151
 longitude: 7.6124
 postcode: "56341"
 city: Kamp-Bornhofen
-street: "Rheinuferstraße"
+street: Rheinuferstraße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.lidl.de/f/kamp-bornhofen"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.lidl.de/f/kamp-bornhofen

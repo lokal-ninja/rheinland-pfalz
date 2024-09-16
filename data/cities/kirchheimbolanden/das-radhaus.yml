@@ -1,11 +1,11 @@
 id: 319609050
-type: way
+type: node
 latitude: 49.66899
 longitude: 8.01218
 postcode: "67292"
 city: Kirchheimbolanden
-street: "Neumayerstraße"
-housenumber: 35
+street: Neumayerstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30,13:30-18:00; Sa 09:00-13:00"
-website: "https://www.das-rad-haus.de/"
+opening_hours: Mo-Fr 09:30-12:30,13:30-18:00; Sa 09:00-13:00
+website: https://www.das-rad-haus.de/

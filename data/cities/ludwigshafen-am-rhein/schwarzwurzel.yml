@@ -4,8 +4,8 @@ latitude: 49.48614
 longitude: 8.44047
 postcode: "67063"
 city: Ludwigshafen am Rhein
-street: "Jakob-Binder-Straße"
-housenumber: 10
-phone: "+49 621 524576"
-opening_hours: "Mo-Fr 10:30-18:30; Sa 08:30-14:00"
+street: Jakob-Binder-Straße
+housenumber: "10"
+phone: +49 621 524576
+opening_hours: Mo-Fr 10:30-18:30; Sa 08:30-14:00
 website: ""

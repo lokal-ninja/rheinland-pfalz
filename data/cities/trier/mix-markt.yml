@@ -1,11 +1,11 @@
 id: 134655045
-type: way
+type: node
 latitude: 49.75173
 longitude: 6.68472
 postcode: "54296"
 city: Trier
-street: "Am Weidengraben"
-housenumber: 9
+street: Am Weidengraben
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off
 website: ""

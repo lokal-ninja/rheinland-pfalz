@@ -1,11 +1,11 @@
 id: 783693383
-type: way
+type: node
 latitude: 49.62983
 longitude: 8.20024
 postcode: "67590"
 city: Monsheim
-street: "Robert-Bosch-Straße"
-housenumber: 7
+street: Robert-Bosch-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

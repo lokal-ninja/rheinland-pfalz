@@ -1,11 +1,11 @@
 id: 225454384
-type: way
+type: node
 latitude: 49.96023
 longitude: 7.33145
 postcode: "55481"
 city: Schwarzen
-street: "Hauptstraße"
-housenumber: 11
-phone: "+49 6763 2877"
-opening_hours: "Mo-Fr 09:00-12:00; Mo,We-Fr 14:30-18:00; Sa 09:00-13:00"
+street: Hauptstraße
+housenumber: "11"
+phone: +49 6763 2877
+opening_hours: Mo-Fr 09:00-12:00; Mo,We-Fr 14:30-18:00; Sa 09:00-13:00
 website: ""

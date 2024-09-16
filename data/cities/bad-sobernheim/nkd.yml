@@ -1,11 +1,11 @@
 id: 125981892
-type: way
+type: node
 latitude: 49.78333
 longitude: 7.65393
 postcode: "55566"
 city: Bad Sobernheim
-street: "Poststraße"
-housenumber: 17
+street: Poststraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.nkd.com"
+website: https://www.nkd.com

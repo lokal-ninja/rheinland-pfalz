@@ -1,11 +1,11 @@
 id: 1243819556
-type: way
+type: node
 latitude: 50.15307
 longitude: 6.47282
 postcode: "54614"
 city: Schönecken
-street: "Industriestraße"
-housenumber: 2
+street: Industriestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-12:00
 website: ""

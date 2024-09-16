@@ -1,11 +1,11 @@
 id: 910034095
-type: way
+type: node
 latitude: 50.001
 longitude: 8.2593
 postcode: "55116"
 city: Mainz
-street: "Bahnhofplatz"
-housenumber: 
+street: Bahnhofplatz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00, Sa 08:00-20:00"
-website: "http://www.as-textilpflege.de.rs/"
+opening_hours: Mo-Fr 07:00-20:00, Sa 08:00-20:00
+website: http://www.as-textilpflege.de.rs/

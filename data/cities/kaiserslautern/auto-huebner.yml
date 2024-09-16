@@ -1,11 +1,11 @@
 id: 98776978
-type: way
+type: node
 latitude: 49.45453
 longitude: 7.79205
 postcode: "67657"
 city: Kaiserslautern
-street: "Mainzer Straße"
-housenumber: 101
+street: Mainzer Straße
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

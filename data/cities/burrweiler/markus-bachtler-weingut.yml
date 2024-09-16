@@ -1,11 +1,11 @@
 id: 120684864
-type: way
+type: node
 latitude: 49.25165
 longitude: 8.0731
 postcode: ""
 city: Burrweiler
-street: "Hahnhof"
-housenumber: 1
+street: Hahnhof
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

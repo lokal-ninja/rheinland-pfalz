@@ -1,11 +1,11 @@
 id: 142303236
-type: way
+type: node
 latitude: 49.61123
 longitude: 8.32091
 postcode: "67551"
 city: Worms
-street: "Untere Hauptstraße"
-housenumber: 73
+street: Untere Hauptstraße
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

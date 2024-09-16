@@ -1,11 +1,11 @@
 id: 231331695
-type: way
+type: node
 latitude: 49.7044
 longitude: 8.32061
 postcode: "67574"
 city: Osthofen
-street: "Tempelgasse"
-housenumber: 9
-phone: "+49 6242 915246"
+street: Tempelgasse
+housenumber: "9"
+phone: +49 6242 915246
 opening_hours: ""
-website: "https://www.ahlwein.de/"
+website: https://www.ahlwein.de/

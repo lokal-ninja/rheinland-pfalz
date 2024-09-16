@@ -1,11 +1,11 @@
 id: 397401854
-type: way
+type: node
 latitude: 49.45631
 longitude: 8.17765
 postcode: "67098"
 city: Bad Dürkheim
-street: "Friedelsheimer Straße"
-housenumber: 35
-phone: "+49 6322 979970"
+street: Friedelsheimer Straße
+housenumber: "35"
+phone: +49 6322 979970
 opening_hours: ""
-website: "https://www.ah-mertel.de/"
+website: https://www.ah-mertel.de/

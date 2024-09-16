@@ -4,8 +4,8 @@ latitude: 50.41509
 longitude: 7.52845
 postcode: "56220"
 city: Urmitz
-street: "Brückenstraße"
-housenumber: 13
-phone: "+49 2630 965696"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.kastenbus.de/"
+street: Brückenstraße
+housenumber: "13"
+phone: +49 2630 965696
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.kastenbus.de/

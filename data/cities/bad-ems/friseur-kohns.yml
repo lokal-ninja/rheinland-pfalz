@@ -4,8 +4,8 @@ latitude: 50.32944
 longitude: 7.73058
 postcode: "56130"
 city: Bad Ems
-street: "Lahnstraße"
-housenumber: 10
-phone: "+49 2603 3012"
-opening_hours: "Tu-Fr 08:30-18:30; Sa 07:30-13:00; Su-Mo off"
-website: "http://www.friseur-kohns.de/"
+street: Lahnstraße
+housenumber: "10"
+phone: +49 2603 3012
+opening_hours: Tu-Fr 08:30-18:30; Sa 07:30-13:00; Su-Mo off
+website: http://www.friseur-kohns.de/

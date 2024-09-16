@@ -1,11 +1,11 @@
 id: 126115760
-type: way
+type: node
 latitude: 49.1061
 longitude: 7.8024
 postcode: "76891"
 city: Bundenthal
-street: "Industriestraße"
-housenumber: 5
+street: Industriestraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:30; Fr 08:00-12:00,13:00-15:30"
+opening_hours: Mo-Th 08:00-12:00,13:00-17:30; Fr 08:00-12:00,13:00-15:30
 website: ""

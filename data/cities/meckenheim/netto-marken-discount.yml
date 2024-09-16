@@ -1,11 +1,11 @@
 id: 193593521
-type: way
+type: node
 latitude: 49.40825
 longitude: 8.24624
 postcode: "67149"
 city: Meckenheim
-street: "Hauptstraße"
-housenumber: 140
+street: Hauptstraße
+housenumber: "140"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.netto-online.de

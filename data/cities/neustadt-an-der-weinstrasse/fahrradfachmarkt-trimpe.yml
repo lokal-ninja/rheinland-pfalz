@@ -4,8 +4,8 @@ latitude: 49.34273
 longitude: 8.16166
 postcode: "67433"
 city: Neustadt an der Weinstraße
-street: "Adolf-Kolping-Straße"
-housenumber: 126
-phone: "+49 6321 952790"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-17:00; Su,PH off"
-website: "https://www.fahrrad-trimpe.de/"
+street: Adolf-Kolping-Straße
+housenumber: "126"
+phone: +49 6321 952790
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-17:00; Su,PH off
+website: https://www.fahrrad-trimpe.de/

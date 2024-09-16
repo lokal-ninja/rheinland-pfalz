@@ -1,11 +1,11 @@
 id: 868798016
-type: way
+type: node
 latitude: 50.0011
 longitude: 8.26848
 postcode: "55116"
 city: Mainz
-street: "Adolf-Kolping-Straße"
-housenumber: 
+street: Adolf-Kolping-Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
 website: ""

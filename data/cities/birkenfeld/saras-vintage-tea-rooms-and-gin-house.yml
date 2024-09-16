@@ -4,8 +4,9 @@ latitude: 49.64736
 longitude: 7.16822
 postcode: "55765"
 city: Birkenfeld
-street: "Hauptstraße"
-housenumber: 9
+street: Hauptstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo, Tu, Th 09:00-16:00; Fr, Sa 09:00-12:00, 19:00-00:00; Su 09:00-12:00; we off"
+opening_hours: Mo, Tu, Th 09:00-16:00; Fr, Sa 09:00-12:00, 19:00-00:00; Su 09:00-12:00;
+    we off
 website: ""

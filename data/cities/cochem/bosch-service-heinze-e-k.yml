@@ -1,11 +1,11 @@
 id: 111250419
-type: way
+type: node
 latitude: 50.12894
 longitude: 7.14668
 postcode: "56812"
 city: Cochem
-street: "Industriering"
-housenumber: 12
-phone: "+49 2671-7526"
+street: Industriering
+housenumber: "12"
+phone: +49 2671-7526
 opening_hours: ""
-website: "https://www.boschheinze.de/"
+website: https://www.boschheinze.de/

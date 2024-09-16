@@ -1,11 +1,11 @@
 id: 308842537
-type: way
+type: node
 latitude: 49.42507
 longitude: 8.41133
 postcode: "67141"
 city: Neuhofen
-street: "Benzstraße"
-housenumber: 14
-phone: "+49 6236 41940"
-opening_hours: "Mo-Fr 14:00-18:00,Sa 10:00-14:00"
-website: "https://www.e-k-m.de/lagerverkauf.html"
+street: Benzstraße
+housenumber: "14"
+phone: +49 6236 41940
+opening_hours: Mo-Fr 14:00-18:00,Sa 10:00-14:00
+website: https://www.e-k-m.de/lagerverkauf.html

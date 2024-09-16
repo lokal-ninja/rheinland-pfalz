@@ -1,11 +1,11 @@
 id: 111536983
-type: way
+type: node
 latitude: 50.12118
 longitude: 7.00413
 postcode: "56826"
 city: Lutzerath
-street: "Zum Kehr"
-housenumber: 11
-phone: "+49 2677 1585"
+street: Zum Kehr
+housenumber: "11"
+phone: +49 2677 1585
 opening_hours: ""
-website: "https://www.autoservice-ewen.de/"
+website: https://www.autoservice-ewen.de/

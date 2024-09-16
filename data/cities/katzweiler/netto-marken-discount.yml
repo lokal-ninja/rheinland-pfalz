@@ -1,11 +1,11 @@
 id: 161162927
-type: way
+type: node
 latitude: 49.49889
 longitude: 7.70503
 postcode: "67734"
 city: Katzweiler
-street: "Hartwiesen"
-housenumber: 1
+street: Hartwiesen
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

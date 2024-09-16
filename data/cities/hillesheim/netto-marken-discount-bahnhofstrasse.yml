@@ -1,11 +1,11 @@
 id: 641555563
-type: way
+type: node
 latitude: 49.77279
 longitude: 8.25511
 postcode: "67586"
 city: Hillesheim
-street: "Bahnhofstraße"
-housenumber: 60
+street: Bahnhofstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

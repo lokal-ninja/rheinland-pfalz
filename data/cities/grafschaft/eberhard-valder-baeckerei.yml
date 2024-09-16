@@ -1,11 +1,11 @@
 id: 666483052
-type: way
+type: node
 latitude: 50.5645
 longitude: 7.11313
 postcode: "53501"
 city: Grafschaft
-street: "Bengener Straße"
-housenumber: 9
+street: Bengener Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 50.51872
 longitude: 7.02064
 postcode: "53508"
 city: Mayschoß
-street: "Ahr-Rotweinstraße"
-housenumber: 42
-phone: "+49 2643 9360-0"
-opening_hours: "Nov-Apr: Mo-Fr 09:00-18:00; Sa,Su,PH 10:00-18:00; May-Oct: Mo-Fr 09:00-18:30; Sa,Su,PH 10:00-18:30"
-website: "https://www.wg-mayschoss.de/"
+street: Ahr-Rotweinstraße
+housenumber: "42"
+phone: +49 2643 9360-0
+opening_hours: 'Nov-Apr: Mo-Fr 09:00-18:00; Sa,Su,PH 10:00-18:00; May-Oct: Mo-Fr 09:00-18:30;
+    Sa,Su,PH 10:00-18:30'
+website: https://www.wg-mayschoss.de/

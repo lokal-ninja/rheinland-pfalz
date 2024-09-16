@@ -1,11 +1,11 @@
 id: 288495239
-type: way
+type: node
 latitude: 49.16195
 longitude: 7.81481
 postcode: "66996"
 city: Erfweiler
-street: "Winterbergstraße"
-housenumber: 85
+street: Winterbergstraße
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 35970811
-type: way
+type: node
 latitude: 50.4381
 longitude: 7.48832
 postcode: "56566"
 city: Neuwied
-street: "Breslauer Straße"
-housenumber: 61
+street: Breslauer Straße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

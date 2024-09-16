@@ -1,11 +1,11 @@
 id: 80679683
-type: way
+type: node
 latitude: 49.18736
 longitude: 8.0963
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Wollmesheimer Straße"
-housenumber: 45
+street: Wollmesheimer Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa 08:00-14:00"
+opening_hours: Mo-Fr 09:00-18:30, Sa 08:00-14:00
 website: ""

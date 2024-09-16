@@ -1,11 +1,11 @@
 id: 352485716
-type: way
+type: node
 latitude: 49.93506
 longitude: 8.03201
 postcode: "55437"
 city: Appenheim
-street: "Vorm Westerberg"
-housenumber: 13
+street: Vorm Westerberg
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

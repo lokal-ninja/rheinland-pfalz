@@ -1,11 +1,11 @@
 id: 244745490
-type: way
+type: node
 latitude: 50.28092
 longitude: 7.83213
 postcode: "56379"
 city: Singhofen
-street: "H.-W.-Schmitz-Straße"
-housenumber: 3
+street: H.-W.-Schmitz-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

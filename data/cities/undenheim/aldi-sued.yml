@@ -1,11 +1,11 @@
 id: 196270292
-type: way
+type: node
 latitude: 49.84148
 longitude: 8.24014
 postcode: "55278"
 city: Undenheim
-street: "Staatsrat-Schwamb-Straße"
-housenumber: 135
+street: Staatsrat-Schwamb-Straße
+housenumber: "135"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/undenheim/staatsrat-schwamb-strasse-135"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/undenheim/staatsrat-schwamb-strasse-135

@@ -1,11 +1,11 @@
 id: 193864495
-type: way
+type: node
 latitude: 49.78346
 longitude: 7.65194
 postcode: "55566"
 city: Bad Sobernheim
-street: "Igelsbachstraße"
-housenumber: 9
-phone: "+49 6751 2359"
+street: Igelsbachstraße
+housenumber: "9"
+phone: +49 6751 2359
 opening_hours: ""
-website: "https://www.foto-studio-theis.de/"
+website: https://www.foto-studio-theis.de/

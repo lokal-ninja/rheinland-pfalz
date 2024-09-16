@@ -4,8 +4,8 @@ latitude: 49.66215
 longitude: 6.95015
 postcode: "54411"
 city: Hermeskeil
-street: "Raiffeisenstraße"
-housenumber: 5
+street: Raiffeisenstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://hansspies.de/"
+opening_hours: Mo-Fr 08:00-18:00
+website: https://hansspies.de/

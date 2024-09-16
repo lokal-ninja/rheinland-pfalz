@@ -1,11 +1,11 @@
 id: 108383779
-type: way
+type: node
 latitude: 49.45833
 longitude: 7.80049
 postcode: "67657"
 city: Kaiserslautern
-street: "Flickerstal"
-housenumber: 11
+street: Flickerstal
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

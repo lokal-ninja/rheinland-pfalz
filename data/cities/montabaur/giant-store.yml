@@ -1,11 +1,11 @@
 id: 85155857
-type: way
+type: node
 latitude: 50.43525
 longitude: 7.80489
 postcode: "56410"
 city: Montabaur
-street: "Horresser Berg"
-housenumber: 6
+street: Horresser Berg
+housenumber: "6"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 09:00-18:00; Sa 09:00-13:30; Su off"
-website: "https://www.giant-montabaur.de/de/contact/"
+opening_hours: Mo off; Tu-Fr 09:00-18:00; Sa 09:00-13:30; Su off
+website: https://www.giant-montabaur.de/de/contact/

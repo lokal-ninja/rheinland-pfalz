@@ -4,8 +4,8 @@ latitude: 49.7889
 longitude: 7.3057
 postcode: "55758"
 city: Mörschied
-street: "Hauptstraße"
-housenumber: 40
-phone: "+49 6785 943799"
-opening_hours: "Mo,We,Sa 06:00-12:30; Tu,Th,Fr 06:00-12:30,15:00-18:00; PH,Su off"
+street: Hauptstraße
+housenumber: "40"
+phone: +49 6785 943799
+opening_hours: Mo,We,Sa 06:00-12:30; Tu,Th,Fr 06:00-12:30,15:00-18:00; PH,Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.95299
 longitude: 7.90848
 postcode: "55411"
 city: Bingen am Rhein
-street: "Berlinstraße"
-housenumber: 19
+street: Berlinstraße
+housenumber: "19"
 phone: "+4967214002662"
 opening_hours: ""
-website: "https://bike-service-bingen.de/"
+website: https://bike-service-bingen.de/

@@ -1,11 +1,11 @@
 id: 262015418
-type: way
+type: node
 latitude: 49.63134
 longitude: 8.35133
 postcode: "67549"
 city: Worms
-street: "Alzeyer Straße"
-housenumber: 30
+street: Alzeyer Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

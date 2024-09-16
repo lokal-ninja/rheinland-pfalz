@@ -1,11 +1,11 @@
 id: 445036063
-type: way
+type: node
 latitude: 50.42887
 longitude: 7.11817
 postcode: "56746"
 city: Kempenich
-street: "Ludwig-Erhard-Straße"
-housenumber: 2
+street: Ludwig-Erhard-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

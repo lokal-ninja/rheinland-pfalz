@@ -1,11 +1,11 @@
 id: 1191287802
-type: way
+type: node
 latitude: 49.84063
 longitude: 8.14017
 postcode: "55286"
 city: Wörrstadt
-street: "Sophie-Opel-Straße"
-housenumber: 7
-phone: "+49 06732-2719000"
+street: Sophie-Opel-Straße
+housenumber: "7"
+phone: +49 06732-2719000
 opening_hours: ""
-website: "https://bikeplanet.de"
+website: https://bikeplanet.de

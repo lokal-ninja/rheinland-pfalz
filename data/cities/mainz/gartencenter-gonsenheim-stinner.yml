@@ -1,11 +1,11 @@
 id: 53790863
-type: way
+type: node
 latitude: 49.99674
 longitude: 8.20709
 postcode: "55124"
 city: Mainz
-street: "Zwanzig-Morgen-Weg"
-housenumber: 1
-phone: "+49 6131 41432"
+street: Zwanzig-Morgen-Weg
+housenumber: "1"
+phone: +49 6131 41432
 opening_hours: ""
-website: "https://gonsenheimer-pflanzencenter.de/"
+website: https://gonsenheimer-pflanzencenter.de/

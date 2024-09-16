@@ -1,11 +1,11 @@
 id: 260029936
-type: way
+type: node
 latitude: 50.13852
 longitude: 7.18227
 postcode: "56812"
 city: Cochem
-street: "Sehler Anlagen"
-housenumber: 31
-phone: "+49 2671 98790"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "http://www.getraenke-zappei.de/"
+street: Sehler Anlagen
+housenumber: "31"
+phone: +49 2671 98790
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: http://www.getraenke-zappei.de/

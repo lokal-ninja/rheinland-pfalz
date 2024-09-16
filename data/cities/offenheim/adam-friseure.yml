@@ -4,8 +4,8 @@ latitude: 49.72655
 longitude: 8.03341
 postcode: "55234"
 city: Offenheim
-street: "Obergasse"
-housenumber: 5
+street: Obergasse
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "http://friseuradam.de/"
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-13:00
+website: http://friseuradam.de/

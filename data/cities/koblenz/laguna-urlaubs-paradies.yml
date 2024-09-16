@@ -1,11 +1,11 @@
 id: 410357246
-type: way
+type: node
 latitude: 50.36526
 longitude: 7.55273
 postcode: "56072"
 city: Koblenz
-street: "Trierer Straße"
-housenumber: 293
+street: Trierer Straße
+housenumber: "293"
 phone: ""
 opening_hours: ""
 website: ""

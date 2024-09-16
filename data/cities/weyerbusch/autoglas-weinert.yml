@@ -1,11 +1,11 @@
 id: 500779258
-type: way
+type: node
 latitude: 50.71422
 longitude: 7.5558
 postcode: "57635"
 city: Weyerbusch
-street: "Frankfurter Straße"
-housenumber: 5
-phone: "+49 2686 989980"
+street: Frankfurter Straße
+housenumber: "5"
+phone: +49 2686 989980
 opening_hours: ""
 website: ""

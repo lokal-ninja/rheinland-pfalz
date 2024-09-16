@@ -1,11 +1,11 @@
 id: 620049320
-type: way
+type: node
 latitude: 50.05444
 longitude: 7.76995
 postcode: "55422"
 city: Bacharach
-street: "Mainzer Straße"
+street: Mainzer Straße
 housenumber: 19d
 phone: "+4967431430"
-opening_hours: "Nach Vereinbarung"
+opening_hours: '"Nach Vereinbarung"'
 website: ""

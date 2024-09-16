@@ -4,8 +4,8 @@ latitude: 50.36089
 longitude: 7.59462
 postcode: "56068"
 city: Koblenz
-street: "Marktstraße"
-housenumber: 12
+street: Marktstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 11:00-17:00; Sa 11:00-16:00; Su,PH off"
+opening_hours: Mo-Fr 11:00-17:00; Sa 11:00-16:00; Su,PH off
 website: ""

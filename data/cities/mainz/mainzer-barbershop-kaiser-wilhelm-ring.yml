@@ -4,8 +4,8 @@ latitude: 50.00745
 longitude: 8.25405
 postcode: "55118"
 city: Mainz
-street: "Kaiser-Wilhelm-Ring"
-housenumber: 72
-phone: "+49 6131 2491199"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://mainzerbarbershop.de/"
+street: Kaiser-Wilhelm-Ring
+housenumber: "72"
+phone: +49 6131 2491199
+opening_hours: Mo-Sa 09:00-19:00
+website: https://mainzerbarbershop.de/

@@ -1,11 +1,11 @@
 id: 276005889
-type: way
+type: node
 latitude: 50.37766
 longitude: 7.56289
 postcode: "56070"
 city: Koblenz
-street: "Ferdinand-Nebel-Straße"
-housenumber: 8
+street: Ferdinand-Nebel-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 58487413
-type: way
+type: node
 latitude: 49.92868
 longitude: 8.31659
 postcode: "55294"
 city: Bodenheim
-street: "Hilgestraße"
-housenumber: 22
+street: Hilgestraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/bodenheim/240292/rewe-markt-hilgestrasse-22/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/bodenheim/240292/rewe-markt-hilgestrasse-22/

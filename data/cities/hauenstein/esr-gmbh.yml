@@ -1,11 +1,11 @@
 id: 353605194
-type: way
+type: node
 latitude: 49.19404
 longitude: 7.84793
 postcode: "76846"
 city: Hauenstein
-street: "Bruchweg"
-housenumber: 4
+street: Bruchweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

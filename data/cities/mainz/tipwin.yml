@@ -4,8 +4,8 @@ latitude: 50.01331
 longitude: 8.24892
 postcode: "55118"
 city: Mainz
-street: "Kaiser-Karl-Ring"
-housenumber: 11
+street: Kaiser-Karl-Ring
+housenumber: "11"
 phone: ""
-opening_hours: "PH,Mo-Su 11:00-23:00"
+opening_hours: PH,Mo-Su 11:00-23:00
 website: ""

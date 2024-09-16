@@ -1,11 +1,11 @@
 id: 133890994
-type: way
+type: node
 latitude: 50.43196
 longitude: 7.83377
 postcode: "56410"
 city: Montabaur
-street: "Peterstorstraße"
-housenumber: 27
-phone: "+49 2602 4010"
+street: Peterstorstraße
+housenumber: "27"
+phone: +49 2602 4010
 opening_hours: ""
-website: "http://www.feilen-service.de"
+website: http://www.feilen-service.de

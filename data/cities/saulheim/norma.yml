@@ -1,11 +1,11 @@
 id: 154492719
-type: way
+type: node
 latitude: 49.87685
 longitude: 8.16671
 postcode: "55291"
 city: Saulheim
-street: "Marie-Curie-Ring"
-housenumber: 11
+street: Marie-Curie-Ring
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

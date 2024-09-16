@@ -4,8 +4,8 @@ latitude: 50.00396
 longitude: 8.26585
 postcode: "55116"
 city: Mainz
-street: "Schießgartenstraße"
-housenumber: 7
-phone: "+49 6131 225833"
-opening_hours: "Mo-Sa 06:00-22:00; Su 11:00-22:00"
+street: Schießgartenstraße
+housenumber: "7"
+phone: +49 6131 225833
+opening_hours: Mo-Sa 06:00-22:00; Su 11:00-22:00
 website: ""

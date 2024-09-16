@@ -1,11 +1,11 @@
 id: 36815724
-type: way
+type: node
 latitude: 49.62457
 longitude: 8.35906
 postcode: "67547"
 city: Worms
-street: "Scheidtstraße"
-housenumber: 29
-phone: "+49 6241 324520"
-opening_hours: "08:00-20:00; Su,PH off"
-website: "https://www.obi.de/baumarkt/worms/?wt_mc=GP.de575_Worms..."
+street: Scheidtstraße
+housenumber: "29"
+phone: +49 6241 324520
+opening_hours: 08:00-20:00; Su,PH off
+website: https://www.obi.de/baumarkt/worms/?wt_mc=GP.de575_Worms...

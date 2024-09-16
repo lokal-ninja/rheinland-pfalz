@@ -4,8 +4,8 @@ latitude: 49.41005
 longitude: 7.37624
 postcode: "66901"
 city: Schönenberg-Kübelberg
-street: "Glanstraße"
-housenumber: 39
-phone: "+49 6373 82 90 3 99"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-13:00; Su 09:00-21:00"
-website: "http://www.sunnails.de/"
+street: Glanstraße
+housenumber: "39"
+phone: +49 6373 82 90 3 99
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-13:00; Su 09:00-21:00
+website: http://www.sunnails.de/

@@ -1,11 +1,11 @@
 id: 472704752
-type: way
+type: node
 latitude: 50.02742
 longitude: 8.2226
 postcode: "55120"
 city: Mainz
-street: "Am Mombacher Kreisel"
-housenumber: 3
+street: Am Mombacher Kreisel
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.autocenter-mainz.de/"
+website: https://www.autocenter-mainz.de/

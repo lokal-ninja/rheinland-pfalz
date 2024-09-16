@@ -1,11 +1,11 @@
 id: 413831672
-type: way
+type: node
 latitude: 50.62929
 longitude: 7.20764
 postcode: "53424"
 city: Remagen
-street: "Bonner Straße"
-housenumber: 51
-phone: "+49 2228 913690"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.kia-gj-remagen-rolandseck.de/"
+street: Bonner Straße
+housenumber: "51"
+phone: +49 2228 913690
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.kia-gj-remagen-rolandseck.de/

@@ -1,11 +1,11 @@
 id: 47275652
-type: way
+type: node
 latitude: 49.69984
 longitude: 8.33435
 postcode: "67574"
 city: Osthofen
-street: "Wonnegaustraße"
-housenumber: 5
+street: Wonnegaustraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

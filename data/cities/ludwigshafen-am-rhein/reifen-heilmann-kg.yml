@@ -1,11 +1,11 @@
 id: 170224855
-type: way
+type: node
 latitude: 49.46163
 longitude: 8.41904
 postcode: "67065"
 city: Ludwigshafen am Rhein
-street: "Maudacher Straße"
-housenumber: 79
+street: Maudacher Straße
+housenumber: "79"
 phone: ""
 opening_hours: ""
-website: "https://www.reifen-heilmann.de/"
+website: https://www.reifen-heilmann.de/

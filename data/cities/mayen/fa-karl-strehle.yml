@@ -4,8 +4,8 @@ latitude: 50.32909
 longitude: 7.22351
 postcode: "56727"
 city: Mayen
-street: "Entenpfuhl"
-housenumber: 5
-phone: "+49 2651 76247"
-opening_hours: "Mo-Fr 09:00-12:15,13:30-18:00; Sa 09:00-12:30"
-website: "https://strehlemayen.jimdo.com/"
+street: Entenpfuhl
+housenumber: "5"
+phone: +49 2651 76247
+opening_hours: Mo-Fr 09:00-12:15,13:30-18:00; Sa 09:00-12:30
+website: https://strehlemayen.jimdo.com/

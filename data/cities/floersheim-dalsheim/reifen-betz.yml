@@ -1,11 +1,11 @@
 id: 172811131
-type: way
+type: node
 latitude: 49.652
 longitude: 8.21808
 postcode: "67592"
 city: Flörsheim-Dalsheim
-street: "Willy-Brandt-Ring"
-housenumber: 5
+street: Willy-Brandt-Ring
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://reifen-betz.de/"
+website: https://reifen-betz.de/

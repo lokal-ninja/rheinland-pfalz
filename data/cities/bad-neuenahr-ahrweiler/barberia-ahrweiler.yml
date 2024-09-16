@@ -4,8 +4,8 @@ latitude: 50.53922
 longitude: 7.08692
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Am Silberberg"
-housenumber: 2
-phone: "+49 2641 9129759"
-opening_hours: "Mo,Su off; Tu-Fr 09:00-18:00; Sa 09:00-15:00; Su,PH off"
-website: "https://barberia-ahrweiler.de"
+street: Am Silberberg
+housenumber: "2"
+phone: +49 2641 9129759
+opening_hours: Mo,Su off; Tu-Fr 09:00-18:00; Sa 09:00-15:00; Su,PH off
+website: https://barberia-ahrweiler.de

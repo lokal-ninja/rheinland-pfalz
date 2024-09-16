@@ -1,11 +1,11 @@
 id: 670464741
-type: way
+type: node
 latitude: 50.15917
 longitude: 7.17874
 postcode: "56812"
 city: Cochem
-street: "Markweg"
+street: Markweg
 housenumber: 1A
-phone: "+49 2671 2290050"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/"
+phone: +49 2671 2290050
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/

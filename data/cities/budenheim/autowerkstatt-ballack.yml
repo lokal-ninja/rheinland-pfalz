@@ -4,8 +4,8 @@ latitude: 50.02865
 longitude: 8.18286
 postcode: "55257"
 city: Budenheim
-street: "Kirchstraße"
-housenumber: 75
-phone: "+49 6139 5560"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://autowerkstatt-budenheim.de"
+street: Kirchstraße
+housenumber: "75"
+phone: +49 6139 5560
+opening_hours: Mo-Fr 08:00-18:00
+website: https://autowerkstatt-budenheim.de

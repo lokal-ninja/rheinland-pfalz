@@ -1,11 +1,11 @@
 id: 34185840
-type: way
+type: node
 latitude: 49.4843
 longitude: 7.73078
 postcode: "67731"
 city: Otterbach
-street: "Im Brühl"
-housenumber: 7
+street: Im Brühl
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

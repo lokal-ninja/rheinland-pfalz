@@ -1,11 +1,11 @@
 id: 150255624
-type: way
+type: node
 latitude: 49.88727
 longitude: 7.77905
 postcode: "55595"
 city: Wallhausen
-street: "Gewerbegebiet"
-housenumber: 
+street: Gewerbegebiet
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.auto-gaens.de"
+website: https://www.auto-gaens.de

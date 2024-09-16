@@ -1,11 +1,11 @@
 id: 353667767
-type: way
+type: node
 latitude: 49.19117
 longitude: 7.85487
 postcode: "76846"
 city: Hauenstein
-street: "Schulstraße"
-housenumber: 13
+street: Schulstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

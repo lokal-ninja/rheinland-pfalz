@@ -1,11 +1,11 @@
 id: 327595288
-type: way
+type: node
 latitude: 50.30352
 longitude: 7.32856
 postcode: "56751"
 city: Polch
-street: "Vor Geisenach"
-housenumber: 6
+street: Vor Geisenach
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

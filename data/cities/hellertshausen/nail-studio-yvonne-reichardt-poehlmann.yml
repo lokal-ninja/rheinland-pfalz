@@ -1,11 +1,11 @@
 id: 912553361
-type: way
+type: node
 latitude: 49.82227
 longitude: 7.27046
 postcode: "55758"
 city: Hellertshausen
-street: "Auf dem Wasen"
-housenumber: 21
-phone: "+49 1573 0900044"
-opening_hours: "Mo-Fr 08:00-12:00, 17:00-19:00, Sa 10:00-14:00, So 10:00-13"
+street: Auf dem Wasen
+housenumber: "21"
+phone: +49 1573 0900044
+opening_hours: Mo-Fr 08:00-12:00, 17:00-19:00, Sa 10:00-14:00, So 10:00-13
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.31968
 longitude: 8.42098
 postcode: "67346"
 city: Speyer
-street: "Eichendorffstraße"
-housenumber: 11
-phone: "+49 6232 6983430"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 09:15-13:00"
-website: "https://haarwest.de/"
+street: Eichendorffstraße
+housenumber: "11"
+phone: +49 6232 6983430
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 09:15-13:00
+website: https://haarwest.de/

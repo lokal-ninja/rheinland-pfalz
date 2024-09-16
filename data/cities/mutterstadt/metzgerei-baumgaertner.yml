@@ -4,8 +4,8 @@ latitude: 49.44483
 longitude: 8.35468
 postcode: "67112"
 city: Mutterstadt
-street: "Oggersheimer Straße"
-housenumber: 27
+street: Oggersheimer Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 07:30-13:00,14:30-18:30; We 07:30-13:00; Sa 06:30-13:00"
-website: "https://www.meistermetzgerei-baumgaertner.de/"
+opening_hours: Mo,Tu,Th,Fr 07:30-13:00,14:30-18:30; We 07:30-13:00; Sa 06:30-13:00
+website: https://www.meistermetzgerei-baumgaertner.de/

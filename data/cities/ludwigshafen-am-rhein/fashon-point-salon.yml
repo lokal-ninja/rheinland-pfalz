@@ -1,11 +1,11 @@
 id: 169209835
-type: way
+type: node
 latitude: 49.47604
 longitude: 8.44411
 postcode: "67061"
 city: Ludwigshafen am Rhein
-street: "Saarlandstraße"
-housenumber: 151
+street: Saarlandstraße
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

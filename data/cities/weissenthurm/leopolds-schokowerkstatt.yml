@@ -1,11 +1,11 @@
 id: 486125734
-type: way
+type: node
 latitude: 50.41248
 longitude: 7.4612
 postcode: "56575"
 city: Weißenthurm
-street: "Domstraße"
-housenumber: 
-phone: "+49 2637 9443699"
+street: Domstraße
+housenumber: ""
+phone: +49 2637 9443699
 opening_hours: ""
-website: "http://leopolds-pralinen.de"
+website: http://leopolds-pralinen.de

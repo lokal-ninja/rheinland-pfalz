@@ -1,11 +1,11 @@
 id: 614487205
-type: way
+type: node
 latitude: 49.48321
 longitude: 8.30166
 postcode: "67133"
 city: Maxdorf
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 1b
-phone: "+49 6237 9244057"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.mmk-reinigungstechnik.de"
+phone: +49 6237 9244057
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.mmk-reinigungstechnik.de

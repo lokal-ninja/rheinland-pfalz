@@ -1,11 +1,11 @@
 id: 39935701
-type: way
+type: node
 latitude: 50.28607
 longitude: 7.62867
 postcode: "56112"
 city: Lahnstein
-street: "Braubacher Straße"
-housenumber: 75
+street: Braubacher Straße
+housenumber: "75"
 phone: ""
-opening_hours: "mo-sa 08:00-20:00"
+opening_hours: mo-sa 08:00-20:00
 website: ""

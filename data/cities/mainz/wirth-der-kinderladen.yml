@@ -4,8 +4,8 @@ latitude: 50.00029
 longitude: 8.26462
 postcode: "55116"
 city: Mainz
-street: "Schillerstraße"
-housenumber: 48
-phone: "+49 6131 232100"
-opening_hours: "Tu-Sa 10:00-18:00"
-website: "https://www.wirth-mainz.de/"
+street: Schillerstraße
+housenumber: "48"
+phone: +49 6131 232100
+opening_hours: Tu-Sa 10:00-18:00
+website: https://www.wirth-mainz.de/

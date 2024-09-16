@@ -1,11 +1,11 @@
 id: 291488649
-type: way
+type: node
 latitude: 49.99347
 longitude: 7.52852
 postcode: "55469"
 city: Simmern
-street: "Rudolf-Diesel-Straße"
-housenumber: 1
+street: Rudolf-Diesel-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
 website: ""

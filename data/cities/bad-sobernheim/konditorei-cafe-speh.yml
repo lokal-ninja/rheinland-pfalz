@@ -1,11 +1,11 @@
 id: 193697670
-type: way
+type: node
 latitude: 49.78426
 longitude: 7.65025
 postcode: "55566"
 city: Bad Sobernheim
-street: "Marumstraße"
-housenumber: 2
+street: Marumstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00; Su,PH 07:30-18:00; Tu off"
+opening_hours: Mo-Sa 08:00-18:00; Su,PH 07:30-18:00; Tu off
 website: ""

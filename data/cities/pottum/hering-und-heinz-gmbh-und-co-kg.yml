@@ -1,11 +1,11 @@
 id: 228732057
-type: way
+type: node
 latitude: 50.59826
 longitude: 7.99719
 postcode: "56459"
 city: Pottum
-street: "Berghecke"
-housenumber: 4
+street: Berghecke
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.hering-mirschberger.onlineshk.de/"
+website: http://www.hering-mirschberger.onlineshk.de/

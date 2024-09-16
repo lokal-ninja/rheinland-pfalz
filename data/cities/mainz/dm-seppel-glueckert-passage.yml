@@ -4,8 +4,8 @@ latitude: 50.00074
 longitude: 8.27064
 postcode: "55116"
 city: Mainz
-street: "Seppel-Glückert-Passage"
-housenumber: 10
-phone: "+49 6131 280271"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.dm-drogeriemarkt.de/"
+street: Seppel-Glückert-Passage
+housenumber: "10"
+phone: +49 6131 280271
+opening_hours: Mo-Sa 08:00-20:00
+website: http://www.dm-drogeriemarkt.de/

@@ -1,11 +1,11 @@
 id: 47251989
-type: way
+type: node
 latitude: 49.69982
 longitude: 8.33197
 postcode: "67574"
 city: Osthofen
-street: "Am Ringofen"
-housenumber: 2
+street: Am Ringofen
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 686579583
-type: way
+type: node
 latitude: 49.50052
 longitude: 8.37945
 postcode: "67071"
 city: Ludwigshafen am Rhein
-street: "Sudetenstraße"
-housenumber: 11
+street: Sudetenstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.netto-online.de/filialen/ludwigshafen/sudetenstr-11/3596"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.netto-online.de/filialen/ludwigshafen/sudetenstr-11/3596

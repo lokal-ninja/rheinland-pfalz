@@ -1,11 +1,11 @@
 id: 208074934
-type: way
+type: node
 latitude: 49.85286
 longitude: 7.89469
 postcode: "55543"
 city: Bad Kreuznach
-street: "Industriestraße"
-housenumber: 37
-phone: "+49 671 84179898"
+street: Industriestraße
+housenumber: "37"
+phone: +49 671 84179898
 opening_hours: ""
-website: "https://www.cloppenburg-gruppe.de/bad-kreuznach"
+website: https://www.cloppenburg-gruppe.de/bad-kreuznach

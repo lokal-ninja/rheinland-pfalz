@@ -4,8 +4,8 @@ latitude: 49.07692
 longitude: 8.20248
 postcode: "76870"
 city: Kandel
-street: "Lauterburger Straße"
-housenumber: 11
-phone: "+49 7275 619510"
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00; We,Su,PH closed"
-website: "https://www.radhaus-roedel.de"
+street: Lauterburger Straße
+housenumber: "11"
+phone: +49 7275 619510
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00; We,Su,PH closed
+website: https://www.radhaus-roedel.de

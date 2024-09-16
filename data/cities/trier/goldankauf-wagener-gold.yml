@@ -4,8 +4,8 @@ latitude: 49.76378
 longitude: 6.65051
 postcode: "54292"
 city: Trier
-street: "Paulinstraße"
-housenumber: 98
+street: Paulinstraße
+housenumber: "98"
 phone: ""
-opening_hours: "nach telefonischer Rücksprache"
+opening_hours: '"nach telefonischer Rücksprache"'
 website: ""

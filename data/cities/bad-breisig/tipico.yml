@@ -1,11 +1,11 @@
 id: 132851484
-type: way
+type: node
 latitude: 50.5339
 longitude: 7.27212
 postcode: "53498"
 city: Bad Breisig
-street: "An der Glasfabrik"
-housenumber: 17
-phone: "+49 2642 9979748"
-opening_hours: "Mo-Su 12:00-23:00"
+street: An der Glasfabrik
+housenumber: "17"
+phone: +49 2642 9979748
+opening_hours: Mo-Su 12:00-23:00
 website: ""

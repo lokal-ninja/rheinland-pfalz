@@ -4,8 +4,8 @@ latitude: 50.51228
 longitude: 7.60653
 postcode: "56271"
 city: Kleinmaischeid
-street: "Hauptstraße"
-housenumber: 26
+street: Hauptstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Tu,We,Fr 09:00-18:00; Th 09:00-20:00; Sa 09:00-13:00"
+opening_hours: Tu,We,Fr 09:00-18:00; Th 09:00-20:00; Sa 09:00-13:00
 website: ""

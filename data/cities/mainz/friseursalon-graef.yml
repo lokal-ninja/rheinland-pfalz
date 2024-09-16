@@ -1,11 +1,11 @@
 id: 47796786
-type: way
+type: node
 latitude: 49.97954
 longitude: 8.29551
 postcode: "55130"
 city: Mainz
-street: "Im Leimen"
-housenumber: 41
+street: Im Leimen
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

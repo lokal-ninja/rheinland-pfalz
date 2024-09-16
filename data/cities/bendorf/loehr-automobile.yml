@@ -1,11 +1,11 @@
 id: 66897708
-type: way
+type: node
 latitude: 50.42736
 longitude: 7.56058
 postcode: "56170"
 city: Bendorf
-street: "Dieter-Trennheuser-Straße"
-housenumber: 8
+street: Dieter-Trennheuser-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://loehrgruppe.de/standorte/bendorf/loehr-automobile-bendorf/uebersicht"
+website: https://loehrgruppe.de/standorte/bendorf/loehr-automobile-bendorf/uebersicht

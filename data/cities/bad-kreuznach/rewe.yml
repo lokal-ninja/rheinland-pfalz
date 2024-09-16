@@ -1,11 +1,11 @@
 id: 94824538
-type: way
+type: node
 latitude: 49.81466
 longitude: 7.84772
 postcode: "55583"
 city: Bad Kreuznach
-street: "Weinbergstraße"
-housenumber: 3
+street: Weinbergstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:30; PH off"
+opening_hours: Mo-Sa 07:00-21:30; PH off
 website: ""

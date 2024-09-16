@@ -1,11 +1,11 @@
 id: 329631032
-type: way
+type: node
 latitude: 50.54498
 longitude: 7.26892
 postcode: "53489"
 city: Sinzig
-street: "Kranzweiherweg"
+street: Kranzweiherweg
 housenumber: 19a
-phone: "+49 2642 42480"
+phone: +49 2642 42480
 opening_hours: ""
-website: "https://farben-schuldt.de"
+website: https://farben-schuldt.de

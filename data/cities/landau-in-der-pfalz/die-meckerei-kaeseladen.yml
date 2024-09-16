@@ -4,8 +4,8 @@ latitude: 49.19065
 longitude: 8.14505
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Kraftgasse"
-housenumber: 61
-phone: "+49 6341 283186"
-opening_hours: "Th-Fr 16:00-19:00; Sa 09:30-13:00"
-website: "https://www.die-meckerei.de/"
+street: Kraftgasse
+housenumber: "61"
+phone: +49 6341 283186
+opening_hours: Th-Fr 16:00-19:00; Sa 09:30-13:00
+website: https://www.die-meckerei.de/

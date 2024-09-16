@@ -4,8 +4,8 @@ latitude: 49.0539
 longitude: 8.26804
 postcode: "76744"
 city: Wörth am Rhein
-street: "Wilhelmstraße"
-housenumber: 7
-phone: "+49 7271 5982192;+49 1521 3382826"
-opening_hours: "10:00-22:00; PH open"
+street: Wilhelmstraße
+housenumber: "7"
+phone: +49 7271 5982192;+49 1521 3382826
+opening_hours: 10:00-22:00; PH open
 website: ""

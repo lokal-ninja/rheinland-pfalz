@@ -4,8 +4,8 @@ latitude: 50.54668
 longitude: 7.11191
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Rotweinstraße"
-housenumber: 3
-phone: "+49 2641 91700"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; PH off"
-website: "https://www.expert.de/badneuenahr"
+street: Rotweinstraße
+housenumber: "3"
+phone: +49 2641 91700
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; PH off
+website: https://www.expert.de/badneuenahr

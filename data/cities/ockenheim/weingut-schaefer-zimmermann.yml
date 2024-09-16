@@ -4,8 +4,8 @@ latitude: 49.94029
 longitude: 7.97042
 postcode: "55437"
 city: Ockenheim
-street: "Mainzer Straße"
-housenumber: 12
-phone: "+49 6725 2669"
-opening_hours: "Mo-Th 16:00-18:00; Fr-Sa 10:00-15:30"
-website: "http://www.schaefer-zimmermann.com/"
+street: Mainzer Straße
+housenumber: "12"
+phone: +49 6725 2669
+opening_hours: Mo-Th 16:00-18:00; Fr-Sa 10:00-15:30
+website: http://www.schaefer-zimmermann.com/

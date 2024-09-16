@@ -1,11 +1,11 @@
 id: 147182232
-type: way
+type: node
 latitude: 49.73926
 longitude: 6.61378
 postcode: "54294"
 city: Trier
-street: "Ottostraße"
-housenumber: 31
-phone: "+49 651 85023"
+street: Ottostraße
+housenumber: "31"
+phone: +49 651 85023
 opening_hours: ""
-website: "http://www.autoteile-jarre.de"
+website: http://www.autoteile-jarre.de

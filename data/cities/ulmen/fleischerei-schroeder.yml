@@ -1,11 +1,11 @@
 id: 120146304
-type: way
+type: node
 latitude: 50.20817
 longitude: 6.97996
 postcode: "56766"
 city: Ulmen
-street: "Marktstraße"
-housenumber: 18
-phone: "+49 2676 270"
+street: Marktstraße
+housenumber: "18"
+phone: +49 2676 270
 opening_hours: ""
 website: ""

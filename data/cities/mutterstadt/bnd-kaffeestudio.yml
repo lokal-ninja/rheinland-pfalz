@@ -4,8 +4,8 @@ latitude: 49.43856
 longitude: 8.35041
 postcode: "67112"
 city: Mutterstadt
-street: "Blockfeldstraße"
-housenumber: 16
+street: Blockfeldstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo,We,Th 07:00-15:30; Tu,Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.kaffeestudio.de/"
+opening_hours: Mo,We,Th 07:00-15:30; Tu,Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.kaffeestudio.de/

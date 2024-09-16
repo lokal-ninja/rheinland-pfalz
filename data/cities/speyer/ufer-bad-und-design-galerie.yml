@@ -1,11 +1,11 @@
 id: 108956806
-type: way
+type: node
 latitude: 49.33163
 longitude: 8.44268
 postcode: "67346"
 city: Speyer
-street: "Hasenpfühlerweide"
-housenumber: 4
+street: Hasenpfühlerweide
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://ufer.de/"
+website: https://ufer.de/

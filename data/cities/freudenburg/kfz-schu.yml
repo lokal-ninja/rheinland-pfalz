@@ -1,11 +1,11 @@
 id: 913511944
-type: way
+type: node
 latitude: 49.54459
 longitude: 6.52735
 postcode: "54450"
 city: Freudenburg
-street: "Appoigny-Straße"
-housenumber: 4
-phone: "+49 6582 230"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "https://www.schu-kfz.de"
+street: Appoigny-Straße
+housenumber: "4"
+phone: +49 6582 230
+opening_hours: Mo-Fr 08:00-17:30
+website: https://www.schu-kfz.de

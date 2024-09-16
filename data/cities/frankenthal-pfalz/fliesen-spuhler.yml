@@ -1,11 +1,11 @@
 id: 160607425
-type: way
+type: node
 latitude: 49.54617
 longitude: 8.34215
 postcode: "67227"
 city: Frankenthal (Pfalz)
-street: "Adam-Opel-Straße"
-housenumber: 13
+street: Adam-Opel-Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.fliesen-spuhler.de/"
+website: https://www.fliesen-spuhler.de/

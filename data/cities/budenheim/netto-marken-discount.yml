@@ -1,11 +1,11 @@
 id: 25518401
-type: way
+type: node
 latitude: 50.02323
 longitude: 8.16886
 postcode: "55257"
 city: Budenheim
-street: "Heidesheimer Straße"
-housenumber: 52
+street: Heidesheimer Straße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.netto-online.de/filialen/budenheim/heidesheimer-str-52/3996"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.netto-online.de/filialen/budenheim/heidesheimer-str-52/3996

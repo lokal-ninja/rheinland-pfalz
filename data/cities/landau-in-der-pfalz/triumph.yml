@@ -4,8 +4,8 @@ latitude: 49.19759
 longitude: 8.11558
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Königstraße"
-housenumber: 41
+street: Königstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
-website: "https://www.triumph.com/de/de/storelocator_popup.html?layout=brandupdate#"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00
+website: https://www.triumph.com/de/de/storelocator_popup.html?layout=brandupdate#

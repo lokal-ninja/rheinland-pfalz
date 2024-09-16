@@ -1,11 +1,11 @@
 id: 244083545
-type: way
+type: node
 latitude: 49.74678
 longitude: 8.10597
 postcode: "55232"
 city: Alzey
-street: "Bahnhofstraße"
-housenumber: 44
+street: Bahnhofstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
+opening_hours: Mo-Sa 07:30-20:00
 website: ""

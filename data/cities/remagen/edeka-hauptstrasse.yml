@@ -1,11 +1,11 @@
 id: 183669288
-type: way
+type: node
 latitude: 50.61781
 longitude: 7.20561
 postcode: "53424"
 city: Remagen
-street: "Hauptstraße"
-housenumber: 133
+street: Hauptstraße
+housenumber: "133"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 657845974
-type: way
+type: node
 latitude: 49.92451
 longitude: 6.9425
 postcode: "54518"
 city: Osann-Monzel
-street: "Am Weisenstein"
-housenumber: 5
-phone: "+49 6535 949877"
-opening_hours: "Mo-Fr 07:30-12:00,13:00-17:30, Sa 08:00-12:00; PH closed"
-website: "https://www.kfz-jacobi.net"
+street: Am Weisenstein
+housenumber: "5"
+phone: +49 6535 949877
+opening_hours: Mo-Fr 07:30-12:00,13:00-17:30, Sa 08:00-12:00; PH closed
+website: https://www.kfz-jacobi.net

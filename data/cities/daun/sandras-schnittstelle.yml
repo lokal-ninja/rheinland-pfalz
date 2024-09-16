@@ -1,11 +1,11 @@
 id: 438208224
-type: way
+type: node
 latitude: 50.22945
 longitude: 6.79424
 postcode: "54550"
 city: Daun
-street: "Zum Ernstberg"
-housenumber: 9
-phone: "+49 6592 983098"
+street: Zum Ernstberg
+housenumber: "9"
+phone: +49 6592 983098
 opening_hours: ""
-website: "http://sandras-schnittstelle.de"
+website: http://sandras-schnittstelle.de

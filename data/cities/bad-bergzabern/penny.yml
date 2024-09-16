@@ -4,8 +4,8 @@ latitude: 49.10609
 longitude: 8.01058
 postcode: "76887"
 city: Bad Bergzabern
-street: "Lindelbrunnstraße"
-housenumber: 1
+street: Lindelbrunnstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00; Su,PH off"
-website: "https://www.penny.de/marktsuche/"
+opening_hours: Mo-Sa 07:30-22:00; Su,PH off
+website: https://www.penny.de/marktsuche/

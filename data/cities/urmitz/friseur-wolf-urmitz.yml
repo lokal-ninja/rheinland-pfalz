@@ -1,11 +1,11 @@
 id: 485574282
-type: way
+type: node
 latitude: 50.41432
 longitude: 7.52039
 postcode: "56220"
 city: Urmitz
-street: "Freiherr-vom-Stein-Straße"
-housenumber: 1
-phone: "+49 2630 7177"
-opening_hours: "Tu, We 09:00-18:00; Th 09:00-19:00; Fr 09:00-18:00; Sa 08:00-13:30"
-website: "http://frisoerwolf.de"
+street: Freiherr-vom-Stein-Straße
+housenumber: "1"
+phone: +49 2630 7177
+opening_hours: Tu, We 09:00-18:00; Th 09:00-19:00; Fr 09:00-18:00; Sa 08:00-13:30
+website: http://frisoerwolf.de

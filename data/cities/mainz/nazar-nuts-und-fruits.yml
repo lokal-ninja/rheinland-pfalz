@@ -4,8 +4,8 @@ latitude: 49.96781
 longitude: 8.22834
 postcode: "55128"
 city: Mainz
-street: "Haifa-Allee"
-housenumber: 1
+street: Haifa-Allee
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.gutenbergcenter.de/einkaufswelt/geschaefte/49986/nazar-nuts-fruits/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.gutenbergcenter.de/einkaufswelt/geschaefte/49986/nazar-nuts-fruits/

@@ -1,11 +1,11 @@
 id: 289938020
-type: way
+type: node
 latitude: 49.08588
 longitude: 7.7133
 postcode: "66996"
 city: Fischbach bei Dahn
-street: "Hauptstraße"
-housenumber: 42
+street: Hauptstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

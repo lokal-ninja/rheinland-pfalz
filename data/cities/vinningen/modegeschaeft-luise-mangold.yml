@@ -1,11 +1,11 @@
 id: 230949526
-type: way
+type: node
 latitude: 49.1535
 longitude: 7.55545
 postcode: "66957"
 city: Vinningen
-street: "Pirmasenser Straße"
-housenumber: 9
+street: Pirmasenser Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

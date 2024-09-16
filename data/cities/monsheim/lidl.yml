@@ -1,11 +1,11 @@
 id: 192509556
-type: way
+type: node
 latitude: 49.63169
 longitude: 8.20109
 postcode: "67590"
 city: Monsheim
-street: "Robert-Bosch-Straße"
-housenumber: 4
+street: Robert-Bosch-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su off; PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su off; PH off
 website: ""

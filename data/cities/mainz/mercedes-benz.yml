@@ -1,11 +1,11 @@
 id: 57753785
-type: way
+type: node
 latitude: 50.02574
 longitude: 8.22696
 postcode: "55120"
 city: Mainz
-street: "Rheinallee"
-housenumber: 199
+street: Rheinallee
+housenumber: "199"
 phone: ""
 opening_hours: ""
 website: ""

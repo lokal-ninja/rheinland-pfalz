@@ -4,8 +4,8 @@ latitude: 49.84543
 longitude: 7.81224
 postcode: "55593"
 city: Rüdesheim
-street: "Jahnstraße"
-housenumber: 1
-phone: "+49 671 836550"
+street: Jahnstraße
+housenumber: "1"
+phone: +49 671 836550
 opening_hours: ""
-website: "http://www.weinhotel-baeder.de/"
+website: http://www.weinhotel-baeder.de/

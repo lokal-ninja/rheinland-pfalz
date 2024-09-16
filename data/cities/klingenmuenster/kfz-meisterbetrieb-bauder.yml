@@ -4,8 +4,8 @@ latitude: 49.14366
 longitude: 8.01959
 postcode: ""
 city: Klingenmünster
-street: "Weinstraße"
-housenumber: 87
-phone: "+49 6349 9394513"
-opening_hours: "Mo-Fr 09:00-12:00, 13:00-18:00; Sa 09:00-12:00"
-website: "http://www.autogas-bauder.de"
+street: Weinstraße
+housenumber: "87"
+phone: +49 6349 9394513
+opening_hours: Mo-Fr 09:00-12:00, 13:00-18:00; Sa 09:00-12:00
+website: http://www.autogas-bauder.de

@@ -1,11 +1,11 @@
 id: 319144694
-type: way
+type: node
 latitude: 50.37085
 longitude: 8.03261
 postcode: "65582"
 city: Diez
-street: "Am Backsteinbrand"
-housenumber: 6
+street: Am Backsteinbrand
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.schuhcenter.de/siemes-schuhcenter-diez-am-backsteinbrand-6/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.schuhcenter.de/siemes-schuhcenter-diez-am-backsteinbrand-6/

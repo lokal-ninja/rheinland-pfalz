@@ -4,8 +4,8 @@ latitude: 49.99672
 longitude: 8.27844
 postcode: "55116"
 city: Mainz
-street: "Rheinstraße"
-housenumber: 15
+street: Rheinstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00"
-website: "https://www.waschsalon.de/waschsalon-mainz"
+opening_hours: Mo-Sa 06:00-22:00
+website: https://www.waschsalon.de/waschsalon-mainz

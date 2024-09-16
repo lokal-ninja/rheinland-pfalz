@@ -1,11 +1,11 @@
 id: 324889969
-type: way
+type: node
 latitude: 49.28753
 longitude: 8.40655
 postcode: "67354"
 city: Römerberg
-street: "Berghäuser Straße"
-housenumber: 140
+street: Berghäuser Straße
+housenumber: "140"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.netto-online.de

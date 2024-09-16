@@ -1,11 +1,11 @@
 id: 632093496
-type: way
+type: node
 latitude: 49.48881
 longitude: 8.21743
 postcode: "67167"
 city: Erpolzheim
-street: "Bahnhofstraße"
-housenumber: 17
-phone: "+49 6353 3826"
+street: Bahnhofstraße
+housenumber: "17"
+phone: +49 6353 3826
 opening_hours: ""
 website: ""

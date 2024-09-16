@@ -1,11 +1,11 @@
 id: 1275269842
-type: way
+type: node
 latitude: 49.84919
 longitude: 7.82289
 postcode: "55593"
 city: Rüdesheim
-street: "Am Keltenberg"
-housenumber: 4
+street: Am Keltenberg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

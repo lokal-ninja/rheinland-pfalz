@@ -1,11 +1,11 @@
 id: 1271586928
-type: way
+type: node
 latitude: 50.35817
 longitude: 7.59576
 postcode: "56068"
 city: Koblenz
-street: "Zentralplatz"
-housenumber: 2
+street: Zentralplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su off"
+opening_hours: Mo-Sa 09:00-20:00; Su off
 website: ""

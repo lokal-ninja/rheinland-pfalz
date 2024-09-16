@@ -1,11 +1,11 @@
 id: 192232987
-type: way
+type: node
 latitude: 49.68283
 longitude: 6.56241
 postcode: "54329"
 city: Konz
-street: "Könener Straße"
-housenumber: 69
+street: Könener Straße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:30; Sa 09:00-12:00; PH off"
-website: "https://www.wks-koenen.de/"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:30; Sa 09:00-12:00; PH off
+website: https://www.wks-koenen.de/

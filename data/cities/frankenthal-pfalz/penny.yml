@@ -1,11 +1,11 @@
 id: 148879538
-type: way
+type: node
 latitude: 49.53369
 longitude: 8.3609
 postcode: "67227"
 city: Frankenthal (Pfalz)
-street: "Benderstraße"
-housenumber: 1
+street: Benderstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00"
+opening_hours: Mo-Sa 07:30-22:00
 website: ""

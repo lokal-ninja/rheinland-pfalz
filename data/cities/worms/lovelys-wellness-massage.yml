@@ -1,11 +1,11 @@
 id: 142157978
-type: way
+type: node
 latitude: 49.60899
 longitude: 8.32206
 postcode: "67551"
 city: Worms
-street: "Neubachstraße"
-housenumber: 73
+street: Neubachstraße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Fr 11:00-20:00; Sa 11:00-18:00"
-website: "https://www.lovelyswellnessmassage.de"
+opening_hours: Mo-Fr 11:00-20:00; Sa 11:00-18:00
+website: https://www.lovelyswellnessmassage.de

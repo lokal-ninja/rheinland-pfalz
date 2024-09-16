@@ -1,11 +1,11 @@
 id: 1257623003
-type: way
+type: node
 latitude: 50.74715
 longitude: 7.95596
 postcode: "57567"
 city: Daaden
-street: "Betzdorfer Straße"
-housenumber: 91
+street: Betzdorfer Straße
+housenumber: "91"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

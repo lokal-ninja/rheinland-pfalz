@@ -4,8 +4,8 @@ latitude: 49.35341
 longitude: 8.13742
 postcode: "67433"
 city: Neustadt an der Weinstraße
-street: "Kellereistraße"
-housenumber: 6
-phone: "+49 6321 481501"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"
-website: "https://www.parfuemerie-cb.de/filiale-neustadt"
+street: Kellereistraße
+housenumber: "6"
+phone: +49 6321 481501
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00
+website: https://www.parfuemerie-cb.de/filiale-neustadt

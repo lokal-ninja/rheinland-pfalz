@@ -4,8 +4,8 @@ latitude: 50.01026
 longitude: 8.25924
 postcode: "55118"
 city: Mainz
-street: "Sömmerringplatz"
-housenumber: 6
-phone: "+49 6131 614888"
-opening_hours: "Mo-Sa 06:00-13:00; Mo-Fr 14:00-18:30; Su off"
-website: "https://berg-baeckerei.de/kontakt-und-filialen/"
+street: Sömmerringplatz
+housenumber: "6"
+phone: +49 6131 614888
+opening_hours: Mo-Sa 06:00-13:00; Mo-Fr 14:00-18:30; Su off
+website: https://berg-baeckerei.de/kontakt-und-filialen/

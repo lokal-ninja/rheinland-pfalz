@@ -1,11 +1,11 @@
 id: 533816741
-type: way
+type: node
 latitude: 49.50413
 longitude: 7.77304
 postcode: "67697"
 city: Otterberg
-street: "Johannisstraße"
-housenumber: 11
+street: Johannisstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

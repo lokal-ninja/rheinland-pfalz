@@ -1,11 +1,11 @@
 id: 525027127
-type: way
+type: node
 latitude: 50.38066
 longitude: 7.32351
 postcode: "56642"
 city: Kruft
-street: "Schlehenhof"
-housenumber: 1
-phone: "+49 2652 7514"
-opening_hours: "Th 08:30-12:00; Fr 08:30-12:00, 15:00-18:00; Sa 08:30-12:00"
-website: "http://www.schlehenhof.de"
+street: Schlehenhof
+housenumber: "1"
+phone: +49 2652 7514
+opening_hours: Th 08:30-12:00; Fr 08:30-12:00, 15:00-18:00; Sa 08:30-12:00
+website: http://www.schlehenhof.de

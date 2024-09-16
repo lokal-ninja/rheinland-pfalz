@@ -4,8 +4,8 @@ latitude: 50.55136
 longitude: 6.98751
 postcode: "53505"
 city: Kalenborn
-street: "Luisenhorst"
-housenumber: 2
-phone: "+49 1639060296"
-opening_hours: "Fr 15:00-17:00, Sa 11:00-17:00"
-website: "www.hof-nussbaum.de"
+street: Luisenhorst
+housenumber: "2"
+phone: +49 1639060296
+opening_hours: Fr 15:00-17:00, Sa 11:00-17:00
+website: www.hof-nussbaum.de

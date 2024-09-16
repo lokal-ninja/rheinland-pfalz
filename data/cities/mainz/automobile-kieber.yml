@@ -1,11 +1,11 @@
 id: 502429794
-type: way
+type: node
 latitude: 49.92292
 longitude: 8.26551
 postcode: "55129"
 city: Mainz
-street: "Am Kesseltal"
-housenumber: 2
+street: Am Kesseltal
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

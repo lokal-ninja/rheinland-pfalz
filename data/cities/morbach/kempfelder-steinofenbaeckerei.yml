@@ -4,8 +4,8 @@ latitude: 49.81028
 longitude: 7.12193
 postcode: "54497"
 city: Morbach
-street: "Bahnhofstraße"
-housenumber: 3
-phone: "+49 6533 1421"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:30-12:30"
+street: Bahnhofstraße
+housenumber: "3"
+phone: +49 6533 1421
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:30-12:30
 website: ""

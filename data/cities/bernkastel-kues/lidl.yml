@@ -1,11 +1,11 @@
 id: 108882906
-type: way
+type: node
 latitude: 49.921
 longitude: 7.06533
 postcode: "54470"
 city: Bernkastel-Kues
-street: "Cusanusstraße"
-housenumber: 53
+street: Cusanusstraße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

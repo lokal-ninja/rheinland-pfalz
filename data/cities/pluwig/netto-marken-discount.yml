@@ -1,11 +1,11 @@
 id: 331673227
-type: way
+type: node
 latitude: 49.68865
 longitude: 6.71402
 postcode: "54316"
 city: Pluwig
-street: "Am Alten Dorfplatz"
-housenumber: 2
+street: Am Alten Dorfplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.netto-online.de

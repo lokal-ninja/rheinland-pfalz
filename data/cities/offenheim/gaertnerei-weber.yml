@@ -4,8 +4,8 @@ latitude: 49.72417
 longitude: 8.02855
 postcode: "55234"
 city: Offenheim
-street: "Obergasse"
-housenumber: 35
+street: Obergasse
+housenumber: "35"
 phone: ""
-opening_hours: "Mo,Sa 08:00-12:00; Tu-Fr 08:00-12:00,14:00-18:00"
+opening_hours: Mo,Sa 08:00-12:00; Tu-Fr 08:00-12:00,14:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 360040900
-type: way
+type: node
 latitude: 49.80159
 longitude: 8.34484
 postcode: "67583"
 city: Guntersblum
-street: "Kurzer Flurweg"
-housenumber: 6
+street: Kurzer Flurweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

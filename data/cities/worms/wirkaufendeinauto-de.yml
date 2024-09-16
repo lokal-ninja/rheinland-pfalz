@@ -1,11 +1,11 @@
 id: 206419760
-type: way
+type: node
 latitude: 49.62081
 longitude: 8.3597
 postcode: "67547"
 city: Worms
-street: "Klosterstraße"
-housenumber: 43
-phone: "+49 6241 9894999"
-opening_hours: "Mo 09:00-17:00"
-website: "https://www.wirkaufendeinauto.de/standorte/worms_neu-97547"
+street: Klosterstraße
+housenumber: "43"
+phone: +49 6241 9894999
+opening_hours: Mo 09:00-17:00
+website: https://www.wirkaufendeinauto.de/standorte/worms_neu-97547

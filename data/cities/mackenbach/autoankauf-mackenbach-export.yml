@@ -1,11 +1,11 @@
 id: 626888245
-type: way
+type: node
 latitude: 49.47308
 longitude: 7.58394
 postcode: "67686"
 city: Mackenbach
-street: "Friedhofstraße"
-housenumber: 20
+street: Friedhofstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

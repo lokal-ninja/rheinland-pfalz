@@ -4,8 +4,8 @@ latitude: 49.10227
 longitude: 7.9986
 postcode: "76887"
 city: Bad Bergzabern
-street: "Bärengasse"
-housenumber: 4
-phone: "+49-6343-3700"
-opening_hours: "Mo-Fr 10:00-12:30,14:00-19:00; Sa 10:00-14:00; Sa[1] 10:00-16:00"
-website: "http://www.erlo-musik.de/"
+street: Bärengasse
+housenumber: "4"
+phone: +49-6343-3700
+opening_hours: Mo-Fr 10:00-12:30,14:00-19:00; Sa 10:00-14:00; Sa[1] 10:00-16:00
+website: http://www.erlo-musik.de/

@@ -4,8 +4,9 @@ latitude: 49.84981
 longitude: 7.90067
 postcode: "55543"
 city: Bad Kreuznach
-street: "Im Chauseegarten"
-housenumber: 2
-phone: "+49 671 48338790"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00, Mo-Fr 14:00-18:00, We 10:00-13:00, Sa 09:00-14:00; Su off"
-website: "https://ok-mo.to/"
+street: Im Chauseegarten
+housenumber: "2"
+phone: +49 671 48338790
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00, Mo-Fr 14:00-18:00, We 10:00-13:00, Sa 09:00-14:00;
+    Su off
+website: https://ok-mo.to/

@@ -1,11 +1,11 @@
 id: 35947118
-type: way
+type: node
 latitude: 50.43563
 longitude: 7.48545
 postcode: "56564"
 city: Neuwied
-street: "Stettiner Straße"
-housenumber: 3
+street: Stettiner Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 192264440
-type: way
+type: node
 latitude: 49.69068
 longitude: 6.56362
 postcode: "54329"
 city: Konz
-street: "Gottlieb-Daimler-Straße"
-housenumber: 8
+street: Gottlieb-Daimler-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00,14:00-17:30; PH off"
-website: "http://www.konzer-auto-teile.de/"
+opening_hours: Mo-Fr 08:00-13:00,14:00-17:30; PH off
+website: http://www.konzer-auto-teile.de/

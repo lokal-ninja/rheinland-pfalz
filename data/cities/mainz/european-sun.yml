@@ -4,8 +4,8 @@ latitude: 50.00653
 longitude: 8.26076
 postcode: "55118"
 city: Mainz
-street: "Leibnizstraße"
-housenumber: 19
-phone: "+49 6131 618843"
-opening_hours: "Mo-Fr 10:00-21:30; Sa,Su 10:00-20:00"
+street: Leibnizstraße
+housenumber: "19"
+phone: +49 6131 618843
+opening_hours: Mo-Fr 10:00-21:30; Sa,Su 10:00-20:00
 website: ""

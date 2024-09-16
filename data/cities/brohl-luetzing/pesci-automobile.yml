@@ -1,11 +1,11 @@
 id: 450960135
-type: way
+type: node
 latitude: 50.4829
 longitude: 7.33169
 postcode: "56656"
 city: Brohl-Lützing
-street: "Koblenzer Straße"
-housenumber: 37
-phone: "+49 2633 4898715"
+street: Koblenzer Straße
+housenumber: "37"
+phone: +49 2633 4898715
 opening_hours: ""
-website: "https://www.pesci-automobile.de/"
+website: https://www.pesci-automobile.de/

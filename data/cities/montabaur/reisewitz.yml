@@ -1,11 +1,11 @@
 id: 83499014
-type: way
+type: node
 latitude: 50.43742
 longitude: 7.82782
 postcode: "56410"
 city: Montabaur
-street: "Bahnhofstraße"
-housenumber: 26
+street: Bahnhofstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

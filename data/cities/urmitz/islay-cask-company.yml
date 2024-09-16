@@ -1,11 +1,11 @@
 id: 485723622
-type: way
+type: node
 latitude: 50.41358
 longitude: 7.52839
 postcode: "56220"
 city: Urmitz
-street: "In den Mittelweiden"
-housenumber: 24
-phone: "+49 162 2100692"
+street: In den Mittelweiden
+housenumber: "24"
+phone: +49 162 2100692
 opening_hours: ""
-website: "https://www.islaycaskcompany.de/"
+website: https://www.islaycaskcompany.de/

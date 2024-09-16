@@ -1,11 +1,11 @@
 id: 236702855
-type: way
+type: node
 latitude: 50.74677
 longitude: 7.82005
 postcode: "57580"
 city: Gebhardshain
-street: "Kirchplatz"
-housenumber: 7
-phone: "+49 2747 3530"
+street: Kirchplatz
+housenumber: "7"
+phone: +49 2747 3530
 opening_hours: ""
 website: ""

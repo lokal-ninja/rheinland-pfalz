@@ -1,11 +1,11 @@
 id: 238851282
-type: way
+type: node
 latitude: 49.99382
 longitude: 7.52752
 postcode: "55469"
 city: Simmern
-street: "August-Horch-Straße"
-housenumber: 2
+street: August-Horch-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,12:45-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,12:45-17:00; Sa 08:00-12:00
 website: ""

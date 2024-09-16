@@ -1,11 +1,11 @@
 id: 131473434
-type: way
+type: node
 latitude: 50.08519
 longitude: 6.80902
 postcode: "54531"
 city: Manderscheid
-street: "Gewerbestraße"
-housenumber: 9
+street: Gewerbestraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

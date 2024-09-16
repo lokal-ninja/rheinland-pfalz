@@ -1,11 +1,11 @@
 id: 203208448
-type: way
+type: node
 latitude: 49.97671
 longitude: 6.88865
 postcode: "54516"
 city: Wittlich
-street: "Römerstraße"
-housenumber: 55
+street: Römerstraße
+housenumber: "55"
 phone: "+4965711489940"
-opening_hours: "Mo-Sa 08:00-22:00; PH off"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/e-center-wittlich-r%C3%B6merstra%C3%9Fe/index.jsp"
+opening_hours: Mo-Sa 08:00-22:00; PH off
+website: https://www.edeka.de/eh/s%C3%BCdwest/e-center-wittlich-r%C3%B6merstra%C3%9Fe/index.jsp

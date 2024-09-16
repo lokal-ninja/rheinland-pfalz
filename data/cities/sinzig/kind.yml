@@ -4,8 +4,8 @@ latitude: 50.54416
 longitude: 7.24915
 postcode: "53489"
 city: Sinzig
-street: "Ausdorferstraße"
-housenumber: 1
-phone: "+49 2642 43009"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-13:00; Su Off"
-website: "https://www.kind.com/de-de/fachgeschaefte/optiker-sinzig"
+street: Ausdorferstraße
+housenumber: "1"
+phone: +49 2642 43009
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-13:00; Su Off
+website: https://www.kind.com/de-de/fachgeschaefte/optiker-sinzig

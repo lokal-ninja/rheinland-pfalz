@@ -1,11 +1,11 @@
 id: 149231195
-type: way
+type: node
 latitude: 49.14472
 longitude: 8.18846
 postcode: "76863"
 city: Herxheim
-street: "Gewerbepark West"
-housenumber: 10
+street: Gewerbepark West
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

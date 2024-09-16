@@ -1,11 +1,11 @@
 id: 70126730
-type: way
+type: node
 latitude: 49.95807
 longitude: 8.25653
 postcode: "55129"
 city: Mainz
-street: "Robert-Bosch-Straße"
-housenumber: 33
-phone: "+49 6131 593066"
+street: Robert-Bosch-Straße
+housenumber: "33"
+phone: +49 6131 593066
 opening_hours: ""
 website: ""

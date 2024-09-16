@@ -1,11 +1,11 @@
 id: 465598321
-type: way
+type: node
 latitude: 49.4427
 longitude: 7.54495
 postcode: "66877"
 city: Ramstein-Miesenbach
-street: "Spesbacher Straße"
+street: Spesbacher Straße
 housenumber: 61F
 phone: "+49637162555"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://www.fahrradladen-ramstein.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://www.fahrradladen-ramstein.de/

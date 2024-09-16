@@ -1,11 +1,12 @@
 id: 211474940
-type: way
+type: node
 latitude: 49.64506
 longitude: 8.3672
 postcode: "67547"
 city: Worms
-street: "Petrus-Dorn-Straße"
+street: Petrus-Dorn-Straße
 housenumber: 28a
-phone: "+49 6241 593036"
-opening_hours: "Mo-We 09:00-12:30, 14:00-18:00; Th,Fr 09:00-12:30, 14:00-19:00; Sa 09:00-14:00"
-website: "https://www.fishermans-partner.eu/fachmaerkte/de/worms/start/"
+phone: +49 6241 593036
+opening_hours: Mo-We 09:00-12:30, 14:00-18:00; Th,Fr 09:00-12:30, 14:00-19:00; Sa
+    09:00-14:00
+website: https://www.fishermans-partner.eu/fachmaerkte/de/worms/start/

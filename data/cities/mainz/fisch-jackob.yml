@@ -4,8 +4,8 @@ latitude: 49.99942
 longitude: 8.2763
 postcode: "55116"
 city: Mainz
-street: "Fischtorstraße"
-housenumber: 5
-phone: "+49 6131 229299"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-15:00; Mo off"
-website: "https://www.fischjackob.de/"
+street: Fischtorstraße
+housenumber: "5"
+phone: +49 6131 229299
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-15:00; Mo off
+website: https://www.fischjackob.de/

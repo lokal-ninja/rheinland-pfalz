@@ -4,8 +4,8 @@ latitude: 49.77041
 longitude: 6.66056
 postcode: "54292"
 city: Trier
-street: "Castelforte-Straße"
-housenumber: 10
+street: Castelforte-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.yourstorebox.com/de/location-details/storebox-trier"
+opening_hours: 24/7
+website: https://www.yourstorebox.com/de/location-details/storebox-trier

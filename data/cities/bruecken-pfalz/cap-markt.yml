@@ -1,11 +1,11 @@
 id: 407002738
-type: way
+type: node
 latitude: 49.43213
 longitude: 7.3589
 postcode: "66904"
 city: Brücken (Pfalz)
-street: "Hauptstraße"
-housenumber: 40
-phone: "+49 6386 404492"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00"
+street: Hauptstraße
+housenumber: "40"
+phone: +49 6386 404492
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-14:00
 website: ""

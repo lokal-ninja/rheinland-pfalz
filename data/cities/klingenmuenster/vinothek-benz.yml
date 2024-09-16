@@ -4,8 +4,8 @@ latitude: 49.13979
 longitude: 8.0178
 postcode: "76889"
 city: Klingenmünster
-street: "Weinstraße"
-housenumber: 39
-phone: "+49 6349 9957472"
-opening_hours: "Th-Su 17:00-21:00"
-website: "https://vinothek-benz.de/"
+street: Weinstraße
+housenumber: "39"
+phone: +49 6349 9957472
+opening_hours: Th-Su 17:00-21:00
+website: https://vinothek-benz.de/

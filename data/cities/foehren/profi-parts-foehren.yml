@@ -1,11 +1,11 @@
 id: 686727337
-type: way
+type: node
 latitude: 49.85918
 longitude: 6.79311
 postcode: "54343"
 city: Föhren
-street: "Europa-Allee"
-housenumber: 44
-phone: "+49 6502 93085 0"
-opening_hours: "Mo-Fr 07:30-18:00, Sa 08:00-13:00; PH closed"
-website: "https://profi-parts.de/"
+street: Europa-Allee
+housenumber: "44"
+phone: +49 6502 93085 0
+opening_hours: Mo-Fr 07:30-18:00, Sa 08:00-13:00; PH closed
+website: https://profi-parts.de/

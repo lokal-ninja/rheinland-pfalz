@@ -4,8 +4,9 @@ latitude: 50.44245
 longitude: 7.83221
 postcode: "56410"
 city: Montabaur
-street: "Allmannshausen"
-housenumber: 13
-phone: "+49 2602 3658"
-opening_hours: "Mo,Tu,Th 09:30-12:30,14:00-18:00; We off; Fr 14:00-18:00; Sa 10:00-13:00; Su off"
-website: "http://gardinenstudio-weinriefer.de/"
+street: Allmannshausen
+housenumber: "13"
+phone: +49 2602 3658
+opening_hours: Mo,Tu,Th 09:30-12:30,14:00-18:00; We off; Fr 14:00-18:00; Sa 10:00-13:00;
+    Su off
+website: http://gardinenstudio-weinriefer.de/

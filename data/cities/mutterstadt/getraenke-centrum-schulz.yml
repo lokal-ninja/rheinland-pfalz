@@ -1,11 +1,11 @@
 id: 95952392
-type: way
+type: node
 latitude: 49.42725
 longitude: 8.35935
 postcode: "67112"
 city: Mutterstadt
-street: "An der Fohlenweide"
+street: An der Fohlenweide
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 08:00-13:00"
-website: "https://www.getraenke-schulz.de/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 08:00-13:00
+website: https://www.getraenke-schulz.de/

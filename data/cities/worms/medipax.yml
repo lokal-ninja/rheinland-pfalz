@@ -1,11 +1,11 @@
 id: 206455584
-type: way
+type: node
 latitude: 49.62484
 longitude: 8.3653
 postcode: "67547"
 city: Worms
-street: "Ludwigstraße"
-housenumber: 68
+street: Ludwigstraße
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

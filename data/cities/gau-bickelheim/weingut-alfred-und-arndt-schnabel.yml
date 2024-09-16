@@ -1,11 +1,11 @@
 id: 320094164
-type: way
+type: node
 latitude: 49.83764
 longitude: 8.017
 postcode: "55599"
 city: Gau-Bickelheim
-street: "Hintere Schmalzgasse"
-housenumber: 1
+street: Hintere Schmalzgasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

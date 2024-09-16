@@ -1,11 +1,11 @@
 id: 552876777
-type: way
+type: node
 latitude: 50.54878
 longitude: 7.18556
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Greener Weg"
-housenumber: 6
-phone: "+49 2641 3099568"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su,PH off"
+street: Greener Weg
+housenumber: "6"
+phone: +49 2641 3099568
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su,PH off
 website: ""

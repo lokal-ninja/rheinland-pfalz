@@ -4,8 +4,8 @@ latitude: 49.31278
 longitude: 8.43818
 postcode: "67346"
 city: Speyer
-street: "St.-German-Straße"
-housenumber: 8
-phone: "+49 6232 289187"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.k-und-u.com/de/home.html"
+street: St.-German-Straße
+housenumber: "8"
+phone: +49 6232 289187
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.k-und-u.com/de/home.html

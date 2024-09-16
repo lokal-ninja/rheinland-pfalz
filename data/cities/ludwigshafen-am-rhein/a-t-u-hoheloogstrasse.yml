@@ -1,11 +1,11 @@
 id: 78509629
-type: way
+type: node
 latitude: 49.45694
 longitude: 8.4311
 postcode: ""
 city: Ludwigshafen am Rhein
-street: "Hoheloogstraße"
-housenumber: 6
+street: Hoheloogstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

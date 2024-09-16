@@ -4,8 +4,8 @@ latitude: 50.14478
 longitude: 7.22369
 postcode: "56814"
 city: Ernst
-street: "Moselstraße"
-housenumber: 41
-phone: "+49 2671 7339"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.weingut-hommes.de/"
+street: Moselstraße
+housenumber: "41"
+phone: +49 2671 7339
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.weingut-hommes.de/

@@ -1,11 +1,11 @@
 id: 99170068
-type: way
+type: node
 latitude: 49.43356
 longitude: 7.75074
 postcode: "67663"
 city: Kaiserslautern
-street: "Am Gusswerk"
-housenumber: 2
+street: Am Gusswerk
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

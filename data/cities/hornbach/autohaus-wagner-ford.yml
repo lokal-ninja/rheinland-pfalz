@@ -1,11 +1,11 @@
 id: 399914548
-type: way
+type: node
 latitude: 49.18913
 longitude: 7.37131
 postcode: "66500"
 city: Hornbach
-street: "Zweibrücker Straße"
-housenumber: 13
-phone: "06338/99446-0"
+street: Zweibrücker Straße
+housenumber: "13"
+phone: 06338/99446-0
 opening_hours: ""
-website: "https://www.ford-autohaus-hornbach.de/"
+website: https://www.ford-autohaus-hornbach.de/

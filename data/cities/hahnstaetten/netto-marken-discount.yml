@@ -1,11 +1,11 @@
 id: 640578305
-type: way
+type: node
 latitude: 50.30956
 longitude: 8.06696
 postcode: "65623"
 city: Hahnstätten
-street: "Aarstraße"
-housenumber: 7
+street: Aarstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.netto-online.de/filialen/hahnstaetten/aarstr-7/3645"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.netto-online.de/filialen/hahnstaetten/aarstr-7/3645

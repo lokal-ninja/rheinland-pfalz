@@ -4,8 +4,9 @@ latitude: 49.63245
 longitude: 8.36362
 postcode: "67547"
 city: Worms
-street: "Kämmererstraße"
-housenumber: 42
-phone: "+49 6241 42810"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; Dec 24 09:30-14:00; Dec 31 09:30-13:00; PH off"
+street: Kämmererstraße
+housenumber: "42"
+phone: +49 6241 42810
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00; Dec 24 09:30-14:00; Dec 31 09:30-13:00;
+    PH off
 website: ""

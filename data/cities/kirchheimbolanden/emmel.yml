@@ -1,11 +1,11 @@
 id: 289723525
-type: way
+type: node
 latitude: 49.66208
 longitude: 8.02269
 postcode: "67292"
 city: Kirchheimbolanden
-street: "Kaiserstraße"
-housenumber: 17
+street: Kaiserstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.emmel-fachmarkt.de/"
+website: https://www.emmel-fachmarkt.de/

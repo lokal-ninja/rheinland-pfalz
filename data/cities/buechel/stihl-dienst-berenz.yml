@@ -1,11 +1,11 @@
 id: 541895243
-type: way
+type: node
 latitude: 50.17469
 longitude: 7.08986
 postcode: "56823"
 city: Büchel
-street: "Auf der Kunn"
-housenumber: 29
-phone: "+49 2678 1007"
+street: Auf der Kunn
+housenumber: "29"
+phone: +49 2678 1007
 opening_hours: ""
 website: ""

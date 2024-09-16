@@ -1,11 +1,11 @@
 id: 351514166
-type: way
+type: node
 latitude: 49.66754
 longitude: 8.01913
 postcode: "67292"
 city: Kirchheimbolanden
-street: "Bischheimer Straße"
-housenumber: 12
+street: Bischheimer Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

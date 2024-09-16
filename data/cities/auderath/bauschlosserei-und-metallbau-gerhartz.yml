@@ -1,11 +1,11 @@
 id: 491055474
-type: way
+type: node
 latitude: 50.19117
 longitude: 7.01096
 postcode: "56766"
 city: Auderath
-street: "Am Seitert"
-housenumber: 6
-phone: "+49 2676 910213"
+street: Am Seitert
+housenumber: "6"
+phone: +49 2676 910213
 opening_hours: ""
 website: ""

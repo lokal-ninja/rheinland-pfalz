@@ -1,11 +1,11 @@
 id: 163439711
-type: way
+type: node
 latitude: 50.37784
 longitude: 7.58116
 postcode: "56070"
 city: Koblenz
-street: "Am Berg"
-housenumber: 3
+street: Am Berg
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.moll-automobile.de/"
+website: https://www.moll-automobile.de/

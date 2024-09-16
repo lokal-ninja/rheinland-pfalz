@@ -4,8 +4,9 @@ latitude: 50.50195
 longitude: 7.49667
 postcode: "56579"
 city: Rengsdorf
-street: "Westerwaldstraße"
-housenumber: 21
+street: Westerwaldstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo,Tu closed; We-Fr 09:00-12:30,14:00-18:00; Sa 08:30-13:00; Su,PH closed"
+opening_hours: Mo,Tu closed; We-Fr 09:00-12:30,14:00-18:00; Sa 08:30-13:00; Su,PH
+    closed
 website: ""

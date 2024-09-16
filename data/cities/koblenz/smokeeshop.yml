@@ -4,8 +4,8 @@ latitude: 50.36073
 longitude: 7.59295
 postcode: "56068"
 city: Koblenz
-street: "Hohenfelder Straße"
-housenumber: 3
-phone: "+49 261 91489675"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-16:00; Su,PH off"
+street: Hohenfelder Straße
+housenumber: "3"
+phone: +49 261 91489675
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-16:00; Su,PH off
 website: ""

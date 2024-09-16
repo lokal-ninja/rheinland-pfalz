@@ -1,11 +1,11 @@
 id: 103478185
-type: way
+type: node
 latitude: 49.99804
 longitude: 8.21465
 postcode: "55124"
 city: Mainz
-street: "An der Ochsenwiese"
-housenumber: 
+street: An der Ochsenwiese
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

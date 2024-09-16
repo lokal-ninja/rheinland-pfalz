@@ -1,11 +1,11 @@
 id: 151976181
-type: way
+type: node
 latitude: 49.62786
 longitude: 6.56492
 postcode: "54441"
 city: Ayl
-street: "Trierer Straße"
-housenumber: 4
+street: Trierer Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://marios-garage.de/"
+website: https://marios-garage.de/

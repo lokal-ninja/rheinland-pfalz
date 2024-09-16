@@ -1,11 +1,11 @@
 id: 486403843
-type: way
+type: node
 latitude: 50.42763
 longitude: 7.35383
 postcode: "56626"
 city: Andernach
-street: "Eicherstraße"
-housenumber: 50
+street: Eicherstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

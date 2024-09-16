@@ -1,11 +1,11 @@
 id: 366930977
-type: way
+type: node
 latitude: 49.19344
 longitude: 7.84839
 postcode: "76846"
 city: Hauenstein
-street: "Bahnhofstraße"
-housenumber: 45
+street: Bahnhofstraße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

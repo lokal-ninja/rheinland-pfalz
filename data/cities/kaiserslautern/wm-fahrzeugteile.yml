@@ -1,11 +1,11 @@
 id: 197384974
-type: way
+type: node
 latitude: 49.44759
 longitude: 7.70753
 postcode: "67663"
 city: Kaiserslautern
-street: "Opelkreisel"
-housenumber: 28
-phone: "+49 631 41419150"
-opening_hours: "Mo-Th 07:45-18:00; Fr 07:45-17:00; Sa 08:00-13:00"
-website: "https://www.wm.de/de/unternehmen/standorte/details/kaiserslautern.html"
+street: Opelkreisel
+housenumber: "28"
+phone: +49 631 41419150
+opening_hours: Mo-Th 07:45-18:00; Fr 07:45-17:00; Sa 08:00-13:00
+website: https://www.wm.de/de/unternehmen/standorte/details/kaiserslautern.html

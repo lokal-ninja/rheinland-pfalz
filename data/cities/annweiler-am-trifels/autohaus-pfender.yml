@@ -1,11 +1,11 @@
 id: 324530347
-type: way
+type: node
 latitude: 49.20577
 longitude: 7.97437
 postcode: "76855"
 city: Annweiler am Trifels
-street: "Landauer Straße"
-housenumber: 68
+street: Landauer Straße
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.32432
 longitude: 7.2267
 postcode: "56727"
 city: Mayen
-street: "Polcher Straße"
-housenumber: 65
-phone: "+49 2233 939460"
-opening_hours: "Mo-Fr 09:00-19:00,Sa 09:00-18:00"
-website: "https://www.centershop.de/"
+street: Polcher Straße
+housenumber: "65"
+phone: +49 2233 939460
+opening_hours: Mo-Fr 09:00-19:00,Sa 09:00-18:00
+website: https://www.centershop.de/

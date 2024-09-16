@@ -4,8 +4,8 @@ latitude: 49.98535
 longitude: 6.89005
 postcode: "54516"
 city: Wittlich
-street: "Schloßplatz"
-housenumber: 6
-phone: "+49 1511 4146655"
-opening_hours: "Termine nach Vereinbarung"
-website: "https://dertrauringladenwittlich.de"
+street: Schloßplatz
+housenumber: "6"
+phone: +49 1511 4146655
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://dertrauringladenwittlich.de

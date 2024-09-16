@@ -1,11 +1,11 @@
 id: 258315059
-type: way
+type: node
 latitude: 49.85458
 longitude: 7.82518
 postcode: "55595"
 city: Hargesheim
-street: "Auf dem Rullstein"
-housenumber: 7
+street: Auf dem Rullstein
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

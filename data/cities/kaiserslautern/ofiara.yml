@@ -4,8 +4,8 @@ latitude: 49.44008
 longitude: 7.76108
 postcode: "67655"
 city: Kaiserslautern
-street: "Medicusstraße"
-housenumber: 23
+street: Medicusstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-We 07:30-14:00; Sa 07:30-13:00; Th,Fr 07:30-18:00"
-website: "http://www.metzgerei-kaiserslautern.de/"
+opening_hours: Mo-We 07:30-14:00; Sa 07:30-13:00; Th,Fr 07:30-18:00
+website: http://www.metzgerei-kaiserslautern.de/

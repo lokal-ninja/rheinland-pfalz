@@ -4,8 +4,8 @@ latitude: 49.93189
 longitude: 7.30871
 postcode: "55487"
 city: Sohren
-street: "Hauptstraße"
-housenumber: 22
+street: Hauptstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-22:00"
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-22:00
 website: ""

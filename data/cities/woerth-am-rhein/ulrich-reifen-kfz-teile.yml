@@ -1,11 +1,11 @@
 id: 88383682
-type: way
+type: node
 latitude: 49.06188
 longitude: 8.26645
 postcode: "76744"
 city: Wörth am Rhein
-street: "In den Niederwiesen"
-housenumber: 18
+street: In den Niederwiesen
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "http://www.reifen-ulrich.de/"
+website: http://www.reifen-ulrich.de/

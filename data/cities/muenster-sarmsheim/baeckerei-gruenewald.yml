@@ -4,8 +4,8 @@ latitude: 49.94651
 longitude: 7.89614
 postcode: "55424"
 city: Münster-Sarmsheim
-street: "Rheinstraße"
-housenumber: 57
-phone: "+49 6721 153053"
-opening_hours: "Mo-Fr 06:00-12:00,14:00-18:00, Sa 06:00-13:00; PH,Su 07:30-10:30"
-website: "https://www.baeckerei-gruenewald.de/"
+street: Rheinstraße
+housenumber: "57"
+phone: +49 6721 153053
+opening_hours: Mo-Fr 06:00-12:00,14:00-18:00, Sa 06:00-13:00; PH,Su 07:30-10:30
+website: https://www.baeckerei-gruenewald.de/

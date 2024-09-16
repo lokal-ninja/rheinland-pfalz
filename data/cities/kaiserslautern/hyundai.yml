@@ -1,11 +1,11 @@
 id: 106369318
-type: way
+type: node
 latitude: 49.44377
 longitude: 7.78555
 postcode: "67655"
 city: Kaiserslautern
-street: "August-Herrmann-Straße"
-housenumber: 2
+street: August-Herrmann-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

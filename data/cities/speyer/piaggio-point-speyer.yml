@@ -4,8 +4,8 @@ latitude: 49.3055
 longitude: 8.44637
 postcode: "67346"
 city: Speyer
-street: "Industriestraße"
-housenumber: 38
-phone: "+49 6232 687040"
-opening_hours: "Mo-We 9:30-18:00; Th,Fr 9:30-12:00,13:00-18:00; Sa 10:00-14:00"
-website: "https://www.piaggio-point-speyer.de/"
+street: Industriestraße
+housenumber: "38"
+phone: +49 6232 687040
+opening_hours: Mo-We 9:30-18:00; Th,Fr 9:30-12:00,13:00-18:00; Sa 10:00-14:00
+website: https://www.piaggio-point-speyer.de/

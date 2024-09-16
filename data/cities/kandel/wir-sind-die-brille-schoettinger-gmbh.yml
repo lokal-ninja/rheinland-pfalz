@@ -4,8 +4,8 @@ latitude: 49.08211
 longitude: 8.19611
 postcode: "76870"
 city: Kandel
-street: "Hauptstraße"
-housenumber: 92
+street: Hauptstraße
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://www.schoettinger.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://www.schoettinger.de/

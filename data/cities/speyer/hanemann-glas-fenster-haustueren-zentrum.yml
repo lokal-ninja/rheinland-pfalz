@@ -1,11 +1,11 @@
 id: 777193692
-type: way
+type: node
 latitude: 49.3352
 longitude: 8.44045
 postcode: "67346"
 city: Speyer
-street: "Nachtweide"
-housenumber: 8
+street: Nachtweide
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

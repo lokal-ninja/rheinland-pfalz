@@ -4,8 +4,8 @@ latitude: 49.97578
 longitude: 8.05488
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Georg-Rückert-Straße"
-housenumber: 4
-phone: "+49 6132 8998602"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH off"
+street: Georg-Rückert-Straße
+housenumber: "4"
+phone: +49 6132 8998602
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH off
 website: ""

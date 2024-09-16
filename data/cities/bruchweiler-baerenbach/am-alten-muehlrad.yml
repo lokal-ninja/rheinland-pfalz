@@ -1,11 +1,11 @@
 id: 294496841
-type: way
+type: node
 latitude: 49.11258
 longitude: 7.80335
 postcode: "76891"
 city: Bruchweiler-Bärenbach
-street: "Hauptstraße"
-housenumber: 22
+street: Hauptstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

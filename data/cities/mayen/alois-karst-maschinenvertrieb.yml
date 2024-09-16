@@ -4,8 +4,8 @@ latitude: 50.32161
 longitude: 7.22991
 postcode: "56727"
 city: Mayen
-street: "Polcher Straße"
-housenumber: 103
-phone: "+49 2651 5051"
-opening_hours: "Mo-Fr 08:00-12:10,13:00-17:00; Sa 08:00-12:00"
-website: "https://www.kast-mayen.de/"
+street: Polcher Straße
+housenumber: "103"
+phone: +49 2651 5051
+opening_hours: Mo-Fr 08:00-12:10,13:00-17:00; Sa 08:00-12:00
+website: https://www.kast-mayen.de/

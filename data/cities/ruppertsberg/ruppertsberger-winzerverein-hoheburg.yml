@@ -1,11 +1,11 @@
 id: 161877457
-type: way
+type: node
 latitude: 49.39911
 longitude: 8.20409
 postcode: "67152"
 city: Ruppertsberg
-street: "Hauptstraße"
-housenumber: 94
+street: Hauptstraße
+housenumber: "94"
 phone: ""
 opening_hours: ""
-website: "https://www.ruppertsberger.de/"
+website: https://www.ruppertsberger.de/

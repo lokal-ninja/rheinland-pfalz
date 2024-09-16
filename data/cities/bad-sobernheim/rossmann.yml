@@ -1,11 +1,11 @@
 id: 192073200
-type: way
+type: node
 latitude: 49.78259
 longitude: 7.65374
 postcode: "55566"
 city: Bad Sobernheim
-street: "Poststraße"
-housenumber: 20
+street: Poststraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

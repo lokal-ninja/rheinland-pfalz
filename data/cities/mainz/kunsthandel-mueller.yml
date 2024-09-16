@@ -4,8 +4,8 @@ latitude: 50.00352
 longitude: 8.27346
 postcode: "55116"
 city: Mainz
-street: "Rheinstraße"
-housenumber: 101
-phone: "+49 6131 223873"
-opening_hours: "Mo-Fr 09:30-13:00,15:00-18:30; Sa 09:30-14:00"
-website: "http://www.rahmen-mueller-mainz.de"
+street: Rheinstraße
+housenumber: "101"
+phone: +49 6131 223873
+opening_hours: Mo-Fr 09:30-13:00,15:00-18:30; Sa 09:30-14:00
+website: http://www.rahmen-mueller-mainz.de

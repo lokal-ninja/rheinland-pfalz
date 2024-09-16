@@ -1,11 +1,12 @@
 id: 703464369
-type: way
+type: node
 latitude: 50.54188
 longitude: 7.2462
 postcode: "53489"
 city: Sinzig
-street: "Koisdorfer Straße"
-housenumber: 8
-phone: "+49 2642 42389"
-opening_hours: "Mo 08:30-12:30; Th-Fr 08:30-12:30, 14:00-18:30; Sa 08:30-13:00; PH off"
-website: "https://www.blumen-hammer.de"
+street: Koisdorfer Straße
+housenumber: "8"
+phone: +49 2642 42389
+opening_hours: Mo 08:30-12:30; Th-Fr 08:30-12:30, 14:00-18:30; Sa 08:30-13:00; PH
+    off
+website: https://www.blumen-hammer.de

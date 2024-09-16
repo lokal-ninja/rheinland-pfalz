@@ -1,11 +1,11 @@
 id: 98477264
-type: way
+type: node
 latitude: 50.54774
 longitude: 7.25781
 postcode: "53489"
 city: Sinzig
-street: "Industriestraße"
-housenumber: 10
+street: Industriestraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/service/filiale.storeName=DE8130.html"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/service/filiale.storeName=DE8130.html

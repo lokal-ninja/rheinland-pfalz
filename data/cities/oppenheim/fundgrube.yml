@@ -1,11 +1,11 @@
 id: 234325110
-type: way
+type: node
 latitude: 49.84753
 longitude: 8.35544
 postcode: "55276"
 city: Oppenheim
-street: "In der Kette"
-housenumber: 12
+street: In der Kette
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 8:00-19:00; Sa 8:00-16:00; Su off"
+opening_hours: Mo-Fr 8:00-19:00; Sa 8:00-16:00; Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 939476872
-type: way
+type: node
 latitude: 50.01325
 longitude: 8.23161
 postcode: "55120"
 city: Mainz
-street: "Erzbergerstraße"
-housenumber: 77
+street: Erzbergerstraße
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

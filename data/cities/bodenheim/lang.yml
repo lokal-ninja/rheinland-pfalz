@@ -1,11 +1,11 @@
 id: 30854249
-type: way
+type: node
 latitude: 49.92194
 longitude: 8.32431
 postcode: "55294"
 city: Bodenheim
-street: "Wormser Straße"
-housenumber: 100
+street: Wormser Straße
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

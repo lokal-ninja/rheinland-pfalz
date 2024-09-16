@@ -1,11 +1,11 @@
 id: 599113325
-type: way
+type: node
 latitude: 50.39447
 longitude: 7.3855
 postcode: "56637"
 city: Plaidt
-street: "Rathausstraße"
-housenumber: 1
+street: Rathausstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

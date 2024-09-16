@@ -4,8 +4,8 @@ latitude: 50.2359
 longitude: 7.13476
 postcode: "56759"
 city: Kaisersesch
-street: "Amselweg"
-housenumber: 19
-phone: "+49 2653 912340"
-opening_hours: "Sommer-/Winterzeit"
+street: Amselweg
+housenumber: "19"
+phone: +49 2653 912340
+opening_hours: '"Sommer-/Winterzeit"'
 website: ""

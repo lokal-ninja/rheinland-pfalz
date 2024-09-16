@@ -1,11 +1,11 @@
 id: 147961193
-type: way
+type: node
 latitude: 50.516
 longitude: 7.29141
 postcode: "53498"
 city: Bad Breisig
-street: "Gartenstraße"
-housenumber: 42
-phone: "+49 2633 200386"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+street: Gartenstraße
+housenumber: "42"
+phone: +49 2633 200386
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

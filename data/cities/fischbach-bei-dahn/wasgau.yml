@@ -1,11 +1,11 @@
 id: 288923298
-type: way
+type: node
 latitude: 49.08715
 longitude: 7.70997
 postcode: "66996"
 city: Fischbach bei Dahn
-street: "Hanauerweg"
-housenumber: 2
+street: Hanauerweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-18:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.44144
 longitude: 8.35333
 postcode: "67112"
 city: Mutterstadt
-street: "Neustadter Straße"
-housenumber: 17
+street: Neustadter Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We 09:00-12:30; Sa 09:30-12:30"
-website: "https://www.augenoptik-horst.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We 09:00-12:30; Sa 09:30-12:30
+website: https://www.augenoptik-horst.de/

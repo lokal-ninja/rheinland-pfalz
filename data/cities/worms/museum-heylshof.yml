@@ -1,11 +1,11 @@
 id: 690655732
-type: way
+type: node
 latitude: 49.63135
 longitude: 8.35986
 postcode: "67547"
 city: Worms
-street: "Stephansgasse"
-housenumber: 9
+street: Stephansgasse
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "http://www.museum-heylshof.de/"
+website: http://www.museum-heylshof.de/

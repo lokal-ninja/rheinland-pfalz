@@ -4,8 +4,8 @@ latitude: 49.09722
 longitude: 8.27957
 postcode: "76751"
 city: Jockgrim
-street: "Schelmenwaldplatz"
-housenumber: 2
+street: Schelmenwaldplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Th-Fr 14:00-18:00, Sa-Su 06:00-11:00"
-website: "https://www.baeckerei-mandery.de/"
+opening_hours: Th-Fr 14:00-18:00, Sa-Su 06:00-11:00
+website: https://www.baeckerei-mandery.de/

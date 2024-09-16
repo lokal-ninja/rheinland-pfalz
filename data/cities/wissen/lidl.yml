@@ -1,11 +1,11 @@
 id: 176276652
-type: way
+type: node
 latitude: 50.77548
 longitude: 7.72575
 postcode: "57537"
 city: Wissen
-street: "In der Deubach"
-housenumber: 2
+street: In der Deubach
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/filialen/wissen/in-der-deubach-2.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/filialen/wissen/in-der-deubach-2.html

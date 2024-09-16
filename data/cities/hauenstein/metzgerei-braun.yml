@@ -1,11 +1,11 @@
 id: 353679315
-type: way
+type: node
 latitude: 49.19144
 longitude: 7.85653
 postcode: "76846"
 city: Hauenstein
-street: "Hauptstraße"
-housenumber: 19
+street: Hauptstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.braun-1905.de/"
+website: https://www.braun-1905.de/

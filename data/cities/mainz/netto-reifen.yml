@@ -1,11 +1,11 @@
 id: 77811195
-type: way
+type: node
 latitude: 49.97048
 longitude: 8.26912
 postcode: "55129"
 city: Mainz
-street: "Friedrich-Koenig-Straße"
-housenumber: 6
+street: Friedrich-Koenig-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.reifendiscount.de"
+website: http://www.reifendiscount.de

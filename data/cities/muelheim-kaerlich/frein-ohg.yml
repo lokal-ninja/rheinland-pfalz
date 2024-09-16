@@ -1,11 +1,11 @@
 id: 172629598
-type: way
+type: node
 latitude: 50.39265
 longitude: 7.5402
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Hinter der Jungenstraße"
-housenumber: 7
-phone: "+49 261 27999"
-opening_hours: "Mo-Th 07:30-17:15; Fr 07:30-15:00; PH off"
-website: "https://www.boschcarservice.com/de/de/werkstatt/frein-muelheim-kaerlich"
+street: Hinter der Jungenstraße
+housenumber: "7"
+phone: +49 261 27999
+opening_hours: Mo-Th 07:30-17:15; Fr 07:30-15:00; PH off
+website: https://www.boschcarservice.com/de/de/werkstatt/frein-muelheim-kaerlich

@@ -1,11 +1,11 @@
 id: 324495934
-type: way
+type: node
 latitude: 49.20473
 longitude: 7.9586
 postcode: "76855"
 city: Annweiler am Trifels
-street: "Zweibrücker Straße"
-housenumber: 17
+street: Zweibrücker Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

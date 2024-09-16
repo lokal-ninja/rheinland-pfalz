@@ -4,8 +4,8 @@ latitude: 49.31731
 longitude: 8.43205
 postcode: "67346"
 city: Speyer
-street: "Karmeliterstraße"
-housenumber: 1
-phone: "+49 6232 9807710"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 08:00-17:00"
-website: "https://baeckerei-wilhelmi.de"
+street: Karmeliterstraße
+housenumber: "1"
+phone: +49 6232 9807710
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 08:00-17:00
+website: https://baeckerei-wilhelmi.de

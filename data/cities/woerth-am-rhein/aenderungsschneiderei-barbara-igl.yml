@@ -4,8 +4,8 @@ latitude: 49.05159
 longitude: 8.26875
 postcode: "76744"
 city: Wörth am Rhein
-street: "Ludwigstraße"
-housenumber: 9
-phone: "+49-177-7674400"
-opening_hours: "Tu-We 09:00-12:00; Th-Fr 15:00-18:00"
+street: Ludwigstraße
+housenumber: "9"
+phone: +49-177-7674400
+opening_hours: Tu-We 09:00-12:00; Th-Fr 15:00-18:00
 website: ""

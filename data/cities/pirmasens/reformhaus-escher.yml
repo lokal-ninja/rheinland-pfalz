@@ -4,8 +4,8 @@ latitude: 49.1982
 longitude: 7.60527
 postcode: "66953"
 city: Pirmasens
-street: "Hauptstraße"
-housenumber: 47
-phone: "+49-6331-41871"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "http://www.reformhaus-escher.de/filiale_RP_Pirmasens.html"
+street: Hauptstraße
+housenumber: "47"
+phone: +49-6331-41871
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: http://www.reformhaus-escher.de/filiale_RP_Pirmasens.html

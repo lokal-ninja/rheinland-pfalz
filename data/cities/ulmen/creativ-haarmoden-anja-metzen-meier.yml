@@ -1,11 +1,11 @@
 id: 120225989
-type: way
+type: node
 latitude: 50.21004
 longitude: 6.98727
 postcode: "56766"
 city: Ulmen
-street: "Im Großen Garten"
-housenumber: 68
-phone: "+49 2676 8327"
+street: Im Großen Garten
+housenumber: "68"
+phone: +49 2676 8327
 opening_hours: ""
-website: "http://www.creativ-haarmoden.de/"
+website: http://www.creativ-haarmoden.de/

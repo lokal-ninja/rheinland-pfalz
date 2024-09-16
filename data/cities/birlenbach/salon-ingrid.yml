@@ -4,8 +4,8 @@ latitude: 50.35786
 longitude: 8.00258
 postcode: "65626"
 city: Birlenbach
-street: "Schulstraße"
-housenumber: 9
-phone: "+49 (0) 6432 81269"
-opening_hours: "Tu-Fr 09:00-17:00"
-website: "https://www.salon-ingrid-birlenbach.de/"
+street: Schulstraße
+housenumber: "9"
+phone: +49 (0) 6432 81269
+opening_hours: Tu-Fr 09:00-17:00
+website: https://www.salon-ingrid-birlenbach.de/

@@ -1,11 +1,11 @@
 id: 853251557
-type: way
+type: node
 latitude: 49.73125
 longitude: 7.30876
 postcode: "55743"
 city: Idar-Oberstein
-street: "Veitsrodter Straße"
-housenumber: 3
+street: Veitsrodter Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

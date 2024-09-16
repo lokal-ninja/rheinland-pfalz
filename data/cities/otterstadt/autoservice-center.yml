@@ -1,11 +1,11 @@
 id: 288357184
-type: way
+type: node
 latitude: 49.37204
 longitude: 8.46024
 postcode: "67166"
 city: Otterstadt
-street: "Kollerstraße"
-housenumber: 9
+street: Kollerstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

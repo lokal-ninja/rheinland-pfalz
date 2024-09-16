@@ -1,11 +1,11 @@
 id: 904228215
-type: way
+type: node
 latitude: 49.86755
 longitude: 7.33522
 postcode: "55624"
 city: Rhaunen
-street: "Im Weiersweiler"
-housenumber: 3
+street: Im Weiersweiler
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

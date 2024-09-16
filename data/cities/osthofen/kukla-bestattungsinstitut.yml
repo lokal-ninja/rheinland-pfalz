@@ -1,11 +1,11 @@
 id: 234549198
-type: way
+type: node
 latitude: 49.70843
 longitude: 8.3338
 postcode: "67574"
 city: Osthofen
-street: "Ringstraße"
-housenumber: 28
+street: Ringstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

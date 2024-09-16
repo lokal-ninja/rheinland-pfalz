@@ -1,11 +1,11 @@
 id: 345271496
-type: way
+type: node
 latitude: 49.9117
 longitude: 6.95443
 postcode: "54518"
 city: Osann-Monzel
-street: "Moselstraße"
-housenumber: 52
-phone: "+49 6535 7140"
+street: Moselstraße
+housenumber: "52"
+phone: +49 6535 7140
 opening_hours: ""
-website: "https://www.mathy-schanz.de/"
+website: https://www.mathy-schanz.de/

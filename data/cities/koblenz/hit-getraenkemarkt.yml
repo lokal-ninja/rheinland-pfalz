@@ -4,8 +4,8 @@ latitude: 50.36384
 longitude: 7.57615
 postcode: "56073"
 city: Koblenz
-street: "Schlachthofstraße"
-housenumber: 66
+street: Schlachthofstraße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.hit.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.hit.de/

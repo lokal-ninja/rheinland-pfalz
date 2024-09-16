@@ -1,11 +1,11 @@
 id: 89099056
-type: way
+type: node
 latitude: 50.62464
 longitude: 7.21923
 postcode: "53619"
 city: Rheinbreitbach
-street: "Im unteren Maarfeld"
-housenumber: 22
+street: Im unteren Maarfeld
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

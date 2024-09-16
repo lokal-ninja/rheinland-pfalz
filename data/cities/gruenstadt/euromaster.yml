@@ -1,11 +1,11 @@
 id: 378899088
-type: way
+type: node
 latitude: 49.55965
 longitude: 8.17564
 postcode: "67269"
 city: Grünstadt
-street: "Industriestraße"
-housenumber: 16
-phone: "+49 6359 83022"
+street: Industriestraße
+housenumber: "16"
+phone: +49 6359 83022
 opening_hours: ""
-website: "https://filiale.euromaster.de/23267-euromaster-gruenstadt-pfalz"
+website: https://filiale.euromaster.de/23267-euromaster-gruenstadt-pfalz

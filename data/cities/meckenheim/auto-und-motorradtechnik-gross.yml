@@ -1,11 +1,11 @@
 id: 690523643
-type: way
+type: node
 latitude: 49.40282
 longitude: 8.24137
 postcode: "67149"
 city: Meckenheim
-street: "Haßlocher Straße"
-housenumber: 6
+street: Haßlocher Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

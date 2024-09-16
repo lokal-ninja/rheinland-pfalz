@@ -1,11 +1,11 @@
 id: 426868213
-type: way
+type: node
 latitude: 49.41824
 longitude: 8.4157
 postcode: "67141"
 city: Neuhofen
-street: "Industriestraße"
-housenumber: 20
+street: Industriestraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

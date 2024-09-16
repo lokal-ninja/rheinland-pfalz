@@ -1,11 +1,11 @@
 id: 29191407
-type: way
+type: node
 latitude: 49.72888
 longitude: 7.32138
 postcode: "55743"
 city: Idar-Oberstein
-street: "Vollmersbachstraße"
-housenumber: 75
+street: Vollmersbachstraße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su off; PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su off; PH off
 website: ""

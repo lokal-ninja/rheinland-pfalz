@@ -1,11 +1,11 @@
 id: 378010690
-type: way
+type: node
 latitude: 50.0007
 longitude: 8.21476
 postcode: "55124"
 city: Mainz
-street: "Mainzer Straße"
-housenumber: 84
+street: Mainzer Straße
+housenumber: "84"
 phone: ""
 opening_hours: ""
 website: ""

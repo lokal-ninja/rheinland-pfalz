@@ -4,8 +4,9 @@ latitude: 49.72822
 longitude: 6.6152
 postcode: "54294"
 city: Trier
-street: "Diedenhofenerstraße"
-housenumber: 26
-phone: "+49 651 99217146"
-opening_hours: "Tu-Fr 15:00-18:00; We 10:00-12:00,15:00-18:00; PH off; Sa[1] 10:00-14:00; Sa[3] 10:00-14:00"
-website: "https://www.chicundscharf.com"
+street: Diedenhofenerstraße
+housenumber: "26"
+phone: +49 651 99217146
+opening_hours: Tu-Fr 15:00-18:00; We 10:00-12:00,15:00-18:00; PH off; Sa[1] 10:00-14:00;
+    Sa[3] 10:00-14:00
+website: https://www.chicundscharf.com

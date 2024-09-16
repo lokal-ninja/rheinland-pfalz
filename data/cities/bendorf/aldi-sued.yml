@@ -1,11 +1,11 @@
 id: 115773807
-type: way
+type: node
 latitude: 50.42721
 longitude: 7.56437
 postcode: "56170"
 city: Bendorf
-street: "Brauereistraße"
-housenumber: 44
+street: Brauereistraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

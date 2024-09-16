@@ -1,11 +1,11 @@
 id: 146931089
-type: way
+type: node
 latitude: 49.74251
 longitude: 6.61642
 postcode: "54294"
 city: Trier
-street: "Nikolaus-Theis-Straße"
-housenumber: 10
+street: Nikolaus-Theis-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-12:30"
+opening_hours: Mo-Fr 08:00-18:00; Sa 10:00-12:30
 website: ""

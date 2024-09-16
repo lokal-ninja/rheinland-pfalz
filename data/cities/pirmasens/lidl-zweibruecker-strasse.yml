@@ -1,11 +1,11 @@
 id: 193598579
-type: way
+type: node
 latitude: 49.21317
 longitude: 7.598
 postcode: "66953"
 city: Pirmasens
-street: "Zweibrücker Straße"
-housenumber: 116
+street: Zweibrücker Straße
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.lidl.de/f/pirmasens/zweibruecker-str-116.html"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.lidl.de/f/pirmasens/zweibruecker-str-116.html

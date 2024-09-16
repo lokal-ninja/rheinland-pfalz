@@ -1,11 +1,11 @@
 id: 174433507
-type: way
+type: node
 latitude: 50.84051
 longitude: 7.8588
 postcode: "57572"
 city: Niederfischbach
-street: "Krumme Au"
-housenumber: 2
-phone: "+49 2741 7090"
+street: Krumme Au
+housenumber: "2"
+phone: +49 2741 7090
 opening_hours: ""
-website: "https://www.baufachcentrum.de/willkommen/"
+website: https://www.baufachcentrum.de/willkommen/

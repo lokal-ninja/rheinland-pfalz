@@ -4,8 +4,8 @@ latitude: 50.45486
 longitude: 7.20293
 postcode: "56651"
 city: Oberzissen
-street: "Brohltalstraße"
-housenumber: 10
-phone: "+49 2636 6585"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://oldtimer-friedrichs.de/"
+street: Brohltalstraße
+housenumber: "10"
+phone: +49 2636 6585
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://oldtimer-friedrichs.de/

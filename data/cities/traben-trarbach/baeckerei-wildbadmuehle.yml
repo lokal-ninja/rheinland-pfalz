@@ -4,8 +4,8 @@ latitude: 49.95721
 longitude: 7.12467
 postcode: "56841"
 city: Traben-Trarbach
-street: "Neue Straße"
-housenumber: 1
-phone: "+49 6541 812197"
-opening_hours: "Mo-Fr 06:00-19:00"
-website: "https://www.wildbadmuehle.de/"
+street: Neue Straße
+housenumber: "1"
+phone: +49 6541 812197
+opening_hours: Mo-Fr 06:00-19:00
+website: https://www.wildbadmuehle.de/

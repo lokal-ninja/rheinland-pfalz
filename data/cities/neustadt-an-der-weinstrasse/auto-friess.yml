@@ -4,8 +4,8 @@ latitude: 49.32879
 longitude: 8.20298
 postcode: "67435"
 city: Neustadt an der Weinstraße
-street: "Flugplatzstraße"
-housenumber: 64
-phone: "+49 6327 5773"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00"
-website: "http://www.auto-friess.de"
+street: Flugplatzstraße
+housenumber: "64"
+phone: +49 6327 5773
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00
+website: http://www.auto-friess.de

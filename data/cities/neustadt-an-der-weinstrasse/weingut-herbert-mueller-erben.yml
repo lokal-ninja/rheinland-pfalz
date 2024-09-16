@@ -1,11 +1,11 @@
 id: 415742167
-type: way
+type: node
 latitude: 49.3697
 longitude: 8.14281
 postcode: "67433"
 city: Neustadt an der Weinstraße
-street: "Mandelring"
-housenumber: 169
+street: Mandelring
+housenumber: "169"
 phone: ""
 opening_hours: ""
 website: ""

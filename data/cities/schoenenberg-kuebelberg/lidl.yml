@@ -1,11 +1,11 @@
 id: 228393495
-type: way
+type: node
 latitude: 49.40398
 longitude: 7.35504
 postcode: "66901"
 city: Schönenberg-Kübelberg
-street: "Am Kübelberg"
-housenumber: 1
+street: Am Kübelberg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

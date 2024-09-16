@@ -1,11 +1,11 @@
 id: 320018607
-type: way
+type: node
 latitude: 49.99171
 longitude: 7.1185
 postcode: "56850"
 city: Enkirch
-street: "Carl-Benz-Straße"
-housenumber: 19
-phone: "+49 6541 1608"
-opening_hours: "Mo-Th 08:00-12:00, 13:00-17:00, Fr 08:00-12:00; PH closed"
-website: "http://winzerbedarf-enkirch.de"
+street: Carl-Benz-Straße
+housenumber: "19"
+phone: +49 6541 1608
+opening_hours: Mo-Th 08:00-12:00, 13:00-17:00, Fr 08:00-12:00; PH closed
+website: http://winzerbedarf-enkirch.de

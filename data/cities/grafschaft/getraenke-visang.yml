@@ -1,11 +1,11 @@
 id: 666482690
-type: way
-latitude: 50.5661
-longitude: 7.11226
+type: node
+latitude: 50.56608
+longitude: 7.11228
 postcode: "53501"
 city: Grafschaft
-street: "Weierstraße"
-housenumber: 1
+street: Weierstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.tankwirt.de/"
+website: https://www.tankwirt.de/

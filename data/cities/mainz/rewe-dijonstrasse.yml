@@ -1,11 +1,11 @@
 id: 193900865
-type: way
+type: node
 latitude: 49.99731
 longitude: 8.23146
 postcode: "55122"
 city: Mainz
-street: "Dijonstraße"
-housenumber: 97
+street: Dijonstraße
+housenumber: "97"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

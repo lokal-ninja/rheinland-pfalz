@@ -1,11 +1,11 @@
 id: 319058756
-type: way
+type: node
 latitude: 50.37204
 longitude: 8.0329
 postcode: "65582"
 city: Diez
-street: "Am Backsteinbrand"
-housenumber: 2
-phone: "+49 6432 62001"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"
-website: "https://vergoelst.de/branches/vergoelst-diez-am-backsteinbrand.html"
+street: Am Backsteinbrand
+housenumber: "2"
+phone: +49 6432 62001
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:00
+website: https://vergoelst.de/branches/vergoelst-diez-am-backsteinbrand.html

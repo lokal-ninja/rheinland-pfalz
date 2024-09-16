@@ -4,8 +4,8 @@ latitude: 50.01137
 longitude: 8.26239
 postcode: "55118"
 city: Mainz
-street: "Rheinallee"
-housenumber: 51
-phone: "+49 6131 1436469"
+street: Rheinallee
+housenumber: "51"
+phone: +49 6131 1436469
 opening_hours: ""
-website: "http://www.autogutachten-mainz.de/"
+website: http://www.autogutachten-mainz.de/

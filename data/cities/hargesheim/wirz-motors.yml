@@ -1,11 +1,11 @@
 id: 788899139
-type: way
+type: node
 latitude: 49.85759
 longitude: 7.82607
 postcode: "55595"
 city: Hargesheim
-street: "Lindenstraße"
-housenumber: 5
-phone: "+49 67192035844"
+street: Lindenstraße
+housenumber: "5"
+phone: +49 67192035844
 opening_hours: ""
-website: "https://www.wirz-motors.de/"
+website: https://www.wirz-motors.de/

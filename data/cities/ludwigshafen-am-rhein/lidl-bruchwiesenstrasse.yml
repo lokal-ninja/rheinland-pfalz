@@ -1,11 +1,11 @@
 id: 192676325
-type: way
+type: node
 latitude: 49.47695
 longitude: 8.42231
 postcode: "67059"
 city: Ludwigshafen am Rhein
-street: "Bruchwiesenstraße"
-housenumber: 301
+street: Bruchwiesenstraße
+housenumber: "301"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
 website: ""

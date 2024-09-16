@@ -1,11 +1,11 @@
 id: 157469005
-type: way
+type: node
 latitude: 50.00866
 longitude: 8.24712
 postcode: "55122"
 city: Mainz
-street: "Mombacher Straße"
-housenumber: 42
-phone: "+49 6131 31055"
+street: Mombacher Straße
+housenumber: "42"
+phone: +49 6131 31055
 opening_hours: ""
-website: "https://vergoelst.de/MAINZ"
+website: https://vergoelst.de/MAINZ

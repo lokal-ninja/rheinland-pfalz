@@ -1,11 +1,11 @@
 id: 235741132
-type: way
+type: node
 latitude: 50.55151
 longitude: 7.66096
 postcode: "56269"
 city: Dierdorf
-street: "Elgerter Straße"
-housenumber: 9
+street: Elgerter Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "http://www.kfz-langemann.de/cms/"
+website: http://www.kfz-langemann.de/cms/

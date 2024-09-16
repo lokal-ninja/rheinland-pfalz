@@ -1,11 +1,11 @@
 id: 315463469
-type: way
+type: node
 latitude: 49.27673
 longitude: 7.63286
 postcode: "67714"
 city: Waldfischbach-Burgalben
-street: "Moschelmühle"
-housenumber: 1
+street: Moschelmühle
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://alldrink.de/maerkte?markt=451"
+website: https://alldrink.de/maerkte?markt=451

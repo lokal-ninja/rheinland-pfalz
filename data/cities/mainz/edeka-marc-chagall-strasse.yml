@@ -4,8 +4,8 @@ latitude: 49.9721
 longitude: 8.18891
 postcode: "55127"
 city: Mainz
-street: "Marc-Chagall-Straße"
-housenumber: 61
-phone: "+49 6131 949200"
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: "https://www.edeka.de/marktsuche.jsp"
+street: Marc-Chagall-Straße
+housenumber: "61"
+phone: +49 6131 949200
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
+website: https://www.edeka.de/marktsuche.jsp

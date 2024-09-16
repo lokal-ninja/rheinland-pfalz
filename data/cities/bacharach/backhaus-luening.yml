@@ -4,8 +4,8 @@ latitude: 50.05803
 longitude: 7.76838
 postcode: "55422"
 city: Bacharach
-street: "Oberstraße"
-housenumber: 8
-phone: "+49 6743 1312"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 06:30-12:30; Su 08:00-11:00"
-website: "https://www.backhaus-luening.de/"
+street: Oberstraße
+housenumber: "8"
+phone: +49 6743 1312
+opening_hours: Mo-Fr 06:30-17:00; Sa 06:30-12:30; Su 08:00-11:00
+website: https://www.backhaus-luening.de/

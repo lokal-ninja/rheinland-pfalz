@@ -1,11 +1,11 @@
 id: 400170077
-type: way
+type: node
 latitude: 49.20434
 longitude: 7.3721
 postcode: "66484"
 city: Althornbach
-street: "Am Bahnhof"
+street: Am Bahnhof
 housenumber: 2a
 phone: "+496338477"
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-16:30"
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-16:30
 website: ""

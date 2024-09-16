@@ -4,8 +4,8 @@ latitude: 49.91557
 longitude: 7.07598
 postcode: "54470"
 city: Bernkastel-Kues
-street: "Markt"
-housenumber: 32
-phone: "+49 6531 30 40"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-18:00"
-website: "https://www.kronser.de/"
+street: Markt
+housenumber: "32"
+phone: +49 6531 30 40
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-18:00
+website: https://www.kronser.de/

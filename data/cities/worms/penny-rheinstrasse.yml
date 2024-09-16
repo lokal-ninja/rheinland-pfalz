@@ -1,11 +1,11 @@
 id: 208609020
-type: way
+type: node
 latitude: 49.63202
 longitude: 8.3697
 postcode: "67547"
 city: Worms
-street: "Rheinstraße"
-housenumber: 31
+street: Rheinstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

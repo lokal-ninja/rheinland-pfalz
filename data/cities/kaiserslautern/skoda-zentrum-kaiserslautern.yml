@@ -1,11 +1,11 @@
 id: 173692755
-type: way
+type: node
 latitude: 49.44551
 longitude: 7.7924
 postcode: "67657"
 city: Kaiserslautern
-street: "Mannheimer Straße"
-housenumber: 147
-phone: "+49 631 341660"
+street: Mannheimer Straße
+housenumber: "147"
+phone: +49 631 341660
 opening_hours: ""
-website: "https://www-kaiserslautern.skoda-auto.de/"
+website: https://www-kaiserslautern.skoda-auto.de/

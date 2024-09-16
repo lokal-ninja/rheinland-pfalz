@@ -4,8 +4,8 @@ latitude: 49.94008
 longitude: 8.2156
 postcode: "55270"
 city: Klein-Winternheim
-street: "Hauptstraße"
-housenumber: 42
-phone: "+49 6136 89219"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.schreiber-kiebler.de"
+street: Hauptstraße
+housenumber: "42"
+phone: +49 6136 89219
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.schreiber-kiebler.de

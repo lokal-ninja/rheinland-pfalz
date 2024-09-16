@@ -1,11 +1,11 @@
 id: 157565864
-type: way
+type: node
 latitude: 49.08554
 longitude: 8.21192
 postcode: "76870"
 city: Kandel
-street: "Klärstraße"
-housenumber: 2
+street: Klärstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

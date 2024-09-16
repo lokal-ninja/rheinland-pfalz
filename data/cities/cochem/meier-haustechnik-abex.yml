@@ -4,8 +4,8 @@ latitude: 50.14969
 longitude: 7.15883
 postcode: "56812"
 city: Cochem
-street: "Endertstraße"
-housenumber: 80
-phone: "+49 2671 603969"
-opening_hours: "Mo-Th 07:15-16:30"
+street: Endertstraße
+housenumber: "80"
+phone: +49 2671 603969
+opening_hours: Mo-Th 07:15-16:30
 website: ""

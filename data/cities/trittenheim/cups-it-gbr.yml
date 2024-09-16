@@ -4,8 +4,8 @@ latitude: 49.82312
 longitude: 6.89555
 postcode: "54349"
 city: Trittenheim
-street: "Laurentiusstraße"
-housenumber: 27
+street: Laurentiusstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

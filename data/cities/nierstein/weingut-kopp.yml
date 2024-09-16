@@ -1,11 +1,11 @@
 id: 468801464
-type: way
+type: node
 latitude: 49.87326
 longitude: 8.3356
 postcode: "55283"
 city: Nierstein
-street: "Oberdorfstraße"
-housenumber: 16
-phone: "+49 6133 925550"
+street: Oberdorfstraße
+housenumber: "16"
+phone: +49 6133 925550
 opening_hours: ""
-website: "http://www.sternenfelserhof.de/"
+website: http://www.sternenfelserhof.de/

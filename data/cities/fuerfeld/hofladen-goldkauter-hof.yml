@@ -4,8 +4,8 @@ latitude: 49.77495
 longitude: 7.87763
 postcode: "55546"
 city: Fürfeld
-street: "An der Goldkaut"
-housenumber: 1
+street: An der Goldkaut
+housenumber: "1"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.goldkaut.de/"
+opening_hours: 24/7
+website: https://www.goldkaut.de/

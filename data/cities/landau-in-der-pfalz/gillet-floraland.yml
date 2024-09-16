@@ -4,8 +4,8 @@ latitude: 49.21154
 longitude: 8.11619
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Gilletstraße"
-housenumber: 1
-phone: "+49 6341 972200"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.my-gillet.de/floraland/"
+street: Gilletstraße
+housenumber: "1"
+phone: +49 6341 972200
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.my-gillet.de/floraland/

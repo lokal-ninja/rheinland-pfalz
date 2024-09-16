@@ -1,11 +1,11 @@
 id: 142034744
-type: way
+type: node
 latitude: 49.6105
 longitude: 8.32082
 postcode: "67551"
 city: Worms
-street: "Untere Hauptstraße"
-housenumber: 66
-phone: "+49 6241 34377"
+street: Untere Hauptstraße
+housenumber: "66"
+phone: +49 6241 34377
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 235601430
-type: way
+type: node
 latitude: 49.51432
 longitude: 8.32827
 postcode: "67227"
 city: Frankenthal (Pfalz)
-street: "Freinsheimer Straße"
-housenumber: 88
+street: Freinsheimer Straße
+housenumber: "88"
 phone: ""
 opening_hours: ""
-website: "https://www.retroyage.de"
+website: https://www.retroyage.de

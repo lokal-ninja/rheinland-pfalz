@@ -4,8 +4,8 @@ latitude: 49.93941
 longitude: 8.19852
 postcode: "55270"
 city: Ober-Olm
-street: "Kleiststraße"
-housenumber: 5
-phone: "+49 6136 88862"
-opening_hours: "Tu,Th 08:30-16:30;We,Fr 08:30-18:30;Sa 08:30-14:00"
-website: "https://salon-lehr.de/"
+street: Kleiststraße
+housenumber: "5"
+phone: +49 6136 88862
+opening_hours: Tu,Th 08:30-16:30;We,Fr 08:30-18:30;Sa 08:30-14:00
+website: https://salon-lehr.de/

@@ -4,8 +4,8 @@ latitude: 49.78452
 longitude: 8.1903
 postcode: "55239"
 city: Gau-Odernheim
-street: "Mainzer Straße"
-housenumber: 26
+street: Mainzer Straße
+housenumber: "26"
 phone: "+496733286"
-opening_hours: "Mo-Th 08:30-12:30; Fr,Sa 07:30-12:30; Mo,Tu,Th,Fr 14:30-18:30"
-website: "http://www.google.de/"
+opening_hours: Mo-Th 08:30-12:30; Fr,Sa 07:30-12:30; Mo,Tu,Th,Fr 14:30-18:30
+website: http://www.google.de/

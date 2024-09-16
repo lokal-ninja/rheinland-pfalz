@@ -4,8 +4,8 @@ latitude: 49.78522
 longitude: 6.70919
 postcode: "54292"
 city: Trier
-street: "Rheinstraße"
-housenumber: 23
-phone: "+49 651 52095"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-11:00"
+street: Rheinstraße
+housenumber: "23"
+phone: +49 651 52095
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-11:00
 website: ""

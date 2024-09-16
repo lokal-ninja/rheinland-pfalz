@@ -1,11 +1,11 @@
 id: 58770795
-type: way
+type: node
 latitude: 50.6457
 longitude: 7.52617
 postcode: "57632"
 city: Flammersfeld
-street: "Südstraße"
-housenumber: 7
-phone: "+49-2685-397"
-opening_hours: "Tu-Fr 07:00-12:30,14:30-18:30; Sa 07:00-13:00"
+street: Südstraße
+housenumber: "7"
+phone: +49-2685-397
+opening_hours: Tu-Fr 07:00-12:30,14:30-18:30; Sa 07:00-13:00
 website: ""

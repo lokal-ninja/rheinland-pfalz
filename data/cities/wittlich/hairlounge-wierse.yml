@@ -4,8 +4,8 @@ latitude: 49.97235
 longitude: 6.93573
 postcode: "54516"
 city: Wittlich
-street: "Schulstraße"
-housenumber: 4
-phone: "+49 6571 9561030"
-opening_hours: "Mo 10:00-19:00;Tu 08:30-18:00;We-Th 08:30-20:00;Fr 08:30-18:00;Sa 08:00-14:00"
-website: "https://www.hairlounge-wierse.de/home/"
+street: Schulstraße
+housenumber: "4"
+phone: +49 6571 9561030
+opening_hours: Mo 10:00-19:00;Tu 08:30-18:00;We-Th 08:30-20:00;Fr 08:30-18:00;Sa 08:00-14:00
+website: https://www.hairlounge-wierse.de/home/

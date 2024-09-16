@@ -1,11 +1,11 @@
 id: 439937046
-type: way
+type: node
 latitude: 49.47182
 longitude: 7.6712
 postcode: "67688"
 city: Rodenbach
-street: "Am Tränkwald"
-housenumber: 16
+street: Am Tränkwald
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.baeckerei-schmitt.com/"
+website: https://www.baeckerei-schmitt.com/

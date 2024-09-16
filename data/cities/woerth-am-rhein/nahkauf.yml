@@ -1,11 +1,11 @@
 id: 127337703
-type: way
+type: node
 latitude: 49.03392
 longitude: 8.2834
 postcode: "76744"
 city: Wörth am Rhein
-street: "Tullastraße"
-housenumber: 11
-phone: "+49 7271 940649"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-16:00; Su,PH off"
-website: "https://www.nahkauf.de/"
+street: Tullastraße
+housenumber: "11"
+phone: +49 7271 940649
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-16:00; Su,PH off
+website: https://www.nahkauf.de/

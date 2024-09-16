@@ -4,8 +4,8 @@ latitude: 50.00435
 longitude: 8.26412
 postcode: "55116"
 city: Mainz
-street: "Kaiserstraße"
-housenumber: 32
-phone: "+49 6131 2197597"
-opening_hours: "Mo-Th 08:00-12:00,12:40-16:00; Fr 08:00-12:40,13:15-14:00"
-website: "https://gpe-mainz.de"
+street: Kaiserstraße
+housenumber: "32"
+phone: +49 6131 2197597
+opening_hours: Mo-Th 08:00-12:00,12:40-16:00; Fr 08:00-12:40,13:15-14:00
+website: https://gpe-mainz.de

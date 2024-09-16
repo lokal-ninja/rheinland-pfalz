@@ -4,8 +4,9 @@ latitude: 50.14475
 longitude: 7.16665
 postcode: "56812"
 city: Cochem
-street: "Herrenstraße"
-housenumber: 15
-phone: "+49 2671 7396"
-opening_hours: "Mo-Fr 09:00-18:00; May-Oct: Sa 09:00-17:00; Nov-Apr: Sa 09:00-16:00; May-Oct: PH,Su 11:00-17:00"
-website: "http://www.faber-cochem.de/"
+street: Herrenstraße
+housenumber: "15"
+phone: +49 2671 7396
+opening_hours: 'Mo-Fr 09:00-18:00; May-Oct: Sa 09:00-17:00; Nov-Apr: Sa 09:00-16:00;
+    May-Oct: PH,Su 11:00-17:00'
+website: http://www.faber-cochem.de/

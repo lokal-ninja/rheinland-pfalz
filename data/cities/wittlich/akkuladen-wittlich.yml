@@ -1,11 +1,11 @@
 id: 257626065
-type: way
+type: node
 latitude: 49.98114
 longitude: 6.90526
 postcode: "54516"
 city: Wittlich
-street: "Rudolf-Diesel-Straße"
-housenumber: 2
+street: Rudolf-Diesel-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

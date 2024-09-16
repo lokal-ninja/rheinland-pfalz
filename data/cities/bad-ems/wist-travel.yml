@@ -1,11 +1,11 @@
 id: 742001999
-type: way
+type: node
 latitude: 50.33385
 longitude: 7.71397
 postcode: "56130"
 city: Bad Ems
-street: "Wipsch"
-housenumber: 1
+street: Wipsch
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

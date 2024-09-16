@@ -4,8 +4,8 @@ latitude: 50.00544
 longitude: 8.21973
 postcode: "55122"
 city: Mainz
-street: "Elbestraße"
-housenumber: 
-phone: "+49 6131 1434510"
-opening_hours: "Tu-Fr 06:00-13:00,15:00-18:00; Sa 07:00-13:00"
-website: "http://www.bonvecchi.de"
+street: Elbestraße
+housenumber: ""
+phone: +49 6131 1434510
+opening_hours: Tu-Fr 06:00-13:00,15:00-18:00; Sa 07:00-13:00
+website: http://www.bonvecchi.de

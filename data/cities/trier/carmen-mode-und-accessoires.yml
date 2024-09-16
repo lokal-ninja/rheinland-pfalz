@@ -4,8 +4,8 @@ latitude: 49.75723
 longitude: 6.64087
 postcode: "54290"
 city: Trier
-street: "Jakobstraße"
-housenumber: 4
+street: Jakobstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-18:00"
-website: "https://www.carmen-mode-trier.de/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-18:00
+website: https://www.carmen-mode-trier.de/

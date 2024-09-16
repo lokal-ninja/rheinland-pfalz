@@ -1,11 +1,11 @@
 id: 929571315
-type: way
+type: node
 latitude: 50.13793
 longitude: 7.88769
 postcode: "56357"
 city: Strüth
-street: "Nastätter Straße"
-housenumber: 11
+street: Nastätter Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:00; We 14:30-17:00"
-website: "http://www.schiecks-backschmiede.de"
+opening_hours: Mo-Sa 08:00-12:00; We 14:30-17:00
+website: http://www.schiecks-backschmiede.de

@@ -1,11 +1,11 @@
 id: 391072123
-type: way
+type: node
 latitude: 50.38006
 longitude: 7.70146
 postcode: "56337"
 city: Simmern
-street: "Kreuzwiese"
-housenumber: 14
+street: Kreuzwiese
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-14:00
 website: ""

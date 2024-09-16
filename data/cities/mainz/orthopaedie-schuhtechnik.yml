@@ -4,8 +4,8 @@ latitude: 50.00826
 longitude: 8.26378
 postcode: "55118"
 city: Mainz
-street: "Wallaustraße"
+street: Wallaustraße
 housenumber: 8a
-phone: "+49 6131 604933"
-opening_hours: "Mo,Tu 08:00-13:00,14:00-18:00; We 08:00-13:00; Th,Fr 08:00-13:00,14:00-18:00"
-website: "https://www.orthopaedie-stieb.de/"
+phone: +49 6131 604933
+opening_hours: Mo,Tu 08:00-13:00,14:00-18:00; We 08:00-13:00; Th,Fr 08:00-13:00,14:00-18:00
+website: https://www.orthopaedie-stieb.de/

@@ -4,8 +4,8 @@ latitude: 49.31711
 longitude: 8.38967
 postcode: "67373"
 city: Dudenhofen
-street: "Neustadter Straße"
-housenumber: 14
-phone: "+49 6232 94212"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://zuerkers-hofladen.de/"
+street: Neustadter Straße
+housenumber: "14"
+phone: +49 6232 94212
+opening_hours: Mo-Su 07:00-20:00
+website: https://zuerkers-hofladen.de/

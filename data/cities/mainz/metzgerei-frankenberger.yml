@@ -4,8 +4,8 @@ latitude: 50.00417
 longitude: 8.26529
 postcode: "55116"
 city: Mainz
-street: "Schießgartenstraße"
-housenumber: 9
-phone: "+49 6131 223186"
-opening_hours: "Mo,Tu,Th,Fr 07:30-18:00,We 07:30-14:00,Sa 08:00-13:00"
-website: "https://metzgerei-frankenberger.de/"
+street: Schießgartenstraße
+housenumber: "9"
+phone: +49 6131 223186
+opening_hours: Mo,Tu,Th,Fr 07:30-18:00,We 07:30-14:00,Sa 08:00-13:00
+website: https://metzgerei-frankenberger.de/

@@ -1,11 +1,11 @@
 id: 500213123
-type: way
+type: node
 latitude: 50.23437
 longitude: 7.15051
 postcode: "56759"
 city: Kaisersesch
-street: "August-Horch-Straße"
-housenumber: 5
+street: August-Horch-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:45, 13:30-17:30, Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:00-12:45, 13:30-17:30, Sa 09:00-12:00
 website: ""

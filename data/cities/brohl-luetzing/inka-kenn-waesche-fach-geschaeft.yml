@@ -1,11 +1,11 @@
 id: 407226073
-type: way
+type: node
 latitude: 50.48364
 longitude: 7.3277
 postcode: "56656"
 city: Brohl-Lützing
-street: "Mühlenstraße"
+street: Mühlenstraße
 housenumber: 1-3
-phone: "+49 2633 4759400"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00; Su off; PH off"
-website: "http://inkakenn.de/"
+phone: +49 2633 4759400
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00; Su off; PH off
+website: http://inkakenn.de/

@@ -1,11 +1,11 @@
 id: 286125016
-type: way
+type: node
 latitude: 49.66134
 longitude: 8.01742
 postcode: "67292"
 city: Kirchheimbolanden
-street: "Bahnhofstraße"
-housenumber: 3
+street: Bahnhofstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

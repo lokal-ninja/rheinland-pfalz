@@ -1,11 +1,11 @@
 id: 398564888
-type: way
+type: node
 latitude: 49.50834
 longitude: 7.35546
 postcode: "66871"
 city: Konken
-street: "Hauptstraße"
-housenumber: 25
+street: Hauptstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

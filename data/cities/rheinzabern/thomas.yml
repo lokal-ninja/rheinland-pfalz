@@ -1,11 +1,11 @@
 id: 60001503
-type: way
+type: node
 latitude: 49.11732
 longitude: 8.2798
 postcode: "76764"
 city: Rheinzabern
-street: "Außerdorf"
-housenumber: 33
+street: Außerdorf
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

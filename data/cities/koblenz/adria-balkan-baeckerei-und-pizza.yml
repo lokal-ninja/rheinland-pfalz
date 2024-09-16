@@ -4,8 +4,8 @@ latitude: 50.35546
 longitude: 7.59083
 postcode: "56068"
 city: Koblenz
-street: "Löhrstraße"
-housenumber: 97
-phone: "+49 261 1004025"
-opening_hours: "Mo-Sa 06:30-21:00; Su,PH 07:00-21:00"
-website: "http://www.ding-dong.com"
+street: Löhrstraße
+housenumber: "97"
+phone: +49 261 1004025
+opening_hours: Mo-Sa 06:30-21:00; Su,PH 07:00-21:00
+website: http://www.ding-dong.com

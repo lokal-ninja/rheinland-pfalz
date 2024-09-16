@@ -1,11 +1,11 @@
 id: 289995684
-type: way
+type: node
 latitude: 49.65983
 longitude: 8.02414
 postcode: "67292"
 city: Kirchheimbolanden
-street: "Kaiserstraße"
-housenumber: 18
+street: Kaiserstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

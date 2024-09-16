@@ -1,11 +1,11 @@
 id: 405490844
-type: way
+type: node
 latitude: 49.18491
 longitude: 7.57311
 postcode: "66954"
 city: Pirmasens
-street: "Molkenbrunner Straße"
-housenumber: 12
+street: Molkenbrunner Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://baeko-sued-west.de"
+website: https://baeko-sued-west.de

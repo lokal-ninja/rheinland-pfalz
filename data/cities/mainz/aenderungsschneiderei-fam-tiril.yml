@@ -4,8 +4,8 @@ latitude: 49.99493
 longitude: 8.26736
 postcode: "55116"
 city: Mainz
-street: "Gaustraße"
-housenumber: 10
+street: Gaustraße
+housenumber: "10"
 phone: "+4961312673383"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-17:00; PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-17:00; PH off
 website: ""

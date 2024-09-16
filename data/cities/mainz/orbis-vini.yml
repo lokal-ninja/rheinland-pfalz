@@ -4,8 +4,8 @@ latitude: 50.01059
 longitude: 8.25963
 postcode: "55118"
 city: Mainz
-street: "Feldbergstraße"
-housenumber: 3
-phone: "+49 6131 5869545"
-opening_hours: "Mo-Fr 14:00-18:00"
-website: "http://orbis-vini.com"
+street: Feldbergstraße
+housenumber: "3"
+phone: +49 6131 5869545
+opening_hours: Mo-Fr 14:00-18:00
+website: http://orbis-vini.com

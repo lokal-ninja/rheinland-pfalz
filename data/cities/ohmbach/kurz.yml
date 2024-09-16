@@ -1,11 +1,11 @@
 id: 398697746
-type: way
+type: node
 latitude: 49.44773
 longitude: 7.35111
 postcode: "66903"
 city: Ohmbach
-street: "Hauptstraße"
-housenumber: 65
+street: Hauptstraße
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

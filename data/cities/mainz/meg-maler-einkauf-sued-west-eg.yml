@@ -1,11 +1,11 @@
 id: 205678709
-type: way
+type: node
 latitude: 49.96068
 longitude: 8.25196
 postcode: "55129"
 city: Mainz
-street: "August-Horch-Straße"
-housenumber: 22
+street: August-Horch-Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.meg.de/"
+website: https://www.meg.de/

@@ -1,11 +1,11 @@
 id: 222800539
-type: way
+type: node
 latitude: 49.558
 longitude: 8.1708
 postcode: "67269"
 city: Grünstadt
-street: "Kirchheimer Straße"
-housenumber: 62
+street: Kirchheimer Straße
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

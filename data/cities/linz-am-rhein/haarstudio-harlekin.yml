@@ -1,11 +1,11 @@
 id: 279796788
-type: way
+type: node
 latitude: 50.56681
 longitude: 7.281
 postcode: "53545"
 city: Linz am Rhein
-street: "Mittelstraße"
-housenumber: 13
+street: Mittelstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

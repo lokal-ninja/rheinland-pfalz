@@ -4,8 +4,8 @@ latitude: 49.7431
 longitude: 6.68746
 postcode: "54296"
 city: Trier
-street: "Im Treff"
-housenumber: 11
+street: Im Treff
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00"
-website: "http://www.e-spang.de/"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:00
+website: http://www.e-spang.de/

@@ -4,8 +4,8 @@ latitude: 49.65277
 longitude: 8.12198
 postcode: "67308"
 city: Einselthum
-street: "Hauptstraße"
-housenumber: 2
-phone: "+49 6355 2323"
-opening_hours: "Fr 17:00+"
+street: Hauptstraße
+housenumber: "2"
+phone: +49 6355 2323
+opening_hours: Fr 17:00+
 website: ""

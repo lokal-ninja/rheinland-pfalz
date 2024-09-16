@@ -4,8 +4,8 @@ latitude: 50.65492
 longitude: 7.88917
 postcode: "57648"
 city: Korb
-street: "Grenzweg"
-housenumber: 3
+street: Grenzweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:30; Fr 07:00-16:00"
-website: "https://www.gaefgen.de"
+opening_hours: Mo-Th 07:00-17:30; Fr 07:00-16:00
+website: https://www.gaefgen.de

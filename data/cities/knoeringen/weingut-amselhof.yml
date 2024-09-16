@@ -4,8 +4,8 @@ latitude: 49.2375
 longitude: 8.14448
 postcode: "76833"
 city: Knöringen
-street: "Hauptstraße"
-housenumber: 4
+street: Hauptstraße
+housenumber: "4"
 phone: "+496341932482"
 opening_hours: ""
-website: "https://www.amselhof.de/"
+website: https://www.amselhof.de/

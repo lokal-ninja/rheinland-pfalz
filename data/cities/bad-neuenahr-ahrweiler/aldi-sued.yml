@@ -1,11 +1,11 @@
 id: 30196068
-type: way
+type: node
 latitude: 50.54577
 longitude: 7.10654
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Wilhelmstraße"
-housenumber: 38
+street: Wilhelmstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

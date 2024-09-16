@@ -1,11 +1,11 @@
 id: 476917044
-type: way
+type: node
 latitude: 50.20124
 longitude: 7.17799
 postcode: "56814"
 city: Illerich
-street: "Bergstraße"
-housenumber: 3
-phone: "+49 2653 91364"
+street: Bergstraße
+housenumber: "3"
+phone: +49 2653 91364
 opening_hours: ""
-website: "https://www.western4you.eu/"
+website: https://www.western4you.eu/

@@ -4,8 +4,9 @@ latitude: 49.44229
 longitude: 7.74402
 postcode: "67663"
 city: Kaiserslautern
-street: "Reichswaldstraße"
-housenumber: 2
-phone: "+49 631 4147660"
-opening_hours: "Mar-Oct: Mo-Sa 09:00-19:00; Nov-Feb: Mo-Fr 09:00-19:00; Sa: 09:00-18:00; Su off"
-website: "https://www.louis.de/filialen/louis-kaiserslautern"
+street: Reichswaldstraße
+housenumber: "2"
+phone: +49 631 4147660
+opening_hours: 'Mar-Oct: Mo-Sa 09:00-19:00; Nov-Feb: Mo-Fr 09:00-19:00; Sa: 09:00-18:00;
+    Su off'
+website: https://www.louis.de/filialen/louis-kaiserslautern

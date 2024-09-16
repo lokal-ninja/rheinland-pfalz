@@ -1,11 +1,11 @@
 id: 712635907
-type: way
+type: node
 latitude: 50.2588
 longitude: 7.99235
 postcode: "56368"
 city: Berghausen
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

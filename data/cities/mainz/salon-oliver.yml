@@ -4,8 +4,8 @@ latitude: 50.01651
 longitude: 8.22501
 postcode: "55120"
 city: Mainz
-street: "Suderstraße"
-housenumber: 100
-phone: "+49 61 31 68 16 27"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00"
+street: Suderstraße
+housenumber: "100"
+phone: +49 61 31 68 16 27
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-13:00
 website: ""

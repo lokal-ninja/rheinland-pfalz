@@ -1,11 +1,11 @@
 id: 165237190
-type: way
+type: node
 latitude: 50.37109
 longitude: 7.59898
 postcode: "56070"
 city: Koblenz
-street: "Wallersheimer Weg"
+street: Wallersheimer Weg
 housenumber: 46-48
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

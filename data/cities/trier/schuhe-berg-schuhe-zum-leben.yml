@@ -4,8 +4,8 @@ latitude: 49.75069
 longitude: 6.63741
 postcode: "54290"
 city: Trier
-street: "Neustraße"
-housenumber: 58
-phone: "+49 651 99895810"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-17:00"
-website: "http://www.schuhe-berg.de/"
+street: Neustraße
+housenumber: "58"
+phone: +49 651 99895810
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-17:00
+website: http://www.schuhe-berg.de/

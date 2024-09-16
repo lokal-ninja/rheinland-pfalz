@@ -1,11 +1,11 @@
 id: 87315220
-type: way
+type: node
 latitude: 49.54808
 longitude: 8.04014
 postcode: "67304"
 city: Eisenberg (Pfalz)
-street: "Ramsener Straße"
-housenumber: 12
+street: Ramsener Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 263613735
-type: way
+type: node
 latitude: 50.56979
 longitude: 7.30357
 postcode: "53545"
 city: Linz am Rhein
-street: "Am Frühscheid"
-housenumber: 2
+street: Am Frühscheid
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://www.opel-linz.de"
+website: http://www.opel-linz.de

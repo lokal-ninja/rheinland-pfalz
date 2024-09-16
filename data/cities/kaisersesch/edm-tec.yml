@@ -4,8 +4,8 @@ latitude: 50.23588
 longitude: 7.15045
 postcode: "56759"
 city: Kaisersesch
-street: "Wilhelm-Conrad-Röntgen-Straße"
-housenumber: 8
-phone: "+49 2653 915160"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.edm-tec.org/"
+street: Wilhelm-Conrad-Röntgen-Straße
+housenumber: "8"
+phone: +49 2653 915160
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.edm-tec.org/

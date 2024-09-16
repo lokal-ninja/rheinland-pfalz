@@ -1,11 +1,11 @@
 id: 272519272
-type: way
+type: node
 latitude: 49.21014
 longitude: 8.14324
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Horstring"
-housenumber: 8
+street: Horstring
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

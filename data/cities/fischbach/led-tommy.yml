@@ -1,11 +1,11 @@
 id: 914360164
-type: way
+type: node
 latitude: 49.74407
 longitude: 7.39264
 postcode: "55743"
 city: Fischbach
-street: "Hauptstraße"
-housenumber: 122
-phone: "+49 6784 8769"
+street: Hauptstraße
+housenumber: "122"
+phone: +49 6784 8769
 opening_hours: ""
-website: "https://www.led-tommy.de/"
+website: https://www.led-tommy.de/

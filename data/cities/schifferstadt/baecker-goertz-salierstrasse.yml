@@ -4,8 +4,8 @@ latitude: 49.37829
 longitude: 8.38186
 postcode: "67105"
 city: Schifferstadt
-street: "Salierstraße"
-housenumber: 44
-phone: "+49 6235 9597133"
-opening_hours: "Mo-Fr 05:30-18:00; Su 07:30-12:00; Sa 06:00-13:00"
-website: "https://www.baeckergoertz.de/#filialenstart/filialfinder"
+street: Salierstraße
+housenumber: "44"
+phone: +49 6235 9597133
+opening_hours: Mo-Fr 05:30-18:00; Su 07:30-12:00; Sa 06:00-13:00
+website: https://www.baeckergoertz.de/#filialenstart/filialfinder

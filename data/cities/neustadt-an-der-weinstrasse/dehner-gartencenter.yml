@@ -1,11 +1,11 @@
 id: 79091006
-type: way
+type: node
 latitude: 49.34008
 longitude: 8.1581
 postcode: "67433"
 city: Neustadt an der Weinstraße
-street: "Chemnitzer Straße"
-housenumber: 30
-phone: "+49 6321 499090"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.dehner.de/market/dehner-gartencenter-neustadt-an-der-weinstrasse/"
+street: Chemnitzer Straße
+housenumber: "30"
+phone: +49 6321 499090
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.dehner.de/market/dehner-gartencenter-neustadt-an-der-weinstrasse/

@@ -4,8 +4,9 @@ latitude: 49.93208
 longitude: 8.09891
 postcode: "55270"
 city: Schwabenheim an der Selz
-street: "Schulstraße"
-housenumber: 11
-phone: "+49 6130 94 07 76"
-opening_hours: "Mo-Fr Please make a reservation by phone./Nach telefonischer Reservierung.; Th 14:00-18:00; PH off"
-website: "https://www.ninas-pralinenmanufaktur.de/"
+street: Schulstraße
+housenumber: "11"
+phone: +49 6130 94 07 76
+opening_hours: Mo-Fr "Please make a reservation by phone./Nach telefonischer Reservierung.";
+    Th 14:00-18:00; PH off
+website: https://www.ninas-pralinenmanufaktur.de/

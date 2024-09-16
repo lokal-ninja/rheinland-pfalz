@@ -1,11 +1,11 @@
 id: 410623793
-type: way
+type: node
 latitude: 50.55721
 longitude: 7.16672
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Bonner Straße"
-housenumber: 36
-phone: "+49 1626312895"
-opening_hours: "Mo-Fr 16:45-19:00; Sa 10:00-15:00"
+street: Bonner Straße
+housenumber: "36"
+phone: +49 1626312895
+opening_hours: Mo-Fr 16:45-19:00; Sa 10:00-15:00
 website: ""

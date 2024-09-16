@@ -1,11 +1,11 @@
 id: 559740087
-type: way
+type: node
 latitude: 50.01438
 longitude: 6.61042
 postcode: "54657"
 city: Badem
-street: "Nordring"
-housenumber: 5
+street: Nordring
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

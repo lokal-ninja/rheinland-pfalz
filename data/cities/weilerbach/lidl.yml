@@ -1,11 +1,11 @@
 id: 196868152
-type: way
+type: node
 latitude: 49.47745
 longitude: 7.63653
 postcode: "67685"
 city: Weilerbach
-street: "Europastraße"
-housenumber: 3
+street: Europastraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

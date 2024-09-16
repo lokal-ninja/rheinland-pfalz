@@ -1,11 +1,11 @@
 id: 110742466
-type: way
+type: node
 latitude: 50.20828
 longitude: 6.96889
 postcode: "56766"
 city: Ulmen
-street: "Meisericher Straße"
-housenumber: 58
-phone: "+49 2676 952774"
+street: Meisericher Straße
+housenumber: "58"
+phone: +49 2676 952774
 opening_hours: ""
-website: "https://www.fischenich-putz.de/"
+website: https://www.fischenich-putz.de/

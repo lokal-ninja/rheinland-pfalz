@@ -1,11 +1,11 @@
 id: 303962696
-type: way
+type: node
 latitude: 49.7287
 longitude: 6.60708
 postcode: "54294"
 city: Trier
-street: "Niederkircher Straße"
-housenumber: 7
+street: Niederkircher Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

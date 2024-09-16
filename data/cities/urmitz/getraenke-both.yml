@@ -1,11 +1,11 @@
 id: 485571557
-type: way
+type: node
 latitude: 50.41388
 longitude: 7.51791
 postcode: "56220"
 city: Urmitz
-street: "Freiherr-vom-Stein-Straße"
-housenumber: 37
-phone: "+49 2630 7088"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 09:00-13:00; Su off"
-website: "http://getraenke-both.de"
+street: Freiherr-vom-Stein-Straße
+housenumber: "37"
+phone: +49 2630 7088
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00; Sa 09:00-13:00; Su off
+website: http://getraenke-both.de

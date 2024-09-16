@@ -1,11 +1,11 @@
 id: 249753098
-type: way
+type: node
 latitude: 49.69761
 longitude: 8.20311
 postcode: "67598"
 city: Gundersheim
-street: "An der Weidenmühle"
-housenumber: 1
+street: An der Weidenmühle
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

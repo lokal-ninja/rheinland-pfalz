@@ -1,11 +1,11 @@
 id: 248787835
-type: way
+type: node
 latitude: 49.59467
 longitude: 8.0392
 postcode: "67307"
 city: Göllheim
-street: "Dreisener Straße"
-housenumber: 40
-phone: "+49 6351 124906"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: Dreisener Straße
+housenumber: "40"
+phone: +49 6351 124906
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

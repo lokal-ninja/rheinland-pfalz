@@ -1,11 +1,11 @@
 id: 202855707
-type: way
+type: node
 latitude: 49.8499
 longitude: 6.89757
 postcode: "54347"
 city: Neumagen-Dhron
-street: "Weingartenstraße"
-housenumber: 24
+street: Weingartenstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

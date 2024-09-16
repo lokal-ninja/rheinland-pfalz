@@ -1,11 +1,11 @@
 id: 192073101
-type: way
+type: node
 latitude: 49.7833
 longitude: 7.65167
 postcode: "55566"
 city: Bad Sobernheim
-street: "Igelsbachstraße"
-housenumber: 13
+street: Igelsbachstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.medialine.ag/"
+website: https://www.medialine.ag/

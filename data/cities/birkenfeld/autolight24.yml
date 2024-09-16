@@ -1,11 +1,11 @@
 id: 1002045198
-type: way
+type: node
 latitude: 49.64847
 longitude: 7.14975
 postcode: "55765"
 city: Birkenfeld
-street: "Am Dickenstein"
-housenumber: 5
+street: Am Dickenstein
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

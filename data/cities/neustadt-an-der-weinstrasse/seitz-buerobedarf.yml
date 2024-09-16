@@ -4,8 +4,8 @@ latitude: 49.35297
 longitude: 8.13857
 postcode: "67433"
 city: Neustadt an der Weinstraße
-street: "Laustergasse"
-housenumber: 7
-phone: "+49 6321 83896"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.seitz-buerobedarf.de/"
+street: Laustergasse
+housenumber: "7"
+phone: +49 6321 83896
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.seitz-buerobedarf.de/

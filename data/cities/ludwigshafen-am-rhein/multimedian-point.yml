@@ -1,11 +1,11 @@
 id: 264373264
-type: way
+type: node
 latitude: 49.48347
 longitude: 8.36333
 postcode: "67071"
 city: Ludwigshafen am Rhein
-street: "Lina-Staab-Weg"
-housenumber: 4
+street: Lina-Staab-Weg
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.mm-point.de/"
+website: https://www.mm-point.de/

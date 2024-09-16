@@ -1,11 +1,11 @@
 id: 83105033
-type: way
+type: node
 latitude: 50.43749
 longitude: 7.8336
 postcode: "56410"
 city: Montabaur
-street: "Alleestraße"
-housenumber: 2
+street: Alleestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-12:30; Su 07:30-11:00"
-website: "https://bäckerei-conrad.de"
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-12:30; Su 07:30-11:00
+website: https://bäckerei-conrad.de

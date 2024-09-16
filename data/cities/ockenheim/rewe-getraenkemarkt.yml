@@ -1,11 +1,11 @@
 id: 675603299
-type: way
+type: node
 latitude: 49.93898
 longitude: 7.96986
 postcode: "55437"
 city: Ockenheim
-street: "In den Weiden"
-housenumber: 1
+street: In den Weiden
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

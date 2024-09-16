@@ -1,11 +1,11 @@
 id: 401463543
-type: way
+type: node
 latitude: 49.31774
 longitude: 7.52328
 postcode: "66917"
 city: Wallhalben
-street: "Im Bruch"
-housenumber: 7
+street: Im Bruch
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00;Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00;Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.02604
 longitude: 8.2267
 postcode: "55120"
 city: Mainz
-street: "Rheinallee"
-housenumber: 201
-phone: "+49 61 31 57 64 60"
+street: Rheinallee
+housenumber: "201"
+phone: +49 61 31 57 64 60
 opening_hours: ""
-website: "https://www.delta-automobile.com/"
+website: https://www.delta-automobile.com/

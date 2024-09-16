@@ -1,11 +1,11 @@
 id: 1003346937
-type: way
+type: node
 latitude: 50.78171
 longitude: 7.73463
 postcode: "57537"
 city: Wissen
-street: "Im Buschkamp"
-housenumber: 4
-phone: "+49 2742 910232"
-opening_hours: "08:00-12:30 14:00-18:00"
+street: Im Buschkamp
+housenumber: "4"
+phone: +49 2742 910232
+opening_hours: 08:00-12:30 14:00-18:00
 website: ""

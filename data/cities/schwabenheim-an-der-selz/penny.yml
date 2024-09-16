@@ -1,11 +1,11 @@
 id: 32667358
-type: way
+type: node
 latitude: 49.92419
 longitude: 8.09279
 postcode: "55270"
 city: Schwabenheim an der Selz
-street: "Bubenheimer Straße"
-housenumber: 11
+street: Bubenheimer Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
+opening_hours: Mo-Sa 07:30-20:00
 website: ""

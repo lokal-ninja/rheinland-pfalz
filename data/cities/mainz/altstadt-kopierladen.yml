@@ -4,8 +4,8 @@ latitude: 49.99515
 longitude: 8.27773
 postcode: "55116"
 city: Mainz
-street: "Neutorstraße"
-housenumber: 12
+street: Neutorstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00"
-website: "https://altstadt-kopierladen.de/"
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00
+website: https://altstadt-kopierladen.de/

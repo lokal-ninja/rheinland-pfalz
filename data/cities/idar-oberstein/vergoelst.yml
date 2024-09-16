@@ -1,11 +1,11 @@
 id: 1221785158
-type: way
+type: node
 latitude: 49.71559
 longitude: 7.30667
 postcode: "55743"
 city: Idar-Oberstein
-street: "Mainzer Straße"
-housenumber: 97
+street: Mainzer Straße
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 160607426
-type: way
+type: node
 latitude: 49.5478
 longitude: 8.3371
 postcode: "67227"
 city: Frankenthal (Pfalz)
-street: "Carl-Benz-Straße"
-housenumber: 14
+street: Carl-Benz-Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.gc-gruppe.de/de/unternehmen/gienger-mannheim/locations/abex-frankenthal-carl-benz-strasse?pk_campaign=BLN"
+website: https://www.gc-gruppe.de/de/unternehmen/gienger-mannheim/locations/abex-frankenthal-carl-benz-strasse?pk_campaign=BLN

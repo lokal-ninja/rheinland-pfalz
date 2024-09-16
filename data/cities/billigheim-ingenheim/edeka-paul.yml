@@ -1,11 +1,11 @@
 id: 161702144
-type: way
+type: node
 latitude: 49.14088
 longitude: 8.08525
 postcode: "76831"
 city: Billigheim-Ingenheim
-street: "Firststraße"
-housenumber: 27
-phone: "+49 6349 9394310"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/edeka-paul-firststra%C3%9Fe-27/index.jsp"
+street: Firststraße
+housenumber: "27"
+phone: +49 6349 9394310
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.edeka.de/eh/s%C3%BCdwest/edeka-paul-firststra%C3%9Fe-27/index.jsp

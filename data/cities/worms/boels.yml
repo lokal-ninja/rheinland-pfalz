@@ -1,11 +1,11 @@
 id: 829112914
-type: way
+type: node
 latitude: 49.65484
 longitude: 8.35761
 postcode: "67547"
 city: Worms
-street: "Am Gallborn"
-housenumber: 5
+street: Am Gallborn
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.boels.com/de-de/branches/rheinland-pfalz/worms-nord"
+website: https://www.boels.com/de-de/branches/rheinland-pfalz/worms-nord

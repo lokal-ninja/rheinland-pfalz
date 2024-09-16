@@ -1,11 +1,11 @@
 id: 942848009
-type: way
+type: node
 latitude: 49.9819
 longitude: 7.12525
 postcode: "56850"
 city: Enkirch
-street: "Zum Herrenberg"
-housenumber: 52
-phone: "+49 6541 5355"
-opening_hours: "Mo-Sa 06:00-18:00; Su,PH 07:30-10:30,14:00-18:00"
-website: "http://www.backhaus-enkirch.de/"
+street: Zum Herrenberg
+housenumber: "52"
+phone: +49 6541 5355
+opening_hours: Mo-Sa 06:00-18:00; Su,PH 07:30-10:30,14:00-18:00
+website: http://www.backhaus-enkirch.de/

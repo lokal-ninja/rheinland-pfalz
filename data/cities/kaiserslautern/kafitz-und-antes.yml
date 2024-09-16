@@ -1,11 +1,11 @@
 id: 95933662
-type: way
+type: node
 latitude: 49.44622
 longitude: 7.7735
 postcode: "67655"
 city: Kaiserslautern
-street: "Klosterstraße"
-housenumber: 15
+street: Klosterstraße
+housenumber: "15"
 phone: "0631696900"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.euronics.de/kaiserslautern-kafitz-antes"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.euronics.de/kaiserslautern-kafitz-antes

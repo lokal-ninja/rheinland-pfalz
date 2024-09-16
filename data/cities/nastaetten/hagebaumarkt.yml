@@ -1,11 +1,11 @@
 id: 243108976
-type: way
+type: node
 latitude: 50.20051
 longitude: 7.85089
 postcode: "56355"
 city: Nastätten
-street: "Bahnhofstraße"
+street: Bahnhofstraße
 housenumber: 24-28
-phone: "+49 6772 93790"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://www.hagebau.de/baumarkt/baumarkt-steeg-gmbh-nastaetten-sn113900/"
+phone: +49 6772 93790
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://www.hagebau.de/baumarkt/baumarkt-steeg-gmbh-nastaetten-sn113900/

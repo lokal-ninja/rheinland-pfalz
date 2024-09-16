@@ -1,11 +1,11 @@
 id: 250331233
-type: way
+type: node
 latitude: 49.08081
 longitude: 8.18817
 postcode: "76870"
 city: Kandel
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 3a
-phone: "+49 7275 9183301"
-opening_hours: "Mo-Fr 09:30-12:00,13:30-18:00"
-website: "https://fis-kandel.de/"
+phone: +49 7275 9183301
+opening_hours: Mo-Fr 09:30-12:00,13:30-18:00
+website: https://fis-kandel.de/

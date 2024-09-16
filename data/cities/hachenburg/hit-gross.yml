@@ -1,11 +1,11 @@
 id: 653711792
-type: way
+type: node
 latitude: 50.66391
 longitude: 7.81508
 postcode: "57627"
 city: Hachenburg
-street: "Adolf-Münch-Weg"
-housenumber: 1
+street: Adolf-Münch-Weg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

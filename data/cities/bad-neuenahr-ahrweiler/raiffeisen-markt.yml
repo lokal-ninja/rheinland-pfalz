@@ -1,11 +1,11 @@
 id: 162142174
-type: way
+type: node
 latitude: 50.54759
 longitude: 7.14582
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Heerstraße"
+street: Heerstraße
 housenumber: 3-5
-phone: "+49 2641 26067"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su,PH off"
-website: "https://www.raiffeisenservice.de/bad-neuenahr"
+phone: +49 2641 26067
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su,PH off
+website: https://www.raiffeisenservice.de/bad-neuenahr

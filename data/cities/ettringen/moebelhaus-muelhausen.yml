@@ -1,11 +1,11 @@
 id: 329514692
-type: way
+type: node
 latitude: 50.35662
 longitude: 7.22023
 postcode: "56729"
 city: Ettringen
-street: "Hauptstraße"
-housenumber: 39
-phone: "+49 2651 98670"
-opening_hours: "Mo-Fr 09:00-12:00, 13:30-18:30; Sa 09:00-13:00; Su,PH off"
-website: "https://www.moebelhaus-muelhausen.de"
+street: Hauptstraße
+housenumber: "39"
+phone: +49 2651 98670
+opening_hours: Mo-Fr 09:00-12:00, 13:30-18:30; Sa 09:00-13:00; Su,PH off
+website: https://www.moebelhaus-muelhausen.de

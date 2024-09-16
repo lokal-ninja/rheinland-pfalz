@@ -4,8 +4,8 @@ latitude: 49.96198
 longitude: 8.22229
 postcode: "55127"
 city: Mainz
-street: "Achardstraße"
-housenumber: 2
+street: Achardstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 16:00-20:00; Fr 14:00-20:00"
+opening_hours: Mo-Th 16:00-20:00; Fr 14:00-20:00
 website: ""

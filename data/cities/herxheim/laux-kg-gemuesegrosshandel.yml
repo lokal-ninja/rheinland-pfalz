@@ -1,11 +1,11 @@
 id: 321044605
-type: way
+type: node
 latitude: 49.15404
 longitude: 8.20438
 postcode: "76863"
 city: Herxheim
-street: "Industriestraße"
-housenumber: 3
+street: Industriestraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://www.gemuese-laux.de/"
+website: http://www.gemuese-laux.de/

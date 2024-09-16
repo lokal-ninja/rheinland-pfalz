@@ -1,11 +1,11 @@
 id: 157469002
-type: way
+type: node
 latitude: 50.00883
 longitude: 8.2467
 postcode: "55122"
 city: Mainz
-street: "Mombacher Straße"
-housenumber: 44
-phone: "+49 6131 374340"
+street: Mombacher Straße
+housenumber: "44"
+phone: +49 6131 374340
 opening_hours: ""
-website: "http://autoservice-karell.de"
+website: http://autoservice-karell.de

@@ -4,8 +4,8 @@ latitude: 49.13182
 longitude: 8.13174
 postcode: "76865"
 city: Rohrbach
-street: "Hauptstraße"
-housenumber: 93
-phone: "+49 6349 9070800"
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
-website: "https://company.modepark.de/standorte/rohrbach"
+street: Hauptstraße
+housenumber: "93"
+phone: +49 6349 9070800
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
+website: https://company.modepark.de/standorte/rohrbach

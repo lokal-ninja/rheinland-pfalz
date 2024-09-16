@@ -1,11 +1,11 @@
 id: 693929567
-type: way
+type: node
 latitude: 49.16492
 longitude: 7.98366
 postcode: "76857"
 city: Waldhambach
-street: "Am Nauweg"
-housenumber: 9
+street: Am Nauweg
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

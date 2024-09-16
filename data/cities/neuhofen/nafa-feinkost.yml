@@ -4,8 +4,8 @@ latitude: 49.42148
 longitude: 8.41545
 postcode: "67141"
 city: Neuhofen
-street: "Jahnstraße"
-housenumber: 59
-phone: "+49 6236 53043"
-opening_hours: "Mo-Fr 08:00-13:00; Th, Fr 14:30-18:00"
-website: "https://www.nafa.de/"
+street: Jahnstraße
+housenumber: "59"
+phone: +49 6236 53043
+opening_hours: Mo-Fr 08:00-13:00; Th, Fr 14:30-18:00
+website: https://www.nafa.de/

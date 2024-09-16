@@ -1,11 +1,11 @@
 id: 279307805
-type: way
+type: node
 latitude: 50.56624
 longitude: 7.28096
 postcode: "53545"
 city: Linz
-street: "Marktplatz"
-housenumber: 4
+street: Marktplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 09:30-13:00,14:30-17:30; Sa 09:30-13:00"
-website: "https://www.cafitz-linz.de/"
+opening_hours: Tu-Fr 09:30-13:00,14:30-17:30; Sa 09:30-13:00
+website: https://www.cafitz-linz.de/

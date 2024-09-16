@@ -1,11 +1,11 @@
 id: 88583197
-type: way
+type: node
 latitude: 50.025
 longitude: 8.17372
 postcode: "55257"
 city: Budenheim
-street: "Binger Straße"
-housenumber: 4
+street: Binger Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

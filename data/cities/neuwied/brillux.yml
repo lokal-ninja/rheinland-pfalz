@@ -1,11 +1,12 @@
 id: 385696889
-type: way
+type: node
 latitude: 50.43767
 longitude: 7.49212
 postcode: ""
 city: Neuwied
 street: ""
-housenumber: 
-phone: "+49 2631 8706 0"
-opening_hours: "Apr-Oct: Mo-Th 06:30-17:00; Fr 06:30-15:00; Sa 08:00-12:00; Nov-Mar: Mo-Th 07:00-17:00; Fr 07:00-15:00"
+housenumber: ""
+phone: +49 2631 8706 0
+opening_hours: 'Apr-Oct: Mo-Th 06:30-17:00; Fr 06:30-15:00; Sa 08:00-12:00; Nov-Mar:
+    Mo-Th 07:00-17:00; Fr 07:00-15:00'
 website: ""

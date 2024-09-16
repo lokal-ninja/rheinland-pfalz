@@ -4,8 +4,8 @@ latitude: 49.18927
 longitude: 8.1118
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Charles-de-Gaulle-Straße"
-housenumber: 2
+street: Charles-de-Gaulle-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:30; Su,PH off"
-website: "https://www.netto-online.de/filialfinder/"
+opening_hours: Mo-Sa 07:00-21:30; Su,PH off
+website: https://www.netto-online.de/filialfinder/

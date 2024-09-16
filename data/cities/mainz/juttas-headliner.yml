@@ -4,8 +4,8 @@ latitude: 49.95959
 longitude: 8.19994
 postcode: "55127"
 city: Mainz
-street: "Hindemithstraße"
-housenumber: 27
+street: Hindemithstraße
+housenumber: "27"
 phone: "+49613173780"
-opening_hours: "Tu,Th-Fr 09:00-18:00; We,Sa 09:00-13:00; PH closed"
+opening_hours: Tu,Th-Fr 09:00-18:00; We,Sa 09:00-13:00; PH closed
 website: ""

@@ -1,11 +1,12 @@
 id: 203170119
-type: way
+type: node
 latitude: 49.88042
 longitude: 6.92281
 postcode: "54498"
 city: Piesport
-street: "Bahnhofstraße"
-housenumber: 33
-phone: "+49 6507 701707"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00, 14:00-18:00, We 09:00-15:00, Sa Nach Vereinbarung; PH closed"
-website: "https://www.sanitaetshaus-schichtel.de/"
+street: Bahnhofstraße
+housenumber: "33"
+phone: +49 6507 701707
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00, 14:00-18:00, We 09:00-15:00, Sa "Nach Vereinbarung";
+    PH closed
+website: https://www.sanitaetshaus-schichtel.de/

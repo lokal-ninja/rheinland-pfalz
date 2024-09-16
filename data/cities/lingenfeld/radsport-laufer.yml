@@ -4,8 +4,8 @@ latitude: 49.24978
 longitude: 8.34336
 postcode: "67360"
 city: Lingenfeld
-street: "Hauptstraße"
-housenumber: 35
+street: Hauptstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 10:00-12:30; Mo, Tu, Th, Fr 15:00-18:00"
-website: "http://www.radsport-laufer.de/"
+opening_hours: Mo-Sa 10:00-12:30; Mo, Tu, Th, Fr 15:00-18:00
+website: http://www.radsport-laufer.de/

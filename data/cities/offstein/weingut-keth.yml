@@ -1,11 +1,11 @@
 id: 1307062198
-type: way
+type: node
 latitude: 49.59591
 longitude: 8.24039
 postcode: "67591"
 city: Offstein
-street: "Weinarkade Keth"
-housenumber: 1
-phone: "+49 6243 7522"
-opening_hours: "Tu-Fr 09:00-12:00,13:00-18:00"
-website: "https://weingut-keth.de"
+street: Weinarkade Keth
+housenumber: "1"
+phone: +49 6243 7522
+opening_hours: Tu-Fr 09:00-12:00,13:00-18:00
+website: https://weingut-keth.de

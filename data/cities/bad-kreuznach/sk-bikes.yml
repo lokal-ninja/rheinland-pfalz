@@ -1,11 +1,11 @@
 id: 1041116387
-type: way
+type: node
 latitude: 49.85805
 longitude: 7.89794
 postcode: "55545"
 city: Bad Kreuznach
-street: "Mainzer Straße"
-housenumber: 15
-phone: "+49 671 8964494"
-opening_hours: "Mo-Fr 10:00-14:00,15:00-18:00; Sa 10:00-14:00; Su,PH off"
-website: "https://www.sk-bikes.de/"
+street: Mainzer Straße
+housenumber: "15"
+phone: +49 671 8964494
+opening_hours: Mo-Fr 10:00-14:00,15:00-18:00; Sa 10:00-14:00; Su,PH off
+website: https://www.sk-bikes.de/

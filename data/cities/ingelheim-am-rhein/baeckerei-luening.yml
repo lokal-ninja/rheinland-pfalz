@@ -1,11 +1,11 @@
 id: 140745296
-type: way
+type: node
 latitude: 50.00099
 longitude: 8.13276
 postcode: "55262"
 city: Ingelheim am Rhein
-street: "Prof.-Karl-Bohland-Straße"
-housenumber: 4
+street: Prof.-Karl-Bohland-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 06:00-17:00; Su,PH 07:00-11:00"
+opening_hours: Mo-Sa 06:00-17:00; Su,PH 07:00-11:00
 website: ""

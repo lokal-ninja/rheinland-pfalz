@@ -1,11 +1,11 @@
 id: 147182311
-type: way
+type: node
 latitude: 49.73972
 longitude: 6.61462
 postcode: "54294"
 city: Trier
-street: "Ottostraße"
-housenumber: 27
+street: Ottostraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

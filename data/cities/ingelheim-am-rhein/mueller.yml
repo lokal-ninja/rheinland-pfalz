@@ -4,8 +4,8 @@ latitude: 49.97499
 longitude: 8.05512
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Binger Straße"
-housenumber: 82
-phone: "+49 6132 7167290"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.mueller.de/startseite.html"
+street: Binger Straße
+housenumber: "82"
+phone: +49 6132 7167290
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.mueller.de/startseite.html

@@ -1,11 +1,11 @@
 id: 70786914
-type: way
+type: node
 latitude: 49.48492
 longitude: 8.35075
 postcode: "67071"
 city: Ludwigshafen am Rhein
-street: "Oderstraße"
-housenumber: 8
+street: Oderstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.de/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.de/

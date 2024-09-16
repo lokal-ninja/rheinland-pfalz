@@ -1,11 +1,11 @@
 id: 375138516
-type: way
+type: node
 latitude: 50.70925
 longitude: 7.45271
 postcode: "57635"
 city: Kircheib
-street: "Hauptstraße"
-housenumber: 14
-phone: "+49 2683 967140"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.reifen-krah.de/"
+street: Hauptstraße
+housenumber: "14"
+phone: +49 2683 967140
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.reifen-krah.de/

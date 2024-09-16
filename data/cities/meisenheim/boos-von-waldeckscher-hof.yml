@@ -1,11 +1,11 @@
 id: 208089233
-type: way
+type: node
 latitude: 49.70743
 longitude: 7.67046
 postcode: "55590"
 city: Meisenheim
-street: "Obergasse"
-housenumber: 26
+street: Obergasse
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

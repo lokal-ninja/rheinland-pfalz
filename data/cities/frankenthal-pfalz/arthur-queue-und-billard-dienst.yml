@@ -1,11 +1,11 @@
 id: 160843998
-type: way
+type: node
 latitude: 49.54566
 longitude: 8.3467
 postcode: "67227"
 city: Frankenthal (Pfalz)
-street: "Siemensstraße"
-housenumber: 11
+street: Siemensstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

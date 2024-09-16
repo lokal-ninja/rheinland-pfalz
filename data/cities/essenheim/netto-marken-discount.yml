@@ -1,11 +1,11 @@
 id: 196338910
-type: way
+type: node
 latitude: 49.92841
 longitude: 8.14993
 postcode: "55270"
 city: Essenheim
-street: "Elsheimer Straße"
-housenumber: 55
+street: Elsheimer Straße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo- Sa 07:00-20:00; PH off"
-website: "https://www.netto-online.de/filialen/essenheim/elsheimer-str-55/3842"
+opening_hours: Mo- Sa 07:00-20:00; PH off
+website: https://www.netto-online.de/filialen/essenheim/elsheimer-str-55/3842

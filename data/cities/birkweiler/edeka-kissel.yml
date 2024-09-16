@@ -1,11 +1,11 @@
 id: 444780668
-type: way
+type: node
 latitude: 49.2092
 longitude: 8.04439
 postcode: "76831"
 city: Birkweiler
-street: "Am Hiller"
-housenumber: 1
+street: Am Hiller
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.46124
 longitude: 8.1678
 postcode: "67098"
 city: Bad Dürkheim
-street: "Römerplatz"
-housenumber: 14
+street: Römerplatz
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00;Sa 10:00-15:00"
-website: "http://www.ontop-bad-duerkheim.de.rs/"
+opening_hours: Mo-Fr 10:00-18:00;Sa 10:00-15:00
+website: http://www.ontop-bad-duerkheim.de.rs/

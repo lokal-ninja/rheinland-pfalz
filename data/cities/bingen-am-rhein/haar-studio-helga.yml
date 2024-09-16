@@ -1,11 +1,11 @@
 id: 150835314
-type: way
+type: node
 latitude: 49.9481
 longitude: 7.91259
 postcode: "55411"
 city: Bingen am Rhein
-street: "Saarlandstraße"
-housenumber: 153
-phone: "+49 6721 41312"
+street: Saarlandstraße
+housenumber: "153"
+phone: +49 6721 41312
 opening_hours: ""
-website: "http://www.haarstudio-helga.de"
+website: http://www.haarstudio-helga.de

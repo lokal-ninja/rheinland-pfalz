@@ -1,11 +1,11 @@
 id: 1092929934
-type: way
+type: node
 latitude: 49.9822
 longitude: 7.12503
 postcode: "56850"
 city: Enkirch
-street: "Zum Herrenberg"
-housenumber: 46
+street: Zum Herrenberg
+housenumber: "46"
 phone: "+496541810082"
 opening_hours: ""
-website: "https://bartzcomputer.business.site/"
+website: https://bartzcomputer.business.site/

@@ -1,11 +1,11 @@
 id: 970902852
-type: way
+type: node
 latitude: 49.94715
 longitude: 8.26119
 postcode: "55129"
 city: Mainz
-street: "Barcelona-Allee"
-housenumber: 1
+street: Barcelona-Allee
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: "3"

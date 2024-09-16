@@ -1,11 +1,11 @@
 id: 430614822
-type: way
+type: node
 latitude: 50.29903
 longitude: 6.67189
 postcode: "54576"
 city: Hillesheim
-street: "Kölner Straße"
-housenumber: 55
+street: Kölner Straße
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

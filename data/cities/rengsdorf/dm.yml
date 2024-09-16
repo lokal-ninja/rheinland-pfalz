@@ -1,11 +1,11 @@
 id: 267196043
-type: way
+type: node
 latitude: 50.51075
 longitude: 7.48344
 postcode: "56579"
 city: Rengsdorf
-street: "Westerwaldstraße"
-housenumber: 97
+street: Westerwaldstraße
+housenumber: "97"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

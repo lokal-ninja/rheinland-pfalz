@@ -4,8 +4,8 @@ latitude: 49.19219
 longitude: 8.10827
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Zweibrücker Straße"
-housenumber: 27
-phone: "+49 6341 9358330"
-opening_hours: "Mo-Fr 05:30-19:00, Sa 05:30-17:00, Su, PH 08:00-17:00"
-website: "https://www.baeckerei-reuther.de/Verkaufsstellen/Landau"
+street: Zweibrücker Straße
+housenumber: "27"
+phone: +49 6341 9358330
+opening_hours: Mo-Fr 05:30-19:00, Sa 05:30-17:00, Su, PH 08:00-17:00
+website: https://www.baeckerei-reuther.de/Verkaufsstellen/Landau

@@ -1,11 +1,11 @@
 id: 112017578
-type: way
+type: node
 latitude: 50.7999
 longitude: 7.85745
 postcode: "57518"
 city: Betzdorf
-street: "Industriestraße"
-housenumber: 7
-phone: "+49 2741 92 060"
+street: Industriestraße
+housenumber: "7"
+phone: +49 2741 92 060
 opening_hours: ""
 website: ""

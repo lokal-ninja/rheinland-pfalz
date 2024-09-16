@@ -1,11 +1,11 @@
 id: 572433749
-type: way
+type: node
 latitude: 50.43778
 longitude: 7.41275
 postcode: "56626"
 city: Andernach
-street: "Koblenzer Straße"
-housenumber: 38
+street: Koblenzer Straße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

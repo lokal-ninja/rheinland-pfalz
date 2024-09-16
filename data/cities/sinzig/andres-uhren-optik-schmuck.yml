@@ -1,11 +1,11 @@
 id: 344212108
-type: way
+type: node
 latitude: 50.54359
 longitude: 7.25013
 postcode: "53489"
 city: Sinzig
-street: "Koblenzer Straße"
-housenumber: 8
-phone: "+49 2642 42616"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00, Sa 09:00-13:00; PH off"
-website: "https://www.schmuck-uhren-optik-sinzig.de/"
+street: Koblenzer Straße
+housenumber: "8"
+phone: +49 2642 42616
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00, Sa 09:00-13:00; PH off
+website: https://www.schmuck-uhren-optik-sinzig.de/

@@ -1,11 +1,11 @@
 id: 602157273
-type: way
+type: node
 latitude: 49.39114
 longitude: 8.43188
 postcode: "67165"
 city: Waldsee
-street: "Albert-Einstein-Allee"
-housenumber: 43
+street: Albert-Einstein-Allee
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

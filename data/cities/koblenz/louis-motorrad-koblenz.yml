@@ -4,8 +4,8 @@ latitude: 50.38979
 longitude: 7.55462
 postcode: "56070"
 city: Koblenz
-street: "August-Thyssen-Straße"
-housenumber: 11
-phone: "+49 261 988 53 95"
-opening_hours: "Mar-Oct: Mo-Sa 09:00-20:00; Nov-Feb: Mo-Sa 09:00-19:00; Su off"
-website: "https://www.louis.de/filialen/louis-koblenz"
+street: August-Thyssen-Straße
+housenumber: "11"
+phone: +49 261 988 53 95
+opening_hours: 'Mar-Oct: Mo-Sa 09:00-20:00; Nov-Feb: Mo-Sa 09:00-19:00; Su off'
+website: https://www.louis.de/filialen/louis-koblenz

@@ -1,11 +1,11 @@
 id: 215648463
-type: way
+type: node
 latitude: 49.56482
 longitude: 8.07722
 postcode: "67304"
 city: Eisenberg (Pfalz)
-street: "Carl-Zeiss-Straße"
-housenumber: 5
+street: Carl-Zeiss-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

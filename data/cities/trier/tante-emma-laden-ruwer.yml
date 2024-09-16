@@ -4,8 +4,8 @@ latitude: 49.78397
 longitude: 6.70943
 postcode: "54292"
 city: Trier
-street: "Rheinstraße"
-housenumber: 3
+street: Rheinstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 06:00-14:00,Su 08:00-11:00"
+opening_hours: Mo-Sa 06:00-14:00,Su 08:00-11:00
 website: ""

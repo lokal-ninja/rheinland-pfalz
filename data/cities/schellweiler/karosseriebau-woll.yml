@@ -1,11 +1,11 @@
 id: 397955593
-type: way
+type: node
 latitude: 49.51562
 longitude: 7.38975
 postcode: "66869"
 city: Schellweiler
-street: "Etschberger Straße"
-housenumber: 1
+street: Etschberger Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

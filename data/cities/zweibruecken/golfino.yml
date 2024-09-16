@@ -1,11 +1,11 @@
 id: 335828541
-type: way
+type: node
 latitude: 49.22959
 longitude: 7.40574
 postcode: "66482"
 city: Zweibrücken
-street: "Londoner Bogen"
-housenumber: 68
+street: Londoner Bogen
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

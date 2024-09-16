@@ -4,8 +4,8 @@ latitude: 49.87917
 longitude: 6.84404
 postcode: "54518"
 city: Rivenich
-street: "Im Süßgraben"
-housenumber: 9
-phone: "+49 6508 9177715"
-opening_hours: "nach Vereinbarung"
-website: "http://www.schneiderei-longuich.de"
+street: Im Süßgraben
+housenumber: "9"
+phone: +49 6508 9177715
+opening_hours: '"nach Vereinbarung"'
+website: http://www.schneiderei-longuich.de

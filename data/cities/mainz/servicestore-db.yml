@@ -4,8 +4,8 @@ latitude: 49.99366
 longitude: 8.27787
 postcode: "55116"
 city: Mainz
-street: "Holzhofstraße"
-housenumber: 5
+street: Holzhofstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 05:00-20:00; Fr 05:30-00:00; Sa 00:00-00:00; Su 00:00-20:00"
+opening_hours: Mo-Th 05:00-20:00; Fr 05:30-00:00; Sa 00:00-00:00; Su 00:00-20:00
 website: ""

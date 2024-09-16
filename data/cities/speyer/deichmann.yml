@@ -4,8 +4,8 @@ latitude: 49.33356
 longitude: 8.44439
 postcode: "67346"
 city: Speyer
-street: "Am Rübsamenwühl"
-housenumber: 4
-phone: "+49 6232 497068"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.deichmann.com/"
+street: Am Rübsamenwühl
+housenumber: "4"
+phone: +49 6232 497068
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.deichmann.com/

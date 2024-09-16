@@ -1,11 +1,11 @@
 id: 572358208
-type: way
+type: node
 latitude: 49.66887
 longitude: 8.08976
 postcode: "67294"
 city: Stetten
-street: "Albisheimer Straße"
-housenumber: 1
+street: Albisheimer Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

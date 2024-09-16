@@ -4,8 +4,8 @@ latitude: 49.99728
 longitude: 8.27355
 postcode: "55116"
 city: Mainz
-street: "Kirschgarten"
+street: Kirschgarten
 housenumber: 26-28
-phone: "+49 6131223555"
-opening_hours: "Mo-Fr 07:30-12:00, 13:00-16:45"
-website: "https://www.schue-mainz.de/"
+phone: +49 6131223555
+opening_hours: Mo-Fr 07:30-12:00, 13:00-16:45
+website: https://www.schue-mainz.de/

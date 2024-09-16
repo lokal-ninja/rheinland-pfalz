@@ -1,11 +1,11 @@
 id: 767484892
-type: way
+type: node
 latitude: 49.52624
 longitude: 8.39895
 postcode: "67069"
 city: Ludwigshafen am Rhein
-street: "Edigheimer Straße"
-housenumber: 125
+street: Edigheimer Straße
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-Sa 7:30-21:30; Su,PH off"
+opening_hours: Mo-Sa 7:30-21:30; Su,PH off
 website: ""

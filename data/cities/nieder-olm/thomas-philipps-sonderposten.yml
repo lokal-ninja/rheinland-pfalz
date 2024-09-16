@@ -1,11 +1,11 @@
 id: 157094764
-type: way
+type: node
 latitude: 49.9148
 longitude: 8.18426
 postcode: "55268"
 city: Nieder-Olm
-street: "Reichelsheimer Straße"
-housenumber: 2
+street: Reichelsheimer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

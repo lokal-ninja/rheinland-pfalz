@@ -1,11 +1,11 @@
 id: 293160631
-type: way
+type: node
 latitude: 49.7028
 longitude: 8.25696
 postcode: "67593"
 city: Westhofen
-street: "Römergrund"
-housenumber: 3
+street: Römergrund
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

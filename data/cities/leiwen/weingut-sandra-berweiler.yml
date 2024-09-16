@@ -4,8 +4,8 @@ latitude: 49.82447
 longitude: 6.88084
 postcode: "54340"
 city: Leiwen
-street: "Euchariusstraße"
-housenumber: 35
-phone: "+49 6507 3285"
-opening_hours: "Th-Su 17:00-22:00"
-website: "http://www.weingutberweiler.de/"
+street: Euchariusstraße
+housenumber: "35"
+phone: +49 6507 3285
+opening_hours: Th-Su 17:00-22:00
+website: http://www.weingutberweiler.de/

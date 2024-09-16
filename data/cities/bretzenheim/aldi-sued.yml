@@ -1,11 +1,11 @@
 id: 252866564
-type: way
+type: node
 latitude: 49.87434
 longitude: 7.88897
 postcode: "55559"
 city: Bretzenheim
-street: "In den zehn Morgen"
-housenumber: 12
+street: In den zehn Morgen
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

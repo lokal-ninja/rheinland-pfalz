@@ -1,11 +1,11 @@
 id: 575064906
-type: way
+type: node
 latitude: 50.45966
 longitude: 7.2232
 postcode: "56651"
 city: Niederzissen
-street: "Horststraße"
+street: Horststraße
 housenumber: 5-7
-phone: "+49 2636 968320"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.rewe.de"
+phone: +49 2636 968320
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.rewe.de

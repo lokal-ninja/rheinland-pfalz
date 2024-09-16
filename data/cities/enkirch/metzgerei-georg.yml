@@ -1,11 +1,11 @@
 id: 1092921766
-type: way
+type: node
 latitude: 49.98112
 longitude: 7.12592
 postcode: "56850"
 city: Enkirch
-street: "Zum Herrenberg"
-housenumber: 58
+street: Zum Herrenberg
+housenumber: "58"
 phone: "+4965416124"
 opening_hours: ""
 website: ""

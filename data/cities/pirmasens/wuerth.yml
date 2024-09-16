@@ -1,11 +1,11 @@
 id: 109556614
-type: way
+type: node
 latitude: 49.21304
 longitude: 7.59877
 postcode: "66953"
 city: Pirmasens
-street: "Hillstraße"
-housenumber: 1
+street: Hillstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

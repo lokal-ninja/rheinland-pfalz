@@ -4,8 +4,8 @@ latitude: 49.19124
 longitude: 8.14276
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Carl-Bosch-Straße"
-housenumber: 7
-phone: "+49 6341 3809577"
-opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-15:30"
-website: "https://www.caratec.de/"
+street: Carl-Bosch-Straße
+housenumber: "7"
+phone: +49 6341 3809577
+opening_hours: Mo-Th 09:00-17:00; Fr 09:00-15:30
+website: https://www.caratec.de/

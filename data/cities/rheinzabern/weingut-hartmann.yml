@@ -1,11 +1,11 @@
 id: 60145815
-type: way
+type: node
 latitude: 49.11173
 longitude: 8.28568
 postcode: "76764"
 city: Rheinzabern
-street: "Römerbadstraße"
-housenumber: 22
+street: Römerbadstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

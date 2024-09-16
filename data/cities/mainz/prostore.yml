@@ -4,8 +4,8 @@ latitude: 50.00027
 longitude: 8.26913
 postcode: "55116"
 city: Mainz
-street: "Am Kronberger Hof"
-housenumber: 4
-phone: "+49 6131 2182525"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://prostore-mainz.de"
+street: Am Kronberger Hof
+housenumber: "4"
+phone: +49 6131 2182525
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://prostore-mainz.de

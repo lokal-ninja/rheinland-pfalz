@@ -1,11 +1,11 @@
 id: 666893528
-type: way
+type: node
 latitude: 49.48324
 longitude: 8.36273
 postcode: "67071"
 city: Ludwigshafen am Rhein
-street: "Hedwig-Laudien-Ring"
-housenumber: 39
+street: Hedwig-Laudien-Ring
+housenumber: "39"
 phone: ""
 opening_hours: ""
-website: "https://www.plana.de/kuechenstudios/ludwigshafen-oggersheim/"
+website: https://www.plana.de/kuechenstudios/ludwigshafen-oggersheim/

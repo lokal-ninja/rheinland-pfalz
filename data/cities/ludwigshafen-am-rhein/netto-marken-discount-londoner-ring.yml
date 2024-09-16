@@ -1,11 +1,11 @@
 id: 224176068
-type: way
+type: node
 latitude: 49.54158
 longitude: 8.38832
 postcode: "67069"
 city: Ludwigshafen am Rhein
-street: "Londoner Ring"
-housenumber: 5
+street: Londoner Ring
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.netto-online.de

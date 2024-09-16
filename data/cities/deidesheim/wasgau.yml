@@ -1,11 +1,11 @@
 id: 159587862
-type: way
+type: node
 latitude: 49.40546
 longitude: 8.19197
 postcode: "67146"
 city: Deidesheim
-street: "Schloßwiese"
+street: Schloßwiese
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-21:00; Su,PH off"
-website: "https://www.wasgau.de/maerkte/wasgau-frischemarkt-deidesheim/"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-21:00; Su,PH off
+website: https://www.wasgau.de/maerkte/wasgau-frischemarkt-deidesheim/

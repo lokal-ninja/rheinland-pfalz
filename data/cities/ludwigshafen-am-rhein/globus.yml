@@ -1,11 +1,11 @@
 id: 70786945
-type: way
+type: node
 latitude: 49.48735
 longitude: 8.3493
 postcode: "67071"
 city: Ludwigshafen am Rhein
-street: "Oderstraße"
-housenumber: 6
+street: Oderstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-22:00; Sa 07:00-22:00; Su,PH off"
-website: "https://www.globus.de/ludwigshafen/index.php"
+opening_hours: Mo-Fr 08:00-22:00; Sa 07:00-22:00; Su,PH off
+website: https://www.globus.de/ludwigshafen/index.php

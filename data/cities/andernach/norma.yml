@@ -1,11 +1,11 @@
 id: 320002045
-type: way
+type: node
 latitude: 50.42326
 longitude: 7.40171
 postcode: "56626"
 city: Andernach
-street: "Erfurter Straße"
-housenumber: 5
+street: Erfurter Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.norma-online.de"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.norma-online.de

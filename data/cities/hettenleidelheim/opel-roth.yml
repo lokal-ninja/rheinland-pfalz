@@ -1,11 +1,11 @@
 id: 375530695
-type: way
+type: node
 latitude: 49.53683
 longitude: 8.0845
 postcode: "67310"
 city: Hettenleidelheim
-street: "Tiefenthaler Straße"
-housenumber: 40
+street: Tiefenthaler Straße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

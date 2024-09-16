@@ -1,11 +1,11 @@
 id: 339411536
-type: way
+type: node
 latitude: 50.39302
 longitude: 7.54046
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Hinter der Jungenstraße"
-housenumber: 14
+street: Hinter der Jungenstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

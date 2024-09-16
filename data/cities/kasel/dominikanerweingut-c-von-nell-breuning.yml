@@ -1,11 +1,11 @@
 id: 303371434
-type: way
+type: node
 latitude: 49.76225
 longitude: 6.72621
 postcode: "54317"
 city: Kasel
-street: "Bahnhofstraße"
-housenumber: 37
-phone: "+49 651 5180"
+street: Bahnhofstraße
+housenumber: "37"
+phone: +49 651 5180
 opening_hours: ""
-website: "https://www.weingut-von-nell.de/"
+website: https://www.weingut-von-nell.de/

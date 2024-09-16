@@ -1,11 +1,11 @@
 id: 35862463
-type: way
+type: node
 latitude: 50.43223
 longitude: 7.48369
 postcode: "56564"
 city: Neuwied
-street: "Danziger Straße"
-housenumber: 5
+street: Danziger Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

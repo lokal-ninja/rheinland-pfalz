@@ -1,11 +1,11 @@
 id: 983877546
-type: way
+type: node
 latitude: 49.81069
 longitude: 7.12487
 postcode: "54497"
 city: Morbach
-street: "Bahnhofstraße"
-housenumber: 38
+street: Bahnhofstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "http://www.autoschilder-kuerzinger.de/"
+website: http://www.autoschilder-kuerzinger.de/

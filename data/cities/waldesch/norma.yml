@@ -1,11 +1,11 @@
 id: 193522903
-type: way
+type: node
 latitude: 50.28181
 longitude: 7.54932
 postcode: "56323"
 city: Waldesch
-street: "Hunsrückhöhenstraße"
-housenumber: 1
+street: Hunsrückhöhenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

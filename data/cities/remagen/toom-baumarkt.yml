@@ -1,11 +1,11 @@
 id: 109904632
-type: way
+type: node
 latitude: 50.56846
 longitude: 7.24597
 postcode: "53424"
 city: Remagen
-street: "Zeppelinstraße"
+street: Zeppelinstraße
 housenumber: 1-5
-phone: "+49 2642 93010"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://toom.de"
+phone: +49 2642 93010
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://toom.de

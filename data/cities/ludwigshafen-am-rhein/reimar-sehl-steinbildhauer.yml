@@ -1,11 +1,11 @@
 id: 170309159
-type: way
+type: node
 latitude: 49.46815
 longitude: 8.41781
 postcode: "67065"
 city: Ludwigshafen am Rhein
-street: "Raschigstraße"
-housenumber: 9
-phone: "+49 621 579895"
+street: Raschigstraße
+housenumber: "9"
+phone: +49 621 579895
 opening_hours: ""
-website: "https://www.bildhauerei-sehl.de/"
+website: https://www.bildhauerei-sehl.de/

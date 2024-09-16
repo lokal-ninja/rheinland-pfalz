@@ -1,11 +1,11 @@
 id: 96216133
-type: way
+type: node
 latitude: 50.53968
 longitude: 7.08696
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Am Silberberg"
-housenumber: 2
-phone: "+49 2641 9138410"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://edeka-rudolphi.de/"
+street: Am Silberberg
+housenumber: "2"
+phone: +49 2641 9138410
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://edeka-rudolphi.de/

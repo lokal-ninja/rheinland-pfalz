@@ -4,8 +4,8 @@ latitude: 50.22992
 longitude: 7.14314
 postcode: "56759"
 city: Kaisersesch
-street: "Gartenstraße"
-housenumber: 3
-phone: "+49 2653 911255"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-14:00"
-website: "http://www.eifel.com/kaisersesch/firmen/gwalgenbach.html"
+street: Gartenstraße
+housenumber: "3"
+phone: +49 2653 911255
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-14:00
+website: http://www.eifel.com/kaisersesch/firmen/gwalgenbach.html

@@ -4,8 +4,8 @@ latitude: 50.01668
 longitude: 8.21831
 postcode: "55120"
 city: Mainz
-street: "Westring"
-housenumber: 7
+street: Westring
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/Filial-Angebote.chtm"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/Filial-Angebote.chtm

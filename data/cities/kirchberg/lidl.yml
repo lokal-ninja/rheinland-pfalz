@@ -1,11 +1,11 @@
 id: 100978496
-type: way
+type: node
 latitude: 49.95171
 longitude: 7.40488
 postcode: "55481"
 city: Kirchberg
-street: "Freiherr-von-Drais-Straße"
-housenumber: 1
+street: Freiherr-von-Drais-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su off; PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su off; PH off
 website: ""

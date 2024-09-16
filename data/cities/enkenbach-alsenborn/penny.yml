@@ -1,11 +1,11 @@
 id: 41221288
-type: way
+type: node
 latitude: 49.49094
 longitude: 7.89722
 postcode: "67677"
 city: Enkenbach-Alsenborn
-street: "Donnersbergstraße"
-housenumber: 21
-phone: "+49221 2020199959"
-opening_hours: "Mo-Sa 07:30-21:00"
-website: "https://www.penny.de/"
+street: Donnersbergstraße
+housenumber: "21"
+phone: +49221 2020199959
+opening_hours: Mo-Sa 07:30-21:00
+website: https://www.penny.de/

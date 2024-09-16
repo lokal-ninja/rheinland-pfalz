@@ -1,11 +1,11 @@
 id: 214652857
-type: way
+type: node
 latitude: 50.79011
 longitude: 7.87097
 postcode: "57518"
 city: Betzdorf
-street: "Wilhelmstraße"
+street: Wilhelmstraße
 housenumber: 4-8
-phone: "+49 2741 93 74 30"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+phone: +49 2741 93 74 30
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

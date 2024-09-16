@@ -1,11 +1,11 @@
 id: 144655553
-type: way
+type: node
 latitude: 50.35007
 longitude: 6.56658
 postcode: "54584"
 city: Jünkerath
-street: "Auf dem Wehrt"
-housenumber: 32
+street: Auf dem Wehrt
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://landbaeckerei-roden.de/"
+website: https://landbaeckerei-roden.de/

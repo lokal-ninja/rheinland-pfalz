@@ -4,8 +4,8 @@ latitude: 49.1515
 longitude: 8.29739
 postcode: "76761"
 city: Rülzheim
-street: "Max-Planck-Straße"
-housenumber: 2
+street: Max-Planck-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu,Fr 09:00-12:00; Th 15:00-17:30; Sa 11:00-12:00; We,Su,PH off"
-website: "http://www.Elektro-Mendel.de"
+opening_hours: Mo,Tu,Fr 09:00-12:00; Th 15:00-17:30; Sa 11:00-12:00; We,Su,PH off
+website: http://www.Elektro-Mendel.de

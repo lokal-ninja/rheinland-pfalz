@@ -1,11 +1,11 @@
 id: 379654435
-type: way
+type: node
 latitude: 50.32255
 longitude: 7.2201
 postcode: "56727"
 city: Mayen
-street: "Joignystraße"
-housenumber: 4
+street: Joignystraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.56071
 longitude: 7.3166
 postcode: "53547"
 city: Dattenberg
-street: "Hof Ronig"
-housenumber: 2
+street: Hof Ronig
+housenumber: "2"
 phone: "+4926444156"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-12:00,13:00-15:00"
-website: "http://hof-ronig.de"
+opening_hours: Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-12:00,13:00-15:00
+website: http://hof-ronig.de

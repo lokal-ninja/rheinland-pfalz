@@ -1,11 +1,11 @@
 id: 599184716
-type: way
+type: node
 latitude: 49.14952
 longitude: 8.23384
 postcode: "76863"
 city: Herxheim
-street: "Im Riegel"
-housenumber: 5
-phone: "+49 800 8002534"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/rheinland-pfalz/herxheim/im-riegel-5"
+street: Im Riegel
+housenumber: "5"
+phone: +49 800 8002534
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://filialen.aldi-sued.de/rheinland-pfalz/herxheim/im-riegel-5

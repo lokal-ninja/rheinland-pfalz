@@ -4,8 +4,8 @@ latitude: 49.20974
 longitude: 8.0466
 postcode: "76833"
 city: Siebeldingen
-street: "Mühlweg"
-housenumber: 8
-phone: "+49 6345 1844"
-opening_hours: "Mo-Fr 08:00-12:00; Mo-Fr 13:00-18:00"
-website: "https://www.kuegler-muehle.de/"
+street: Mühlweg
+housenumber: "8"
+phone: +49 6345 1844
+opening_hours: Mo-Fr 08:00-12:00; Mo-Fr 13:00-18:00
+website: https://www.kuegler-muehle.de/

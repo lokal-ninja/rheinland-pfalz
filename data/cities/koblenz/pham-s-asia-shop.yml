@@ -4,8 +4,8 @@ latitude: 50.35868
 longitude: 7.59915
 postcode: "56068"
 city: Koblenz
-street: "Clemensstraße"
-housenumber: 12
-phone: "+49 261 9738893"
-opening_hours: "Mo-Sa 09:30-20:00"
+street: Clemensstraße
+housenumber: "12"
+phone: +49 261 9738893
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

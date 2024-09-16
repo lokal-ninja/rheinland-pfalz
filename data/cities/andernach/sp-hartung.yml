@@ -4,8 +4,8 @@ latitude: 50.43507
 longitude: 7.41148
 postcode: "56626"
 city: Andernach
-street: "Werftstraße"
-housenumber: 47
-phone: "+49 2632 47100"
-opening_hours: "Mo-Sa 09:00-12:30; Mo-Fr 14:00-18:30"
-website: "https://hartung-sp.de/"
+street: Werftstraße
+housenumber: "47"
+phone: +49 2632 47100
+opening_hours: Mo-Sa 09:00-12:30; Mo-Fr 14:00-18:30
+website: https://hartung-sp.de/

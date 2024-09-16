@@ -1,11 +1,11 @@
 id: 239174007
-type: way
+type: node
 latitude: 49.99293
 longitude: 8.23586
 postcode: "55128"
 city: Mainz
-street: "Jakob-Welder-Weg"
+street: Jakob-Welder-Weg
 housenumber: 30a
 phone: "+491794318646"
-opening_hours: "Tu-Th 10:00-13:00,Tu-Th 14:30-17:00"
-website: "https://www.unibike.org"
+opening_hours: Tu-Th 10:00-13:00,Tu-Th 14:30-17:00
+website: https://www.unibike.org

@@ -1,11 +1,11 @@
 id: 447264080
-type: way
+type: node
 latitude: 49.70106
 longitude: 8.19327
 postcode: "67598"
 city: Gundersheim
-street: "Donnersberger Straße"
-housenumber: 23
-phone: "+49 6244 57683"
-opening_hours: "06:00-20:00"
+street: Donnersberger Straße
+housenumber: "23"
+phone: +49 6244 57683
+opening_hours: 06:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.46064
 longitude: 8.16713
 postcode: "67098"
 city: Bad Dürkheim
-street: "Römerstraße"
-housenumber: 10
+street: Römerstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:00; Sa 09:00-16:00"
-website: "https://connery.de/"
+opening_hours: Tu-Fr 09:30-18:00; Sa 09:00-16:00
+website: https://connery.de/

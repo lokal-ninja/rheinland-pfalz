@@ -1,11 +1,11 @@
 id: 211040047
-type: way
+type: node
 latitude: 49.92747
 longitude: 7.83042
 postcode: "55444"
 city: Waldlaubersheim
-street: "Windesheimer Straße"
-housenumber: 8
-phone: "+49 6707 1338"
+street: Windesheimer Straße
+housenumber: "8"
+phone: +49 6707 1338
 opening_hours: ""
-website: "http://www.weingut-paulus.de/"
+website: http://www.weingut-paulus.de/

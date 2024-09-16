@@ -4,8 +4,8 @@ latitude: 50.23023
 longitude: 7.13944
 postcode: "56759"
 city: Kaisersesch
-street: "Poststraße"
-housenumber: 15
+street: Poststraße
+housenumber: "15"
 phone: ""
-opening_hours: "nach telefonischer Terminvereinbarung"
+opening_hours: '"nach telefonischer Terminvereinbarung"'
 website: ""

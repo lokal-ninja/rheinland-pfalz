@@ -1,11 +1,11 @@
 id: 331682255
-type: way
+type: node
 latitude: 49.60949
 longitude: 6.42538
 postcode: "54457"
 city: Wincheringen
-street: "Bahnhofstraße"
-housenumber: 60
+street: Bahnhofstraße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

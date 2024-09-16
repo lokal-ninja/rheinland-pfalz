@@ -1,11 +1,11 @@
 id: 917120875
-type: way
+type: node
 latitude: 49.71821
 longitude: 7.28747
 postcode: "55743"
 city: Idar-Oberstein
-street: "Nordstraße"
-housenumber: 7
-phone: "+49 6781 367141"
+street: Nordstraße
+housenumber: "7"
+phone: +49 6781 367141
 opening_hours: ""
 website: ""

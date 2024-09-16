@@ -1,11 +1,11 @@
 id: 39520562
-type: way
+type: node
 latitude: 49.80204
 longitude: 8.3444
 postcode: "67583"
 city: Guntersblum
-street: "Hauptstraße"
-housenumber: 99
+street: Hauptstraße
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 475639873
-type: way
+type: node
 latitude: 50.5502
 longitude: 7.18758
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Sinziger Straße"
-housenumber: 3
-phone: "+49 2641 78454"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-13:00; Su,PH off"
-website: "https://fliesen-dreimueller.de"
+street: Sinziger Straße
+housenumber: "3"
+phone: +49 2641 78454
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-13:00; Su,PH off
+website: https://fliesen-dreimueller.de

@@ -1,11 +1,11 @@
 id: 1054297662
-type: way
+type: node
 latitude: 50.65934
 longitude: 7.96677
 postcode: "56470"
 city: Bad Marienberg (Westerwald)
-street: "An der Lehmkaute"
-housenumber: 1
+street: An der Lehmkaute
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

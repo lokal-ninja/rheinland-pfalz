@@ -1,11 +1,11 @@
 id: 491782019
-type: way
+type: node
 latitude: 50.40781
 longitude: 7.56896
 postcode: "56220"
 city: Sankt Sebastian
-street: "Kesselheimer Straße"
-housenumber: 67
+street: Kesselheimer Straße
+housenumber: "67"
 phone: ""
-opening_hours: "07:00-20:00"
+opening_hours: 07:00-20:00
 website: ""

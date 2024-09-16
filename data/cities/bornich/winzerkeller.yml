@@ -1,11 +1,11 @@
 id: 494691612
-type: way
+type: node
 latitude: 50.12434
 longitude: 7.76538
 postcode: "56348"
 city: Bornich
-street: "Winzerweg"
-housenumber: 1
-phone: "+49 6771 2142"
+street: Winzerweg
+housenumber: "1"
+phone: +49 6771 2142
 opening_hours: ""
-website: "https://www.winzergenossenschaft-bornich.de/"
+website: https://www.winzergenossenschaft-bornich.de/

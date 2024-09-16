@@ -1,11 +1,11 @@
 id: 349744371
-type: way
+type: node
 latitude: 49.19565
 longitude: 7.83784
 postcode: "76846"
 city: Hauenstein
-street: "Pirmasenser Straße"
-housenumber: 1
+street: Pirmasenser Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 7:30-20:00; Su,PH off"
+opening_hours: Mo-Sa 7:30-20:00; Su,PH off
 website: ""

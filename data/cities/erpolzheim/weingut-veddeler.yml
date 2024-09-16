@@ -1,11 +1,11 @@
 id: 632093493
-type: way
+type: node
 latitude: 49.48885
 longitude: 8.21804
 postcode: "67167"
 city: Erpolzheim
-street: "Bahnhofstraße"
-housenumber: 13
-phone: "+49 6353 8131"
-opening_hours: "Mo-Fr 10:00-19:00,Sa 10:00-15:00"
-website: "http://www.weingut-veddeler.de/"
+street: Bahnhofstraße
+housenumber: "13"
+phone: +49 6353 8131
+opening_hours: Mo-Fr 10:00-19:00,Sa 10:00-15:00
+website: http://www.weingut-veddeler.de/

@@ -1,11 +1,11 @@
 id: 415630164
-type: way
+type: node
 latitude: 49.392
 longitude: 7.43828
 postcode: "66892"
 city: Bruchmühlbach-Miesau
-street: "Spießstraße"
-housenumber: 4
+street: Spießstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

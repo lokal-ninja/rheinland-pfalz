@@ -4,8 +4,8 @@ latitude: 50.00654
 longitude: 8.26135
 postcode: "55118"
 city: Mainz
-street: "Leibnizstraße"
-housenumber: 22
-phone: "+49 61316197950"
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://liebs.co/"
+street: Leibnizstraße
+housenumber: "22"
+phone: +49 61316197950
+opening_hours: Mo-Sa 11:00-19:00
+website: https://liebs.co/

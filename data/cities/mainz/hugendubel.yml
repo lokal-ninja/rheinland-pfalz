@@ -1,11 +1,11 @@
 id: 868798067
-type: way
+type: node
 latitude: 50.00134
 longitude: 8.2681
 postcode: "55116"
 city: Mainz
-street: "Adolf-Kolping-Straße"
-housenumber: 
-phone: "+49 6131 8854488"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "http://www.hugendubel.de"
+street: Adolf-Kolping-Straße
+housenumber: ""
+phone: +49 6131 8854488
+opening_hours: Mo-Sa 09:30-19:00
+website: http://www.hugendubel.de

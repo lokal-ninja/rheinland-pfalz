@@ -1,11 +1,11 @@
 id: 279063441
-type: way
+type: node
 latitude: 49.09998
 longitude: 7.80748
 postcode: "76891"
 city: Bundenthal
-street: "Hauptstraße"
-housenumber: 3
+street: Hauptstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
+website: https://www.netto-online.de

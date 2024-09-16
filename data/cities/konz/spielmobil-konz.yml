@@ -1,11 +1,11 @@
 id: 431228244
-type: way
+type: node
 latitude: 49.68508
 longitude: 6.55919
 postcode: "54329"
 city: Konz
-street: "Otto-Hahn-Straße"
-housenumber: 1
+street: Otto-Hahn-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.spielmobil-konz.de/"
+website: https://www.spielmobil-konz.de/

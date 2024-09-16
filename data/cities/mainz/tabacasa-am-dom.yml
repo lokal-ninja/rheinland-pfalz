@@ -4,8 +4,8 @@ latitude: 49.99957
 longitude: 8.275
 postcode: "55116"
 city: Mainz
-street: "Markt"
-housenumber: 35
+street: Markt
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-16:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-16:00
 website: ""

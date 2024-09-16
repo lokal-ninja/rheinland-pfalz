@@ -1,11 +1,11 @@
 id: 33139304
-type: way
+type: node
 latitude: 49.42366
 longitude: 8.36655
 postcode: "67112"
 city: Mutterstadt
-street: "An der Fohlenweide"
-housenumber: 31
+street: An der Fohlenweide
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

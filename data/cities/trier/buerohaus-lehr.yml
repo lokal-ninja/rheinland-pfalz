@@ -1,11 +1,11 @@
 id: 126834951
-type: way
+type: node
 latitude: 49.75952
 longitude: 6.65793
 postcode: "54295"
 city: Trier
-street: "Güterstraße"
-housenumber: 82
+street: Güterstraße
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

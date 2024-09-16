@@ -4,8 +4,8 @@ latitude: 49.95938
 longitude: 8.19885
 postcode: "55127"
 city: Mainz
-street: "Regerstraße"
-housenumber: 35
+street: Regerstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo 09:00-18:00; Fr 08:00-17:00; Tu,We 08:00-18:00"
+opening_hours: Mo 09:00-18:00; Fr 08:00-17:00; Tu,We 08:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 487144091
-type: way
+type: node
 latitude: 50.38963
 longitude: 7.58245
 postcode: "56070"
 city: Koblenz
-street: "Carl-Spaeter-Straße"
-housenumber: 13
+street: Carl-Spaeter-Straße
+housenumber: "13"
 phone: "0261304880"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00
 website: ""

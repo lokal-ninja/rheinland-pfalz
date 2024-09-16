@@ -4,8 +4,8 @@ latitude: 49.21189
 longitude: 8.11714
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Gilletstraße"
-housenumber: 1
-phone: "+49 6341 960477"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.baeckerei-reuther.de/Verkaufsstellen/Landau"
+street: Gilletstraße
+housenumber: "1"
+phone: +49 6341 960477
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.baeckerei-reuther.de/Verkaufsstellen/Landau

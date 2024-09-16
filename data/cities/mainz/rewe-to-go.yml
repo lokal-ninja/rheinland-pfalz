@@ -1,11 +1,11 @@
 id: 910034094
-type: way
+type: node
 latitude: 50.00115
 longitude: 8.25917
 postcode: "55116"
 city: Mainz
-street: "Bahnhofplatz"
-housenumber: 1
+street: Bahnhofplatz
+housenumber: "1"
 phone: "+4961314648750"
-opening_hours: "Mo-Su 05:00-24:00"
+opening_hours: Mo-Su 05:00-24:00
 website: ""

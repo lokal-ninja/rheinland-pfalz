@@ -1,11 +1,11 @@
 id: 113990740
-type: way
+type: node
 latitude: 50.78284
 longitude: 7.73035
 postcode: "57537"
 city: Wissen
-street: "Güterbahnhof"
-housenumber: 2
+street: Güterbahnhof
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

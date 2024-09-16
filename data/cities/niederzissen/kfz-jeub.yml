@@ -1,11 +1,11 @@
 id: 603418097
-type: way
+type: node
 latitude: 50.45206
 longitude: 7.22159
 postcode: "56651"
 city: Niederzissen
-street: "Im Joch"
-housenumber: 5
+street: Im Joch
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; PH off"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; PH off
 website: ""

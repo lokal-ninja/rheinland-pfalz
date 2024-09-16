@@ -1,11 +1,11 @@
 id: 272448961
-type: way
+type: node
 latitude: 50.39397
 longitude: 7.51
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "In der Pützgewann"
-housenumber: 14
-phone: "+49 2630 5044999"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-16:00; PH off"
-website: "https://www.wirkaufendeinauto.de"
+street: In der Pützgewann
+housenumber: "14"
+phone: +49 2630 5044999
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-16:00; PH off
+website: https://www.wirkaufendeinauto.de

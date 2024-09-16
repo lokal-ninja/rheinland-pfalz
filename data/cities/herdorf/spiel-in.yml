@@ -1,11 +1,11 @@
 id: 700483195
-type: way
+type: node
 latitude: 50.77877
 longitude: 7.95149
 postcode: "57562"
 city: Herdorf
-street: "Hauptstraße"
-housenumber: 43
+street: Hauptstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

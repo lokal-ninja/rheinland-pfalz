@@ -4,8 +4,8 @@ latitude: 50.3716
 longitude: 8.00897
 postcode: "65582"
 city: Diez
-street: "Rosenstraße"
-housenumber: 9
-phone: "+49 6432 2285"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-17:00; Sa 09:00-12:30; Su off"
+street: Rosenstraße
+housenumber: "9"
+phone: +49 6432 2285
+opening_hours: Mo-Fr 09:00-12:30,14:00-17:00; Sa 09:00-12:30; Su off
 website: ""

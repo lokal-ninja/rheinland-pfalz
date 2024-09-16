@@ -1,11 +1,11 @@
 id: 257949606
-type: way
+type: node
 latitude: 50.37663
 longitude: 7.25428
 postcode: "56743"
 city: Mendig
-street: "Ahornweg"
-housenumber: 7
+street: Ahornweg
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

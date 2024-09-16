@@ -1,11 +1,11 @@
 id: 76711795
-type: way
+type: node
 latitude: 50.32279
 longitude: 7.60014
 postcode: "56112"
 city: Lahnstein
-street: "Industriestraße"
-housenumber: 1
-phone: "+49 2621 96890"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.globus-baumarkt.de/"
+street: Industriestraße
+housenumber: "1"
+phone: +49 2621 96890
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.globus-baumarkt.de/

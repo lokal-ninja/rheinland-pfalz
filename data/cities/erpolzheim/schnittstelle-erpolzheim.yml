@@ -1,11 +1,11 @@
 id: 632489512
-type: way
+type: node
 latitude: 49.4892
 longitude: 8.22251
 postcode: "67167"
 city: Erpolzheim
-street: "Kirchgasse"
-housenumber: 1
-phone: "+49 6353 915751"
-opening_hours: "Tu, We 15:00-18:00;Th, Fr 08:30-12:30,15:00-18:00"
-website: "https://www.schnittstelle-erpolzheim.de/"
+street: Kirchgasse
+housenumber: "1"
+phone: +49 6353 915751
+opening_hours: Tu, We 15:00-18:00;Th, Fr 08:30-12:30,15:00-18:00
+website: https://www.schnittstelle-erpolzheim.de/

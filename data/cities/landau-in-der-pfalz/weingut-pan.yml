@@ -4,8 +4,8 @@ latitude: 49.22239
 longitude: 8.11034
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Lindenbergstraße"
-housenumber: 32
-phone: "+49 6341 969187"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-18:00"
-website: "https://vinopan.de/oeffnungszeiten/"
+street: Lindenbergstraße
+housenumber: "32"
+phone: +49 6341 969187
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-18:00
+website: https://vinopan.de/oeffnungszeiten/

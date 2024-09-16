@@ -4,8 +4,8 @@ latitude: 49.7719
 longitude: 6.78189
 postcode: "54341"
 city: Fell
-street: "Kirchstraße"
-housenumber: 102
-phone: "+49 6502 2192"
-opening_hours: "Mo-Fr 07:00-12:30, Tu-Fr 14:00-18:00, Sa 06:30-13:00"
+street: Kirchstraße
+housenumber: "102"
+phone: +49 6502 2192
+opening_hours: Mo-Fr 07:00-12:30, Tu-Fr 14:00-18:00, Sa 06:30-13:00
 website: ""

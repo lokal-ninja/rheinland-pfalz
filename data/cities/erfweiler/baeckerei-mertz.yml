@@ -1,11 +1,11 @@
 id: 288840060
-type: way
+type: node
 latitude: 49.15689
 longitude: 7.81118
 postcode: "66996"
 city: Erfweiler
-street: "Winterbergstraße"
-housenumber: 31
-phone: "+49 6391 1504"
-opening_hours: "Mo-Sa 06:00-12:30, Fr 15:00-17:30"
+street: Winterbergstraße
+housenumber: "31"
+phone: +49 6391 1504
+opening_hours: Mo-Sa 06:00-12:30, Fr 15:00-17:30
 website: ""

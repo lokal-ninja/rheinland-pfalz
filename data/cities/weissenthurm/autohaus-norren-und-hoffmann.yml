@@ -1,11 +1,11 @@
 id: 328248852
-type: way
+type: node
 latitude: 50.40938
 longitude: 7.47267
 postcode: "56575"
 city: Weißenthurm
-street: "Werftstraße"
-housenumber: 3
-phone: "+49 2637 92350"
-opening_hours: "Mo-Fr 08:00-18:15; Sa 08:00-12:15; PH off"
-website: "https://www.ford-norren-weissenthurm.de"
+street: Werftstraße
+housenumber: "3"
+phone: +49 2637 92350
+opening_hours: Mo-Fr 08:00-18:15; Sa 08:00-12:15; PH off
+website: https://www.ford-norren-weissenthurm.de

@@ -1,11 +1,11 @@
 id: 846747717
-type: way
+type: node
 latitude: 49.41729
 longitude: 7.57071
 postcode: "66849"
 city: Landstuhl
-street: "Bruchwiesenstraße"
-housenumber: 32
+street: Bruchwiesenstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

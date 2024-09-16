@@ -4,8 +4,8 @@ latitude: 49.409
 longitude: 8.18696
 postcode: "67146"
 city: Deidesheim
-street: "Weinstraße"
-housenumber: 21
-phone: "+49 6326 989363"
-opening_hours: "Tu-Fr 10:00-17:00,18:00+; Sa,Su 11:00-17:00,18:00+; Mo off"
-website: "https://weingut-siben.de/"
+street: Weinstraße
+housenumber: "21"
+phone: +49 6326 989363
+opening_hours: Tu-Fr 10:00-17:00,18:00+; Sa,Su 11:00-17:00,18:00+; Mo off
+website: https://weingut-siben.de/

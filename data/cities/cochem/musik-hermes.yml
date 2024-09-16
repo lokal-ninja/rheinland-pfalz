@@ -1,11 +1,11 @@
 id: 562883360
-type: way
+type: node
 latitude: 50.13595
 longitude: 7.13296
 postcode: "56812"
 city: Cochem
-street: "Lilienthalstraße"
-housenumber: 8
-phone: "+49(0)2671-3018"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://musik-hermes.de/"
+street: Lilienthalstraße
+housenumber: "8"
+phone: +49(0)2671-3018
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://musik-hermes.de/

@@ -1,11 +1,11 @@
 id: 488304364
-type: way
+type: node
 latitude: 50.38094
 longitude: 7.62588
 postcode: "56182"
 city: Urbar
-street: "Arenberger Straße"
-housenumber: 46
-phone: "+49 (0)261-61690"
+street: Arenberger Straße
+housenumber: "46"
+phone: +49 (0)261-61690
 opening_hours: ""
 website: ""

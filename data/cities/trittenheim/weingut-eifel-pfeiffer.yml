@@ -1,11 +1,11 @@
 id: 355646956
-type: way
+type: node
 latitude: 49.82546
 longitude: 6.90028
 postcode: "54349"
 city: Trittenheim
-street: "Moselweinstraße"
-housenumber: 70
+street: Moselweinstraße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

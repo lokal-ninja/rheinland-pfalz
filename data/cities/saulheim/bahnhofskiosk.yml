@@ -1,11 +1,11 @@
 id: 136593495
-type: way
+type: node
 latitude: 49.87384
 longitude: 8.15393
 postcode: "55291"
 city: Saulheim
-street: "Bahnhofstraße"
-housenumber: 35
+street: Bahnhofstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00"
+opening_hours: Mo-Fr 06:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 36788328
-type: way
+type: node
 latitude: 50.43763
 longitude: 7.48971
 postcode: "56566"
 city: Neuwied
-street: "Breslauer Straße"
-housenumber: 80
+street: Breslauer Straße
+housenumber: "80"
 phone: ""
 opening_hours: ""
-website: "https://www.jawoll.de/filialen/neuwied"
+website: https://www.jawoll.de/filialen/neuwied

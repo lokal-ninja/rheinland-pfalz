@@ -4,8 +4,8 @@ latitude: 50.00167
 longitude: 8.26675
 postcode: "55116"
 city: Mainz
-street: "Lotharstraße"
-housenumber: 15
+street: Lotharstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

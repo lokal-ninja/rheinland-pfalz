@@ -1,11 +1,11 @@
 id: 36124232
-type: way
+type: node
 latitude: 50.43883
 longitude: 7.49137
 postcode: "56566"
 city: Neuwied
-street: "Allensteiner Straße"
-housenumber: 21
+street: Allensteiner Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:00; Sa 09:00-15:00; Su, Mo, PH off"
+opening_hours: Tu-Fr 09:30-18:00; Sa 09:00-15:00; Su, Mo, PH off
 website: ""

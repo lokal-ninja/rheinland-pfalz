@@ -1,11 +1,11 @@
 id: 399632974
-type: way
+type: node
 latitude: 49.19752
 longitude: 7.5639
 postcode: "66954"
 city: Pirmasens
-street: "Windsberger Straße"
-housenumber: 1
+street: Windsberger Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

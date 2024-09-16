@@ -4,8 +4,8 @@ latitude: 50.00151
 longitude: 8.2631
 postcode: "55116"
 city: Mainz
-street: "Gärtnergasse"
-housenumber: 16
-phone: "+49 6131 9080686"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "http://shaiyans.com"
+street: Gärtnergasse
+housenumber: "16"
+phone: +49 6131 9080686
+opening_hours: Mo-Sa 09:30-19:30
+website: http://shaiyans.com

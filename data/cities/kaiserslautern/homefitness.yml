@@ -1,11 +1,11 @@
 id: 738990342
-type: way
+type: node
 latitude: 49.47885
 longitude: 7.71037
 postcode: "67659"
 city: Kaiserslautern
-street: "Siegelbacher Straße"
-housenumber: 126
+street: Siegelbacher Straße
+housenumber: "126"
 phone: ""
 opening_hours: ""
 website: ""

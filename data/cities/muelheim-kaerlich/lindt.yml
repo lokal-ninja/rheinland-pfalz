@@ -1,11 +1,11 @@
 id: 485579372
-type: way
+type: node
 latitude: 50.39504
 longitude: 7.52707
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Industriestraße"
-housenumber: 19
-phone: "+49 261 57908312"
-opening_hours: "Mo-Sa 10:00-18:00; PH off"
-website: "https://www.lindt.de"
+street: Industriestraße
+housenumber: "19"
+phone: +49 261 57908312
+opening_hours: Mo-Sa 10:00-18:00; PH off
+website: https://www.lindt.de

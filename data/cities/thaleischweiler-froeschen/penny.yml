@@ -1,11 +1,11 @@
 id: 404974716
-type: way
+type: node
 latitude: 49.26177
 longitude: 7.57396
 postcode: "66987"
 city: Thaleischweiler-Fröschen
-street: "Bahnhofstraße"
-housenumber: 52
+street: Bahnhofstraße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

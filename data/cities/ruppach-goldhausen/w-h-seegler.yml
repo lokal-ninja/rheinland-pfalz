@@ -4,8 +4,8 @@ latitude: 50.46232
 longitude: 7.87733
 postcode: "56412"
 city: Ruppach-Goldhausen
-street: "Hauptstraße"
-housenumber: 38
-phone: "+49 2602 8727"
-opening_hours: "Mo-Th 08:00-14:30; Fr 08:00-12:30"
-website: "https://www.seegler-outdoor.de/"
+street: Hauptstraße
+housenumber: "38"
+phone: +49 2602 8727
+opening_hours: Mo-Th 08:00-14:30; Fr 08:00-12:30
+website: https://www.seegler-outdoor.de/

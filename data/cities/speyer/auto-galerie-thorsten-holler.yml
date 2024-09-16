@@ -1,11 +1,11 @@
 id: 203957226
-type: way
+type: node
 latitude: 49.34049
 longitude: 8.43
 postcode: "67346"
 city: Speyer
-street: "Tullastraße"
-housenumber: 2
+street: Tullastraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.jahreswagen-speyer.de/"
+website: https://www.jahreswagen-speyer.de/

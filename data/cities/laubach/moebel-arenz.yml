@@ -1,11 +1,11 @@
 id: 388264496
-type: way
+type: node
 latitude: 50.23599
 longitude: 7.06761
 postcode: "56759"
 city: Laubach
-street: "Bahnhofstraße"
-housenumber: 10
-phone: "+49 2653 99890"
-opening_hours: "Mo-We,Fr 9:00-18:30;Th 9:00-20:00;Sa 9:00-16:00"
-website: "https://www.moebel-arenz.de"
+street: Bahnhofstraße
+housenumber: "10"
+phone: +49 2653 99890
+opening_hours: Mo-We,Fr 9:00-18:30;Th 9:00-20:00;Sa 9:00-16:00
+website: https://www.moebel-arenz.de

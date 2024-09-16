@@ -1,11 +1,11 @@
 id: 848101762
-type: way
+type: node
 latitude: 50.41836
 longitude: 7.12148
 postcode: "56746"
 city: Kempenich
-street: "Burgstraße"
-housenumber: 4
-phone: "+49 2655 960100"
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
-website: "https://www.edeka-kempenich.de/"
+street: Burgstraße
+housenumber: "4"
+phone: +49 2655 960100
+opening_hours: Mo-Sa 08:00-20:00; Su off
+website: https://www.edeka-kempenich.de/

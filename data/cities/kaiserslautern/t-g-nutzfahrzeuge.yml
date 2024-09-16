@@ -1,11 +1,11 @@
 id: 102538432
-type: way
+type: node
 latitude: 49.44229
 longitude: 7.72899
 postcode: "67663"
 city: Kaiserslautern
-street: "Merkurstraße"
-housenumber: 17
+street: Merkurstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

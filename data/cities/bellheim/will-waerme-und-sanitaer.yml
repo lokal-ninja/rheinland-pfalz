@@ -4,8 +4,8 @@ latitude: 49.19378
 longitude: 8.29731
 postcode: "76756"
 city: Bellheim
-street: "Am Weidensatz"
-housenumber: 4
-phone: "+49-7272-700720"
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-15:00"
-website: "https://whirlpool-info.de/"
+street: Am Weidensatz
+housenumber: "4"
+phone: +49-7272-700720
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-15:00
+website: https://whirlpool-info.de/

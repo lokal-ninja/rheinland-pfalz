@@ -1,11 +1,11 @@
 id: 546540553
-type: way
+type: node
 latitude: 49.88904
 longitude: 6.55685
 postcode: ""
 city: Idenheim
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

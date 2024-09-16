@@ -4,8 +4,8 @@ latitude: 49.83833
 longitude: 8.11579
 postcode: "55286"
 city: Wörrstadt
-street: "Friedrich-Ebert-Straße"
-housenumber: 11
-phone: "+49 6732 63209"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-13:00"
-website: "https://www.optikjex.de/"
+street: Friedrich-Ebert-Straße
+housenumber: "11"
+phone: +49 6732 63209
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-13:00
+website: https://www.optikjex.de/

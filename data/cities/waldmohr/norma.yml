@@ -1,11 +1,11 @@
 id: 913354436
-type: way
+type: node
 latitude: 49.38573
 longitude: 7.34308
 postcode: "66914"
 city: Waldmohr
-street: "Georg-Fleischer-Straße"
-housenumber: 5
-phone: "+49 911 23734733"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Georg-Fleischer-Straße
+housenumber: "5"
+phone: +49 911 23734733
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 151338496
-type: way
+type: node
 latitude: 49.63008
 longitude: 6.55175
 postcode: "54441"
 city: Ayl
-street: "Weinstraße"
-housenumber: 15
+street: Weinstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

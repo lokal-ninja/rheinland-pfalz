@@ -1,11 +1,11 @@
 id: 965563221
-type: way
+type: node
 latitude: 49.14862
 longitude: 7.52878
 postcode: "66957"
 city: Kröppen
-street: "Belle Vue"
-housenumber: 2
-phone: "+49 6335 8596332"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://freykissel.org/nahundgut-kissel/standorte/kroeppen/"
+street: Belle Vue
+housenumber: "2"
+phone: +49 6335 8596332
+opening_hours: Mo-Sa 08:00-20:00
+website: https://freykissel.org/nahundgut-kissel/standorte/kroeppen/

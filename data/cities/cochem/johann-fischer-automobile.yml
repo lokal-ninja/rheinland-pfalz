@@ -1,11 +1,11 @@
 id: 563360472
-type: way
+type: node
 latitude: 50.12954
 longitude: 7.1416
 postcode: "56812"
 city: Cochem
-street: "August-Horch-Straße"
-housenumber: 20
-phone: "+49 2671 4654"
+street: August-Horch-Straße
+housenumber: "20"
+phone: +49 2671 4654
 opening_hours: ""
 website: ""

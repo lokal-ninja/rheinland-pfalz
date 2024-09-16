@@ -4,8 +4,8 @@ latitude: 50.32779
 longitude: 7.24356
 postcode: "56727"
 city: Mayen
-street: "Koblenzer Straße"
-housenumber: 179
-phone: "+49 2651 946705"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
-website: "https://www.takko.com/de-de/"
+street: Koblenzer Straße
+housenumber: "179"
+phone: +49 2651 946705
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
+website: https://www.takko.com/de-de/

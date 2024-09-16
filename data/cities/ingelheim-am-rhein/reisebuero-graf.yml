@@ -4,8 +4,8 @@ latitude: 49.97345
 longitude: 8.0555
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Friedrich-Ebert-Straße"
-housenumber: 5
+street: Friedrich-Ebert-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:00, Mo-Fr 14:00-18:30"
+opening_hours: Mo-Sa 09:00-13:00, Mo-Fr 14:00-18:30
 website: ""

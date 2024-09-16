@@ -1,11 +1,11 @@
 id: 52479176
-type: way
+type: node
 latitude: 50.3263
 longitude: 7.24178
 postcode: "56727"
 city: Mayen
-street: "Hausener Straße"
-housenumber: 
+street: Hausener Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

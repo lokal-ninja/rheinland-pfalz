@@ -1,11 +1,11 @@
 id: 674087524
-type: way
+type: node
 latitude: 50.19822
 longitude: 7.84857
 postcode: "56355"
 city: Nastätten
-street: "Rheinstraße"
-housenumber: 50
+street: Rheinstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

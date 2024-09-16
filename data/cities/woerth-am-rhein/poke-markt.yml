@@ -4,8 +4,8 @@ latitude: 49.0521
 longitude: 8.25154
 postcode: "76744"
 city: Wörth am Rhein
-street: "Marktstraße"
-housenumber: 10
+street: Marktstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://poke-markt.de/"
+website: https://poke-markt.de/

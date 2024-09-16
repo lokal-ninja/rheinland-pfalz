@@ -1,11 +1,11 @@
 id: 263458970
-type: way
+type: node
 latitude: 49.6144
 longitude: 8.32907
 postcode: "67551"
 city: Worms
-street: "Kolpingstraße"
-housenumber: 90
-phone: "+49 6241 9773022"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/rewe-markt-worms-horchheim-kolpingstra%C3%9Fe-90/"
+street: Kolpingstraße
+housenumber: "90"
+phone: +49 6241 9773022
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/rewe-markt-worms-horchheim-kolpingstra%C3%9Fe-90/

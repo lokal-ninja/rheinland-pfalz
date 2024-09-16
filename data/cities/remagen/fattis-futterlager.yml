@@ -4,8 +4,8 @@ latitude: 50.62937
 longitude: 7.20907
 postcode: "53424"
 city: Remagen
-street: "Bonner Straße"
-housenumber: 56
-phone: "+49 2228 9119122"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00"
-website: "https://www.fattis-futterlager.de"
+street: Bonner Straße
+housenumber: "56"
+phone: +49 2228 9119122
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:00
+website: https://www.fattis-futterlager.de

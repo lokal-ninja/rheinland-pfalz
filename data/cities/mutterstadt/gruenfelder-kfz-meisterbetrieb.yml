@@ -4,8 +4,8 @@ latitude: 49.44682
 longitude: 8.35278
 postcode: "67112"
 city: Mutterstadt
-street: "Ruchheimer Straße"
-housenumber: 10
+street: Ruchheimer Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://www.kfz-gruenfelder.de/"
+opening_hours: Mo-Fr 08:00-17:00
+website: http://www.kfz-gruenfelder.de/

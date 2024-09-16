@@ -1,11 +1,11 @@
 id: 585982390
-type: way
+type: node
 latitude: 49.47655
 longitude: 7.64043
 postcode: "67685"
 city: Weilerbach
-street: "Danziger Straße"
-housenumber: 8
+street: Danziger Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

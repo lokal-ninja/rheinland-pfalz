@@ -1,11 +1,11 @@
 id: 199639246
-type: way
+type: node
 latitude: 49.95657
 longitude: 6.7834
 postcode: "54518"
 city: Bruch
-street: "Schulstraße"
-housenumber: 3
+street: Schulstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 373545469
-type: way
+type: node
 latitude: 49.44409
 longitude: 7.99023
 postcode: "67468"
 city: Frankenstein
-street: "Am Galgental"
-housenumber: 45
+street: Am Galgental
+housenumber: "45"
 phone: ""
 opening_hours: ""
-website: "https://www.firma-stoeckel.de/"
+website: https://www.firma-stoeckel.de/

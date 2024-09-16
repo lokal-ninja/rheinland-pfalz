@@ -1,11 +1,11 @@
 id: 953932196
-type: way
+type: node
 latitude: 50.00289
 longitude: 8.21361
 postcode: "55124"
 city: Mainz
-street: "Schulstraße"
-housenumber: 74
+street: Schulstraße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-14:00"
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-14:00
 website: ""

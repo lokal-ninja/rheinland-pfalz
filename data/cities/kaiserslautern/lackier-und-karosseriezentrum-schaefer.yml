@@ -1,11 +1,11 @@
 id: 155782144
-type: way
+type: node
 latitude: 49.44388
 longitude: 7.74745
 postcode: "67659"
 city: Kaiserslautern
-street: "Berliner Straße"
-housenumber: 14
+street: Berliner Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

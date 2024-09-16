@@ -1,11 +1,11 @@
 id: 270673623
-type: way
+type: node
 latitude: 50.38103
 longitude: 7.27017
 postcode: "56743"
 city: Mendig
-street: "Karl-Schiller-Straße"
-housenumber: 3
+street: Karl-Schiller-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

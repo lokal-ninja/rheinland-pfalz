@@ -4,8 +4,8 @@ latitude: 50.02587
 longitude: 8.22566
 postcode: "55120"
 city: Mainz
-street: "Rheinallee"
-housenumber: 203
+street: Rheinallee
+housenumber: "203"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Rheinallee%20203%2055120%20Mainz-Mombach&Mode=None"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Rheinallee%20203%2055120%20Mainz-Mombach&Mode=None

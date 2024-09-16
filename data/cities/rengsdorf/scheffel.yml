@@ -4,8 +4,8 @@ latitude: 50.51008
 longitude: 7.48405
 postcode: "56579"
 city: Rengsdorf
-street: "Westerwaldstraße"
-housenumber: 95
-phone: "+49 02634 3781"
-opening_hours: "Mo-Sa 07:00-21:00; So 08:00-11:00; PH off"
+street: Westerwaldstraße
+housenumber: "95"
+phone: +49 02634 3781
+opening_hours: Mo-Sa 07:00-21:00; So 08:00-11:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 221079400
-type: way
+type: node
 latitude: 49.55947
 longitude: 8.07918
 postcode: "67304"
 city: Eisenberg (Pfalz)
-street: "Ebertsheimer Straße"
-housenumber: 18
+street: Ebertsheimer Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.42478
 longitude: 7.57134
 postcode: "56170"
 city: Bendorf
-street: "Hauptstraße"
-housenumber: 100
+street: Hauptstraße
+housenumber: "100"
 phone: "+492622905567"
-opening_hours: "Mo-Fr 06:30-20:00; Sa 06:30-18:00; Su 07:30-12:00"
-website: "http://www.baeckerei-geisen.de/"
+opening_hours: Mo-Fr 06:30-20:00; Sa 06:30-18:00; Su 07:30-12:00
+website: http://www.baeckerei-geisen.de/

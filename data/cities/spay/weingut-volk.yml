@@ -1,11 +1,11 @@
 id: 151352712
-type: way
+type: node
 latitude: 50.25848
 longitude: 7.64836
 postcode: "56322"
 city: Spay
-street: "Koblenzer Straße"
-housenumber: 6
+street: Koblenzer Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 89399751
-type: way
+type: node
 latitude: 49.1032
 longitude: 8.01307
 postcode: "76887"
 city: Bad Bergzabern
-street: "Kapeller Straße"
-housenumber: 
+street: Kapeller Straße
+housenumber: ""
 phone: "+496343938432"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

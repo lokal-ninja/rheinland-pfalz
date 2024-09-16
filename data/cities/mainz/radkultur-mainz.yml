@@ -4,8 +4,8 @@ latitude: 49.9889
 longitude: 8.26776
 postcode: "55131"
 city: Mainz
-street: "An der Goldgrube"
-housenumber: 4
+street: An der Goldgrube
+housenumber: "4"
 phone: ""
-opening_hours: "Tu,We,Fr 12:00-18:00; Sa 10:00-14:00"
-website: "https://www.radkultur-mainz.de/"
+opening_hours: Tu,We,Fr 12:00-18:00; Sa 10:00-14:00
+website: https://www.radkultur-mainz.de/

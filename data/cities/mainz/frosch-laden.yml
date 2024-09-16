@@ -4,8 +4,8 @@ latitude: 49.99883
 longitude: 8.2727
 postcode: "55116"
 city: Mainz
-street: "Schöfferstraße"
-housenumber: 6
-phone: "+49 6131 5534923"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://werner-mertz.de/froschladen-und-fabrikverkauf/"
+street: Schöfferstraße
+housenumber: "6"
+phone: +49 6131 5534923
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://werner-mertz.de/froschladen-und-fabrikverkauf/

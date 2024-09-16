@@ -1,11 +1,11 @@
 id: 149916530
-type: way
+type: node
 latitude: 49.88898
 longitude: 7.76892
 postcode: "55595"
 city: Wallhausen
-street: "Hauptstraße"
-housenumber: 43
+street: Hauptstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "http://www.metzgerei-knichel.de/"
+website: http://www.metzgerei-knichel.de/

@@ -4,8 +4,8 @@ latitude: 49.2442
 longitude: 8.34265
 postcode: "67360"
 city: Lingenfeld
-street: "Robertsauer Straße"
-housenumber: 1
-phone: "+49 6344 507844"
-opening_hours: "Mo-Sa 07:00-20:30; Su 08:00-11:30; PH off"
-website: "https://www.baeckergoertz.de/#filialenstart/filialfinder"
+street: Robertsauer Straße
+housenumber: "1"
+phone: +49 6344 507844
+opening_hours: Mo-Sa 07:00-20:30; Su 08:00-11:30; PH off
+website: https://www.baeckergoertz.de/#filialenstart/filialfinder

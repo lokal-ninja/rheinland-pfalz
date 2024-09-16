@@ -1,11 +1,11 @@
 id: 171925766
-type: way
+type: node
 latitude: 49.67718
 longitude: 6.95358
 postcode: "54411"
 city: Hermeskeil
-street: "Wallonenweg"
-housenumber: 1
+street: Wallonenweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

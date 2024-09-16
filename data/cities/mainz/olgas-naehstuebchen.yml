@@ -4,8 +4,8 @@ latitude: 49.98197
 longitude: 8.24433
 postcode: "55128"
 city: Mainz
-street: "Rathausstraße"
-housenumber: 5
+street: Rathausstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 09:00-13:00,14:30-19:00; Sa 09:00-13:00; PH closed"
+opening_hours: Tu-Fr 09:00-13:00,14:30-19:00; Sa 09:00-13:00; PH closed
 website: ""

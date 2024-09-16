@@ -1,11 +1,11 @@
 id: 110074522
-type: way
+type: node
 latitude: 49.48308
 longitude: 7.73052
 postcode: "67731"
 city: Otterbach
-street: "Lauterstraße"
-housenumber: 3
+street: Lauterstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

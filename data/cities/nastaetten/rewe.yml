@@ -1,11 +1,11 @@
 id: 373366554
-type: way
+type: node
 latitude: 50.19974
 longitude: 7.85375
 postcode: "56355"
 city: Nastätten
-street: "Bahnhofstraße"
-housenumber: 7
+street: Bahnhofstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

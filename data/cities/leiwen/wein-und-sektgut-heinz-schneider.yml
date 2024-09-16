@@ -4,8 +4,8 @@ latitude: 49.82011
 longitude: 6.88037
 postcode: "54340"
 city: Leiwen
-street: "Klostergartenstraße"
-housenumber: 36
-phone: "+49 6507 99138"
-opening_hours: "Mo-Fr 10:00-16:30 call us"
-website: "http://www.weingut-schneider.de/"
+street: Klostergartenstraße
+housenumber: "36"
+phone: +49 6507 99138
+opening_hours: Mo-Fr 10:00-16:30 "call us"
+website: http://www.weingut-schneider.de/

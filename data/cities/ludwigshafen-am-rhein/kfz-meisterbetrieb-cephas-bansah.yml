@@ -1,11 +1,11 @@
 id: 170309153
-type: way
+type: node
 latitude: 49.4656
 longitude: 8.41746
 postcode: "67065"
 city: Ludwigshafen am Rhein
-street: "Achtmorgenstraße"
-housenumber: 17
+street: Achtmorgenstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

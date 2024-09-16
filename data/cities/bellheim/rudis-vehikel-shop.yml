@@ -4,8 +4,8 @@ latitude: 49.19597
 longitude: 8.30521
 postcode: "76756"
 city: Bellheim
-street: "Waldstückerring"
-housenumber: 18
-phone: "+49 7272 71451"
-opening_hours: "Mo,Tu,Th,Fr 09:30-12:00,14:00-18:00; Sa 09:00-13:00; We,Su,PH off"
-website: "https://rudis-vehikel-shop.de"
+street: Waldstückerring
+housenumber: "18"
+phone: +49 7272 71451
+opening_hours: Mo,Tu,Th,Fr 09:30-12:00,14:00-18:00; Sa 09:00-13:00; We,Su,PH off
+website: https://rudis-vehikel-shop.de

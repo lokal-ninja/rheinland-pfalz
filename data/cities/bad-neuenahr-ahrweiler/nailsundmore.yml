@@ -1,11 +1,11 @@
 id: 207917852
-type: way
+type: node
 latitude: 50.54911
 longitude: 7.16206
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Gradenhofstraße"
-housenumber: 2
+street: Gradenhofstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

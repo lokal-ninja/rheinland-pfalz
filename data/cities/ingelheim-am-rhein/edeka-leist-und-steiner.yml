@@ -1,11 +1,11 @@
 id: 140742539
-type: way
+type: node
 latitude: 50.00217
 longitude: 8.13256
 postcode: "55262"
 city: Ingelheim am Rhein
-street: "Prof.-Karl-Bohland-Straße"
-housenumber: 2
-phone: "+49 6132 715660"
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: "https://edeka-heidesheim.de/"
+street: Prof.-Karl-Bohland-Straße
+housenumber: "2"
+phone: +49 6132 715660
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
+website: https://edeka-heidesheim.de/

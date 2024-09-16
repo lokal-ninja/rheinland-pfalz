@@ -1,11 +1,11 @@
 id: 38163461
-type: way
+type: node
 latitude: 50.29643
 longitude: 6.67129
 postcode: "54576"
 city: Hillesheim
-street: "Kölner Straße"
-housenumber: 37
-phone: "+49 6593 208463"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+street: Kölner Straße
+housenumber: "37"
+phone: +49 6593 208463
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/

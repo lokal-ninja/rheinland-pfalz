@@ -4,8 +4,8 @@ latitude: 49.97546
 longitude: 8.05582
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Georg-Rückert-Straße"
-housenumber: 7
+street: Georg-Rückert-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.apollo.de/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.apollo.de/

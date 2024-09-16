@@ -1,11 +1,11 @@
 id: 162978956
-type: way
+type: node
 latitude: 50.26907
 longitude: 6.45329
 postcode: "54597"
 city: Olzheim
-street: "Gewerbegebiet"
-housenumber: 1
+street: Gewerbegebiet
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

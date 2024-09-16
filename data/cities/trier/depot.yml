@@ -4,8 +4,8 @@ latitude: 49.75571
 longitude: 6.64085
 postcode: "54290"
 city: Trier
-street: "Grabenstraße"
-housenumber: 14
-phone: "+49 651 99469285"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.depot-online.com"
+street: Grabenstraße
+housenumber: "14"
+phone: +49 651 99469285
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.depot-online.com

@@ -1,11 +1,11 @@
 id: 374688912
-type: way
+type: node
 latitude: 50.3242
 longitude: 7.60573
 postcode: "56112"
 city: Lahnstein
-street: "Am Rasenplatz"
-housenumber: 7
+street: Am Rasenplatz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:45"
+opening_hours: Mo-Sa 07:00-21:45
 website: ""

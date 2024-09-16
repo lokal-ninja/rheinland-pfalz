@@ -1,11 +1,11 @@
 id: 279740866
-type: way
+type: node
 latitude: 49.58801
 longitude: 7.45651
 postcode: "66887"
 city: Ulmet
-street: "Gallusstraße"
-housenumber: 3
+street: Gallusstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 92439890
-type: way
+type: node
 latitude: 50.21244
 longitude: 6.96601
 postcode: "56766"
 city: Ulmen
-street: "Eifel-Maar-Park"
-housenumber: 14
-phone: "+49 2676 93700"
+street: Eifel-Maar-Park
+housenumber: "14"
+phone: +49 2676 93700
 opening_hours: ""
-website: "http://www.josef-schmitt-gmbh.de/"
+website: http://www.josef-schmitt-gmbh.de/

@@ -4,8 +4,8 @@ latitude: 50.03052
 longitude: 7.80131
 postcode: "55413"
 city: Niederheimbach
-street: "Heimbachtal"
-housenumber: 93
+street: Heimbachtal
+housenumber: "93"
 phone: "+4967436612"
-opening_hours: "Tu-Fr 07:00-19:00; Sa 07:00-13:00"
-website: "https://www.friseur-die-schere-niederheimbach.de/"
+opening_hours: Tu-Fr 07:00-19:00; Sa 07:00-13:00
+website: https://www.friseur-die-schere-niederheimbach.de/

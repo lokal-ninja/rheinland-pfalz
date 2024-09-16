@@ -1,11 +1,11 @@
 id: 109437080
-type: way
+type: node
 latitude: 49.90998
 longitude: 7.03211
 postcode: "54470"
 city: Bernkastel-Kues
-street: "Moselbahnstraße"
-housenumber: 8
+street: Moselbahnstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:30;PH,Su off"
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-12:30;PH,Su off
 website: ""

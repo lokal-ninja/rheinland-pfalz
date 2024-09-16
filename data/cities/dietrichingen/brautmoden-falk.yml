@@ -1,11 +1,11 @@
 id: 399915175
-type: way
+type: node
 latitude: 49.19247
 longitude: 7.41456
 postcode: "66484"
 city: Dietrichingen
-street: "Hauptstraße"
-housenumber: 46
+street: Hauptstraße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

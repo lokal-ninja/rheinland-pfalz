@@ -4,8 +4,8 @@ latitude: 49.85134
 longitude: 8.12186
 postcode: "55286"
 city: Wörrstadt
-street: "Ober-Saulheimer-Straße"
-housenumber: 10
-phone: "+49 6732 963792"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.logo-getraenke.de/"
+street: Ober-Saulheimer-Straße
+housenumber: "10"
+phone: +49 6732 963792
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.logo-getraenke.de/

@@ -4,8 +4,8 @@ latitude: 49.31735
 longitude: 8.43552
 postcode: "67346"
 city: Speyer
-street: "Maximilianstraße"
-housenumber: 32
+street: Maximilianstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-16:00
 website: ""

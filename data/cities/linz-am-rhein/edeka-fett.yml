@@ -1,11 +1,11 @@
 id: 550656015
-type: way
+type: node
 latitude: 50.56857
 longitude: 7.28335
 postcode: "53545"
 city: Linz am Rhein
-street: "Asbacher Straße"
-housenumber: 4
+street: Asbacher Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

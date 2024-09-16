@@ -4,8 +4,8 @@ latitude: 49.76181
 longitude: 6.64722
 postcode: "54292"
 city: Trier
-street: "Paulinstraße"
-housenumber: 36
+street: Paulinstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Th 10:00-17:00; Fr 10:00-16:00; Sa 09:00-13:00"
-website: "http://www.copyworld-trier.de/"
+opening_hours: Mo-Th 10:00-17:00; Fr 10:00-16:00; Sa 09:00-13:00
+website: http://www.copyworld-trier.de/

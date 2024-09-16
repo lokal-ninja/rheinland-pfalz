@@ -1,11 +1,11 @@
 id: 126520343
-type: way
+type: node
 latitude: 49.75335
 longitude: 6.63885
 postcode: "54290"
 city: Trier
-street: "Fahrstraße"
-housenumber: 1
-phone: "+49 651 94890"
-opening_hours: "Mo-Sa 09:30-19:00"
+street: Fahrstraße
+housenumber: "1"
+phone: +49 651 94890
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

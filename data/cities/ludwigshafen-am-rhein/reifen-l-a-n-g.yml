@@ -1,11 +1,11 @@
 id: 483658603
-type: way
+type: node
 latitude: 49.49468
 longitude: 8.37897
 postcode: "67071"
 city: Ludwigshafen am Rhein
-street: "Mittelpartstraße"
+street: Mittelpartstraße
 housenumber: 2a
 phone: ""
 opening_hours: ""
-website: "https://reifen-lang.de/"
+website: https://reifen-lang.de/

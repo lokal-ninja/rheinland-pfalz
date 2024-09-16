@@ -1,11 +1,11 @@
 id: 494963571
-type: way
+type: node
 latitude: 50.55987
 longitude: 7.16472
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Bonner Straße"
-housenumber: 82
-phone: "49 2641 9115840"
+street: Bonner Straße
+housenumber: "82"
+phone: 49 2641 9115840
 opening_hours: ""
-website: "https://www.schmickler-performance.de"
+website: https://www.schmickler-performance.de

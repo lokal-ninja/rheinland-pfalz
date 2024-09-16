@@ -1,11 +1,11 @@
 id: 182249224
-type: way
+type: node
 latitude: 49.88669
 longitude: 8.26345
 postcode: "55278"
 city: Mommenheim
-street: "Keltenweg"
-housenumber: 1
+street: Keltenweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

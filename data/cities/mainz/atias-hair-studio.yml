@@ -4,8 +4,8 @@ latitude: 50.00608
 longitude: 8.25622
 postcode: "55118"
 city: Mainz
-street: "Boppstraße"
-housenumber: 58
-phone: "+49 6131 613511"
-opening_hours: "Tu-Sa 09:00-19:00"
+street: Boppstraße
+housenumber: "58"
+phone: +49 6131 613511
+opening_hours: Tu-Sa 09:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.44227
 longitude: 8.35567
 postcode: "67112"
 city: Mutterstadt
-street: "Ludwigshafener Straße"
-housenumber: 4
+street: Ludwigshafener Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 9:00-19:00; Sa 8:00-14:00"
-website: "https://www.velly.de/"
+opening_hours: Mo-Fr 9:00-19:00; Sa 8:00-14:00
+website: https://www.velly.de/

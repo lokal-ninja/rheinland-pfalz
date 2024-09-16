@@ -1,11 +1,11 @@
 id: 886501078
-type: way
+type: node
 latitude: 49.47059
 longitude: 7.44382
 postcode: "66907"
 city: Glan-Münchweiler
-street: "Homburger Straße"
-housenumber: 9
+street: Homburger Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/edeka-eckstein-homburger-str.-9/index.jsp"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/s%C3%BCdwest/edeka-eckstein-homburger-str.-9/index.jsp

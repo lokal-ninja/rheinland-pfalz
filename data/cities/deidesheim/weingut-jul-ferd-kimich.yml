@@ -4,8 +4,8 @@ latitude: 49.40658
 longitude: 8.18654
 postcode: "67146"
 city: Deidesheim
-street: "Weinstraße"
-housenumber: 54
-phone: "+49 6326 342"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Mar 15-Dec 15: Su 10:00-13:00"
-website: "http://www.weingut-kimich.de/"
+street: Weinstraße
+housenumber: "54"
+phone: +49 6326 342
+opening_hours: 'Mo-Fr 08:00-12:00,13:30-18:00; Mar 15-Dec 15: Su 10:00-13:00'
+website: http://www.weingut-kimich.de/

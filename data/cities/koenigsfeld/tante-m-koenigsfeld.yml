@@ -1,11 +1,11 @@
 id: 563730449
-type: way
+type: node
 latitude: 50.49749
 longitude: 7.17781
 postcode: "53426"
 city: Königsfeld
-street: "Hauptstraße"
-housenumber: 27
-phone: "+49 7125 3092192"
-opening_hours: "Mo-Su 05:00-23:00"
-website: "https://tante-m.shop/"
+street: Hauptstraße
+housenumber: "27"
+phone: +49 7125 3092192
+opening_hours: Mo-Su 05:00-23:00
+website: https://tante-m.shop/

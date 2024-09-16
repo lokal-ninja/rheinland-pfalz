@@ -1,11 +1,11 @@
 id: 638133394
-type: way
+type: node
 latitude: 50.45313
 longitude: 7.53445
 postcode: "56566"
 city: Neuwied
-street: "Am Königsgericht"
-housenumber: 15
-phone: "+49 2622 8924950"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00"
-website: "https://heinrich-haus.de/"
+street: Am Königsgericht
+housenumber: "15"
+phone: +49 2622 8924950
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-13:00
+website: https://heinrich-haus.de/

@@ -1,11 +1,11 @@
 id: 788884593
-type: way
+type: node
 latitude: 49.13433
 longitude: 8.08386
 postcode: "76831"
 city: Billigheim-Ingenheim
-street: "Herrengartenstraße"
-housenumber: 9
-phone: "+49 63 49 15 62"
+street: Herrengartenstraße
+housenumber: "9"
+phone: +49 63 49 15 62
 opening_hours: ""
-website: "https://www.weingasthaus-wisser.de"
+website: https://www.weingasthaus-wisser.de

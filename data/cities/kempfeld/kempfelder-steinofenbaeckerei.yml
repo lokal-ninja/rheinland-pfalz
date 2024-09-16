@@ -1,11 +1,11 @@
 id: 864746701
-type: way
+type: node
 latitude: 49.7873
 longitude: 7.24247
 postcode: "55758"
 city: Kempfeld
-street: "Hauptstraße"
-housenumber: 72
+street: Hauptstraße
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

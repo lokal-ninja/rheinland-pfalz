@@ -4,8 +4,8 @@ latitude: 50.41176
 longitude: 7.95342
 postcode: "56412"
 city: Görgeshausen
-street: "Auf den Gärten"
-housenumber: 1
+street: Auf den Gärten
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/f/goergeshausen/auf-den-gaerten-1,3,5.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/f/goergeshausen/auf-den-gaerten-1,3,5.html

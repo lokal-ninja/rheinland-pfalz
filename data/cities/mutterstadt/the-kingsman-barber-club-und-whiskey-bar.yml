@@ -4,8 +4,8 @@ latitude: 49.44203
 longitude: 8.35482
 postcode: "67112"
 city: Mutterstadt
-street: "Neustadter Straße"
-housenumber: 1
+street: Neustadter Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-We 09:00-18:00; Th-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.the-kingsman.de"
+opening_hours: Tu-We 09:00-18:00; Th-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://www.the-kingsman.de

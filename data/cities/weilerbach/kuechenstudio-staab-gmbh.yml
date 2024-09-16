@@ -1,11 +1,11 @@
 id: 196867586
-type: way
+type: node
 latitude: 49.47708
 longitude: 7.64108
 postcode: "67685"
 city: Weilerbach
-street: "Danziger Straße"
-housenumber: 14
+street: Danziger Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.kuechenstudio-staab.de/"
+website: https://www.kuechenstudio-staab.de/

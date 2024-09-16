@@ -1,11 +1,11 @@
 id: 31900372
-type: way
+type: node
 latitude: 49.21992
 longitude: 8.3722
 postcode: "76726"
 city: Germersheim
-street: "Marktstraße"
-housenumber: 13
+street: Marktstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Tu-Fr 14:30-18:00, Sa 10:00-13:00"
-website: "https://www.haasies-radschlag.de/"
+opening_hours: Tu-Fr 14:30-18:00, Sa 10:00-13:00
+website: https://www.haasies-radschlag.de/

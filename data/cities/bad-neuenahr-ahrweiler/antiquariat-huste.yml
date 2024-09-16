@@ -4,8 +4,8 @@ latitude: 50.54197
 longitude: 7.09469
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Marktplatz"
-housenumber: 8
-phone: "+49 2641 2084247"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00; Su off"
-website: "http://antiquariat-huste.de"
+street: Marktplatz
+housenumber: "8"
+phone: +49 2641 2084247
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00; Su off
+website: http://antiquariat-huste.de

@@ -1,11 +1,11 @@
 id: 203455451
-type: way
+type: node
 latitude: 50.15224
 longitude: 6.71377
 postcode: "54570"
 city: Wallenborn
-street: "Salmer Weg"
-housenumber: 31
+street: Salmer Weg
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

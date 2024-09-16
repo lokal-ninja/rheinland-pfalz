@@ -1,11 +1,11 @@
 id: 259176674
-type: way
+type: node
 latitude: 49.70222
 longitude: 8.24132
 postcode: "67593"
 city: Westhofen
-street: "Am Bergkloster"
-housenumber: 4
-phone: "+49 6244 905081"
+street: Am Bergkloster
+housenumber: "4"
+phone: +49 6244 905081
 opening_hours: ""
-website: "https://weingut-groebe.eu"
+website: https://weingut-groebe.eu

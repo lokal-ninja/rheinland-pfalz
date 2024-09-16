@@ -1,11 +1,11 @@
 id: 422406795
-type: way
+type: node
 latitude: 49.41063
 longitude: 7.37937
 postcode: "66901"
 city: Schönenberg-Kübelberg
-street: "Sander Straße"
-housenumber: 24
+street: Sander Straße
+housenumber: "24"
 phone: "063733019"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.wasgau.de/maerkte/wasgau-frischemarkt-schoenenberg-kuebelberg/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.wasgau.de/maerkte/wasgau-frischemarkt-schoenenberg-kuebelberg/

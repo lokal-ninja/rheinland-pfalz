@@ -4,8 +4,8 @@ latitude: 50.48167
 longitude: 7.33366
 postcode: "56656"
 city: Brohl-Lützing
-street: "Koblenzer Straße"
-housenumber: 41
-phone: "+49 2633 200321"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-17:00"
-website: "https://beulendoktor-lemke.de/"
+street: Koblenzer Straße
+housenumber: "41"
+phone: +49 2633 200321
+opening_hours: Mo-Fr 09:00-12:00, 14:00-17:00
+website: https://beulendoktor-lemke.de/

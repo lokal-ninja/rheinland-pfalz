@@ -1,11 +1,11 @@
 id: 157087478
-type: way
+type: node
 latitude: 50.02257
 longitude: 8.20324
 postcode: "55120"
 city: Mainz
-street: "Am Waldfriedhof"
-housenumber: 4
-phone: "+49 6131 684253"
+street: Am Waldfriedhof
+housenumber: "4"
+phone: +49 6131 684253
 opening_hours: ""
-website: "https://www.blumen-scholles.de/"
+website: https://www.blumen-scholles.de/

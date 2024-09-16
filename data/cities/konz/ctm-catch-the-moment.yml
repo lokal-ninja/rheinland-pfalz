@@ -4,8 +4,8 @@ latitude: 49.69848
 longitude: 6.57485
 postcode: "54329"
 city: Konz
-street: "Saar-Mosel-Platz"
-housenumber: 1
+street: Saar-Mosel-Platz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 9:30-17:30; Fr 9:30-12:30; Sa,Su,PH off||nach Vereinbarung"
+opening_hours: Mo-Th 9:30-17:30; Fr 9:30-12:30; Sa,Su,PH off||"nach Vereinbarung"
 website: ""

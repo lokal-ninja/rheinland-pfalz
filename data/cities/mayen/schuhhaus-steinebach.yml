@@ -4,8 +4,8 @@ latitude: 50.33022
 longitude: 7.22397
 postcode: "56727"
 city: Mayen
-street: "Brückenstraße"
-housenumber: 14
-phone: "+49 2651 2645"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-16:00"
-website: "https://www.schuhhaus-steinebach.de/"
+street: Brückenstraße
+housenumber: "14"
+phone: +49 2651 2645
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-16:00
+website: https://www.schuhhaus-steinebach.de/

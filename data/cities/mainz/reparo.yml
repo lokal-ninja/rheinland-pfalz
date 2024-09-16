@@ -4,8 +4,8 @@ latitude: 49.99911
 longitude: 8.27032
 postcode: "55116"
 city: Mainz
-street: "Fuststraße"
-housenumber: 13
-phone: "+49 6131 8928710"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://myreparo.de/"
+street: Fuststraße
+housenumber: "13"
+phone: +49 6131 8928710
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://myreparo.de/

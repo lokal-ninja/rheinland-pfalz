@@ -1,11 +1,11 @@
 id: 1101892212
-type: way
+type: node
 latitude: 49.42148
 longitude: 7.46838
 postcode: "66882"
 city: Hütschenhausen
-street: "Dietschweiler Straße"
-housenumber: 20
+street: Dietschweiler Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

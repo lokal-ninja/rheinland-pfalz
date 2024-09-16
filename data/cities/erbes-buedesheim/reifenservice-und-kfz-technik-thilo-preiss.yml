@@ -4,8 +4,8 @@ latitude: 49.75812
 longitude: 8.03273
 postcode: "55234"
 city: Erbes-Büdesheim
-street: "Pankratiushofstraße"
-housenumber: 1
-phone: "+49 162 9030305"
-opening_hours: "Mo-Fr 08:00-17:00 || nach Vereinbarung; PH off"
-website: "https://www.kfz-meisterwerkstatt-preiss.de/"
+street: Pankratiushofstraße
+housenumber: "1"
+phone: +49 162 9030305
+opening_hours: Mo-Fr 08:00-17:00 || "nach Vereinbarung"; PH off
+website: https://www.kfz-meisterwerkstatt-preiss.de/

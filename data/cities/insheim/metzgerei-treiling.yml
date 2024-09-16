@@ -1,11 +1,11 @@
 id: 794791373
-type: way
+type: node
 latitude: 49.15823
 longitude: 8.1415
 postcode: "76865"
 city: Insheim
-street: "Hauptstraße"
-housenumber: 43
+street: Hauptstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 258774724
-type: way
+type: node
 latitude: 49.65926
 longitude: 6.93528
 postcode: "54411"
 city: Hermeskeil
-street: "Am Dörrenbach"
-housenumber: 6
+street: Am Dörrenbach
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/rheinland-pfalz/hermeskeil/am-doerrenbach-6"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/rheinland-pfalz/hermeskeil/am-doerrenbach-6

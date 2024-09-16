@@ -1,11 +1,11 @@
 id: 192265790
-type: way
+type: node
 latitude: 49.68473
 longitude: 6.55754
 postcode: "54329"
 city: Konz
-street: "Am Maarbach"
-housenumber: 5
+street: Am Maarbach
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.martaler-automobile.de/"
+website: https://www.martaler-automobile.de/

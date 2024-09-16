@@ -4,8 +4,8 @@ latitude: 49.08232
 longitude: 8.19648
 postcode: "76870"
 city: Kandel
-street: "Hauptstraße"
-housenumber: 81
+street: Hauptstraße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30,14:00-18:30; Sa 09:30-14:00"
-website: "https://www.stoll-kandel.de/"
+opening_hours: Mo-Fr 09:30-12:30,14:00-18:30; Sa 09:30-14:00
+website: https://www.stoll-kandel.de/

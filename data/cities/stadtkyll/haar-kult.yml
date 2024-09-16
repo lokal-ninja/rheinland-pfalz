@@ -1,11 +1,11 @@
 id: 500783019
-type: way
+type: node
 latitude: 50.35194
 longitude: 6.52643
 postcode: "54589"
 city: Stadtkyll
-street: "Auelstraße"
-housenumber: 7
+street: Auelstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "http://www.haarkult-stadtkyll.de/"
+website: http://www.haarkult-stadtkyll.de/

@@ -4,8 +4,9 @@ latitude: 49.62093
 longitude: 8.35254
 postcode: "67547"
 city: Worms
-street: "Horchheimer Straße"
-housenumber: 8
+street: Horchheimer Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mar-Oct Mo-Fr 09:00-12:00,13:30-18:00; Mar-Oct Sa 09:00-12:00; Nov-Feb Mo-Fr 09:00-12:00,13:30-17:00; Aug off"
+opening_hours: Mar-Oct Mo-Fr 09:00-12:00,13:30-18:00; Mar-Oct Sa 09:00-12:00; Nov-Feb
+    Mo-Fr 09:00-12:00,13:30-17:00; Aug off
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.44199
 longitude: 8.35408
 postcode: "67112"
 city: Mutterstadt
-street: "Neustadter Straße"
-housenumber: 6
+street: Neustadter Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:30-12:30,14:00-18:00; We,Sa,Su off"
-website: "https://www.schuh-magin.de"
+opening_hours: Mo,Tu,Th,Fr 09:30-12:30,14:00-18:00; We,Sa,Su off
+website: https://www.schuh-magin.de

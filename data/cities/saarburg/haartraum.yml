@@ -1,11 +1,11 @@
 id: 789776364
-type: way
+type: node
 latitude: 49.60747
 longitude: 6.55026
 postcode: "54439"
 city: Saarburg
-street: "Pferdemarkt"
-housenumber: 10
+street: Pferdemarkt
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

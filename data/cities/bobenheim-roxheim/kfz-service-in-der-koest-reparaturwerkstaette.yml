@@ -1,11 +1,11 @@
 id: 112462355
-type: way
+type: node
 latitude: 49.56867
 longitude: 8.37197
 postcode: "67240"
 city: Bobenheim-Roxheim
-street: "In der Köst"
-housenumber: 15
+street: In der Köst
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://kfzserviceinderkoest.de/"
+website: https://kfzserviceinderkoest.de/

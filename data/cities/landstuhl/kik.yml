@@ -1,11 +1,11 @@
 id: 253018733
-type: way
+type: node
 latitude: 49.41214
 longitude: 7.55016
 postcode: "66849"
 city: Landstuhl
-street: "Torfstraße"
-housenumber: 2
+street: Torfstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

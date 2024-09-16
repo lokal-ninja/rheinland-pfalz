@@ -1,11 +1,11 @@
 id: 477278827
-type: way
+type: node
 latitude: 49.75304
 longitude: 6.62397
 postcode: "54294"
 city: Trier
-street: "Aachener Straße"
-housenumber: 20
+street: Aachener Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH off"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH off
 website: ""

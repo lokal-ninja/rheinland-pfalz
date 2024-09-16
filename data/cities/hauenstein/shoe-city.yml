@@ -1,11 +1,11 @@
 id: 108226994
-type: way
+type: node
 latitude: 49.19987
 longitude: 7.83638
 postcode: "76846"
 city: Hauenstein
-street: "Alte Bundesstraße"
-housenumber: 1
+street: Alte Bundesstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.schuhmeile-hauenstein.de/shoecity.html"
+website: https://www.schuhmeile-hauenstein.de/shoecity.html

@@ -4,8 +4,8 @@ latitude: 49.36185
 longitude: 8.31125
 postcode: "67459"
 city: Böhl-Iggelheim
-street: "Luitpoldstraße"
-housenumber: 31
-phone: "+49 6324 979014"
-opening_hours: "Mo-Fr 06:00-12:00,14:00-18:00; Sa 06:00-12:00; Su 08:00-11:00"
-website: "http://www.richards-backhaus.de/"
+street: Luitpoldstraße
+housenumber: "31"
+phone: +49 6324 979014
+opening_hours: Mo-Fr 06:00-12:00,14:00-18:00; Sa 06:00-12:00; Su 08:00-11:00
+website: http://www.richards-backhaus.de/

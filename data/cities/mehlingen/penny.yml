@@ -1,11 +1,11 @@
 id: 246046106
-type: way
+type: node
 latitude: 49.48518
 longitude: 7.84607
 postcode: "67678"
 city: Mehlingen
-street: "Ludwigstraße"
-housenumber: 105
+street: Ludwigstraße
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

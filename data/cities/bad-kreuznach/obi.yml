@@ -1,11 +1,11 @@
 id: 192254253
-type: way
+type: node
 latitude: 49.84211
 longitude: 7.87048
 postcode: "55543"
 city: Bad Kreuznach
-street: "Bosenheimer Straße"
-housenumber: 80
-phone: "+49671 7964660"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.obi.de/markt/bad-kreuznach"
+street: Bosenheimer Straße
+housenumber: "80"
+phone: +49671 7964660
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.obi.de/markt/bad-kreuznach

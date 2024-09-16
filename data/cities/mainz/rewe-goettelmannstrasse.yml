@@ -1,11 +1,11 @@
 id: 64505682
-type: way
+type: node
 latitude: 49.98225
 longitude: 8.29393
 postcode: "55130"
 city: Mainz
-street: "Göttelmannstraße"
-housenumber: 11
+street: Göttelmannstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

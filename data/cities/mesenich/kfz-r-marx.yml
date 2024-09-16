@@ -1,11 +1,11 @@
 id: 589448281
-type: way
+type: node
 latitude: 50.09546
 longitude: 7.19696
 postcode: "56820"
 city: Mesenich
-street: "Zehnthofstraße"
-housenumber: 22
+street: Zehnthofstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

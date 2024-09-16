@@ -4,8 +4,8 @@ latitude: 49.96017
 longitude: 8.22845
 postcode: "55127"
 city: Mainz
-street: "Im Borner Grund"
-housenumber: 51
-phone: "+49 6131 93 38 62"
-opening_hours: "Mo-Sa 08:00-13:00, Mo-We,Fr 15:00-18:00"
+street: Im Borner Grund
+housenumber: "51"
+phone: +49 6131 93 38 62
+opening_hours: Mo-Sa 08:00-13:00, Mo-We,Fr 15:00-18:00
 website: ""

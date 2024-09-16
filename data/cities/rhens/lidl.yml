@@ -1,11 +1,11 @@
 id: 105818302
-type: way
+type: node
 latitude: 50.27732
 longitude: 7.62633
 postcode: "56321"
 city: Rhens
-street: "Mainzer Straße"
-housenumber: 75
-phone: "+49 800 4353361"
-opening_hours: "closed"
-website: "https://www.lidl.de/filialen/rhens/mainzer-str-75.html"
+street: Mainzer Straße
+housenumber: "75"
+phone: +49 800 4353361
+opening_hours: closed
+website: https://www.lidl.de/filialen/rhens/mainzer-str-75.html

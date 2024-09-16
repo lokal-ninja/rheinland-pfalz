@@ -1,11 +1,11 @@
 id: 253618320
-type: way
+type: node
 latitude: 49.74646
 longitude: 8.11333
 postcode: "55232"
 city: Alzey
-street: "Antoniterstraße"
-housenumber: 
+street: Antoniterstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

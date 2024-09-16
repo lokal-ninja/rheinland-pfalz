@@ -1,11 +1,11 @@
 id: 142165485
-type: way
+type: node
 latitude: 49.28537
 longitude: 8.12697
 postcode: "67480"
 city: Edenkoben
-street: "Weinstraße"
-housenumber: 119
+street: Weinstraße
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

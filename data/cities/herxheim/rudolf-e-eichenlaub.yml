@@ -1,11 +1,11 @@
 id: 187644710
-type: way
+type: node
 latitude: 49.14601
 longitude: 8.19849
 postcode: "76863"
 city: Herxheim
-street: "Langgasserweg"
-housenumber: 57
+street: Langgasserweg
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

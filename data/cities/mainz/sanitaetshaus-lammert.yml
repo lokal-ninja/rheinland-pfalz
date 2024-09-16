@@ -4,8 +4,8 @@ latitude: 49.97541
 longitude: 8.23655
 postcode: "55128"
 city: Mainz
-street: "Vor der Frecht"
-housenumber: 2
+street: Vor der Frecht
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://www.lammert-sanitaetshaus.de/"
+opening_hours: Mo-Fr 08:00-17:00
+website: http://www.lammert-sanitaetshaus.de/

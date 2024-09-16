@@ -1,11 +1,11 @@
 id: 409744285
-type: way
+type: node
 latitude: 50.00156
 longitude: 8.22413
 postcode: "55124"
 city: Mainz
-street: "Mainzer Straße"
-housenumber: 180
-phone: "+49 6131 44198"
+street: Mainzer Straße
+housenumber: "180"
+phone: +49 6131 44198
 opening_hours: ""
-website: "https://www.kraeuterundgarten.de/"
+website: https://www.kraeuterundgarten.de/

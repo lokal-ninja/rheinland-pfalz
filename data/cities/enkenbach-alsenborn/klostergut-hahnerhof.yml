@@ -4,8 +4,8 @@ latitude: 49.5172
 longitude: 7.88847
 postcode: "67677"
 city: Enkenbach-Alsenborn
-street: "Hahnerhof"
-housenumber: 1
+street: Hahnerhof
+housenumber: "1"
 phone: ""
-opening_hours: "Fr 16:00-19:00"
-website: "https://www.klostergut-hahnerhof.com"
+opening_hours: Fr 16:00-19:00
+website: https://www.klostergut-hahnerhof.com

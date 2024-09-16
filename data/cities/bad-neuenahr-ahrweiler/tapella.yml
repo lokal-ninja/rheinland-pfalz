@@ -4,8 +4,8 @@ latitude: 50.5425
 longitude: 7.0956
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Niederhutstraße"
-housenumber: 70
+street: Niederhutstraße
+housenumber: "70"
 phone: "+4926419069648"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.tapella-hoergeraete.de/ahrweiler"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.tapella-hoergeraete.de/ahrweiler

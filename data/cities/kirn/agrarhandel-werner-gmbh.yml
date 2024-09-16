@@ -1,11 +1,11 @@
 id: 357206623
-type: way
+type: node
 latitude: 49.78792
 longitude: 7.47369
 postcode: "55606"
 city: Kirn
-street: "Industriestraße"
-housenumber: 1
+street: Industriestraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

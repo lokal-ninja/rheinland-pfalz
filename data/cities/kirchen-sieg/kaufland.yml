@@ -1,11 +1,11 @@
 id: 111550198
-type: way
+type: node
 latitude: 50.80027
 longitude: 7.87994
 postcode: "57548"
 city: Kirchen (Sieg)
-street: "Siegstraße"
-housenumber: 14
+street: Siegstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 353679304
-type: way
+type: node
 latitude: 49.19121
 longitude: 7.85662
 postcode: "76846"
 city: Hauenstein
-street: "Hauptstraße"
-housenumber: 22
+street: Hauptstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 216885132
-type: way
+type: node
 latitude: 49.65862
 longitude: 8.01841
 postcode: "67292"
 city: Kirchheimbolanden
-street: "Marnheimer Straße"
-housenumber: 63
+street: Marnheimer Straße
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

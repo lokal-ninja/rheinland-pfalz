@@ -1,11 +1,11 @@
 id: 808755475
-type: way
+type: node
 latitude: 49.0477
 longitude: 8.03631
 postcode: "76889"
 city: Steinfeld (Pfalz)
-street: "Bahnhofstraße"
-housenumber: 20
+street: Bahnhofstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

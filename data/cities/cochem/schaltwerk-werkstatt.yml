@@ -4,8 +4,9 @@ latitude: 50.14998
 longitude: 7.16703
 postcode: "56812"
 city: Cochem
-street: "Ravenéstraße"
-housenumber: 
-phone: "+49 2671 603500"
-opening_hours: "Mo-Tu,Th-Fr 09:00-13:00,14:00-18:00; We 09:00-12:00,14:00-18:00; Sa 09:00-13:00; Su 10:00-12:30"
-website: "https://www.schaltwerk-bikes.de/"
+street: Ravenéstraße
+housenumber: ""
+phone: +49 2671 603500
+opening_hours: Mo-Tu,Th-Fr 09:00-13:00,14:00-18:00; We 09:00-12:00,14:00-18:00; Sa
+    09:00-13:00; Su 10:00-12:30
+website: https://www.schaltwerk-bikes.de/

@@ -1,11 +1,11 @@
 id: 158180743
-type: way
+type: node
 latitude: 50.44296
 longitude: 7.55378
 postcode: "56566"
 city: Neuwied
-street: "Sayner Straße"
-housenumber: 60
+street: Sayner Straße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

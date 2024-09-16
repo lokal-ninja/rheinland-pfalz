@@ -1,11 +1,11 @@
 id: 303571914
-type: way
+type: node
 latitude: 50.63095
 longitude: 7.87046
 postcode: "57642"
 city: Alpenrod
-street: "Hauptstraße"
-housenumber: 4
+street: Hauptstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

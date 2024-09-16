@@ -1,11 +1,11 @@
 id: 419162922
-type: way
+type: node
 latitude: 49.97586
 longitude: 8.28332
 postcode: "55130"
 city: Mainz
-street: "Heiligkreuzweg"
-housenumber: 128
+street: Heiligkreuzweg
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

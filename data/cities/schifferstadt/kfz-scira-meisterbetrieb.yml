@@ -1,11 +1,11 @@
 id: 221892866
-type: way
+type: node
 latitude: 49.38614
 longitude: 8.39204
 postcode: "67105"
 city: Schifferstadt
-street: "Am Katzenbaumerschlag"
-housenumber: 7
+street: Am Katzenbaumerschlag
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-16:00"
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-16:00
 website: ""

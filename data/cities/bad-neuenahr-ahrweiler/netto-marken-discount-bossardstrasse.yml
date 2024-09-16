@@ -1,11 +1,11 @@
 id: 144117832
-type: way
+type: node
 latitude: 50.54517
 longitude: 7.09739
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Bossardstraße"
-housenumber: 2
+street: Bossardstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

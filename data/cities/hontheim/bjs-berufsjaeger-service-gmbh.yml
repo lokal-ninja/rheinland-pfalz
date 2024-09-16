@@ -1,11 +1,11 @@
 id: 650140737
-type: way
+type: node
 latitude: 50.06883
 longitude: 6.9892
 postcode: "54538"
 city: Hontheim
-street: "Schulstraße"
-housenumber: 20
-phone: "+49 2674 913020"
+street: Schulstraße
+housenumber: "20"
+phone: +49 2674 913020
 opening_hours: ""
 website: ""

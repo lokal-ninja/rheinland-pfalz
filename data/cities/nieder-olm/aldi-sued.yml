@@ -1,11 +1,11 @@
 id: 154150406
-type: way
+type: node
 latitude: 49.91301
 longitude: 8.17622
 postcode: "55268"
 city: Nieder-Olm
-street: "Am Giener"
-housenumber: 27
+street: Am Giener
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

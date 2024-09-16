@@ -1,11 +1,11 @@
 id: 147496569
-type: way
+type: node
 latitude: 49.5635
 longitude: 8.07611
 postcode: "67304"
 city: Eisenberg (Pfalz)
-street: "Würzgasse"
-housenumber: 37
+street: Würzgasse
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

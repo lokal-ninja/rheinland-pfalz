@@ -1,11 +1,11 @@
 id: 34315786
-type: way
+type: node
 latitude: 49.86247
 longitude: 8.33185
 postcode: "55283"
 city: Nierstein
-street: "Freyburger Allee"
-housenumber: 2
-phone: "+49 6133 9422-0"
+street: Freyburger Allee
+housenumber: "2"
+phone: +49 6133 9422-0
 opening_hours: ""
-website: "https://www.mwr-schuhe.com/"
+website: https://www.mwr-schuhe.com/

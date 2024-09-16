@@ -1,11 +1,11 @@
 id: 675603298
-type: way
+type: node
 latitude: 49.93929
 longitude: 7.97115
 postcode: "55437"
 city: Ockenheim
-street: "In den Weiden"
-housenumber: 3
+street: In den Weiden
+housenumber: "3"
 phone: "+4967253082030"
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.rewe.de/marktseite/ockenheim/862220/rewe-markt-in-den-weiden-3/"
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.rewe.de/marktseite/ockenheim/862220/rewe-markt-in-den-weiden-3/

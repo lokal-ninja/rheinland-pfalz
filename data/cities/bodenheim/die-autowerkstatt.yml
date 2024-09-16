@@ -1,11 +1,11 @@
 id: 57359899
-type: way
+type: node
 latitude: 49.9266
 longitude: 8.31686
 postcode: "55294"
 city: Bodenheim
-street: "Am Kuemmerling"
-housenumber: 5
-phone: "+49 6135 932778"
-opening_hours: "Mo-Th 08:00-17:30,Fr 08:00-15:00"
-website: "http://www.autowerkstatt-bodenheim.de/"
+street: Am Kuemmerling
+housenumber: "5"
+phone: +49 6135 932778
+opening_hours: Mo-Th 08:00-17:30,Fr 08:00-15:00
+website: http://www.autowerkstatt-bodenheim.de/

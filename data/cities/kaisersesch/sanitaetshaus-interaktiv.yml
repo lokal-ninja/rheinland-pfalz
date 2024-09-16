@@ -4,8 +4,8 @@ latitude: 50.23043
 longitude: 7.14034
 postcode: "56759"
 city: Kaisersesch
-street: "Poststraße"
-housenumber: 5
+street: Poststraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:00-17:00; We 09:00-13:00"
-website: "http://aktiv100.de"
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:00-17:00; We 09:00-13:00
+website: http://aktiv100.de

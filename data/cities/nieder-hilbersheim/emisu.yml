@@ -4,8 +4,8 @@ latitude: 49.91553
 longitude: 8.04638
 postcode: "55437"
 city: Nieder-Hilbersheim
-street: "In den Frohngärten"
-housenumber: 17
+street: In den Frohngärten
+housenumber: "17"
 phone: ""
-opening_hours: "Mo,Tu 09:00-20:00; We 09:30-12:00,16:00-20:00; Fr 10:00-19:00; Sa 10:00-16:30"
-website: "https://www.emisu.de/"
+opening_hours: Mo,Tu 09:00-20:00; We 09:30-12:00,16:00-20:00; Fr 10:00-19:00; Sa 10:00-16:30
+website: https://www.emisu.de/

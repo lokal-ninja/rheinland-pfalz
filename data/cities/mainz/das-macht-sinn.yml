@@ -4,8 +4,8 @@ latitude: 49.99959
 longitude: 8.27407
 postcode: "55116"
 city: Mainz
-street: "Markt"
-housenumber: 19.29
-phone: "+49 6131 971560"
-opening_hours: "Mo-Sa 09:30-19:00; PH off"
-website: "https://www.sinnleffers.de/allefilialen.html?path=/Rheinland-Pfalz/Mainz-152"
+street: Markt
+housenumber: "19.29"
+phone: +49 6131 971560
+opening_hours: Mo-Sa 09:30-19:00; PH off
+website: https://www.sinnleffers.de/allefilialen.html?path=/Rheinland-Pfalz/Mainz-152

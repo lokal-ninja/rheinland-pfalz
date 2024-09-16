@@ -4,8 +4,8 @@ latitude: 49.99544
 longitude: 8.27642
 postcode: "55116"
 city: Mainz
-street: "Jakobsbergstraße"
-housenumber: 15
-phone: "+49 6131 6229591"
-opening_hours: "Th-Fr 10:00-18:00; Sa 10:00-15:00"
-website: "https://www.kraemerei-mainz.de/"
+street: Jakobsbergstraße
+housenumber: "15"
+phone: +49 6131 6229591
+opening_hours: Th-Fr 10:00-18:00; Sa 10:00-15:00
+website: https://www.kraemerei-mainz.de/

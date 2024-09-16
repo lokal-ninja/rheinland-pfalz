@@ -1,11 +1,11 @@
 id: 1296971294
-type: way
+type: node
 latitude: 49.4127
 longitude: 8.21559
 postcode: "67150"
 city: Niederkirchen bei Deidesheim
-street: "Hauptstraße"
-housenumber: 28
+street: Hauptstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://www.weingut-thomas-reinhardt.de/"
+website: https://www.weingut-thomas-reinhardt.de/

@@ -1,11 +1,11 @@
 id: 236260937
-type: way
+type: node
 latitude: 49.97317
 longitude: 8.03808
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Binger Straße"
-housenumber: 200
+street: Binger Straße
+housenumber: "200"
 phone: "+49613288001"
 opening_hours: ""
-website: "https://www.zerban.mercedes-benz.de/"
+website: https://www.zerban.mercedes-benz.de/

@@ -1,11 +1,11 @@
 id: 366708393
-type: way
+type: node
 latitude: 49.19222
 longitude: 7.85438
 postcode: "76846"
 city: Hauenstein
-street: "Landauer Straße"
-housenumber: 1
+street: Landauer Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

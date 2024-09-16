@@ -4,8 +4,8 @@ latitude: 49.63481
 longitude: 8.35473
 postcode: "67549"
 city: Worms
-street: "Von-Steuben-Straße"
-housenumber: 4
+street: Von-Steuben-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 07:30-17:00"
-website: "https://www.baeckergoertz.de"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 07:30-17:00
+website: https://www.baeckergoertz.de

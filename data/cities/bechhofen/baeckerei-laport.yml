@@ -1,11 +1,11 @@
 id: 402133945
-type: way
+type: node
 latitude: 49.35007
 longitude: 7.40657
 postcode: "66894"
 city: Bechhofen
-street: "Hauptstraße"
-housenumber: 68
-phone: "+49 6372 2779"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:30-11:00"
+street: Hauptstraße
+housenumber: "68"
+phone: +49 6372 2779
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:30-11:00
 website: ""

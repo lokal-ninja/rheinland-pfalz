@@ -1,11 +1,11 @@
 id: 233786856
-type: way
+type: node
 latitude: 49.89294
 longitude: 8.08737
 postcode: "55270"
 city: Jugenheim in Rheinhessen
-street: "Bahnhofstraße"
-housenumber: 18
-phone: "+49 6130 215150"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00"
+street: Bahnhofstraße
+housenumber: "18"
+phone: +49 6130 215150
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 207638619
-type: way
+type: node
 latitude: 49.96329
 longitude: 8.01314
 postcode: "55435"
 city: Gau-Algesheim
-street: "Rheinstraße"
-housenumber: 3
+street: Rheinstraße
+housenumber: "3"
 phone: "+4967252124"
-opening_hours: "Mo-Fr 08:00-21:00; PH off"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/edeka-wolst-rheinstra%C3%9Fe-3/"
+opening_hours: Mo-Fr 08:00-21:00; PH off
+website: https://www.edeka.de/eh/s%C3%BCdwest/edeka-wolst-rheinstra%C3%9Fe-3/

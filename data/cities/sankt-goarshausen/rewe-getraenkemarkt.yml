@@ -1,11 +1,11 @@
 id: 323260919
-type: way
+type: node
 latitude: 50.16059
 longitude: 7.72265
 postcode: "56346"
 city: Sankt Goarshausen
-street: "Nastätter Straße"
-housenumber: 69
+street: Nastätter Straße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su off"
+opening_hours: Mo-Sa 07:00-20:00; Su off
 website: ""

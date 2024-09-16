@@ -4,8 +4,8 @@ latitude: 49.71163
 longitude: 7.35965
 postcode: "55743"
 city: Idar-Oberstein
-street: "John-F.-Kennedy-Straße"
-housenumber: 1
-phone: "+49 6781 360315"
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-19:00"
+street: John-F.-Kennedy-Straße
+housenumber: "1"
+phone: +49 6781 360315
+opening_hours: Mo-Fr 09:00-20:00, Sa 09:00-19:00
 website: ""

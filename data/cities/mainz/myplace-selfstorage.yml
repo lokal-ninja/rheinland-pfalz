@@ -1,11 +1,11 @@
 id: 683285406
-type: way
+type: node
 latitude: 50.00477
 longitude: 8.25412
 postcode: "55122"
 city: Mainz
-street: "Anni-Eisler-Lehmann-Straße"
-housenumber: 7
+street: Anni-Eisler-Lehmann-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.myplace.de/"
+website: https://www.myplace.de/

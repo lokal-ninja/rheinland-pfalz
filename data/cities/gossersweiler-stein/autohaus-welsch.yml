@@ -1,11 +1,11 @@
 id: 293244208
-type: way
+type: node
 latitude: 49.16326
 longitude: 7.92985
 postcode: "76857"
 city: Gossersweiler-Stein
-street: "Sankt Georgstraße"
-housenumber: 1
+street: Sankt Georgstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

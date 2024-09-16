@@ -1,11 +1,11 @@
 id: 59228906
-type: way
+type: node
 latitude: 50.6517
 longitude: 7.5333
 postcode: "57632"
 city: Flammersfeld
-street: "Kornbitze"
-housenumber: 1
+street: Kornbitze
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://www.norma-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: http://www.norma-online.de

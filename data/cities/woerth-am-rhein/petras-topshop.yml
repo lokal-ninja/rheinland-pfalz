@@ -4,8 +4,8 @@ latitude: 49.05179
 longitude: 8.25227
 postcode: "76744"
 city: Wörth am Rhein
-street: "Marktstraße"
-housenumber: 6
-phone: "+49-7271-3363"
-opening_hours: "2013 Jun 20-Aug 31: Mo-Sa 09:00-12:30"
+street: Marktstraße
+housenumber: "6"
+phone: +49-7271-3363
+opening_hours: '2013 Jun 20-Aug 31: Mo-Sa 09:00-12:30'
 website: ""

@@ -1,11 +1,11 @@
 id: 148732093
-type: way
+type: node
 latitude: 50.53921
 longitude: 7.08808
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Walporzheimer Straße"
-housenumber: 19
-phone: "+49 2641 34376"
+street: Walporzheimer Straße
+housenumber: "19"
+phone: +49 2641 34376
 opening_hours: ""
-website: "https://www.ahrweiler-winzerverein.de/"
+website: https://www.ahrweiler-winzerverein.de/

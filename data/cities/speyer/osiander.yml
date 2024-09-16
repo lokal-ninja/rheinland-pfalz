@@ -4,8 +4,8 @@ latitude: 49.31793
 longitude: 8.43361
 postcode: "67346"
 city: Speyer
-street: "Wormser Straße"
-housenumber: 2
+street: Wormser Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su,PH off"
-website: "https://www.osiander.de/buchhandlungen/speyer/speyer.cfm"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su,PH off
+website: https://www.osiander.de/buchhandlungen/speyer/speyer.cfm

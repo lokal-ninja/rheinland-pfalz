@@ -1,11 +1,11 @@
 id: 314868604
-type: way
+type: node
 latitude: 49.2036
 longitude: 7.59777
 postcode: "66953"
 city: Pirmasens
-street: "Teichstraße"
-housenumber: 27
+street: Teichstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

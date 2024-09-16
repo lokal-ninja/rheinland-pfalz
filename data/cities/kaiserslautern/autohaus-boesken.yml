@@ -1,11 +1,11 @@
 id: 102538434
-type: way
+type: node
 latitude: 49.44296
 longitude: 7.73092
 postcode: "67663"
 city: Kaiserslautern
-street: "Merkurstraße"
-housenumber: 11
-phone: "+49 631 535560"
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-13:00"
-website: "http://auto-boesken.de/"
+street: Merkurstraße
+housenumber: "11"
+phone: +49 631 535560
+opening_hours: Mo-Fr 09:00-18:00;Sa 09:00-13:00
+website: http://auto-boesken.de/

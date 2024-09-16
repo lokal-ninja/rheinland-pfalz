@@ -1,11 +1,11 @@
 id: 241957339
-type: way
+type: node
 latitude: 49.14061
 longitude: 8.23415
 postcode: "76863"
 city: Herxheim
-street: "Am Gäxwald"
-housenumber: 4
+street: Am Gäxwald
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.weiller.de/"
+website: https://www.weiller.de/

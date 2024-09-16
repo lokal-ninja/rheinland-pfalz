@@ -1,11 +1,11 @@
 id: 1026177083
-type: way
+type: node
 latitude: 49.9584
 longitude: 7.93986
 postcode: ""
 city: Bingen
-street: "Außerhalb Kempten"
-housenumber: 74
+street: Außerhalb Kempten
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

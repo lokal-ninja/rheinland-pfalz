@@ -1,11 +1,11 @@
 id: 398565160
-type: way
+type: node
 latitude: 49.50876
 longitude: 7.353
 postcode: "66871"
 city: Konken
-street: "Hauptstraße"
-housenumber: 42
-phone: "+49 6384 993230"
-opening_hours: "Mo 08:00-12:00, Tu-Fr 08:00-18:00, Sa 07:00-12:00"
-website: "https://konken.eu/tourismus-gastronomie/haus-der-kulinarischen-landstrasse/"
+street: Hauptstraße
+housenumber: "42"
+phone: +49 6384 993230
+opening_hours: Mo 08:00-12:00, Tu-Fr 08:00-18:00, Sa 07:00-12:00
+website: https://konken.eu/tourismus-gastronomie/haus-der-kulinarischen-landstrasse/

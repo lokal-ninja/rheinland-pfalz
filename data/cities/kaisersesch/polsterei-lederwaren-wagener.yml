@@ -4,8 +4,8 @@ latitude: 50.23023
 longitude: 7.14083
 postcode: "56759"
 city: Kaisersesch
-street: "Koblenzer Straße"
-housenumber: 60
-phone: "+49 2653 8344"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:00-17:00; We,Sa 09:00-13:00"
+street: Koblenzer Straße
+housenumber: "60"
+phone: +49 2653 8344
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:00-17:00; We,Sa 09:00-13:00
 website: ""

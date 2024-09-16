@@ -1,11 +1,11 @@
 id: 158239056
-type: way
+type: node
 latitude: 49.04068
 longitude: 8.28826
 postcode: "76744"
 city: Wörth am Rhein
-street: "Kühgrunddamm"
-housenumber: 2
+street: Kühgrunddamm
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/filialen/woerth/kuehgrunddamm-2.html"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/filialen/woerth/kuehgrunddamm-2.html

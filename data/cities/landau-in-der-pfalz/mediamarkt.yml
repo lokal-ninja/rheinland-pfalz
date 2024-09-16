@@ -4,8 +4,8 @@ latitude: 49.19371
 longitude: 8.1303
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Klaus-von-Klitzing-Straße"
-housenumber: 5
-phone: "+49 6341 99480"
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://www.mediamarkt.de/de/store/landau-562"
+street: Klaus-von-Klitzing-Straße
+housenumber: "5"
+phone: +49 6341 99480
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://www.mediamarkt.de/de/store/landau-562

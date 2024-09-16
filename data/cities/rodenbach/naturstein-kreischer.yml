@@ -1,11 +1,11 @@
 id: 439937032
-type: way
+type: node
 latitude: 49.47214
 longitude: 7.6725
 postcode: "67688"
 city: Rodenbach
-street: "Am Tränkwald"
-housenumber: 18
+street: Am Tränkwald
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://www.naturstein-kreischer.de/"
+website: https://www.naturstein-kreischer.de/

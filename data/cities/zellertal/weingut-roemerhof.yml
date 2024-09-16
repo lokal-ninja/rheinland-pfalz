@@ -1,11 +1,11 @@
 id: 507757337
-type: way
+type: node
 latitude: 49.64913
 longitude: 8.13902
 postcode: "67308"
 city: Zellertal
-street: "Zeller Hauptstraße"
-housenumber: 21
+street: Zeller Hauptstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.roemerhof-zellertal.de/"
+website: https://www.roemerhof-zellertal.de/

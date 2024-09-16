@@ -4,8 +4,8 @@ latitude: 49.38254
 longitude: 8.2969
 postcode: "67459"
 city: Böhl-Iggelheim
-street: "Bismarckstraße"
-housenumber: 12
-phone: "+49 6324 979095"
-opening_hours: "Mo,Th,Fr 08:30-18:00,We 08:30-12:30,Sa 08:30-12:00"
+street: Bismarckstraße
+housenumber: "12"
+phone: +49 6324 979095
+opening_hours: Mo,Th,Fr 08:30-18:00,We 08:30-12:30,Sa 08:30-12:00
 website: ""

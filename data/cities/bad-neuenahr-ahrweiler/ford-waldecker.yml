@@ -1,11 +1,11 @@
 id: 210008630
-type: way
+type: node
 latitude: 50.54909
 longitude: 7.12973
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Heerstraße"
-housenumber: 115
-phone: "+49 2641 94630"
-opening_hours: "Mo-Fr 8:00-18:00; Sa,Su,PH off"
-website: "https://www.autohaus-waldecker.de"
+street: Heerstraße
+housenumber: "115"
+phone: +49 2641 94630
+opening_hours: Mo-Fr 8:00-18:00; Sa,Su,PH off
+website: https://www.autohaus-waldecker.de

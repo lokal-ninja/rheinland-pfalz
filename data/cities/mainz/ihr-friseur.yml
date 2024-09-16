@@ -4,8 +4,8 @@ latitude: 49.96914
 longitude: 8.2358
 postcode: "55128"
 city: Mainz
-street: "Drechslerweg"
-housenumber: 4
+street: Drechslerweg
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Th 09:00-16:00; Fr 09:00-18:00; Sa 09:00-14:00"
+opening_hours: Tu-Th 09:00-16:00; Fr 09:00-18:00; Sa 09:00-14:00
 website: ""

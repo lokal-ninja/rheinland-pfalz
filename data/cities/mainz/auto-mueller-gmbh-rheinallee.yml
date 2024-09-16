@@ -1,11 +1,11 @@
 id: 57753982
-type: way
+type: node
 latitude: 50.02378
 longitude: 8.23377
 postcode: "55120"
 city: Mainz
-street: "Rheinallee"
-housenumber: 183
-phone: "+49 6131 9626272"
+street: Rheinallee
+housenumber: "183"
+phone: +49 6131 9626272
 opening_hours: ""
-website: "www.auto-mueller-mainz.de"
+website: www.auto-mueller-mainz.de

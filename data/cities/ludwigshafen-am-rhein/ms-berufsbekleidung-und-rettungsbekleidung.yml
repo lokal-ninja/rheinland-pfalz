@@ -1,11 +1,11 @@
 id: 264373265
-type: way
+type: node
 latitude: 49.48308
 longitude: 8.36388
 postcode: "67071"
 city: Ludwigshafen am Rhein
-street: "Hedwig-Laudien-Ring"
-housenumber: 41
+street: Hedwig-Laudien-Ring
+housenumber: "41"
 phone: ""
 opening_hours: ""
-website: "https://www.ms-group.de/"
+website: https://www.ms-group.de/

@@ -1,11 +1,11 @@
 id: 788899140
-type: way
+type: node
 latitude: 49.85777
 longitude: 7.82612
 postcode: "55595"
 city: Hargesheim
-street: "Lindenstraße"
-housenumber: 5
-phone: "+49 671 34294"
+street: Lindenstraße
+housenumber: "5"
+phone: +49 671 34294
 opening_hours: ""
 website: ""

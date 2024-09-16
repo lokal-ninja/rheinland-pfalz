@@ -4,8 +4,8 @@ latitude: 49.43444
 longitude: 7.76504
 postcode: "67663"
 city: Kaiserslautern
-street: "Zollamtstraße"
-housenumber: 28
-phone: "+49 631 3106850"
-opening_hours: "Mo-Sa 08:00-22:00"
-website: "https://www.edeka.de"
+street: Zollamtstraße
+housenumber: "28"
+phone: +49 631 3106850
+opening_hours: Mo-Sa 08:00-22:00
+website: https://www.edeka.de

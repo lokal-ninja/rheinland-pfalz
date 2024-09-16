@@ -1,11 +1,11 @@
 id: 123701736
-type: way
+type: node
 latitude: 49.86345
 longitude: 7.5988
 postcode: "55566"
 city: Bad Sobernheim
-street: "Industriepark Pferdsfeld"
-housenumber: 426
+street: Industriepark Pferdsfeld
+housenumber: "426"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.21258
 longitude: 7.53872
 postcode: "56154"
 city: Boppard
-street: "Heidestraße"
-housenumber: 64
-phone: "+49 6742 5095"
+street: Heidestraße
+housenumber: "64"
+phone: +49 6742 5095
 opening_hours: ""
-website: "https://schneberger.org/"
+website: https://schneberger.org/

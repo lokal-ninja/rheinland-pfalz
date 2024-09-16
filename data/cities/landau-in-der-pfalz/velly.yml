@@ -4,8 +4,8 @@ latitude: 49.19699
 longitude: 8.11381
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Kronstraße"
-housenumber: 28
+street: Kronstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.velly.de/salons/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.velly.de/salons/

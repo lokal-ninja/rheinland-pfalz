@@ -1,11 +1,11 @@
 id: 189789865
-type: way
+type: node
 latitude: 49.20454
 longitude: 8.11993
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Horststraße"
-housenumber: 17
+street: Horststraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

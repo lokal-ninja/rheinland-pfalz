@@ -1,11 +1,11 @@
 id: 207841996
-type: way
+type: node
 latitude: 49.48282
 longitude: 8.30557
 postcode: "67133"
 city: Maxdorf
-street: "Im Reff"
-housenumber: 3
+street: Im Reff
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.rewe.de/marktseite/maxdorf/840241/rewe-markt-im-reff-3/"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.rewe.de/marktseite/maxdorf/840241/rewe-markt-im-reff-3/

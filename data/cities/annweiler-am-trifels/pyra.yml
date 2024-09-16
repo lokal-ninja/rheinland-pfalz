@@ -4,8 +4,8 @@ latitude: 49.20242
 longitude: 7.96313
 postcode: "76855"
 city: Annweiler am Trifels
-street: "Hauptstraße"
-housenumber: 30
+street: Hauptstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://buchhandlung-pyra.de/"
+website: https://buchhandlung-pyra.de/

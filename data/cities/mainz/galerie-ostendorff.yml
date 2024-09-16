@@ -4,8 +4,8 @@ latitude: 49.99692
 longitude: 8.27454
 postcode: "55116"
 city: Mainz
-street: "Augustinerstraße"
-housenumber: 47
+street: Augustinerstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Tu-Fr 11:00-17:00; Sa 11:00-14:00"
+opening_hours: Tu-Fr 11:00-17:00; Sa 11:00-14:00
 website: ""

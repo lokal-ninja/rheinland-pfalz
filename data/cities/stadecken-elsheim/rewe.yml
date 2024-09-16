@@ -1,11 +1,11 @@
 id: 32598269
-type: way
+type: node
 latitude: 49.91065
 longitude: 8.12902
 postcode: "55271"
 city: Stadecken-Elsheim
-street: "Bovoloner Allee"
-housenumber: 1
+street: Bovoloner Allee
+housenumber: "1"
 phone: "+4961369222010"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.rewe.de/marktseite/stadecken-elsheim/240143/rewe-markt-bovoloner-allee-1/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.rewe.de/marktseite/stadecken-elsheim/240143/rewe-markt-bovoloner-allee-1/

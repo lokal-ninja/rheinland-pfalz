@@ -1,11 +1,11 @@
 id: 488193142
-type: way
+type: node
 latitude: 49.6806
 longitude: 6.6722
 postcode: "54331"
 city: Pellingen
-street: "Hochwaldblick"
-housenumber: 3
+street: Hochwaldblick
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

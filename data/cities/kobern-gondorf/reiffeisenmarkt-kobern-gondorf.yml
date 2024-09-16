@@ -1,11 +1,11 @@
 id: 485199599
-type: way
+type: node
 latitude: 50.29829
 longitude: 7.46099
 postcode: "56330"
 city: Kobern-Gondorf
-street: "Römerstraße"
-housenumber: 1
+street: Römerstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 8:00-12:00, 13:00-17:00; We,Sa 8:00-12:00"
+opening_hours: Mo,Tu,Th,Fr 8:00-12:00, 13:00-17:00; We,Sa 8:00-12:00
 website: ""

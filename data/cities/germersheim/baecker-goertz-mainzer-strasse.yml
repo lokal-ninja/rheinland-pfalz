@@ -4,8 +4,8 @@ latitude: 49.22929
 longitude: 8.36754
 postcode: "76726"
 city: Germersheim
-street: "Mainzer Straße"
-housenumber: 6
-phone: "+49 7274 9196239"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.baeckergoertz.de/#filialenstart/filialfinder"
+street: Mainzer Straße
+housenumber: "6"
+phone: +49 7274 9196239
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.baeckergoertz.de/#filialenstart/filialfinder

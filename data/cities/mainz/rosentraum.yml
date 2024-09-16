@@ -1,11 +1,11 @@
 id: 463699018
-type: way
+type: node
 latitude: 50.00141
 longitude: 8.25923
 postcode: "55116"
 city: Mainz
-street: "Bahnhofplatz"
-housenumber: 
+street: Bahnhofplatz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa,Su 08:00-20:00"
-website: "https://www.rosentraum.net/angebot.html"
+opening_hours: Mo-Fr 07:00-20:00; Sa,Su 08:00-20:00
+website: https://www.rosentraum.net/angebot.html

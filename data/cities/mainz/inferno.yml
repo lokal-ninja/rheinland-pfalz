@@ -4,8 +4,8 @@ latitude: 50.00254
 longitude: 8.26496
 postcode: "55116"
 city: Mainz
-street: "Neubrunnenstraße"
-housenumber: 2
+street: Neubrunnenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

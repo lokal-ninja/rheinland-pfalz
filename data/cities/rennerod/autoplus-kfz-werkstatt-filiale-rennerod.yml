@@ -1,11 +1,11 @@
 id: 583974884
-type: way
+type: node
 latitude: 50.59895
 longitude: 8.06453
 postcode: "56477"
 city: Rennerod
-street: "Gewerbestraße"
-housenumber: 11
-phone: "+49 26 64 99 91 04"
-opening_hours: "Mo-Fr 07:30-19:00, Sa 08:30-14:00"
-website: "https://autoplus.de/filiale/rennerod"
+street: Gewerbestraße
+housenumber: "11"
+phone: +49 26 64 99 91 04
+opening_hours: Mo-Fr 07:30-19:00, Sa 08:30-14:00
+website: https://autoplus.de/filiale/rennerod

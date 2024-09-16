@@ -1,11 +1,11 @@
 id: 1173609049
-type: way
+type: node
 latitude: 50.8014
 longitude: 7.85819
 postcode: "57518"
 city: Betzdorf
-street: "Kölner Straße"
-housenumber: 166
-phone: "+49 2741 28080"
+street: Kölner Straße
+housenumber: "166"
+phone: +49 2741 28080
 opening_hours: ""
-website: "https://www.bald.de/unternehmen/standorte/betzdorf"
+website: https://www.bald.de/unternehmen/standorte/betzdorf

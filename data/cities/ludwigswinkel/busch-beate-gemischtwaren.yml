@@ -1,11 +1,11 @@
 id: 310993207
-type: way
+type: node
 latitude: 49.07763
 longitude: 7.66727
 postcode: "66996"
 city: Ludwigswinkel
-street: "Landgrafenstraße"
-housenumber: 19
+street: Landgrafenstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

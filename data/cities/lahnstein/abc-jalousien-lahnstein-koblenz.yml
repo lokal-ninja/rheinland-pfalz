@@ -1,11 +1,11 @@
 id: 480708491
-type: way
+type: node
 latitude: 50.32056
 longitude: 7.59393
 postcode: "56112"
 city: Lahnstein
-street: "Didierstraße"
-housenumber: 52
+street: Didierstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00;Sa 10:00-13:00"
-website: "https://www.abc-jalousien.de/"
+opening_hours: Mo-Fr 10:00-18:00;Sa 10:00-13:00
+website: https://www.abc-jalousien.de/

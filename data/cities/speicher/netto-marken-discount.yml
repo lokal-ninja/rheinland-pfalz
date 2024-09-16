@@ -1,11 +1,11 @@
 id: 621639503
-type: way
+type: node
 latitude: 49.93781
 longitude: 6.644
 postcode: "54662"
 city: Speicher
-street: "Kapellenstraße"
-housenumber: 60
+street: Kapellenstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

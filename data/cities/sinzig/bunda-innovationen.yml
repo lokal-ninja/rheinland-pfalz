@@ -1,11 +1,11 @@
 id: 329631033
-type: way
+type: node
 latitude: 50.54477
 longitude: 7.26987
 postcode: "53489"
 city: Sinzig
-street: "Kranzweiherweg"
-housenumber: 24
-phone: "+49 2642 9515991"
+street: Kranzweiherweg
+housenumber: "24"
+phone: +49 2642 9515991
 opening_hours: ""
-website: "https://solutions-seller.de"
+website: https://solutions-seller.de

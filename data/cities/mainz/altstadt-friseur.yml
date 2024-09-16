@@ -4,8 +4,8 @@ latitude: 49.99672
 longitude: 8.27515
 postcode: "55116"
 city: Mainz
-street: "Augustinerstraße"
-housenumber: 26
+street: Augustinerstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00, Sa 09:00-16:00"
-website: "https://www.altstadtfriseur-mainz.de/"
+opening_hours: Tu-Fr 09:00-18:00, Sa 09:00-16:00
+website: https://www.altstadtfriseur-mainz.de/

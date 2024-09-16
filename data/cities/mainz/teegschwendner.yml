@@ -1,11 +1,11 @@
 id: 868798072
-type: way
+type: node
 latitude: 50.00136
 longitude: 8.26845
 postcode: "55116"
 city: Mainz
-street: "Römerpassage"
-housenumber: 
-phone: "+49 6131 9713799"
-opening_hours: "Mo-Sa 09:30-18:00"
-website: "https://stores.teegschwendner.de/mainz/"
+street: Römerpassage
+housenumber: ""
+phone: +49 6131 9713799
+opening_hours: Mo-Sa 09:30-18:00
+website: https://stores.teegschwendner.de/mainz/

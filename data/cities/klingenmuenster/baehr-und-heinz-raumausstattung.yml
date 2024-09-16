@@ -4,8 +4,9 @@ latitude: 49.14049
 longitude: 8.01812
 postcode: "76889"
 city: Klingenmünster
-street: "Steinstraße"
-housenumber: 4
+street: Steinstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,Fr wenn's Licht brennt; Tu 09:00-12:00,15:00-18:00; Th 15:00-18:00; We,Sa off"
+opening_hours: Mo,Fr "wenn's Licht brennt"; Tu 09:00-12:00,15:00-18:00; Th 15:00-18:00;
+    We,Sa off
 website: ""

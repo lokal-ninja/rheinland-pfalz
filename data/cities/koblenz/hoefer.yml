@@ -4,8 +4,8 @@ latitude: 50.34668
 longitude: 7.61937
 postcode: "56077"
 city: Koblenz
-street: "Fritz-von-Unruh-Straße"
-housenumber: 1
-phone: "+49 261 9731190"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-13:00; Su 07:30-11:00"
+street: Fritz-von-Unruh-Straße
+housenumber: "1"
+phone: +49 261 9731190
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-13:00; Su 07:30-11:00
 website: ""

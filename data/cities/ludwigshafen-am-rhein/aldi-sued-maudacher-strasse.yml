@@ -1,11 +1,11 @@
 id: 597755508
-type: way
+type: node
 latitude: 49.45999
 longitude: 8.41557
 postcode: "67065"
 city: Ludwigshafen am Rhein
-street: "Maudacher Straße"
-housenumber: 135
+street: Maudacher Straße
+housenumber: "135"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

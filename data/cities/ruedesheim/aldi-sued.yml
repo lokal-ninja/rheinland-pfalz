@@ -1,11 +1,11 @@
 id: 192250923
-type: way
+type: node
 latitude: 49.84683
 longitude: 7.8239
 postcode: "55593"
 city: Rüdesheim
-street: "Am Wiesenberg"
-housenumber: 3
+street: Am Wiesenberg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

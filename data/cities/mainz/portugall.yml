@@ -4,8 +4,8 @@ latitude: 49.99726
 longitude: 8.2146
 postcode: "55124"
 city: Mainz
-street: "Am Hemel"
-housenumber: 13
-phone: "+49 6131 673636"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.portugall.de/"
+street: Am Hemel
+housenumber: "13"
+phone: +49 6131 673636
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.portugall.de/

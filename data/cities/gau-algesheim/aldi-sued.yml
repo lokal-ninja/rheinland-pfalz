@@ -1,11 +1,11 @@
 id: 470590271
-type: way
+type: node
 latitude: 49.97084
 longitude: 8.02326
 postcode: "55435"
 city: Gau-Algesheim
-street: "Rheinstraße"
-housenumber: 56
+street: Rheinstraße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de/

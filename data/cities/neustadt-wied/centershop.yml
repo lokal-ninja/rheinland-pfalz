@@ -1,11 +1,11 @@
 id: 32661247
-type: way
+type: node
 latitude: 50.61995
 longitude: 7.42749
 postcode: "53577"
 city: Neustadt (Wied)
-street: "Wiedtalstraße"
-housenumber: 31
+street: Wiedtalstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

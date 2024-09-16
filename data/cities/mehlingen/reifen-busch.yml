@@ -1,11 +1,11 @@
 id: 883976370
-type: way
+type: node
 latitude: 49.48969
 longitude: 7.84849
 postcode: "67678"
 city: Mehlingen
-street: "Königstraße"
-housenumber: 56
-phone: "+496303 870682"
+street: Königstraße
+housenumber: "56"
+phone: +496303 870682
 opening_hours: ""
 website: ""

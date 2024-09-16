@@ -1,11 +1,11 @@
 id: 76220335
-type: way
+type: node
 latitude: 49.48393
 longitude: 8.35024
 postcode: "67071"
 city: Ludwigshafen am Rhein
-street: "Oderstraße"
+street: Oderstraße
 housenumber: 8b
 phone: ""
-opening_hours: "Mo-Fr 08:00-22:00; Sa 07:00-22:00"
-website: "https://www.globus.de/ludwigshafen/unser-getraenkecenter.php"
+opening_hours: Mo-Fr 08:00-22:00; Sa 07:00-22:00
+website: https://www.globus.de/ludwigshafen/unser-getraenkecenter.php

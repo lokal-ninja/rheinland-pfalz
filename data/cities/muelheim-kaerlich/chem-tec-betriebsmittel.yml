@@ -1,11 +1,11 @@
 id: 807558801
-type: way
+type: node
 latitude: 50.39141
 longitude: 7.52482
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Florinstraße"
-housenumber: 14
-phone: "+49 261 927070"
+street: Florinstraße
+housenumber: "14"
+phone: +49 261 927070
 opening_hours: ""
-website: "https://www.chem-tec.de"
+website: https://www.chem-tec.de

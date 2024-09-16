@@ -1,11 +1,11 @@
 id: 218875152
-type: way
+type: node
 latitude: 49.25638
 longitude: 7.3819
 postcode: "66482"
 city: Zweibrücken
-street: "Hofenfelsstraße"
-housenumber: 214
+street: Hofenfelsstraße
+housenumber: "214"
 phone: ""
 opening_hours: ""
 website: ""

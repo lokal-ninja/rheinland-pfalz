@@ -1,11 +1,11 @@
 id: 321841430
-type: way
+type: node
 latitude: 49.4337
 longitude: 7.75443
 postcode: "67663"
 city: Kaiserslautern
-street: "Carl-Euler-Straße"
-housenumber: 4
+street: Carl-Euler-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

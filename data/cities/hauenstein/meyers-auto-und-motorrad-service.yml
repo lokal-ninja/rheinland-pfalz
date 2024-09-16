@@ -1,11 +1,11 @@
 id: 353620415
-type: way
+type: node
 latitude: 49.19705
 longitude: 7.83834
 postcode: "76846"
 city: Hauenstein
-street: "Hängelstraße"
-housenumber: 1
+street: Hängelstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

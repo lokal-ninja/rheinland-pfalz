@@ -1,11 +1,11 @@
 id: 477096010
-type: way
+type: node
 latitude: 50.39477
 longitude: 7.52528
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Florinstraße"
+street: Florinstraße
 housenumber: 2a
-phone: "+49 261 9221530"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH off"
-website: "https://danish-ofen-studio.de"
+phone: +49 261 9221530
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH off
+website: https://danish-ofen-studio.de

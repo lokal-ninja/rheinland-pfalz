@@ -1,11 +1,11 @@
 id: 481075670
-type: way
+type: node
 latitude: 49.47892
 longitude: 8.4209
 postcode: "67059"
 city: Ludwigshafen am Rhein
-street: "Bliesstraße"
-housenumber: 12
+street: Bliesstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Th 08:30-12:00,12:30-16:00; Fr 08:30-13:00"
-website: "https://www.ludwigshafen.de/wirtschaftsstark/wirtschaftsbetrieb-ludwigshafen-wbl/gewerbliche-angebote/bestattungsdienst"
+opening_hours: Mo-Th 08:30-12:00,12:30-16:00; Fr 08:30-13:00
+website: https://www.ludwigshafen.de/wirtschaftsstark/wirtschaftsbetrieb-ludwigshafen-wbl/gewerbliche-angebote/bestattungsdienst

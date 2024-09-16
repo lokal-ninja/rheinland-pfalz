@@ -4,8 +4,8 @@ latitude: 49.90868
 longitude: 6.95929
 postcode: "54518"
 city: Osann-Monzel
-street: "Novianderweg"
-housenumber: 16
-phone: "+49 6535 7700"
-opening_hours: "Mo-Sa 10:00-12:00, Mo-Fr 15:00-17:30, PH,Su 11:00-12:00, Sa 14:00-16:00"
-website: "http://www.ludgerveit.de/"
+street: Novianderweg
+housenumber: "16"
+phone: +49 6535 7700
+opening_hours: Mo-Sa 10:00-12:00, Mo-Fr 15:00-17:30, PH,Su 11:00-12:00, Sa 14:00-16:00
+website: http://www.ludgerveit.de/

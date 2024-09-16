@@ -1,11 +1,11 @@
 id: 216257091
-type: way
+type: node
 latitude: 49.09233
 longitude: 8.27965
 postcode: "76751"
 city: Jockgrim
-street: "Luitpoldstraße"
-housenumber: 11
+street: Luitpoldstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

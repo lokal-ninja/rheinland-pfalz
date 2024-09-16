@@ -4,8 +4,8 @@ latitude: 49.19979
 longitude: 8.11823
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Am Großmarkt"
-housenumber: 4
-phone: "+49 6341 9426210"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00; Su,PH off"
-website: "https://www.fuellhorn-biomarkt.de/unsere-biomaerkte/fuellhorn-landau/"
+street: Am Großmarkt
+housenumber: "4"
+phone: +49 6341 9426210
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-16:00; Su,PH off
+website: https://www.fuellhorn-biomarkt.de/unsere-biomaerkte/fuellhorn-landau/

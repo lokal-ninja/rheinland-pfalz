@@ -1,11 +1,11 @@
 id: 222059909
-type: way
+type: node
 latitude: 49.94986
 longitude: 7.91207
 postcode: "55411"
 city: Bingen am Rhein
-street: "Saarlandstraße"
-housenumber: 133
+street: Saarlandstraße
+housenumber: "133"
 phone: ""
 opening_hours: ""
 website: ""

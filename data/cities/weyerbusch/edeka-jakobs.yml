@@ -1,11 +1,11 @@
 id: 229690699
-type: way
+type: node
 latitude: 50.712
 longitude: 7.54842
 postcode: "57635"
 city: Weyerbusch
-street: "Kölner Straße"
-housenumber: 29
+street: Kölner Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-18:00
 website: ""

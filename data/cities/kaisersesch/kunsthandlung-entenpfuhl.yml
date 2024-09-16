@@ -4,8 +4,8 @@ latitude: 50.2304
 longitude: 7.14018
 postcode: "56759"
 city: Kaisersesch
-street: "Poststraße"
-housenumber: 7
+street: Poststraße
+housenumber: "7"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
-website: "https://www.xsights.de/kunsthandlung-entenpfuhl"
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://www.xsights.de/kunsthandlung-entenpfuhl

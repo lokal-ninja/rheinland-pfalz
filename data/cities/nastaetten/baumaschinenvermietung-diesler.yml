@@ -4,8 +4,8 @@ latitude: 50.19999
 longitude: 7.85953
 postcode: "56355"
 city: Nastätten
-street: "Poststraße"
-housenumber: 5
-phone: "+49 6227 1603"
-opening_hours: "Mo-Fr 17:15-20:00; Sa 08:00-17:00"
-website: "http://www.baumaschinenvermietung-diesler.de/"
+street: Poststraße
+housenumber: "5"
+phone: +49 6227 1603
+opening_hours: Mo-Fr 17:15-20:00; Sa 08:00-17:00
+website: http://www.baumaschinenvermietung-diesler.de/

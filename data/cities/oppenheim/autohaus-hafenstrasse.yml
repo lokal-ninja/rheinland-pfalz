@@ -1,11 +1,11 @@
 id: 136592033
-type: way
+type: node
 latitude: 49.85781
 longitude: 8.35865
 postcode: "55276"
 city: Oppenheim
-street: "Hafenstraße"
-housenumber: 13
+street: Hafenstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://autohaus-hafenstrasse.de/"
+website: https://autohaus-hafenstrasse.de/

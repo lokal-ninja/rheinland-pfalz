@@ -1,11 +1,11 @@
 id: 158315940
-type: way
+type: node
 latitude: 49.1553
 longitude: 7.55767
 postcode: "66957"
 city: Vinningen
-street: "Am Dinschelt"
-housenumber: 8
+street: Am Dinschelt
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

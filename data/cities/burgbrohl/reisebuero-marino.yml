@@ -1,11 +1,11 @@
 id: 672974184
-type: way
+type: node
 latitude: 50.45714
 longitude: 7.27794
 postcode: "56659"
 city: Burgbrohl
-street: "Kirchstraße"
-housenumber: 4
-phone: "+49 2636 968200"
-opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:00; Sa,Su,PH off"
-website: "https://reisebuero-marino.com"
+street: Kirchstraße
+housenumber: "4"
+phone: +49 2636 968200
+opening_hours: Mo-Fr 09:00-13:00, 14:30-18:00; Sa,Su,PH off
+website: https://reisebuero-marino.com

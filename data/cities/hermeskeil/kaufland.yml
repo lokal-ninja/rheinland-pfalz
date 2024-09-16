@@ -4,8 +4,8 @@ latitude: 49.67877
 longitude: 6.95212
 postcode: "54411"
 city: Hermeskeil
-street: "Römerstraße"
-housenumber: 
+street: Römerstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/Home/index.jsp"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/Home/index.jsp

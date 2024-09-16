@@ -4,8 +4,8 @@ latitude: 49.78505
 longitude: 7.65231
 postcode: "55566"
 city: Bad Sobernheim
-street: "Saarstraße"
-housenumber: 6
+street: Saarstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.sanomed.de/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.sanomed.de/

@@ -1,11 +1,11 @@
 id: 67522095
-type: way
+type: node
 latitude: 49.44002
 longitude: 7.78413
 postcode: "67655"
 city: Kaiserslautern
-street: "Barbarossastraße"
-housenumber: 56
+street: Barbarossastraße
+housenumber: "56"
 phone: ""
 opening_hours: ""
-website: "https://fleischwaren-sutter.de/"
+website: https://fleischwaren-sutter.de/

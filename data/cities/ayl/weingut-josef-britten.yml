@@ -1,11 +1,11 @@
 id: 191744966
-type: way
+type: node
 latitude: 49.6361
 longitude: 6.57132
 postcode: "54441"
 city: Ayl
-street: "Saarburger Straße"
-housenumber: 26
+street: Saarburger Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

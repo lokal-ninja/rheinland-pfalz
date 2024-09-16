@@ -1,11 +1,11 @@
 id: 1158229791
-type: way
+type: node
 latitude: 50.39019
 longitude: 7.52358
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Fraunhofer-Straße"
+street: Fraunhofer-Straße
 housenumber: 9a
-phone: "+49 263 09666899"
-opening_hours: "Mo-Fr 08:00-17:00; PH off"
-website: "https://www.prothesenhandwerk.de"
+phone: +49 263 09666899
+opening_hours: Mo-Fr 08:00-17:00; PH off
+website: https://www.prothesenhandwerk.de

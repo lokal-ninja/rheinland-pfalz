@@ -1,11 +1,12 @@
 id: 569442197
-type: way
+type: node
 latitude: 49.79749
 longitude: 8.34869
 postcode: "67583"
 city: Guntersblum
-street: "Viertelstraße"
-housenumber: 23
-phone: "+49 6249 8376"
-opening_hours: "Mo,Th,Fr 09:00-12:00,15:00-18:00; We 09:00-12:00; Sa 09:00-13:00; Tu off"
-website: "https://www.hofladen-kehm.de/"
+street: Viertelstraße
+housenumber: "23"
+phone: +49 6249 8376
+opening_hours: Mo,Th,Fr 09:00-12:00,15:00-18:00; We 09:00-12:00; Sa 09:00-13:00; Tu
+    off
+website: https://www.hofladen-kehm.de/

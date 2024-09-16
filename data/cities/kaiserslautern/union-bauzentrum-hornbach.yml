@@ -1,11 +1,11 @@
 id: 325569300
-type: way
+type: node
 latitude: 49.43826
 longitude: 7.65743
 postcode: "67661"
 city: Kaiserslautern
-street: "Von-Miller-Straße"
-housenumber: 7
+street: Von-Miller-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-12:00"
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-12:00
 website: ""

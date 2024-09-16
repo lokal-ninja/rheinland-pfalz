@@ -1,11 +1,11 @@
 id: 519291400
-type: way
+type: node
 latitude: 49.45655
 longitude: 8.2905
 postcode: "67136"
 city: Fußgönheim
-street: "Keltenstraße"
-housenumber: 2
+street: Keltenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

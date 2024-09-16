@@ -1,11 +1,11 @@
 id: 487778453
-type: way
+type: node
 latitude: 50.51631
 longitude: 7.51497
 postcode: "56579"
 city: Hardert
-street: "Breite Straße"
-housenumber: 2
+street: Breite Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.runkelreisen.de/"
+website: https://www.runkelreisen.de/

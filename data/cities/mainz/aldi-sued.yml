@@ -4,8 +4,8 @@ latitude: 50.00282
 longitude: 8.25869
 postcode: "55118"
 city: Mainz
-street: "Kaiser-Wilhelm-Ring"
-housenumber: 6
+street: Kaiser-Wilhelm-Ring
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.aldi-sued.de/

@@ -1,11 +1,11 @@
 id: 769135211
-type: way
+type: node
 latitude: 49.89756
 longitude: 6.7043
 postcode: "54313"
 city: Zemmer
-street: "Rotenbergstraße"
-housenumber: 24
+street: Rotenbergstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

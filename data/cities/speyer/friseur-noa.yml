@@ -4,8 +4,8 @@ latitude: 49.34758
 longitude: 8.42498
 postcode: "67346"
 city: Speyer
-street: "Weißdornweg"
-housenumber: 6
+street: Weißdornweg
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 09:00-18:00; We,Sa 09:00-14:00"
+opening_hours: Mo-Tu,Th-Fr 09:00-18:00; We,Sa 09:00-14:00
 website: ""

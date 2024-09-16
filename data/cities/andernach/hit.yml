@@ -1,11 +1,11 @@
 id: 108314960
-type: way
+type: node
 latitude: 50.42323
 longitude: 7.4006
 postcode: "56626"
 city: Andernach
-street: "Erfurter Straße"
+street: Erfurter Straße
 housenumber: 4-6
-phone: "+49 2632 44041"
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://www.hit-andernach.de"
+phone: +49 2632 44041
+opening_hours: Mo-Sa 08:00-21:00; PH off
+website: https://www.hit-andernach.de

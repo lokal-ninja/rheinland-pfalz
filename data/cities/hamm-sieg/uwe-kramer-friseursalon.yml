@@ -4,8 +4,8 @@ latitude: 50.76511
 longitude: 7.67133
 postcode: "57577"
 city: Hamm (Sieg)
-street: "Siegstraße"
-housenumber: 1
-phone: "+49 2682 969180"
-opening_hours: "Tu-Th 08:30-18:00; Fr 08:30-19:00; Sa 08:00-14:00; Mo off; Su off"
-website: "http://www.friseursalon-kramer.de"
+street: Siegstraße
+housenumber: "1"
+phone: +49 2682 969180
+opening_hours: Tu-Th 08:30-18:00; Fr 08:30-19:00; Sa 08:00-14:00; Mo off; Su off
+website: http://www.friseursalon-kramer.de

@@ -4,8 +4,8 @@ latitude: 49.19987
 longitude: 8.11164
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Marktstraße"
-housenumber: 32
-phone: "+49 6341 83440"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-15:00"
-website: "https://www.brillen-kuntz.de/"
+street: Marktstraße
+housenumber: "32"
+phone: +49 6341 83440
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-15:00
+website: https://www.brillen-kuntz.de/

@@ -4,8 +4,8 @@ latitude: 49.33436
 longitude: 8.438
 postcode: "67346"
 city: Speyer
-street: "Auestraße"
-housenumber: 17
-phone: "+49 6232 315280"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off"
-website: "https://jysk.de/"
+street: Auestraße
+housenumber: "17"
+phone: +49 6232 315280
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off
+website: https://jysk.de/

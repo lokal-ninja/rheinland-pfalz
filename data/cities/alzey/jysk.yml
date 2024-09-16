@@ -1,11 +1,11 @@
 id: 336488387
-type: way
+type: node
 latitude: 49.74712
 longitude: 8.14052
 postcode: "55232"
 city: Alzey
-street: "Werner-von-Siemens-Straße"
-housenumber: 8
+street: Werner-von-Siemens-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://jysk.de/"
+website: https://jysk.de/

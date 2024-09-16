@@ -1,11 +1,11 @@
 id: 378205865
-type: way
+type: node
 latitude: 50.55197
 longitude: 7.51756
 postcode: "56587"
 city: Oberhonnefeld
-street: "Weyerbuscher Weg"
-housenumber: 12
+street: Weyerbuscher Weg
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

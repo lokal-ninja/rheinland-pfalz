@@ -1,11 +1,11 @@
 id: 413568810
-type: way
+type: node
 latitude: 49.21294
 longitude: 7.60761
 postcode: "66953"
 city: Pirmasens
-street: "Pestalozzistraße"
-housenumber: 100
-phone: "+49 6331 229007"
+street: Pestalozzistraße
+housenumber: "100"
+phone: +49 6331 229007
 opening_hours: ""
-website: "http://www.wagner-pirmasens.de/"
+website: http://www.wagner-pirmasens.de/

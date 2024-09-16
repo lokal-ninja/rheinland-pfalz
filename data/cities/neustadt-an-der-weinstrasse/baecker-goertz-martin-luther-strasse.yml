@@ -4,8 +4,8 @@ latitude: 49.35532
 longitude: 8.1513
 postcode: "67433"
 city: Neustadt an der Weinstraße
-street: "Martin-Luther-Straße"
-housenumber: 67
-phone: "+49 6321 3869888"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.baeckergoertz.de/"
+street: Martin-Luther-Straße
+housenumber: "67"
+phone: +49 6321 3869888
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.baeckergoertz.de/

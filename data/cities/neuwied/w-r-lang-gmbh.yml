@@ -1,11 +1,11 @@
 id: 507750204
-type: way
+type: node
 latitude: 50.41935
 longitude: 7.48513
 postcode: "56564"
 city: Neuwied
-street: "Hafenstraße"
-housenumber: 83
+street: Hafenstraße
+housenumber: "83"
 phone: ""
 opening_hours: ""
-website: "https://w-r-lang.de/"
+website: https://w-r-lang.de/

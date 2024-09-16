@@ -4,8 +4,8 @@ latitude: 50.48496
 longitude: 7.94679
 postcode: "56414"
 city: Wallmerod
-street: "Konrad-Adenauer-Straße"
-housenumber: 25
-phone: "+49 6435 966888"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-13:00"
-website: "https://www.holz-steinebach.de/"
+street: Konrad-Adenauer-Straße
+housenumber: "25"
+phone: +49 6435 966888
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-13:00
+website: https://www.holz-steinebach.de/

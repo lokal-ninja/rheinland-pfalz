@@ -1,11 +1,11 @@
 id: 279731474
-type: way
+type: node
 latitude: 49.58536
 longitude: 7.45056
 postcode: "66887"
 city: Ulmet
-street: "Austraße"
-housenumber: 21
+street: Austraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.71429
 longitude: 6.58761
 postcode: "54294"
 city: Trier
-street: "Oberkirch"
-housenumber: 10
+street: Oberkirch
+housenumber: "10"
 phone: ""
-opening_hours: "Mo,We,Th,Fr 08:30-18:00; Tu 08:30-14:00; Sa 08:30-16:00"
+opening_hours: Mo,We,Th,Fr 08:30-18:00; Tu 08:30-14:00; Sa 08:30-16:00
 website: ""

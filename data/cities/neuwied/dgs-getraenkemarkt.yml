@@ -1,11 +1,11 @@
 id: 1106282819
-type: way
+type: node
 latitude: 50.46003
 longitude: 7.46924
 postcode: "56567"
 city: Neuwied
-street: "Biens Mühle"
-housenumber: 2
+street: Biens Mühle
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.74821
 longitude: 6.63648
 postcode: "54290"
 city: Trier
-street: "Saarstraße"
-housenumber: 25
-phone: "+49 651 43611668"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.rocketz.de/"
+street: Saarstraße
+housenumber: "25"
+phone: +49 651 43611668
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.rocketz.de/

@@ -1,11 +1,11 @@
 id: 159631395
-type: way
+type: node
 latitude: 49.77774
 longitude: 6.7246
 postcode: "54292"
 city: Trier
-street: "Karthäuserhof"
-housenumber: 1
+street: Karthäuserhof
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.98368
 longitude: 8.2436
 postcode: "55128"
 city: Mainz
-street: "An der Kirchenpforte"
-housenumber: 15
-phone: "+49 6131 361998"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:00"
+street: An der Kirchenpforte
+housenumber: "15"
+phone: +49 6131 361998
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 208421673
-type: way
+type: node
 latitude: 50.15749
 longitude: 7.55607
 postcode: "56281"
 city: Emmelshausen
-street: "Trift"
-housenumber: 5
+street: Trift
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH closed"
+opening_hours: Mo-Sa 07:00-22:00; PH closed
 website: ""

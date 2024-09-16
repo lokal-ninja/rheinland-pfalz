@@ -1,11 +1,11 @@
 id: 203796724
-type: way
+type: node
 latitude: 49.98115
 longitude: 8.03077
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Nahering"
-housenumber: 22
+street: Nahering
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "http://www.auto-hoefinghoff.de"
+website: http://www.auto-hoefinghoff.de

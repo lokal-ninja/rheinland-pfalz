@@ -1,11 +1,11 @@
 id: 678984321
-type: way
+type: node
 latitude: 49.84112
 longitude: 8.24178
 postcode: "55278"
 city: Undenheim
-street: "An der Römervilla"
-housenumber: 4
+street: An der Römervilla
+housenumber: "4"
 phone: "+4967377121135"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/undenheim/320163/rewe-markt-an-der-roemervilla-4/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/undenheim/320163/rewe-markt-an-der-roemervilla-4/

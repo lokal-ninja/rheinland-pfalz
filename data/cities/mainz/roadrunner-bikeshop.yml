@@ -1,11 +1,11 @@
 id: 66354360
-type: way
+type: node
 latitude: 49.96608
 longitude: 8.26258
 postcode: "55129"
 city: Mainz
-street: "Johannes-Kepler-Straße"
-housenumber: 1
+street: Johannes-Kepler-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.roadrunner-bikeshop.de/"
+website: https://www.roadrunner-bikeshop.de/

@@ -1,11 +1,11 @@
 id: 448048925
-type: way
+type: node
 latitude: 49.4724
 longitude: 7.66605
 postcode: "67688"
 city: Rodenbach
-street: "Am Tränkwald"
-housenumber: 1
+street: Am Tränkwald
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

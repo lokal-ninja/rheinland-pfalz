@@ -1,11 +1,11 @@
 id: 148882448
-type: way
+type: node
 latitude: 50.55381
 longitude: 7.2444
 postcode: "53489"
 city: Sinzig
-street: "Kölner Straße"
-housenumber: 41
-phone: "+49 2642 9984032"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-18:00; Su,PH off"
-website: "https://www.getraenke-soenksen.de"
+street: Kölner Straße
+housenumber: "41"
+phone: +49 2642 9984032
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-18:00; Su,PH off
+website: https://www.getraenke-soenksen.de

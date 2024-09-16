@@ -4,8 +4,8 @@ latitude: 50.00066
 longitude: 8.266
 postcode: "55116"
 city: Mainz
-street: "Steingasse"
-housenumber: 4
+street: Steingasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://handydoktor-mainz.de"
+website: https://handydoktor-mainz.de

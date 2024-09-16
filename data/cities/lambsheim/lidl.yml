@@ -1,11 +1,11 @@
 id: 207097705
-type: way
+type: node
 latitude: 49.51706
 longitude: 8.2852
 postcode: "67245"
 city: Lambsheim
-street: "Weisenheimer Straße"
-housenumber: 37
+street: Weisenheimer Straße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/f/lambsheim/weisenheimer-str-37.html"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/f/lambsheim/weisenheimer-str-37.html

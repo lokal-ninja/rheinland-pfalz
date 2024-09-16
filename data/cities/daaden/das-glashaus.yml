@@ -1,11 +1,11 @@
 id: 206168100
-type: way
+type: node
 latitude: 50.7385
 longitude: 7.96729
 postcode: "57567"
 city: Daaden
-street: "Im Schützenhof"
-housenumber: 3
+street: Im Schützenhof
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://glashaus-daaden.de/"
+website: https://glashaus-daaden.de/

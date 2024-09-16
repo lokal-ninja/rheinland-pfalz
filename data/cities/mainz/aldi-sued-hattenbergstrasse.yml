@@ -4,8 +4,8 @@ latitude: 50.01382
 longitude: 8.24862
 postcode: "55122"
 city: Mainz
-street: "Hattenbergstraße"
-housenumber: 6
+street: Hattenbergstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Hattenbergstra%C3%9Fe%206%2055122%20Mainz-Neustadt&Mode=None"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Hattenbergstra%C3%9Fe%206%2055122%20Mainz-Neustadt&Mode=None

@@ -4,8 +4,8 @@ latitude: 49.86834
 longitude: 7.82433
 postcode: "55595"
 city: Hargesheim
-street: "Paul-Klee-Straße"
-housenumber: 2
+street: Paul-Klee-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 09:30-11:30,16:00-18:00; Fr 09:30-11:30,15:00-18:00"
-website: "https://kinderstube.online"
+opening_hours: Mo-Th 09:30-11:30,16:00-18:00; Fr 09:30-11:30,15:00-18:00
+website: https://kinderstube.online

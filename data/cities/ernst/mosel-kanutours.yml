@@ -4,8 +4,8 @@ latitude: 50.14476
 longitude: 7.22441
 postcode: "56814"
 city: Ernst
-street: "Moselstraße"
-housenumber: 45
-phone: "+49 2671 5551"
-opening_hours: "10:00-19:00"
-website: "https://www.mosel-kanutours.de/index.php/fahrradverleih"
+street: Moselstraße
+housenumber: "45"
+phone: +49 2671 5551
+opening_hours: 10:00-19:00
+website: https://www.mosel-kanutours.de/index.php/fahrradverleih

@@ -1,11 +1,11 @@
 id: 938731103
-type: way
+type: node
 latitude: 49.15415
 longitude: 7.77378
 postcode: "66994"
 city: Dahn
-street: "Pirmasenser Straße"
-housenumber: 50
+street: Pirmasenser Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su,PH off"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:30-21:00; Su,PH off
+website: https://www.penny.de/

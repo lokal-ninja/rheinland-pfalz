@@ -1,11 +1,11 @@
 id: 653519772
-type: way
+type: node
 latitude: 50.64739
 longitude: 7.95195
 postcode: "56470"
 city: Bad Marienberg (Westerwald)
-street: "Langenbacher Straße"
-housenumber: 24
+street: Langenbacher Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

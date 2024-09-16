@@ -1,11 +1,11 @@
 id: 148806119
-type: way
+type: node
 latitude: 50.26308
 longitude: 7.97227
 postcode: "56368"
 city: Katzenelnbogen
-street: "Rheinstraße"
-housenumber: 25
-phone: "+49 6486 900600"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: Rheinstraße
+housenumber: "25"
+phone: +49 6486 900600
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

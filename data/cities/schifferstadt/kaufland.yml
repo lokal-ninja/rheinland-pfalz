@@ -4,8 +4,8 @@ latitude: 49.38428
 longitude: 8.39313
 postcode: "67105"
 city: Schifferstadt
-street: "Waldspitzweg"
-housenumber: 1
-phone: "+49 6235 9256290"
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.kaufland.de/service/filiale.storeName=DE2840.html"
+street: Waldspitzweg
+housenumber: "1"
+phone: +49 6235 9256290
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.kaufland.de/service/filiale.storeName=DE2840.html

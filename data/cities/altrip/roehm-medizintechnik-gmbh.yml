@@ -1,11 +1,11 @@
 id: 341859500
-type: way
+type: node
 latitude: 49.42587
 longitude: 8.47589
 postcode: "67122"
 city: Altrip
-street: "In der Kehl"
-housenumber: 26
+street: In der Kehl
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

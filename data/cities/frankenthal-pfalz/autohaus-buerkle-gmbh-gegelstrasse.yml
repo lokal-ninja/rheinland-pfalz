@@ -1,11 +1,11 @@
 id: 229474809
-type: way
+type: node
 latitude: 49.52376
 longitude: 8.35055
 postcode: "67227"
 city: Frankenthal (Pfalz)
-street: "Gegelstraße"
-housenumber: 6
+street: Gegelstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

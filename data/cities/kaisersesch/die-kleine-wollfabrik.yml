@@ -4,8 +4,8 @@ latitude: 50.2303
 longitude: 7.13977
 postcode: "56759"
 city: Kaisersesch
-street: "Poststraße"
-housenumber: 11
-phone: "+49 2653 265003"
-opening_hours: "Mo,Tu,Th,Fr 13:00-17:00"
-website: "https://www.diekleinewollfabrik.de/"
+street: Poststraße
+housenumber: "11"
+phone: +49 2653 265003
+opening_hours: Mo,Tu,Th,Fr 13:00-17:00
+website: https://www.diekleinewollfabrik.de/

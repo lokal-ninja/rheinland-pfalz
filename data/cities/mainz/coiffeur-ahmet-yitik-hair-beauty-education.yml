@@ -4,8 +4,8 @@ latitude: 50.01482
 longitude: 8.25573
 postcode: "55118"
 city: Mainz
-street: "Rheinallee"
-housenumber: 109
+street: Rheinallee
+housenumber: "109"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-16:00
 website: ""

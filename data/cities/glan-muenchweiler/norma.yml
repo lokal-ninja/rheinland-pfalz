@@ -1,11 +1,11 @@
 id: 886501080
-type: way
+type: node
 latitude: 49.46982
 longitude: 7.44398
 postcode: "66907"
 city: Glan-Münchweiler
-street: "Bahnhofstraße"
-housenumber: 6
+street: Bahnhofstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

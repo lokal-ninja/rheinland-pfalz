@@ -1,11 +1,11 @@
 id: 99169982
-type: way
+type: node
 latitude: 49.43345
 longitude: 7.74628
 postcode: "67663"
 city: Kaiserslautern
-street: "Hohenecker Straße"
-housenumber: 18
-phone: "+49 631 201071-0"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://toom.de/m/kaiserslautern/"
+street: Hohenecker Straße
+housenumber: "18"
+phone: +49 631 201071-0
+opening_hours: Mo-Sa 07:00-20:00
+website: https://toom.de/m/kaiserslautern/

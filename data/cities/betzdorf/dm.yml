@@ -1,11 +1,11 @@
 id: 544093544
-type: way
+type: node
 latitude: 50.79107
 longitude: 7.86825
 postcode: "57518"
 city: Betzdorf
-street: "Wilhelmstraße"
-housenumber: 54
+street: Wilhelmstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

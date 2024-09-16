@@ -1,11 +1,11 @@
 id: 39475993
-type: way
+type: node
 latitude: 49.09012
 longitude: 8.26931
 postcode: "76751"
 city: Jockgrim
-street: "Buchstraße"
-housenumber: 13
+street: Buchstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:30-20:00; Su,PH off
 website: ""

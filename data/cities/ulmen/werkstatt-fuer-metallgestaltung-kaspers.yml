@@ -1,11 +1,11 @@
 id: 196784023
-type: way
+type: node
 latitude: 50.20714
 longitude: 6.96888
 postcode: "56766"
 city: Ulmen
-street: "Meisericher Straße"
-housenumber: 62
-phone: "+49 172 6561848"
+street: Meisericher Straße
+housenumber: "62"
+phone: +49 172 6561848
 opening_hours: ""
 website: ""

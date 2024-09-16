@@ -1,11 +1,12 @@
 id: 481075676
-type: way
+type: node
 latitude: 49.47988
 longitude: 8.42246
 postcode: "67059"
 city: Ludwigshafen am Rhein
-street: "Bliesstraße"
+street: Bliesstraße
 housenumber: 2-4
 phone: ""
-opening_hours: "Mar-Nov Mo-Fr 09:00-18:00; Mar-Nov Sa 09:00-14:00; Dec-Feb Mo-Fr 09:00-17:00; Dec-Feb Sa 09:00-14:00"
-website: "http://www.blumenbongardt.de/"
+opening_hours: Mar-Nov Mo-Fr 09:00-18:00; Mar-Nov Sa 09:00-14:00; Dec-Feb Mo-Fr 09:00-17:00;
+    Dec-Feb Sa 09:00-14:00
+website: http://www.blumenbongardt.de/

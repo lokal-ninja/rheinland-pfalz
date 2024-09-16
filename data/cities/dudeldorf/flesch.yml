@@ -1,11 +1,11 @@
 id: 654426203
-type: way
+type: node
 latitude: 49.97447
 longitude: 6.63614
 postcode: "54647"
 city: Dudeldorf
-street: "Kirchstraße"
-housenumber: 17
+street: Kirchstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

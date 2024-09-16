@@ -4,8 +4,8 @@ latitude: 50.58848
 longitude: 7.03874
 postcode: "53501"
 city: Grafschaft
-street: "Bonner Straße"
-housenumber: 100
-phone: "+49 2225 2446"
+street: Bonner Straße
+housenumber: "100"
+phone: +49 2225 2446
 opening_hours: ""
-website: "https://www.obsthof-nachtwey.de/home.html"
+website: https://www.obsthof-nachtwey.de/home.html

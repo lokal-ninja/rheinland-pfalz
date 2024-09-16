@@ -1,11 +1,11 @@
 id: 76560584
-type: way
+type: node
 latitude: 49.48975
 longitude: 8.39429
 postcode: "67063"
 city: Ludwigshafen am Rhein
-street: "Industriestraße"
-housenumber: 119
+street: Industriestraße
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 296106966
-type: way
+type: node
 latitude: 49.4745
 longitude: 8.20466
 postcode: "67098"
 city: Bad Dürkheim
-street: "Gustav-Kirchhoff-Straße"
-housenumber: 23
+street: Gustav-Kirchhoff-Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

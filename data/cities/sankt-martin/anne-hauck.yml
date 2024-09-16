@@ -4,8 +4,8 @@ latitude: 49.29958
 longitude: 8.10327
 postcode: "67487"
 city: Sankt Martin
-street: "Tanzstraße"
-housenumber: 6
-phone: "+49 6323 6868"
-opening_hours: "We-Fr 14:00-18:00; Sa 12:00-17:00"
-website: "https://www.anne-hauck.de/"
+street: Tanzstraße
+housenumber: "6"
+phone: +49 6323 6868
+opening_hours: We-Fr 14:00-18:00; Sa 12:00-17:00
+website: https://www.anne-hauck.de/

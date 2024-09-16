@@ -1,11 +1,11 @@
 id: 216805848
-type: way
+type: node
 latitude: 50.35714
 longitude: 6.44292
 postcode: "54611"
 city: Hallschlag
-street: "Kölner Straße"
-housenumber: 24
+street: Kölner Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.schneifel-automobile.de/"
+website: https://www.schneifel-automobile.de/

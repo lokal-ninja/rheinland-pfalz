@@ -1,11 +1,11 @@
 id: 330755593
-type: way
+type: node
 latitude: 49.83762
 longitude: 8.02012
 postcode: "55599"
 city: Gau-Bickelheim
-street: "Bahnhofstraße"
-housenumber: 3
+street: Bahnhofstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

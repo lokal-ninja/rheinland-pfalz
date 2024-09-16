@@ -1,11 +1,11 @@
 id: 67021335
-type: way
+type: node
 latitude: 49.77183
 longitude: 6.71973
 postcode: "54318"
 city: Mertesdorf
-street: "Hauptstraße"
-housenumber: 1
+street: Hauptstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00
 website: ""

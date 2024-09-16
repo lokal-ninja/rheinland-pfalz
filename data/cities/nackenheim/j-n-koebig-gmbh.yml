@@ -1,11 +1,11 @@
 id: 30839530
-type: way
+type: node
 latitude: 49.92033
 longitude: 8.33296
 postcode: "55299"
 city: Nackenheim
-street: "Mainzer Straße"
-housenumber: 143
+street: Mainzer Straße
+housenumber: "143"
 phone: ""
 opening_hours: ""
-website: "https://www.koebig.de/standorte/nackenheim.html"
+website: https://www.koebig.de/standorte/nackenheim.html

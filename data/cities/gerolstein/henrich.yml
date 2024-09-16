@@ -1,11 +1,11 @@
 id: 89163715
-type: way
+type: node
 latitude: 50.24319
 longitude: 6.66373
 postcode: "54568"
 city: Gerolstein
-street: "Vulkanring"
-housenumber: 12
+street: Vulkanring
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

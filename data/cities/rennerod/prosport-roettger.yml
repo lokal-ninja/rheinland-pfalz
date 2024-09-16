@@ -4,8 +4,8 @@ latitude: 50.60507
 longitude: 8.06573
 postcode: "56477"
 city: Rennerod
-street: "Hauptstraße"
-housenumber: 32
+street: Hauptstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,14:00-18:30; Sa 09:00-13:00"
-website: "https://www.prosport-roettger.de/8.html"
+opening_hours: Mo-Fr 09:30-13:00,14:00-18:30; Sa 09:00-13:00
+website: https://www.prosport-roettger.de/8.html

@@ -4,8 +4,8 @@ latitude: 49.20571
 longitude: 8.13101
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Taubensuhlstraße"
-housenumber: 1
-phone: "+49 6341 950620"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://freykissel.org/SBK/"
+street: Taubensuhlstraße
+housenumber: "1"
+phone: +49 6341 950620
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://freykissel.org/SBK/

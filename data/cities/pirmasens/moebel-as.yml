@@ -1,11 +1,11 @@
 id: 112444297
-type: way
+type: node
 latitude: 49.18749
 longitude: 7.58836
 postcode: "66955"
 city: Pirmasens
-street: "Blocksbergstraße"
-housenumber: 150
-phone: "+49-6331-7259-0"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.moebel-as.de/standorte/pirmasens"
+street: Blocksbergstraße
+housenumber: "150"
+phone: +49-6331-7259-0
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.moebel-as.de/standorte/pirmasens

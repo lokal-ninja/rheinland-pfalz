@@ -1,11 +1,11 @@
 id: 341008354
-type: way
+type: node
 latitude: 49.44363
 longitude: 7.76494
 postcode: "67655"
 city: Kaiserslautern
-street: "Fackelrondell"
-housenumber: 1
+street: Fackelrondell
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.k-in-lautern.de/"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.k-in-lautern.de/

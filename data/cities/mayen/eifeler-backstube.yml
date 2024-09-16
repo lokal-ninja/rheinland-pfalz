@@ -4,8 +4,8 @@ latitude: 50.32942
 longitude: 7.22318
 postcode: "56727"
 city: Mayen
-street: "Marktstraße"
-housenumber: 24
+street: Marktstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-13:30"
-website: "https://www.eifeler-backstube.de/filialen/filiale-mayen/"
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-13:30
+website: https://www.eifeler-backstube.de/filialen/filiale-mayen/

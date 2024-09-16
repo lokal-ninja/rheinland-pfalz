@@ -4,8 +4,8 @@ latitude: 49.20948
 longitude: 8.11192
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Lotschstraße"
-housenumber: 9
-phone: "+49 6341 9770"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.ehrmann-gilb.de/"
+street: Lotschstraße
+housenumber: "9"
+phone: +49 6341 9770
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.ehrmann-gilb.de/

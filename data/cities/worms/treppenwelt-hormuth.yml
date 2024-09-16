@@ -1,11 +1,11 @@
 id: 297498968
-type: way
+type: node
 latitude: 49.63364
 longitude: 8.35069
 postcode: "67549"
 city: Worms
-street: "Dirolfstraße"
-housenumber: 31
-phone: "+49 6241 5056252"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-17:00"
-website: "https://www.treppenwelt-hormuth.de"
+street: Dirolfstraße
+housenumber: "31"
+phone: +49 6241 5056252
+opening_hours: Mo-Fr 10:00-12:00,14:00-17:00
+website: https://www.treppenwelt-hormuth.de

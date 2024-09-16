@@ -1,11 +1,11 @@
 id: 299055618
-type: way
+type: node
 latitude: 50.36789
 longitude: 7.29652
 postcode: "56743"
 city: Mendig
-street: "Robert-Bosch-Straße"
-housenumber: 34
+street: Robert-Bosch-Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

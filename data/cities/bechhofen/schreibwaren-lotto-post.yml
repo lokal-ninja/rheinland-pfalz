@@ -4,8 +4,8 @@ latitude: 49.3497
 longitude: 7.40816
 postcode: "66894"
 city: Bechhofen
-street: "Hauptstraße"
-housenumber: 85
-phone: "+49 6372 9291190"
-opening_hours: "Mo,Th 06:45-12:00; Tu,We,Fr 06:45-12:00,14:00-17:00; Sa 08:00-12:00"
+street: Hauptstraße
+housenumber: "85"
+phone: +49 6372 9291190
+opening_hours: Mo,Th 06:45-12:00; Tu,We,Fr 06:45-12:00,14:00-17:00; Sa 08:00-12:00
 website: ""

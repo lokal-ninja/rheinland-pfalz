@@ -1,11 +1,11 @@
 id: 157565858
-type: way
+type: node
 latitude: 49.08742
 longitude: 8.20973
 postcode: "76870"
 city: Kandel
-street: "Nansenstraße"
-housenumber: 2
+street: Nansenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

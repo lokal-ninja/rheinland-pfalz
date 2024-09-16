@@ -1,11 +1,11 @@
 id: 170224874
-type: way
+type: node
 latitude: 49.46558
 longitude: 8.41879
 postcode: "67059"
 city: Ludwigshafen am Rhein
-street: "Bruchwiesenstraße"
-housenumber: 19
-phone: "+49 621 511596"
+street: Bruchwiesenstraße
+housenumber: "19"
+phone: +49 621 511596
 opening_hours: ""
-website: "https://www.waescherei-topf.de/"
+website: https://www.waescherei-topf.de/

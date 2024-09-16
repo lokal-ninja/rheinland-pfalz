@@ -1,11 +1,11 @@
 id: 172629589
-type: way
+type: node
 latitude: 50.39236
 longitude: 7.54052
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Hinter der Jungenstraße"
-housenumber: 8
-phone: "+49 261 9521927"
-opening_hours: "Mo-Fr 08:00-12:00, 12:45-18:00; Sa 08:00-13:00; Su,PH off"
+street: Hinter der Jungenstraße
+housenumber: "8"
+phone: +49 261 9521927
+opening_hours: Mo-Fr 08:00-12:00, 12:45-18:00; Sa 08:00-13:00; Su,PH off
 website: ""

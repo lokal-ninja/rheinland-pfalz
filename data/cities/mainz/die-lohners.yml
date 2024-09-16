@@ -4,8 +4,8 @@ latitude: 50.00965
 longitude: 8.21676
 postcode: "55122"
 city: Mainz
-street: "Bürgermeister-Alexander-Straße"
-housenumber: 1
+street: Bürgermeister-Alexander-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://die-lohners.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://die-lohners.de/

@@ -1,11 +1,11 @@
 id: 146356673
-type: way
+type: node
 latitude: 50.53423
 longitude: 7.26959
 postcode: "53498"
 city: Bad Breisig
-street: "Im Seifental"
-housenumber: 7
-phone: "+49 2633 47470"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:30-12:30; Su,PH off"
+street: Im Seifental
+housenumber: "7"
+phone: +49 2633 47470
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:30-12:30; Su,PH off
 website: ""

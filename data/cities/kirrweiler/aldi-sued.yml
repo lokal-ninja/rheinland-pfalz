@@ -1,11 +1,11 @@
 id: 227358536
-type: way
+type: node
 latitude: 49.28983
 longitude: 8.14124
 postcode: "67489"
 city: Kirrweiler
-street: "Staatsstraße"
-housenumber: 1
+street: Staatsstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/rheinland-pfalz/kirrweiler/staatsstrasse-1"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://filialen.aldi-sued.de/rheinland-pfalz/kirrweiler/staatsstrasse-1

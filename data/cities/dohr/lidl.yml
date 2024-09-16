@@ -1,11 +1,11 @@
 id: 111208605
-type: way
+type: node
 latitude: 50.13479
 longitude: 7.12822
 postcode: "56812"
 city: Dohr
-street: "Am Heckbaum"
-housenumber: 2
+street: Am Heckbaum
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

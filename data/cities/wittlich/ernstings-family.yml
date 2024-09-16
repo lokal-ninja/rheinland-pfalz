@@ -4,8 +4,8 @@ latitude: 49.98608
 longitude: 6.89069
 postcode: "54516"
 city: Wittlich
-street: "Schloßstraße"
-housenumber: 5
+street: Schloßstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00"
-website: "https://www.ernstings-family.com/"
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-18:00
+website: https://www.ernstings-family.com/

@@ -1,11 +1,11 @@
 id: 254650333
-type: way
+type: node
 latitude: 49.75366
 longitude: 6.99848
 postcode: "54424"
 city: Thalfang
-street: "Bahnhofstraße"
-housenumber: 5
-phone: "+49 6504 954970"
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00"
+street: Bahnhofstraße
+housenumber: "5"
+phone: +49 6504 954970
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-18:00
 website: ""

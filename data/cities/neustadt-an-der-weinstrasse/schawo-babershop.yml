@@ -4,8 +4,8 @@ latitude: 49.35144
 longitude: 8.13683
 postcode: "67433"
 city: Neustadt an der Weinstraße
-street: "Hauptstraße"
-housenumber: 37
-phone: "+49 6321 9700937"
-opening_hours: "Mo,Tu,Th,Fr 09:00-19:00; We 09:00-18:45; Sa 09:00-17:45"
+street: Hauptstraße
+housenumber: "37"
+phone: +49 6321 9700937
+opening_hours: Mo,Tu,Th,Fr 09:00-19:00; We 09:00-18:45; Sa 09:00-17:45
 website: ""

@@ -1,11 +1,11 @@
 id: 93869653
-type: way
+type: node
 latitude: 50.4308
 longitude: 7.82017
 postcode: "56410"
 city: Montabaur
-street: "Jahnstraße"
-housenumber: 46
-phone: "+49 2602 917936"
+street: Jahnstraße
+housenumber: "46"
+phone: +49 2602 917936
 opening_hours: ""
 website: ""

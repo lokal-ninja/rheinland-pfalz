@@ -1,11 +1,13 @@
 id: 673410124
-type: way
+type: node
 latitude: 50.45818
 longitude: 7.21542
 postcode: "56651"
 city: Niederzissen
-street: "Kapellenstraße"
-housenumber: 8
-phone: "+49 2636 15 90"
-opening_hours: "Montag: 14:00 - 19:00; Dienstag: 14:00 - 19:00; Mittwoch: 14:00 - 19:00; Donnerstag: 14:00 - 19:00; Freitag: 14:00 - 19:00; Samstag: 09:00 - 13:00; Sonntag: Geschlossen; "
+street: Kapellenstraße
+housenumber: "8"
+phone: +49 2636 15 90
+opening_hours: 'Montag: 14:00 - 19:00; Dienstag: 14:00 - 19:00; Mittwoch: 14:00 -
+    19:00; Donnerstag: 14:00 - 19:00; Freitag: 14:00 - 19:00; Samstag: 09:00 - 13:00;
+    Sonntag: Geschlossen; '
 website: ""

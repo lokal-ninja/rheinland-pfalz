@@ -4,8 +4,8 @@ latitude: 49.3042
 longitude: 8.43081
 postcode: "67346"
 city: Speyer
-street: "Windthorststraße"
-housenumber: 11
-phone: "+49 6232 33123699"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-17:30; Sa 09:00-13:00"
-website: "https://www.i-media-sat.com/"
+street: Windthorststraße
+housenumber: "11"
+phone: +49 6232 33123699
+opening_hours: Mo-Fr 09:00-13:00,14:00-17:30; Sa 09:00-13:00
+website: https://www.i-media-sat.com/

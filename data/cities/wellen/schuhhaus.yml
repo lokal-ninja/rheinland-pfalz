@@ -1,11 +1,11 @@
 id: 262059567
-type: way
+type: node
 latitude: 49.66736
 longitude: 6.43173
 postcode: "54441"
 city: Wellen
-street: "Weinbergstraße"
-housenumber: 9
+street: Weinbergstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

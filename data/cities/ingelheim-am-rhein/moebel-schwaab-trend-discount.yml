@@ -1,11 +1,11 @@
 id: 193322186
-type: way
+type: node
 latitude: 49.9806
 longitude: 8.02763
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Nahering"
-housenumber: 7
+street: Nahering
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "http://www.moebel-schwaab.de"
+website: http://www.moebel-schwaab.de

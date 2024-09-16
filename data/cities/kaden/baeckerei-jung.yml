@@ -1,11 +1,11 @@
 id: 1079758805
-type: way
+type: node
 latitude: 50.54758
 longitude: 7.91479
 postcode: "56459"
 city: Kaden
-street: "Elbbachstraße"
-housenumber: 4
+street: Elbbachstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

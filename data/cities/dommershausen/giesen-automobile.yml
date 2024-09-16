@@ -1,11 +1,11 @@
 id: 199479477
-type: way
+type: node
 latitude: 50.14793
 longitude: 7.39615
 postcode: "56290"
 city: Dommershausen
-street: "Kreuzerwiese"
-housenumber: 1
+street: Kreuzerwiese
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

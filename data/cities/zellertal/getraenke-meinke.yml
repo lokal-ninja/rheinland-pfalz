@@ -1,11 +1,11 @@
 id: 364963585
-type: way
+type: node
 latitude: 49.64234
 longitude: 8.13513
 postcode: "67308"
 city: Zellertal
-street: "Bahnhofstraße"
-housenumber: 11
-phone: "+49 6355 428"
-opening_hours: "Mo-Fr 07:30-12:00,14:00-18:00; Sa 07:30-12:00"
-website: "https://www.getraenke-meinke.de/"
+street: Bahnhofstraße
+housenumber: "11"
+phone: +49 6355 428
+opening_hours: Mo-Fr 07:30-12:00,14:00-18:00; Sa 07:30-12:00
+website: https://www.getraenke-meinke.de/

@@ -4,8 +4,8 @@ latitude: 49.97355
 longitude: 8.05515
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Bahnhofstraße"
-housenumber: 25
-phone: "+49 6132 791629"
-opening_hours: "Mo,Th,We,Fr 08:30-19:00; Th 08:30-20:00; Sa 08:30-14:00"
-website: "https://www.hair-and-more.de/"
+street: Bahnhofstraße
+housenumber: "25"
+phone: +49 6132 791629
+opening_hours: Mo,Th,We,Fr 08:30-19:00; Th 08:30-20:00; Sa 08:30-14:00
+website: https://www.hair-and-more.de/

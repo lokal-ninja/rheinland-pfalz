@@ -1,11 +1,11 @@
 id: 240864857
-type: way
+type: node
 latitude: 49.3003
 longitude: 8.10484
 postcode: "67487"
 city: Sankt Martin
-street: "Friedhofstraße"
-housenumber: 1
+street: Friedhofstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

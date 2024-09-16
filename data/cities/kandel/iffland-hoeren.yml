@@ -4,8 +4,8 @@ latitude: 49.08195
 longitude: 8.19629
 postcode: "76870"
 city: Kandel
-street: "Hauptstraße"
-housenumber: 92
-phone: "+49-7275-61694"
-opening_hours: "Mo,We,Fr 09:00-12:30,14:00-18:00; Tu,Th 09:00-12:30"
-website: "https://www.iffland-hoeren.de/"
+street: Hauptstraße
+housenumber: "92"
+phone: +49-7275-61694
+opening_hours: Mo,We,Fr 09:00-12:30,14:00-18:00; Tu,Th 09:00-12:30
+website: https://www.iffland-hoeren.de/

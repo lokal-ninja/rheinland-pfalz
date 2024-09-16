@@ -1,11 +1,11 @@
 id: 198730322
-type: way
+type: node
 latitude: 49.95688
 longitude: 7.12421
 postcode: "56841"
 city: Traben-Trarbach
-street: "Neue Straße"
-housenumber: 1
+street: Neue Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/f/traben-trarbach/traben-neue-str-1.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/f/traben-trarbach/traben-neue-str-1.html

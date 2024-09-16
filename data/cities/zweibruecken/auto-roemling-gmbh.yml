@@ -1,11 +1,11 @@
 id: 99702983
-type: way
+type: node
 latitude: 49.2537
 longitude: 7.38935
 postcode: "66482"
 city: Zweibrücken
-street: "Gewerbestraße"
-housenumber: 41
+street: Gewerbestraße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

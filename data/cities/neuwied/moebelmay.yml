@@ -1,11 +1,11 @@
 id: 385592657
-type: way
+type: node
 latitude: 50.4291
 longitude: 7.47943
 postcode: "56564"
 city: Neuwied
-street: "Blücherstraße"
+street: Blücherstraße
 housenumber: 1-3
-phone: "+49 2631 83980"
-opening_hours: "Tu-Fr 08:30-18:30; Sa 09:30-16:00; Su,PH off"
-website: "https://moebelmay.de"
+phone: +49 2631 83980
+opening_hours: Tu-Fr 08:30-18:30; Sa 09:30-16:00; Su,PH off
+website: https://moebelmay.de

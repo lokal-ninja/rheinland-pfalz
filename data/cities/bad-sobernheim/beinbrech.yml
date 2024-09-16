@@ -1,11 +1,11 @@
 id: 52312910
-type: way
+type: node
 latitude: 49.78492
 longitude: 7.6384
 postcode: "55566"
 city: Bad Sobernheim
-street: "Westtangente"
-housenumber: 
+street: Westtangente
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

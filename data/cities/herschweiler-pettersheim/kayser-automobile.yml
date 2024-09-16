@@ -1,11 +1,11 @@
 id: 398335825
-type: way
+type: node
 latitude: 49.4725
 longitude: 7.3444
 postcode: "66909"
 city: Herschweiler-Pettersheim
-street: "Hauptstraße"
-housenumber: 22
+street: Hauptstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

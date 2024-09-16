@@ -4,8 +4,8 @@ latitude: 49.99997
 longitude: 8.26268
 postcode: "55116"
 city: Mainz
-street: "Binger Straße"
-housenumber: 7
-phone: "+49 6131 227792"
-opening_hours: "Mo-Fr 09:30-13:00, 13:30-18:30"
-website: "https://www.werner-taufkerzen-mainz.de/"
+street: Binger Straße
+housenumber: "7"
+phone: +49 6131 227792
+opening_hours: Mo-Fr 09:30-13:00, 13:30-18:30
+website: https://www.werner-taufkerzen-mainz.de/

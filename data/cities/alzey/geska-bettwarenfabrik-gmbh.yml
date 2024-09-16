@@ -4,8 +4,8 @@ latitude: 49.75102
 longitude: 8.11797
 postcode: "55232"
 city: Alzey
-street: "Albiger Straße"
-housenumber: 3
-phone: "+49 6731 498025"
-opening_hours: "Mo,Fr 09:00-16:00; Tu-Th 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.bettenfabrik24.de"
+street: Albiger Straße
+housenumber: "3"
+phone: +49 6731 498025
+opening_hours: Mo,Fr 09:00-16:00; Tu-Th 09:00-18:00; Sa 09:00-13:00
+website: http://www.bettenfabrik24.de

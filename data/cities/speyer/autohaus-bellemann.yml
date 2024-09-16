@@ -1,11 +1,11 @@
 id: 410882742
-type: way
+type: node
 latitude: 49.33904
 longitude: 8.43217
 postcode: "67346"
 city: Speyer
-street: "Tullastraße"
-housenumber: 10
+street: Tullastraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.bellemann-speyer.de/"
+website: https://www.bellemann-speyer.de/

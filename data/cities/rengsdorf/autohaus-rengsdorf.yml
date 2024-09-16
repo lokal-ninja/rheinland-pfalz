@@ -1,11 +1,11 @@
 id: 200941084
-type: way
+type: node
 latitude: 50.50542
 longitude: 7.49174
 postcode: "56579"
 city: Rengsdorf
-street: "Westerwaldstraße"
-housenumber: 84
+street: Westerwaldstraße
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.autohaus-rengsdorf.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.autohaus-rengsdorf.de/

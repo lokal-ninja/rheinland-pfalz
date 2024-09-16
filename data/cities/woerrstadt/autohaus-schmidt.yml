@@ -1,11 +1,11 @@
 id: 178063658
-type: way
+type: node
 latitude: 49.85472
 longitude: 8.12405
 postcode: "55286"
 city: Wörrstadt
-street: "Ober-Saulheimer-Straße"
-housenumber: 27
-phone: "+49 6732 64090"
-opening_hours: "Mo-Th 07:45-17:30; Fr 07:45-17:00"
-website: "http://www.schmidt.autoauto.de/"
+street: Ober-Saulheimer-Straße
+housenumber: "27"
+phone: +49 6732 64090
+opening_hours: Mo-Th 07:45-17:30; Fr 07:45-17:00
+website: http://www.schmidt.autoauto.de/

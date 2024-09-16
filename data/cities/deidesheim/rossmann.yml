@@ -1,11 +1,11 @@
 id: 112471098
-type: way
+type: node
 latitude: 49.40735
 longitude: 8.19381
 postcode: "67146"
 city: Deidesheim
-street: "Appengasse"
+street: Appengasse
 housenumber: 2a
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 286243936
-type: way
+type: node
 latitude: 49.26674
 longitude: 7.59243
 postcode: "66987"
 city: Thaleischweiler-Fröschen
-street: "Gewerbegebiet Ost"
-housenumber: 5
+street: Gewerbegebiet Ost
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

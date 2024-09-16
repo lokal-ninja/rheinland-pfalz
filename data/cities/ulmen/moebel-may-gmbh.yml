@@ -1,11 +1,11 @@
 id: 92511208
-type: way
+type: node
 latitude: 50.22578
 longitude: 6.97202
 postcode: "56766"
 city: Ulmen
-street: "Industriestraße"
-housenumber: 9
-phone: "+49 2676 93600"
-opening_hours: "Tu-Fr 09:30-18:30; Sa 09:30-16:00; PH off"
-website: "https://moebelmay.de"
+street: Industriestraße
+housenumber: "9"
+phone: +49 2676 93600
+opening_hours: Tu-Fr 09:30-18:30; Sa 09:30-16:00; PH off
+website: https://moebelmay.de

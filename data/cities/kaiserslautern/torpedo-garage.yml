@@ -1,11 +1,11 @@
 id: 106369334
-type: way
+type: node
 latitude: 49.44494
 longitude: 7.78656
 postcode: "67655"
 city: Kaiserslautern
-street: "Altenwoogstraße"
-housenumber: 60
+street: Altenwoogstraße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

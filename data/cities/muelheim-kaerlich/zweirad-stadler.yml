@@ -1,11 +1,11 @@
 id: 77809947
-type: way
+type: node
 latitude: 50.39451
 longitude: 7.52776
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Industriestraße"
-housenumber: 15
-phone: "+49261 988897 0"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:30; PH off"
-website: "https://zweirad-stadler.de/"
+street: Industriestraße
+housenumber: "15"
+phone: +49261 988897 0
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:30; PH off
+website: https://zweirad-stadler.de/

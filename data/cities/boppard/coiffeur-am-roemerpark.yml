@@ -4,8 +4,8 @@ latitude: 50.23115
 longitude: 7.59216
 postcode: "56154"
 city: Boppard
-street: "Mergstraße"
-housenumber: 3
-phone: "+49 6742 941717"
-opening_hours: "Tu-Fr 08:30-18:30; Mo off; Sa 08:30-12:00"
+street: Mergstraße
+housenumber: "3"
+phone: +49 6742 941717
+opening_hours: Tu-Fr 08:30-18:30; Mo off; Sa 08:30-12:00
 website: ""

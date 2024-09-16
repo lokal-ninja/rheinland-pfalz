@@ -1,11 +1,11 @@
 id: 127051560
-type: way
+type: node
 latitude: 49.77164
 longitude: 7.68498
 postcode: ""
 city: Staudernheim
-street: "Berliner Straße"
-housenumber: 19
+street: Berliner Straße
+housenumber: "19"
 phone: "+4967519245202"
 opening_hours: ""
 website: ""

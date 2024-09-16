@@ -4,8 +4,8 @@ latitude: 49.70376
 longitude: 8.32037
 postcode: "67574"
 city: Osthofen
-street: "Friedrich-Ebert-Straße"
-housenumber: 53
-phone: "+49 6242 60899"
-opening_hours: "Mo-Sa 10:00-12:00,13:00-17:00"
-website: "http://www.visavis-osthofen.de/"
+street: Friedrich-Ebert-Straße
+housenumber: "53"
+phone: +49 6242 60899
+opening_hours: Mo-Sa 10:00-12:00,13:00-17:00
+website: http://www.visavis-osthofen.de/

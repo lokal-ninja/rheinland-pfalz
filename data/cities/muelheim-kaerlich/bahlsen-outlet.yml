@@ -4,8 +4,8 @@ latitude: 50.39647
 longitude: 7.52276
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Industriestraße"
-housenumber: 34
+street: Industriestraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.thebahlsenfamily.com/de/unternehmen/region-d-a-ch/outlets/#muelheimkaerlich"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.thebahlsenfamily.com/de/unternehmen/region-d-a-ch/outlets/#muelheimkaerlich

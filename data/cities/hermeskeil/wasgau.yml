@@ -1,11 +1,11 @@
 id: 243228449
-type: way
+type: node
 latitude: 49.66019
 longitude: 6.93389
 postcode: "54411"
 city: Hermeskeil
-street: "Am Dörrenbach"
-housenumber: 13
+street: Am Dörrenbach
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00;PH,Su off"
+opening_hours: Mo-Sa 08:00-21:00;PH,Su off
 website: ""

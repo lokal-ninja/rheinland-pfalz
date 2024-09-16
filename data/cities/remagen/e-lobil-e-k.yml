@@ -1,11 +1,11 @@
 id: 392922662
-type: way
+type: node
 latitude: 50.55859
 longitude: 7.26053
 postcode: "53424"
 city: Remagen
-street: "Quellenstraße"
+street: Quellenstraße
 housenumber: 150a
-phone: "+49 2642 994730"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-17:00; Sa,Su,PH off"
-website: "https://e-lobil24.de"
+phone: +49 2642 994730
+opening_hours: Mo-Fr 09:00-12:00,13:00-17:00; Sa,Su,PH off
+website: https://e-lobil24.de

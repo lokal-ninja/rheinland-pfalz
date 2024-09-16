@@ -1,11 +1,11 @@
 id: 683705731
-type: way
+type: node
 latitude: 49.84785
 longitude: 7.87377
 postcode: "55543"
 city: Bad Kreuznach
-street: "Planiger Straße"
-housenumber: 106
+street: Planiger Straße
+housenumber: "106"
 phone: ""
 opening_hours: ""
-website: "https://www.jawoll.de/"
+website: https://www.jawoll.de/

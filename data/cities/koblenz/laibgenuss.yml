@@ -4,8 +4,8 @@ latitude: 50.36029
 longitude: 7.59404
 postcode: "56068"
 city: Koblenz
-street: "Löhrstraße"
-housenumber: 4
+street: Löhrstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:00; Fr-Sa 09:00-19:00; Su 09:00-16:00"
-website: "https://laibgenuss.business.site/"
+opening_hours: Mo-Th 09:00-18:00; Fr-Sa 09:00-19:00; Su 09:00-16:00
+website: https://laibgenuss.business.site/

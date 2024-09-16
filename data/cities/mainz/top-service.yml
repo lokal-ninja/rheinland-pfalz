@@ -4,8 +4,8 @@ latitude: 50.00145
 longitude: 8.27005
 postcode: "55116"
 city: Mainz
-street: "Klarastraße"
-housenumber: 3
+street: Klarastraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 09:30-18:00; Fr 9:30-13:00,15:30-18:00; Sa 10:00-15:00; PH off"
+opening_hours: Mo-Th 09:30-18:00; Fr 9:30-13:00,15:30-18:00; Sa 10:00-15:00; PH off
 website: ""

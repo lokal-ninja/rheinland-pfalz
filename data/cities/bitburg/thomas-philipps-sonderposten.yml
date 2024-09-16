@@ -1,11 +1,11 @@
 id: 89717848
-type: way
+type: node
 latitude: 49.96174
 longitude: 6.52117
 postcode: "54634"
 city: Bitburg
-street: "Saarstraße"
+street: Saarstraße
 housenumber: 44A
-phone: "+49 6561 9479642"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+phone: +49 6561 9479642
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

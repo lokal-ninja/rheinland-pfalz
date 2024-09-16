@@ -1,11 +1,11 @@
 id: 934431032
-type: way
+type: node
 latitude: 49.35922
 longitude: 8.15643
 postcode: "67433"
 city: Neustadt an der Weinstraße
-street: "Bayernplatz"
-housenumber: 7
-phone: "+49 6321 5789607"
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
-website: "https://www.mixmarkt.eu/de/germany/maerkte/124/"
+street: Bayernplatz
+housenumber: "7"
+phone: +49 6321 5789607
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
+website: https://www.mixmarkt.eu/de/germany/maerkte/124/

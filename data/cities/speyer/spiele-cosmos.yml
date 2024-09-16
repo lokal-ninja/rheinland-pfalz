@@ -4,8 +4,8 @@ latitude: 49.3168
 longitude: 8.43718
 postcode: "67346"
 city: Speyer
-street: "Schustergasse"
-housenumber: 4
-phone: "+49 6232 8549588"
-opening_hours: "Mo-Fr 10:30-18:00 , Sa 10:30-16:00"
-website: "https://www.spiele-cosmos.de/"
+street: Schustergasse
+housenumber: "4"
+phone: +49 6232 8549588
+opening_hours: Mo-Fr 10:30-18:00 , Sa 10:30-16:00
+website: https://www.spiele-cosmos.de/

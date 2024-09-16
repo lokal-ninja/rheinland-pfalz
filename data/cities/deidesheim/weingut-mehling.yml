@@ -4,8 +4,8 @@ latitude: 49.40624
 longitude: 8.18654
 postcode: "67146"
 city: Deidesheim
-street: "Weinstraße"
-housenumber: 55
-phone: "+49 6326 274"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:00"
-website: "http://www.weingut-mehling.de/"
+street: Weinstraße
+housenumber: "55"
+phone: +49 6326 274
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:00
+website: http://www.weingut-mehling.de/

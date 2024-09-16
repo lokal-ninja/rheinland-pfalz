@@ -1,11 +1,11 @@
 id: 106492170
-type: way
+type: node
 latitude: 50.27595
 longitude: 7.62807
 postcode: "56321"
 city: Brey
-street: "Mainzer Straße"
-housenumber: 7
+street: Mainzer Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

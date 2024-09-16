@@ -1,11 +1,11 @@
 id: 113971134
-type: way
+type: node
 latitude: 49.73081
 longitude: 6.60308
 postcode: "54294"
 city: Trier
-street: "Luxemburger Straße"
-housenumber: 234
+street: Luxemburger Straße
+housenumber: "234"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

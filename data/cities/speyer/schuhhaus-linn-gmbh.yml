@@ -4,8 +4,8 @@ latitude: 49.31766
 longitude: 8.42778
 postcode: "67346"
 city: Speyer
-street: "Mühlturmstraße"
-housenumber: 30
+street: Mühlturmstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 10:00-16:00"
-website: "https://schuhshop-linn.de"
+opening_hours: Mo-Fr 09:00-19:00, Sa 10:00-16:00
+website: https://schuhshop-linn.de

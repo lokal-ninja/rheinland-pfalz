@@ -1,11 +1,11 @@
 id: 192645578
-type: way
+type: node
 latitude: 49.78792
 longitude: 7.63952
 postcode: "55566"
 city: Bad Sobernheim
-street: "Monzinger Straße"
-housenumber: 104
+street: Monzinger Straße
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

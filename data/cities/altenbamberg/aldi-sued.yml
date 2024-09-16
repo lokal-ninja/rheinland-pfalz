@@ -1,11 +1,11 @@
 id: 292491305
-type: way
+type: node
 latitude: 49.79445
 longitude: 7.83127
 postcode: "55585"
 city: Altenbamberg
-street: "Bruchwiese"
-housenumber: 19
+street: Bruchwiese
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
+opening_hours: Mo-Sa 08:00-20:00; Su off
 website: ""

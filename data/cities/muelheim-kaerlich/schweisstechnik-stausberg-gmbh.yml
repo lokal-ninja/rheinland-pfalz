@@ -1,11 +1,11 @@
 id: 116456146
-type: way
+type: node
 latitude: 50.3936
 longitude: 7.53773
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Jungenstraße"
-housenumber: 14
-phone: "+49 2741 1814310"
-opening_hours: "Mo-Th 07:30-16:30; Fr 07:30-15:00"
-website: "https://www.stausberg-gmbh.de"
+street: Jungenstraße
+housenumber: "14"
+phone: +49 2741 1814310
+opening_hours: Mo-Th 07:30-16:30; Fr 07:30-15:00
+website: https://www.stausberg-gmbh.de

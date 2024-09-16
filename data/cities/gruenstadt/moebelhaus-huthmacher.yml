@@ -1,11 +1,11 @@
 id: 247205869
-type: way
+type: node
 latitude: 49.56403
 longitude: 8.16394
 postcode: "67269"
 city: Grünstadt
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 41-43
-phone: "+49 6359 93740"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"
-website: "https://www.moebel-huthmacher.de/"
+phone: +49 6359 93740
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00
+website: https://www.moebel-huthmacher.de/

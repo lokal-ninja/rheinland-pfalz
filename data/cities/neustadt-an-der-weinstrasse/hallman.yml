@@ -4,8 +4,8 @@ latitude: 49.35249
 longitude: 8.13968
 postcode: "67433"
 city: Neustadt an der Weinstraße
-street: "Friedrichstraße"
-housenumber: 15
-phone: "+49 6321 30077"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.opticamichel.de/"
+street: Friedrichstraße
+housenumber: "15"
+phone: +49 6321 30077
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.opticamichel.de/

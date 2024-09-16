@@ -1,11 +1,11 @@
 id: 35314228
-type: way
+type: node
 latitude: 49.42606
 longitude: 8.39409
 postcode: "67117"
 city: Limburgerhof
-street: "Friedensau"
-housenumber: 15
+street: Friedensau
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/f/limburgerhof/friedensau-15.html"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/f/limburgerhof/friedensau-15.html

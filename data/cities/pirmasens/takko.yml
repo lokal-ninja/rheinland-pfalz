@@ -1,11 +1,11 @@
 id: 394814470
-type: way
+type: node
 latitude: 49.22556
 longitude: 7.59169
 postcode: "66954"
 city: Pirmasens
-street: "Zweibrücker Straße"
-housenumber: 230
+street: Zweibrücker Straße
+housenumber: "230"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.takko-fashion.com/de/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.takko-fashion.com/de/

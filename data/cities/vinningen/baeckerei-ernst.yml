@@ -1,11 +1,11 @@
 id: 160600443
-type: way
+type: node
 latitude: 49.15585
 longitude: 7.5476
 postcode: "66957"
 city: Vinningen
-street: "Wiesenstraße"
-housenumber: 13
+street: Wiesenstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

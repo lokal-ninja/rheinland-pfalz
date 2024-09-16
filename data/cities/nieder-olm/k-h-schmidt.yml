@@ -1,11 +1,11 @@
 id: 157094772
-type: way
+type: node
 latitude: 49.91297
 longitude: 8.18319
 postcode: "55268"
 city: Nieder-Olm
-street: "Am Hahnenbusch"
-housenumber: 3
+street: Am Hahnenbusch
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://autohaus.toyota.de/k-h-schmidt/"
+website: https://autohaus.toyota.de/k-h-schmidt/

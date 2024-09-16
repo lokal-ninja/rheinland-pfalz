@@ -1,11 +1,11 @@
 id: 956300456
-type: way
+type: node
 latitude: 50.39296
 longitude: 7.52157
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Auf dem Hahnenberg"
-housenumber: 11
-phone: "+49 2630 96777310"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00; PH off"
-website: "https://www.bardusch.com"
+street: Auf dem Hahnenberg
+housenumber: "11"
+phone: +49 2630 96777310
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00; PH off
+website: https://www.bardusch.com

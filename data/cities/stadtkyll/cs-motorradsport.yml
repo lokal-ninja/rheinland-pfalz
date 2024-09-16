@@ -1,11 +1,11 @@
 id: 500876015
-type: way
+type: node
 latitude: 50.35419
 longitude: 6.52353
 postcode: "54589"
 city: Stadtkyll
-street: "Auelstraße"
-housenumber: 31
+street: Auelstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "http://www.cs-motorradsport.de/"
+website: http://www.cs-motorradsport.de/

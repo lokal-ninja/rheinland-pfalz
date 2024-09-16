@@ -4,8 +4,8 @@ latitude: 49.59565
 longitude: 6.50634
 postcode: "54439"
 city: Saarburg
-street: "Saargaustraße"
-housenumber: 12
-phone: "+49 6581 995571"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
-website: "https://auto-zenner.de/"
+street: Saargaustraße
+housenumber: "12"
+phone: +49 6581 995571
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
+website: https://auto-zenner.de/

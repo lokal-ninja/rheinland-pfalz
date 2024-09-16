@@ -1,11 +1,11 @@
 id: 366643199
-type: way
+type: node
 latitude: 49.45012
 longitude: 7.77996
 postcode: "67657"
 city: Kaiserslautern
-street: "Mainzer Straße"
-housenumber: 33
-phone: "+49 631 341700"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.hornbach.de/"
+street: Mainzer Straße
+housenumber: "33"
+phone: +49 631 341700
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.hornbach.de/

@@ -1,11 +1,11 @@
 id: 89197747
-type: way
+type: node
 latitude: 50.20406
 longitude: 6.42475
 postcode: "54595"
 city: Prüm
-street: "Gerberweg"
-housenumber: 47
+street: Gerberweg
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH closed"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH closed
 website: ""

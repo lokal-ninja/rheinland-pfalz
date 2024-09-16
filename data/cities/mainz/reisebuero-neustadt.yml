@@ -4,8 +4,8 @@ latitude: 50.00992
 longitude: 8.25908
 postcode: "55118"
 city: Mainz
-street: "Forsterstraße"
-housenumber: 42
-phone: "+49 6131 678934"
-opening_hours: "Mo-Fr 10:00-16:00,16:00-18:00; Sa 10:00-13:00"
-website: "https://neustadt-reisebuero-mainz.de/"
+street: Forsterstraße
+housenumber: "42"
+phone: +49 6131 678934
+opening_hours: Mo-Fr 10:00-16:00,16:00-18:00; Sa 10:00-13:00
+website: https://neustadt-reisebuero-mainz.de/

@@ -4,8 +4,8 @@ latitude: 49.44366
 longitude: 7.77019
 postcode: "67655"
 city: Kaiserslautern
-street: "Marktstraße"
-housenumber: 27
+street: Marktstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-16:00"
-website: "http://www.just-cut.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:30-16:00
+website: http://www.just-cut.de/

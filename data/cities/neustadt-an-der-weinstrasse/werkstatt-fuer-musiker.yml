@@ -4,8 +4,8 @@ latitude: 49.35292
 longitude: 8.13273
 postcode: "67433"
 city: Neustadt an der Weinstraße
-street: "Kohlplatz"
-housenumber: 18
-phone: "+49 6321 6779452"
-opening_hours: "Mo-Fr 10:00-19:00"
-website: "https://www.werkstattfuermusiker.de/"
+street: Kohlplatz
+housenumber: "18"
+phone: +49 6321 6779452
+opening_hours: Mo-Fr 10:00-19:00
+website: https://www.werkstattfuermusiker.de/

@@ -4,8 +4,8 @@ latitude: 49.67991
 longitude: 6.5002
 postcode: "54456"
 city: Tawern
-street: "Schulstraße"
-housenumber: 3
-phone: "+49 6501 603405"
-opening_hours: "Th-Fr 09:00-12:00, Sa 10:00-16:00"
-website: "https://www.weingut-biewers.de/"
+street: Schulstraße
+housenumber: "3"
+phone: +49 6501 603405
+opening_hours: Th-Fr 09:00-12:00, Sa 10:00-16:00
+website: https://www.weingut-biewers.de/

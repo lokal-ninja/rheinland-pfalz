@@ -1,11 +1,11 @@
 id: 244622903
-type: way
+type: node
 latitude: 49.82348
 longitude: 7.97438
 postcode: "55597"
 city: Wöllstein
-street: "In der Krummgewann"
-housenumber: 3
+street: In der Krummgewann
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 75127028
-type: way
+type: node
 latitude: 49.48311
 longitude: 8.36481
 postcode: "67071"
 city: Ludwigshafen am Rhein
-street: "Hedwig-Laudien-Ring"
-housenumber: 2
+street: Hedwig-Laudien-Ring
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.mediamarkt.de/de/store/ludwigshafen-410"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.mediamarkt.de/de/store/ludwigshafen-410

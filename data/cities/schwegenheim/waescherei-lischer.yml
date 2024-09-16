@@ -4,8 +4,8 @@ latitude: 49.26712
 longitude: 8.32342
 postcode: "67365"
 city: Schwegenheim
-street: "Hauptstraße"
-housenumber: 129
-phone: "+49 6344 9442323"
-opening_hours: "Mo-Fr 16:30-19:30"
+street: Hauptstraße
+housenumber: "129"
+phone: +49 6344 9442323
+opening_hours: Mo-Fr 16:30-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 210043212
-type: way
+type: node
 latitude: 50.72281
 longitude: 7.92341
 postcode: "57586"
 city: Weitefeld
-street: "Bahnhofstraße"
-housenumber: 14
+street: Bahnhofstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.getraenke-hoffmann.de/startseite"
+website: https://www.getraenke-hoffmann.de/startseite

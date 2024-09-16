@@ -4,8 +4,8 @@ latitude: 50.43881
 longitude: 7.47794
 postcode: "56564"
 city: Neuwied
-street: "Ringmarkt"
-housenumber: 1
+street: Ringmarkt
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.baeckerei-geisen.de/filialen/ringmarkt/"
+website: http://www.baeckerei-geisen.de/filialen/ringmarkt/

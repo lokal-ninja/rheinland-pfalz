@@ -4,8 +4,8 @@ latitude: 49.24655
 longitude: 8.32445
 postcode: "67368"
 city: Westheim (Pfalz)
-street: "Bahnhofstraße"
-housenumber: 1
-phone: "+49 172 6716168"
-opening_hours: "Sa 10:00-13:00 || nach Vereinbarung"
-website: "http://www.stiefelchens-holzkunst.de"
+street: Bahnhofstraße
+housenumber: "1"
+phone: +49 172 6716168
+opening_hours: Sa 10:00-13:00 || "nach Vereinbarung"
+website: http://www.stiefelchens-holzkunst.de

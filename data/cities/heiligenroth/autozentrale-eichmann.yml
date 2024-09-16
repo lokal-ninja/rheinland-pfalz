@@ -1,11 +1,11 @@
 id: 81154841
-type: way
+type: node
 latitude: 50.451
 longitude: 7.84697
 postcode: "56412"
 city: Heiligenroth
-street: "Industriestraße"
-housenumber: 
+street: Industriestraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

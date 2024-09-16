@@ -1,11 +1,11 @@
 id: 1038263101
-type: way
+type: node
 latitude: 49.94467
 longitude: 7.72268
 postcode: "55444"
 city: Dörrebach
-street: "Stromberger Straße"
-housenumber: 22
-phone: "+49 6724 95785"
-opening_hours: "Mo-Sa 9:00-12:30, 14:00-19:00"
-website: "https://www.autoservice-arnold.de/"
+street: Stromberger Straße
+housenumber: "22"
+phone: +49 6724 95785
+opening_hours: Mo-Sa 9:00-12:30, 14:00-19:00
+website: https://www.autoservice-arnold.de/

@@ -4,8 +4,8 @@ latitude: 49.96067
 longitude: 8.25272
 postcode: "55129"
 city: Mainz
-street: "August-Horch-Straße"
-housenumber: 22
-phone: "+49 6131 58420"
-opening_hours: "Mo-Fr 07:00-18:00,Sa 08:00-12:00"
-website: "https://www.meg.de/standorte"
+street: August-Horch-Straße
+housenumber: "22"
+phone: +49 6131 58420
+opening_hours: Mo-Fr 07:00-18:00,Sa 08:00-12:00
+website: https://www.meg.de/standorte

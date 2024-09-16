@@ -1,11 +1,11 @@
 id: 88424197
-type: way
+type: node
 latitude: 50.41612
 longitude: 7.6061
 postcode: "56191"
 city: Weitersburg
-street: "Grenzhausener Straße"
-housenumber: 51
+street: Grenzhausener Straße
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "https://www.urwers-holzwelt.de/"
+website: https://www.urwers-holzwelt.de/

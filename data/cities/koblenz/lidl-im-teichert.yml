@@ -1,11 +1,11 @@
 id: 217538854
-type: way
+type: node
 latitude: 50.35712
 longitude: 7.61108
 postcode: "56076"
 city: Koblenz
-street: "Im Teichert"
-housenumber: 115
+street: Im Teichert
+housenumber: "115"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00"
+opening_hours: Mo-Fr 07:00-22:00
 website: ""

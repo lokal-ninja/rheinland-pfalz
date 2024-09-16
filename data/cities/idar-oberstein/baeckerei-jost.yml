@@ -1,11 +1,11 @@
 id: 854024291
-type: way
+type: node
 latitude: 49.72232
 longitude: 7.29936
 postcode: "55743"
 city: Idar-Oberstein
-street: "Hauptstraße"
-housenumber: 36
+street: Hauptstraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

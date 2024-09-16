@@ -4,8 +4,8 @@ latitude: 49.97317
 longitude: 8.23803
 postcode: "55128"
 city: Mainz
-street: "Marienborner Straße"
-housenumber: 49
-phone: "+49 6131 689317"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 09:00-16:00"
-website: "https://www.autohaus-doerrschuck.de/"
+street: Marienborner Straße
+housenumber: "49"
+phone: +49 6131 689317
+opening_hours: Mo-Fr 07:30-19:00; Sa 09:00-16:00
+website: https://www.autohaus-doerrschuck.de/

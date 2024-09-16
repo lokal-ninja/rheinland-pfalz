@@ -1,11 +1,11 @@
 id: 35287131
-type: way
+type: node
 latitude: 49.556
 longitude: 8.18127
 postcode: "67269"
 city: Grünstadt
-street: "Daimlerstraße"
-housenumber: 20
+street: Daimlerstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

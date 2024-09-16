@@ -1,11 +1,11 @@
 id: 1143887535
-type: way
+type: node
 latitude: 50.854
 longitude: 7.86208
 postcode: "57572"
 city: Niederfischbach
-street: "Industriestraße"
-housenumber: 2
-phone: "+49 2734 57520"
+street: Industriestraße
+housenumber: "2"
+phone: +49 2734 57520
 opening_hours: ""
-website: "https://www.wurth-gmbh.de/"
+website: https://www.wurth-gmbh.de/

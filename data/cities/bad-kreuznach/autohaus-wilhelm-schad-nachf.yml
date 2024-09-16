@@ -1,11 +1,11 @@
 id: 122050056
-type: way
+type: node
 latitude: 49.85524
 longitude: 7.89795
 postcode: "55545"
 city: Bad Kreuznach
-street: "Mainzer Straße"
+street: Mainzer Straße
 housenumber: 4-8
-phone: "+49 671 7050"
+phone: +49 671 7050
 opening_hours: ""
-website: "http://www.schad.mercedes-benz.de/"
+website: http://www.schad.mercedes-benz.de/

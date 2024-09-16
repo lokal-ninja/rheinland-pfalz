@@ -1,11 +1,11 @@
 id: 207753921
-type: way
+type: node
 latitude: 49.80681
 longitude: 7.5234
 postcode: "55618"
 city: Simmertal
-street: "Heinrich-Schorch-Straße"
-housenumber: 2
+street: Heinrich-Schorch-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

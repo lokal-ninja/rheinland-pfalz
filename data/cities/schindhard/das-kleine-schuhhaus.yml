@@ -1,11 +1,11 @@
 id: 291507232
-type: way
+type: node
 latitude: 49.14166
 longitude: 7.82453
 postcode: "66996"
 city: Schindhard
-street: "Hauptstraße"
-housenumber: 48
-phone: "+49 6391 924387"
-opening_hours: "Sa 9:00-15:00; Nach Absprache"
+street: Hauptstraße
+housenumber: "48"
+phone: +49 6391 924387
+opening_hours: Sa 9:00-15:00; "Nach Absprache"
 website: ""

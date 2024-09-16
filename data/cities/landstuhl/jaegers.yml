@@ -1,11 +1,11 @@
 id: 772084567
-type: way
+type: node
 latitude: 49.41551
 longitude: 7.5859
 postcode: "66849"
 city: Landstuhl
-street: "Bahnstraße"
-housenumber: 98
+street: Bahnstraße
+housenumber: "98"
 phone: ""
 opening_hours: ""
 website: ""

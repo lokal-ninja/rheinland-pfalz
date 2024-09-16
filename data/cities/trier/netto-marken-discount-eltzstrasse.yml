@@ -1,11 +1,11 @@
 id: 333030837
-type: way
+type: node
 latitude: 49.78539
 longitude: 6.68844
 postcode: "54293"
 city: Trier
-street: "Eltzstraße"
-housenumber: 32
+street: Eltzstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

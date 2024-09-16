@@ -1,11 +1,11 @@
 id: 500722089
-type: way
+type: node
 latitude: 50.2999
 longitude: 8.06279
 postcode: "65623"
 city: Hahnstätten
-street: "Jahnstraße"
-housenumber: 37
-phone: "+49 6430 928350"
-opening_hours: "Mo-Sa 07:00-21:30"
+street: Jahnstraße
+housenumber: "37"
+phone: +49 6430 928350
+opening_hours: Mo-Sa 07:00-21:30
 website: ""

@@ -1,11 +1,11 @@
 id: 1147656698
-type: way
+type: node
 latitude: 49.32588
 longitude: 8.11595
 postcode: "67434"
 city: Neustadt an der Weinstraße
-street: "Schloßstraße"
-housenumber: 
+street: Schloßstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

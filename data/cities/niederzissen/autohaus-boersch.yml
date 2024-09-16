@@ -1,11 +1,11 @@
 id: 575063950
-type: way
+type: node
 latitude: 50.46273
 longitude: 7.24176
 postcode: "56651"
 city: Niederzissen
-street: "Brohltalstraße"
-housenumber: 2
-phone: "+49 2636 3661"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
-website: "https://autohausboersch.go1a.de/"
+street: Brohltalstraße
+housenumber: "2"
+phone: +49 2636 3661
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
+website: https://autohausboersch.go1a.de/

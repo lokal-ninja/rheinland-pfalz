@@ -1,11 +1,11 @@
 id: 389007281
-type: way
+type: node
 latitude: 50.7793
 longitude: 7.95139
 postcode: "57562"
 city: Herdorf
-street: "Am Rathaus"
-housenumber: 3
+street: Am Rathaus
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

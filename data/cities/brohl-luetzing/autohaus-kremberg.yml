@@ -1,11 +1,11 @@
 id: 450944770
-type: way
+type: node
 latitude: 50.48227
 longitude: 7.33232
 postcode: "56656"
 city: Brohl-Lützing
-street: "Koblenzer Straße"
-housenumber: 35
-phone: "+49 2633 2044004"
+street: Koblenzer Straße
+housenumber: "35"
+phone: +49 2633 2044004
 opening_hours: ""
 website: ""

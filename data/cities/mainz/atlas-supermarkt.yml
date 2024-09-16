@@ -1,11 +1,11 @@
 id: 191540817
-type: way
+type: node
 latitude: 49.97792
 longitude: 8.29376
 postcode: "55130"
 city: Mainz
-street: "Friedrich-Ebert-Straße"
-housenumber: 42
+street: Friedrich-Ebert-Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

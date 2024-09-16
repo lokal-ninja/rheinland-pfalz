@@ -4,8 +4,8 @@ latitude: 50.00077
 longitude: 8.27188
 postcode: "55116"
 city: Mainz
-street: "Schusterstraße"
-housenumber: 42
+street: Schusterstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00"
+opening_hours: Mo-Fr 10:00-18:00
 website: ""

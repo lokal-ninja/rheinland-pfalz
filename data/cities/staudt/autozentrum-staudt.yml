@@ -4,8 +4,8 @@ latitude: 50.46198
 longitude: 7.83264
 postcode: "56424"
 city: Staudt
-street: "Erbsengarten"
-housenumber: 27
-phone: "+49 2602 1067575"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su off"
-website: "https://www.autozentrum-staudt.de/"
+street: Erbsengarten
+housenumber: "27"
+phone: +49 2602 1067575
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su off
+website: https://www.autozentrum-staudt.de/

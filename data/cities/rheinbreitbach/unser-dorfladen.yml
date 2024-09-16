@@ -4,8 +4,8 @@ latitude: 50.61883
 longitude: 7.23
 postcode: "53619"
 city: Rheinbreitbach
-street: "Hauptstraße"
-housenumber: 45
-phone: "+49 2224 9813183"
-opening_hours: "Mo-Fr 06:30-19:00; Sa 07:00-14:00"
+street: Hauptstraße
+housenumber: "45"
+phone: +49 2224 9813183
+opening_hours: Mo-Fr 06:30-19:00; Sa 07:00-14:00
 website: ""

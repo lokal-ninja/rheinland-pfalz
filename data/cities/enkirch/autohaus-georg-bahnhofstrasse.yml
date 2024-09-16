@@ -1,11 +1,12 @@
 id: 742298599
-type: way
+type: node
 latitude: 49.9863
 longitude: 7.12158
 postcode: "56850"
 city: Enkirch
-street: "Bahnhofstraße"
-housenumber: 24
-phone: "+496541 9341"
-opening_hours: "Mo-Tu 08:00-12:00, 13:00-17:00; We 08:00-12:00, 13:00-15:00; Th-Fr 08:00-12:00, 13:00-17:00"
-website: "http://www.autohaus-georg.de"
+street: Bahnhofstraße
+housenumber: "24"
+phone: +496541 9341
+opening_hours: Mo-Tu 08:00-12:00, 13:00-17:00; We 08:00-12:00, 13:00-15:00; Th-Fr
+    08:00-12:00, 13:00-17:00
+website: http://www.autohaus-georg.de

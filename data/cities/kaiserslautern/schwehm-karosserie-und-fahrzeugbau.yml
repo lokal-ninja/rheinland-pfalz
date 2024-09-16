@@ -1,11 +1,11 @@
 id: 713292538
-type: way
+type: node
 latitude: 49.46355
 longitude: 7.70035
 postcode: "67661"
 city: Kaiserslautern
-street: "Sauerwiesen"
-housenumber: 32
+street: Sauerwiesen
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

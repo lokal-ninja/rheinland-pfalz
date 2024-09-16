@@ -4,8 +4,8 @@ latitude: 49.35409
 longitude: 8.13535
 postcode: "67433"
 city: Neustadt an der Weinstraße
-street: "Rathausstraße"
-housenumber: 8
-phone: "+49 6321 8784700"
-opening_hours: "Mo-Sa 10:00-13:00, Mo,Tu,Th,Fr 14:00-17:30"
-website: "https://shop.balloonatics.de/"
+street: Rathausstraße
+housenumber: "8"
+phone: +49 6321 8784700
+opening_hours: Mo-Sa 10:00-13:00, Mo,Tu,Th,Fr 14:00-17:30
+website: https://shop.balloonatics.de/

@@ -4,8 +4,8 @@ latitude: 50.50954
 longitude: 7.29908
 postcode: "53498"
 city: Bad Breisig
-street: "Koblenzer Straße"
-housenumber: 11
-phone: "+49 2633 9867"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00; Su 10:00-16:00"
-website: "https://www.floristiknolden.de"
+street: Koblenzer Straße
+housenumber: "11"
+phone: +49 2633 9867
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00; Su 10:00-16:00
+website: https://www.floristiknolden.de

@@ -1,11 +1,11 @@
 id: 263185891
-type: way
+type: node
 latitude: 49.67622
 longitude: 8.2826
 postcode: "67550"
 city: Worms
-street: "Kirschgartenstraße"
-housenumber: 1
+street: Kirschgartenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

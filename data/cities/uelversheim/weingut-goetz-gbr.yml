@@ -1,11 +1,11 @@
 id: 522891007
-type: way
+type: node
 latitude: 49.81025
 longitude: 8.28249
 postcode: "55278"
 city: Uelversheim
-street: "Dolgesheimer Straße"
-housenumber: 24
-phone: "+49 6249 8069478"
-opening_hours: "nach Anmeldung"
-website: "https://www.weingut-goetz.de/"
+street: Dolgesheimer Straße
+housenumber: "24"
+phone: +49 6249 8069478
+opening_hours: '"nach Anmeldung"'
+website: https://www.weingut-goetz.de/

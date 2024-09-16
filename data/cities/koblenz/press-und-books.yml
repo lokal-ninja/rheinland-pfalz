@@ -1,11 +1,11 @@
 id: 418842514
-type: way
+type: node
 latitude: 50.3507
 longitude: 7.58917
 postcode: "56068"
 city: Koblenz
-street: "Bahnhofsplatz"
-housenumber: 
+street: Bahnhofsplatz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-22:00"
-website: "https://www.pressbooks.de"
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-22:00
+website: https://www.pressbooks.de

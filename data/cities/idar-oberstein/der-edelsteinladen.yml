@@ -4,8 +4,8 @@ latitude: 49.71964
 longitude: 7.30279
 postcode: "55743"
 city: Idar-Oberstein
-street: "Hauptstraße"
-housenumber: 94
-phone: "+49 6781 44601"
-opening_hours: "Mo-Fr 09:30-12:30,14:30-17:30; Sa 10:00-15:00"
+street: Hauptstraße
+housenumber: "94"
+phone: +49 6781 44601
+opening_hours: Mo-Fr 09:30-12:30,14:30-17:30; Sa 10:00-15:00
 website: ""

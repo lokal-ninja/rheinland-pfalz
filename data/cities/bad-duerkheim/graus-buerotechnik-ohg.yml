@@ -4,8 +4,8 @@ latitude: 49.45939
 longitude: 8.16868
 postcode: "67098"
 city: Bad Dürkheim
-street: "Weinstraße Süd"
-housenumber: 4
-phone: "+49 6322 8529"
-opening_hours: "Mo,We,Th,Fr 09:00-12:30,14:30-18:00; Tu 14:30-18:00; Sa 09:30-12:30"
-website: "https://www.graus-buerotechnik.de/"
+street: Weinstraße Süd
+housenumber: "4"
+phone: +49 6322 8529
+opening_hours: Mo,We,Th,Fr 09:00-12:30,14:30-18:00; Tu 14:30-18:00; Sa 09:30-12:30
+website: https://www.graus-buerotechnik.de/

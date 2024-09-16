@@ -1,11 +1,11 @@
 id: 106668266
-type: way
+type: node
 latitude: 50.54567
 longitude: 7.10913
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Wilhelmstraße"
-housenumber: 50
-phone: "+49 26 41 - 75 79 0"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-15:00"
-website: "https://www.spielbaufritz.de/"
+street: Wilhelmstraße
+housenumber: "50"
+phone: +49 26 41 - 75 79 0
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-15:00
+website: https://www.spielbaufritz.de/

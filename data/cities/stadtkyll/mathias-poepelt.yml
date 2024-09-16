@@ -1,11 +1,11 @@
 id: 1072843347
-type: way
+type: node
 latitude: 50.35201
 longitude: 6.52696
 postcode: "54589"
 city: Stadtkyll
-street: "Auelstraße"
-housenumber: 8
+street: Auelstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

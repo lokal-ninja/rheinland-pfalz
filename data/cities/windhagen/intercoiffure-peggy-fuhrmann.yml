@@ -4,8 +4,8 @@ latitude: 50.63885
 longitude: 7.34614
 postcode: "53578"
 city: Windhagen
-street: "Köhlershohner Straße"
-housenumber: 64
-phone: "+49 2645 9777341"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.friseur-windhagen.de/"
+street: Köhlershohner Straße
+housenumber: "64"
+phone: +49 2645 9777341
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.friseur-windhagen.de/

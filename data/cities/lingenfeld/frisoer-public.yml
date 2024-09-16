@@ -4,8 +4,8 @@ latitude: 49.24504
 longitude: 8.34226
 postcode: "67360"
 city: Lingenfeld
-street: "Robertsauer Straße"
-housenumber: 7
+street: Robertsauer Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Th 12:00-20:00; Sa 08:00-13:00"
-website: "http://www.friseur-public.de/"
+opening_hours: Tu-Fr 09:00-18:30; Th 12:00-20:00; Sa 08:00-13:00
+website: http://www.friseur-public.de/

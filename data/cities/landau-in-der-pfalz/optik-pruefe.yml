@@ -4,8 +4,8 @@ latitude: 49.19727
 longitude: 8.1137
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Kronstraße"
-housenumber: 31
-phone: "+49 6341 919065"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-14:00"
-website: "https://www.optik-pruefe.de/"
+street: Kronstraße
+housenumber: "31"
+phone: +49 6341 919065
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-14:00
+website: https://www.optik-pruefe.de/

@@ -1,11 +1,11 @@
 id: 1027382713
-type: way
+type: node
 latitude: 50.5432
 longitude: 7.2666
 postcode: "53489"
 city: Sinzig
-street: "Mosaikweg"
-housenumber: 18
-phone: "+49 2642 903100"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00; Su,PH off"
-website: "https://www.ce-motors.de"
+street: Mosaikweg
+housenumber: "18"
+phone: +49 2642 903100
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-14:00; Su,PH off
+website: https://www.ce-motors.de

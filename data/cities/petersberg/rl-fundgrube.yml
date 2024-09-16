@@ -1,11 +1,11 @@
 id: 372025200
-type: way
+type: node
 latitude: 49.23423
 longitude: 7.57402
 postcode: "66989"
 city: Petersberg
-street: "Industriestraße"
-housenumber: 5
+street: Industriestraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

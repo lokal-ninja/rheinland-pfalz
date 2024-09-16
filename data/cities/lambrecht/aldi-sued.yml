@@ -1,11 +1,11 @@
 id: 1014175197
-type: way
+type: node
 latitude: 49.37191
 longitude: 8.0757
 postcode: "67466"
 city: Lambrecht
-street: "Hauptstraße"
-housenumber: 31
+street: Hauptstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

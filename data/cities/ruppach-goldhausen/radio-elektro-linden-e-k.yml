@@ -4,8 +4,8 @@ latitude: 50.46115
 longitude: 7.88025
 postcode: "56412"
 city: Ruppach-Goldhausen
-street: "Hauptstraße"
-housenumber: 21
-phone: "+49 2602 69091"
-opening_hours: "Mo-Fr 08:00-12:30,14:00-18:00; Sa 08:00-13:00"
+street: Hauptstraße
+housenumber: "21"
+phone: +49 2602 69091
+opening_hours: Mo-Fr 08:00-12:30,14:00-18:00; Sa 08:00-13:00
 website: ""

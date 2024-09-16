@@ -4,8 +4,8 @@ latitude: 49.19807
 longitude: 8.1118
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Marktstraße"
-housenumber: 52
-phone: "+49 6341 20946"
-opening_hours: "Mo-Fr 09:30-12:00,14:00-18:00; Sa 09:30-14:00"
-website: "https://www.juwelierlehmann.de/"
+street: Marktstraße
+housenumber: "52"
+phone: +49 6341 20946
+opening_hours: Mo-Fr 09:30-12:00,14:00-18:00; Sa 09:30-14:00
+website: https://www.juwelierlehmann.de/

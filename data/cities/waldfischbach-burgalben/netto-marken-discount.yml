@@ -1,11 +1,11 @@
 id: 316711415
-type: way
+type: node
 latitude: 49.28679
 longitude: 7.6649
 postcode: "67714"
 city: Waldfischbach-Burgalben
-street: "Welschstraße"
-housenumber: 55
+street: Welschstraße
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

@@ -1,11 +1,11 @@
 id: 216805807
-type: way
+type: node
 latitude: 50.35695
 longitude: 6.44264
 postcode: "54611"
 city: Hallschlag
-street: "Kölner Straße"
-housenumber: 22
+street: Kölner Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

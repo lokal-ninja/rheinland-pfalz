@@ -1,11 +1,11 @@
 id: 919270994
-type: way
+type: node
 latitude: 49.71844
 longitude: 7.28962
 postcode: "55743"
 city: Idar-Oberstein
-street: "Saarstraße"
-housenumber: 38
-phone: "+49 6781 46303"
-opening_hours: "Nach Vereinbarung"
+street: Saarstraße
+housenumber: "38"
+phone: +49 6781 46303
+opening_hours: '"Nach Vereinbarung"'
 website: ""

@@ -1,11 +1,11 @@
 id: 497694638
-type: way
+type: node
 latitude: 50.22413
 longitude: 6.93489
 postcode: "54552"
 city: Utzerath
-street: "Bahnhofstraße"
-housenumber: 15
-phone: "+49 2676 951004"
+street: Bahnhofstraße
+housenumber: "15"
+phone: +49 2676 951004
 opening_hours: ""
 website: ""

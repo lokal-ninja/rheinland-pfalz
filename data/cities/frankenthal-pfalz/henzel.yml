@@ -1,11 +1,11 @@
 id: 166429153
-type: way
+type: node
 latitude: 49.54145
 longitude: 8.35201
 postcode: "67227"
 city: Frankenthal (Pfalz)
-street: "Vierlingstraße"
-housenumber: 32
+street: Vierlingstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

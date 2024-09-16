@@ -4,8 +4,9 @@ latitude: 50.31767
 longitude: 7.85227
 postcode: "56379"
 city: Obernhof/Lahn
-street: "Borngasse"
+street: Borngasse
 housenumber: 5a
-phone: "+49 2604 7563"
-opening_hours: "May-Oct: Mo-Sa 15:00+; May-Oct: Su,PH 11:00+; Nov-Apr: Th,Fr 17:00+; Nov-Apr:Sa 15:00+; Nov-Apr: Su,PH 11:00+"
-website: "https://www.lahnwein.de/"
+phone: +49 2604 7563
+opening_hours: 'May-Oct: Mo-Sa 15:00+; May-Oct: Su,PH 11:00+; Nov-Apr: Th,Fr 17:00+;
+    Nov-Apr:Sa 15:00+; Nov-Apr: Su,PH 11:00+'
+website: https://www.lahnwein.de/

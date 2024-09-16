@@ -1,11 +1,11 @@
 id: 133498348
-type: way
+type: node
 latitude: 49.8623
 longitude: 8.33071
 postcode: "55283"
 city: Nierstein
-street: "Freyburger Allee"
-housenumber: 3
+street: Freyburger Allee
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

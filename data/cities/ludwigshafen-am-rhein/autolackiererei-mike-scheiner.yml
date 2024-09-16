@@ -1,11 +1,11 @@
 id: 284324268
-type: way
+type: node
 latitude: 49.44822
 longitude: 8.37971
 postcode: "67067"
 city: Ludwigshafen am Rhein
-street: "Torfstecherring"
-housenumber: 14
+street: Torfstecherring
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.autolackierer-scheiner.de/"
+website: https://www.autolackierer-scheiner.de/

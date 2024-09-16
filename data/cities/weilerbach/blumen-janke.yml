@@ -1,11 +1,11 @@
 id: 194119030
-type: way
+type: node
 latitude: 49.48149
 longitude: 7.62351
 postcode: "67685"
 city: Weilerbach
-street: "Mackenbacher Straße"
-housenumber: 72
+street: Mackenbacher Straße
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

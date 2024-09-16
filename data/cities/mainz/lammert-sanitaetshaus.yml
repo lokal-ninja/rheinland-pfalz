@@ -4,8 +4,8 @@ latitude: 50.00299
 longitude: 8.26327
 postcode: "55116"
 city: Mainz
-street: "Neubrunnenstraße"
-housenumber: 23
-phone: "+49 6131 289790"
-opening_hours: "Mo-Tu 08:30-18:00; We 08:30-15:00; Th-Fr 08:30-18:00"
-website: "https://www.lammert-sanitaetshaus.de/"
+street: Neubrunnenstraße
+housenumber: "23"
+phone: +49 6131 289790
+opening_hours: Mo-Tu 08:30-18:00; We 08:30-15:00; Th-Fr 08:30-18:00
+website: https://www.lammert-sanitaetshaus.de/

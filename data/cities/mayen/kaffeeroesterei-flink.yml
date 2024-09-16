@@ -1,11 +1,11 @@
 id: 652514952
-type: way
+type: node
 latitude: 50.32778
 longitude: 7.22171
 postcode: "56727"
 city: Mayen
-street: "Marktplatz"
-housenumber: 27
-phone: "+49 2651 4919265"
+street: Marktplatz
+housenumber: "27"
+phone: +49 2651 4919265
 opening_hours: ""
 website: ""

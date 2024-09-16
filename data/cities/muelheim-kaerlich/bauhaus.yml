@@ -1,11 +1,11 @@
 id: 115955249
-type: way
+type: node
 latitude: 50.39583
 longitude: 7.51198
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "In der Pützgewann"
-housenumber: 2
-phone: "+49 2630 94310"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://bauhaus.info"
+street: In der Pützgewann
+housenumber: "2"
+phone: +49 2630 94310
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://bauhaus.info

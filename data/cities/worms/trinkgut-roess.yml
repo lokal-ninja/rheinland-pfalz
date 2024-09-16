@@ -4,8 +4,8 @@ latitude: 49.65033
 longitude: 8.36253
 postcode: "67547"
 city: Worms
-street: "Doktor-Otto-Röhm-Straße"
-housenumber: 5
+street: Doktor-Otto-Röhm-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.trinkgut.de/markt/roess"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.trinkgut.de/markt/roess

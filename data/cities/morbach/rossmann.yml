@@ -1,11 +1,11 @@
 id: 839601866
-type: way
+type: node
 latitude: 49.81346
 longitude: 7.12459
 postcode: "54497"
 city: Morbach
-street: "Bischofsdhroner Straße"
-housenumber: 7
+street: Bischofsdhroner Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

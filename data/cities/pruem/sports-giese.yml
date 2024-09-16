@@ -1,11 +1,11 @@
 id: 88076662
-type: way
+type: node
 latitude: 50.20516
 longitude: 6.42386
 postcode: "54595"
 city: Prüm
-street: "Bahnhofstraße"
-housenumber: 16
+street: Bahnhofstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-14:00"
-website: "http://www.sportgiese.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-14:00
+website: http://www.sportgiese.de/

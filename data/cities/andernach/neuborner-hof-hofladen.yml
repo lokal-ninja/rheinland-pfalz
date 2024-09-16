@@ -1,11 +1,12 @@
 id: 488619807
-type: way
+type: node
 latitude: 50.41813
 longitude: 7.39872
 postcode: "56626"
 city: Andernach
-street: "Neuborner Hof"
-housenumber: 
-phone: "+49 2632 44636"
-opening_hours: "Mo 08:00-18:00; Tu,We 08:00-13:00; Th,Fr 08:00-18:00; Sa 08:00-13:00; PH off"
-website: "https://www.neuborner-hof.de"
+street: Neuborner Hof
+housenumber: ""
+phone: +49 2632 44636
+opening_hours: Mo 08:00-18:00; Tu,We 08:00-13:00; Th,Fr 08:00-18:00; Sa 08:00-13:00;
+    PH off
+website: https://www.neuborner-hof.de

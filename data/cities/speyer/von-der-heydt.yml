@@ -1,11 +1,11 @@
 id: 182095815
-type: way
+type: node
 latitude: 49.32926
 longitude: 8.43035
 postcode: "67346"
 city: Speyer
-street: "Mausbergweg"
-housenumber: 3
+street: Mausbergweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

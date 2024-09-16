@@ -1,11 +1,11 @@
 id: 88431398
-type: way
+type: node
 latitude: 50.02599
 longitude: 7.15737
 postcode: "56856"
 city: Zell (Mosel)
-street: "Fliehburgstraße"
-housenumber: 4
+street: Fliehburgstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

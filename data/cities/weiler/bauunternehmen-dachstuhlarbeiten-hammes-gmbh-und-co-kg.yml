@@ -1,11 +1,11 @@
 id: 294744011
-type: way
+type: node
 latitude: 50.1436
 longitude: 7.07673
 postcode: "56825"
 city: Weiler
-street: "Neustraße"
-housenumber: 9
-phone: "+49 2678 953850"
+street: Neustraße
+housenumber: "9"
+phone: +49 2678 953850
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.35645
 longitude: 7.56977
 postcode: "56073"
 city: Koblenz
-street: "Ferdinand-Sauerbruch-Straße"
-housenumber: 36
-phone: "+49 261 9424864"
-opening_hours: "Mo-Fr 05:30-18:00; Sa 06:00-13:00; Su 07:30-17:00"
-website: "https://www.baeckerei-hoefer.de/"
+street: Ferdinand-Sauerbruch-Straße
+housenumber: "36"
+phone: +49 261 9424864
+opening_hours: Mo-Fr 05:30-18:00; Sa 06:00-13:00; Su 07:30-17:00
+website: https://www.baeckerei-hoefer.de/

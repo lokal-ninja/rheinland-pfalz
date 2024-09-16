@@ -1,11 +1,11 @@
 id: 257593763
-type: way
+type: node
 latitude: 49.72201
 longitude: 8.22796
 postcode: "55234"
 city: Monzernheim
-street: "Am Pfarrhof"
-housenumber: 10
-phone: "+49 6735 1564"
+street: Am Pfarrhof
+housenumber: "10"
+phone: +49 6735 1564
 opening_hours: ""
-website: "http://www.schaefer-brennholz.de"
+website: http://www.schaefer-brennholz.de

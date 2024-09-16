@@ -1,11 +1,11 @@
 id: 123204037
-type: way
+type: node
 latitude: 49.20456
 longitude: 7.59911
 postcode: "66953"
 city: Pirmasens
-street: "Bahnhofstraße"
-housenumber: 46
-phone: "+49-6331-5560-0"
+street: Bahnhofstraße
+housenumber: "46"
+phone: +49-6331-5560-0
 opening_hours: ""
-website: "https://www.central-garage-jung.de/"
+website: https://www.central-garage-jung.de/

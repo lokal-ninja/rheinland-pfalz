@@ -4,8 +4,8 @@ latitude: 50.54172
 longitude: 7.15851
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Am Johannisberg"
-housenumber: 93
-phone: "+49 2641 201414"
-opening_hours: "Mo off; Tu 10:00-18:00; We,Th 09:00-18:30; Fr 08:00-18:30; Sa 08:00-14:00"
-website: "https://www.haarscharfbna.de"
+street: Am Johannisberg
+housenumber: "93"
+phone: +49 2641 201414
+opening_hours: Mo off; Tu 10:00-18:00; We,Th 09:00-18:30; Fr 08:00-18:30; Sa 08:00-14:00
+website: https://www.haarscharfbna.de

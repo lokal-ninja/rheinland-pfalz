@@ -1,11 +1,11 @@
 id: 907691673
-type: way
+type: node
 latitude: 49.14646
 longitude: 8.18465
 postcode: "76863"
 city: Herxheim
-street: "Am Gewerbepark West II"
-housenumber: 10
+street: Am Gewerbepark West II
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.krapp.de/kontakt/"
+website: https://www.krapp.de/kontakt/

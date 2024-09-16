@@ -4,8 +4,8 @@ latitude: 49.21035
 longitude: 8.14441
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Oberwiesenstraße"
-housenumber: 2
+street: Oberwiesenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-17:00; Sa 09:00-13:00"
-website: "http://www.toyota-kowalski.de/"
+opening_hours: Mo-Th 07:30-18:00; Fr 07:30-17:00; Sa 09:00-13:00
+website: http://www.toyota-kowalski.de/

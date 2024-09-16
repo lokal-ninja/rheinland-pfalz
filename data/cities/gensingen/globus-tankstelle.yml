@@ -1,11 +1,11 @@
 id: 196787414
-type: way
+type: node
 latitude: 49.90292
 longitude: 7.92942
 postcode: "55457"
 city: Gensingen
-street: "Am Kieselberg"
-housenumber: 36
+street: Am Kieselberg
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00"
-website: "https://www.globus.de/gensingen/unsere-tankstelle.php"
+opening_hours: Mo-Sa 06:00-21:00
+website: https://www.globus.de/gensingen/unsere-tankstelle.php

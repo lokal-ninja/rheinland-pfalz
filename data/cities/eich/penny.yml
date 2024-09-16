@@ -4,8 +4,8 @@ latitude: 49.74383
 longitude: 8.38589
 postcode: "67575"
 city: Eich
-street: "Osthofener Straße"
-housenumber: 110
+street: Osthofener Straße
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; PH,Su off"
-website: "https://www.penny.de/marktsuche"
+opening_hours: Mo-Sa 07:30-21:00; PH,Su off
+website: https://www.penny.de/marktsuche

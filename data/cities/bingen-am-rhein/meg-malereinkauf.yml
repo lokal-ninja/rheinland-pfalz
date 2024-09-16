@@ -1,11 +1,11 @@
 id: 251403387
-type: way
+type: node
 latitude: 49.92622
 longitude: 7.93283
 postcode: "55411"
 city: Bingen am Rhein
-street: "Gustav-Stresemann-Straße"
-housenumber: 3
-phone: "+49 6721 495160"
-opening_hours: "Mo-Fr 06:30-17:00,Sa 07:00-12:00"
-website: "https://www.meg.de/standorte/bingen.html"
+street: Gustav-Stresemann-Straße
+housenumber: "3"
+phone: +49 6721 495160
+opening_hours: Mo-Fr 06:30-17:00,Sa 07:00-12:00
+website: https://www.meg.de/standorte/bingen.html

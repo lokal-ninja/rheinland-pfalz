@@ -1,11 +1,11 @@
 id: 108695745
-type: way
+type: node
 latitude: 49.22487
 longitude: 7.58976
 postcode: "66954"
 city: Pirmasens
-street: "Zweibrücker Straße"
+street: Zweibrücker Straße
 housenumber: 219-223
-phone: "+49-6331-8775-0"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.hornbach.de/"
+phone: +49-6331-8775-0
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.hornbach.de/

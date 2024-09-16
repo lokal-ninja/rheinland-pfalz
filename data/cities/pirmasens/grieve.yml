@@ -4,8 +4,8 @@ latitude: 49.20103
 longitude: 7.60438
 postcode: "66953"
 city: Pirmasens
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://grieve-optic.de/"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://grieve-optic.de/

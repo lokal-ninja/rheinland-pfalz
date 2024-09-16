@@ -1,11 +1,11 @@
 id: 366711639
-type: way
+type: node
 latitude: 49.19214
 longitude: 7.85424
 postcode: "76846"
 city: Hauenstein
-street: "Marktplatz"
-housenumber: 2
+street: Marktplatz
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

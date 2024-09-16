@@ -1,11 +1,11 @@
 id: 296878895
-type: way
+type: node
 latitude: 49.52499
 longitude: 8.39764
 postcode: "67069"
 city: Ludwigshafen am Rhein
-street: "Kurt-Schumacher-Straße"
-housenumber: 86
+street: Kurt-Schumacher-Straße
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Sa 8:00-20:00"
+opening_hours: Mo-Sa 8:00-20:00
 website: ""

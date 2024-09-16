@@ -1,11 +1,11 @@
 id: 672979839
-type: way
+type: node
 latitude: 50.45957
 longitude: 7.22054
 postcode: "56651"
 city: Niederzissen
-street: "Brohltalstraße"
-housenumber: 105
+street: Brohltalstraße
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "http://www.allesschreibt.de"
+website: http://www.allesschreibt.de

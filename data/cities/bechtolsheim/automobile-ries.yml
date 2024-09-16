@@ -1,11 +1,11 @@
 id: 458703955
-type: way
+type: node
 latitude: 49.79989
 longitude: 8.18443
 postcode: "55234"
 city: Bechtolsheim
-street: "Gau-Odernheimer Straße"
-housenumber: 1
+street: Gau-Odernheimer Straße
+housenumber: "1"
 phone: "+4967336835"
 opening_hours: ""
 website: ""

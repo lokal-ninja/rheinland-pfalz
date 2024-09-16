@@ -1,11 +1,11 @@
 id: 149251840
-type: way
+type: node
 latitude: 50.05239
 longitude: 7.78349
 postcode: "65391"
 city: Lorch
-street: "Rheinallee"
-housenumber: 8
-phone: "+49-6726-699"
+street: Rheinallee
+housenumber: "8"
+phone: +49-6726-699
 opening_hours: ""
-website: "https://www.weingut-nies.de/"
+website: https://www.weingut-nies.de/

@@ -4,8 +4,8 @@ latitude: 49.20379
 longitude: 8.03716
 postcode: "76831"
 city: Birkweiler
-street: "Alte Kirchstraße"
-housenumber: 7
+street: Alte Kirchstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 9:00-12:00, 14:00-18:00, Sa 10:00-16:00"
-website: "https://www.weingut-scholler.de/"
+opening_hours: Mo-Fr 9:00-12:00, 14:00-18:00, Sa 10:00-16:00
+website: https://www.weingut-scholler.de/

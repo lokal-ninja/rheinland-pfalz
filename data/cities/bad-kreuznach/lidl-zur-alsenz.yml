@@ -1,11 +1,11 @@
 id: 333093412
-type: way
+type: node
 latitude: 49.80486
 longitude: 7.83982
 postcode: "55583"
 city: Bad Kreuznach
-street: "Zur Alsenz"
-housenumber: 2
+street: Zur Alsenz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su off; PH off
 website: ""

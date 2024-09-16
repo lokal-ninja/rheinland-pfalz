@@ -1,11 +1,11 @@
 id: 207517233
-type: way
+type: node
 latitude: 49.71553
 longitude: 7.66445
 postcode: "55590"
 city: Meisenheim
-street: "Im Briel"
-housenumber: 1
+street: Im Briel
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

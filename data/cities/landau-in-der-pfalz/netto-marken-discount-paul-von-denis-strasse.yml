@@ -4,8 +4,8 @@ latitude: 49.19082
 longitude: 8.12493
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Paul-von-Denis-Straße"
-housenumber: 16
+street: Paul-von-Denis-Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:30; Su,PH off"
-website: "https://www.netto-online.de/filialfinder"
+opening_hours: Mo-Sa 07:00-21:30; Su,PH off
+website: https://www.netto-online.de/filialfinder

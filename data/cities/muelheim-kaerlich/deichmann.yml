@@ -1,11 +1,11 @@
 id: 115955240
-type: way
+type: node
 latitude: 50.39679
 longitude: 7.51416
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Spitalsgraben"
-housenumber: 2
-phone: "+492630 9196410"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://stores.deichmann.com/rheinland-pfalz/muelheim-kaerlich/spitalsgraben-2.html"
+street: Spitalsgraben
+housenumber: "2"
+phone: +492630 9196410
+opening_hours: Mo-Sa 09:00-20:00
+website: https://stores.deichmann.com/rheinland-pfalz/muelheim-kaerlich/spitalsgraben-2.html

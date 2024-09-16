@@ -1,11 +1,11 @@
 id: 389010315
-type: way
+type: node
 latitude: 49.48995
 longitude: 7.90864
 postcode: "67677"
 city: Enkenbach-Alsenborn
-street: "Rosenhofstraße"
-housenumber: 54
+street: Rosenhofstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su off; PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su off; PH off
 website: ""

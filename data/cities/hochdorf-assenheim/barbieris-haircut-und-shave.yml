@@ -4,8 +4,8 @@ latitude: 49.41679
 longitude: 8.27321
 postcode: "67126"
 city: Hochdorf-Assenheim
-street: "Hauptstraße"
-housenumber: 71
-phone: "+49 6231 7975"
-opening_hours: "Tu-Th 09:00-12:30,14:00-19:00; Fr 09:00-19:00; Sa 08:00-14:00"
-website: "https://barbieris.de/"
+street: Hauptstraße
+housenumber: "71"
+phone: +49 6231 7975
+opening_hours: Tu-Th 09:00-12:30,14:00-19:00; Fr 09:00-19:00; Sa 08:00-14:00
+website: https://barbieris.de/

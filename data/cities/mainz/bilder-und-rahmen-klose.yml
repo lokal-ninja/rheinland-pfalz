@@ -4,8 +4,8 @@ latitude: 50.00125
 longitude: 8.27165
 postcode: "55116"
 city: Mainz
-street: "Schusterstraße"
-housenumber: 50
-phone: "+49 6131 224640"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.bilder-klose.de/"
+street: Schusterstraße
+housenumber: "50"
+phone: +49 6131 224640
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.bilder-klose.de/

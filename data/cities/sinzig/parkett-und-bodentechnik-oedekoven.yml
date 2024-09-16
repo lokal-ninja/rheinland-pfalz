@@ -1,11 +1,11 @@
 id: 1162994676
-type: way
+type: node
 latitude: 50.54227
 longitude: 7.26466
 postcode: "53489"
 city: Sinzig
-street: "Sandkauler Weg"
-housenumber: 6
-phone: "+49 2642 996852"
-opening_hours: "Mo-Fr 09:00-12:00; Tu,Th 14:30-17:30; PH off"
-website: "https://parkett-oedekoven.de"
+street: Sandkauler Weg
+housenumber: "6"
+phone: +49 2642 996852
+opening_hours: Mo-Fr 09:00-12:00; Tu,Th 14:30-17:30; PH off
+website: https://parkett-oedekoven.de

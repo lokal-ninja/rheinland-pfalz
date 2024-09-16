@@ -4,8 +4,8 @@ latitude: 50.00175
 longitude: 8.26496
 postcode: "55116"
 city: Mainz
-street: "Zanggasse"
-housenumber: 8
+street: Zanggasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-13:00"
-website: "http://www.friseur-mueller-mainz.de/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-13:00
+website: http://www.friseur-mueller-mainz.de/

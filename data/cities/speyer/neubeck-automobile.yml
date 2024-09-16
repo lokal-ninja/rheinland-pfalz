@@ -1,11 +1,11 @@
 id: 415624157
-type: way
+type: node
 latitude: 49.33915
 longitude: 8.42764
 postcode: "67346"
 city: Speyer
-street: "Landwehrstraße"
-housenumber: 34
+street: Landwehrstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

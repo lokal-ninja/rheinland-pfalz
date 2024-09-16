@@ -1,11 +1,11 @@
 id: 651494752
-type: way
+type: node
 latitude: 49.98926
 longitude: 6.90318
 postcode: "54516"
 city: Wittlich
-street: "Friedrichstraße"
-housenumber: 53
+street: Friedrichstraße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

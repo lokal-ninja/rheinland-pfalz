@@ -1,11 +1,11 @@
 id: 340648339
-type: way
+type: node
 latitude: 50.39594
 longitude: 7.51345
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Spitalsgraben"
-housenumber: 8
-phone: "+49 2630 5004030"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00; PH off"
-website: "https://www.pssst-bettenhaus-muelheim-kaerlich.de"
+street: Spitalsgraben
+housenumber: "8"
+phone: +49 2630 5004030
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00; PH off
+website: https://www.pssst-bettenhaus-muelheim-kaerlich.de

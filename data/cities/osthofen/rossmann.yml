@@ -1,11 +1,11 @@
 id: 195854699
-type: way
+type: node
 latitude: 49.69848
 longitude: 8.33332
 postcode: "67574"
 city: Osthofen
-street: "Backsteinweg"
-housenumber: 9
+street: Backsteinweg
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 102758809
-type: way
+type: node
 latitude: 50.223
 longitude: 6.64793
 postcode: "54568"
 city: Gerolstein
-street: "Sarresdorfer Straße"
-housenumber: 65
+street: Sarresdorfer Straße
+housenumber: "65"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/rheinland-pfalz/gerolstein/sarresdorfer-strasse-65"
+website: https://filialen.aldi-sued.de/rheinland-pfalz/gerolstein/sarresdorfer-strasse-65

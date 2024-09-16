@@ -4,8 +4,8 @@ latitude: 49.76354
 longitude: 6.63594
 postcode: "54292"
 city: Trier
-street: "Lindenstraße"
-housenumber: 27
+street: Lindenstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-15:00"
-website: "https://www.warth-trier.de/"
+opening_hours: Mo-Th 09:00-17:00; Fr 09:00-15:00
+website: https://www.warth-trier.de/

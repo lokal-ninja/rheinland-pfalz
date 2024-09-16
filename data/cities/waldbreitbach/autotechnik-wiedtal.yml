@@ -1,11 +1,11 @@
 id: 258700010
-type: way
+type: node
 latitude: 50.54022
 longitude: 7.41874
 postcode: "56588"
 city: Waldbreitbach
-street: "Margaretha-Flesch-Straße"
-housenumber: 3
+street: Margaretha-Flesch-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

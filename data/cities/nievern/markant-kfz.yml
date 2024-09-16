@@ -1,11 +1,11 @@
 id: 482076923
-type: way
+type: node
 latitude: 50.33354
 longitude: 7.69697
 postcode: "56132"
 city: Nievern
-street: "Nieverner Straße"
-housenumber: 57
-phone: "+49 2603 12384"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su off"
-website: "https://www.kfz-ems.de/"
+street: Nieverner Straße
+housenumber: "57"
+phone: +49 2603 12384
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su off
+website: https://www.kfz-ems.de/

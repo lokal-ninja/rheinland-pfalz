@@ -4,8 +4,8 @@ latitude: 49.20355
 longitude: 8.12955
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Horststraße"
-housenumber: 83
-phone: "+49 6341 9871726"
-opening_hours: "Mo-Fr 06:00-18:00, Sa-Su 06:00-17:00"
-website: "https://www.baeckergoertz.de/#filialenstart/filialfinder"
+street: Horststraße
+housenumber: "83"
+phone: +49 6341 9871726
+opening_hours: Mo-Fr 06:00-18:00, Sa-Su 06:00-17:00
+website: https://www.baeckergoertz.de/#filialenstart/filialfinder

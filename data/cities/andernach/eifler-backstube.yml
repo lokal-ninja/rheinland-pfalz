@@ -4,8 +4,8 @@ latitude: 50.4399
 longitude: 7.40047
 postcode: "56626"
 city: Andernach
-street: "Hochstraße"
-housenumber: 43
+street: Hochstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 7:00-18:30; Sa 6:30-13:00"
+opening_hours: Mo-Fr 7:00-18:30; Sa 6:30-13:00
 website: ""

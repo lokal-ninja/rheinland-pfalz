@@ -1,11 +1,11 @@
 id: 398233858
-type: way
+type: node
 latitude: 49.72292
 longitude: 7.37748
 postcode: "55743"
 city: Idar-Oberstein
-street: "Industriestraße"
-housenumber: 9
+street: Industriestraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

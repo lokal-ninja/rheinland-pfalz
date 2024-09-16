@@ -1,11 +1,11 @@
 id: 100131039
-type: way
+type: node
 latitude: 49.43559
 longitude: 7.75525
 postcode: "67655"
 city: Kaiserslautern
-street: "Königstraße"
-housenumber: 123
+street: Königstraße
+housenumber: "123"
 phone: "+496313036887"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.alnatura.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.alnatura.de/

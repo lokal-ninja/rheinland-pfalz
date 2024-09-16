@@ -1,11 +1,11 @@
 id: 1011045362
-type: way
+type: node
 latitude: 49.63359
 longitude: 8.28853
 postcode: "67551"
 city: Worms
-street: "Weinbrennerstraße"
-housenumber: 8
+street: Weinbrennerstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

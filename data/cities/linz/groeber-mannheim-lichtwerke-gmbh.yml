@@ -4,8 +4,8 @@ latitude: 50.57632
 longitude: 7.29594
 postcode: "53545"
 city: Linz
-street: "Friedrich-Ebert-Straße"
-housenumber: 33
-phone: "+49 30 235 957 380"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.groeber-mannheim.de"
+street: Friedrich-Ebert-Straße
+housenumber: "33"
+phone: +49 30 235 957 380
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.groeber-mannheim.de

@@ -1,11 +1,11 @@
 id: 193421391
-type: way
+type: node
 latitude: 49.21525
 longitude: 7.59716
 postcode: "66954"
 city: Pirmasens
-street: "Zweibrücker Straße"
-housenumber: 138
+street: Zweibrücker Straße
+housenumber: "138"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00; Sa 09:00-13:00"
-website: "https://www.carglass.de/"
+opening_hours: Mo-Fr 07:30-17:00; Sa 09:00-13:00
+website: https://www.carglass.de/

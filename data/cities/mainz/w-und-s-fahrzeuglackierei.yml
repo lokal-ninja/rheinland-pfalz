@@ -1,11 +1,11 @@
 id: 66121172
-type: way
+type: node
 latitude: 49.95601
 longitude: 8.25328
 postcode: "55129"
 city: Mainz
-street: "Robert-Koch-Straße"
-housenumber: 52
+street: Robert-Koch-Straße
+housenumber: "52"
 phone: ""
 opening_hours: ""
-website: "http://www.ws-fahrzeuglackiererei.de/"
+website: http://www.ws-fahrzeuglackiererei.de/

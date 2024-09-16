@@ -1,11 +1,11 @@
 id: 222800538
-type: way
+type: node
 latitude: 49.55709
 longitude: 8.17106
 postcode: "67269"
 city: Grünstadt
-street: "Kirchheimer Straße"
-housenumber: 68
-phone: "+49 6359 808910"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://toom.de/m/gruenstadt/"
+street: Kirchheimer Straße
+housenumber: "68"
+phone: +49 6359 808910
+opening_hours: Mo-Sa 08:00-20:00
+website: https://toom.de/m/gruenstadt/

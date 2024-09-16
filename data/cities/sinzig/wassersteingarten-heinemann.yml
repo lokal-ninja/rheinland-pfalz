@@ -1,11 +1,12 @@
 id: 128105645
-type: way
+type: node
 latitude: 50.55353
 longitude: 7.25054
 postcode: "53489"
 city: Sinzig
-street: "Grüner Weg"
-housenumber: 38
-phone: "+49 2642 41045"
-opening_hours: "Mo-Fr 09:00-18:30; Sep-Mar Sa 09:00-14:00; Apr-Aug Sa 09:00-16:00; Su,PH off"
+street: Grüner Weg
+housenumber: "38"
+phone: +49 2642 41045
+opening_hours: Mo-Fr 09:00-18:30; Sep-Mar Sa 09:00-14:00; Apr-Aug Sa 09:00-16:00;
+    Su,PH off
 website: ""

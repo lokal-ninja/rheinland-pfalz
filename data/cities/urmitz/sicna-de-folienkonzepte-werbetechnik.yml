@@ -1,11 +1,11 @@
 id: 88414387
-type: way
+type: node
 latitude: 50.40001
 longitude: 7.51656
 postcode: "56220"
 city: Urmitz
-street: "Rudolf-Diesel-Straße"
-housenumber: 8
-phone: "+49 2630 84088"
+street: Rudolf-Diesel-Straße
+housenumber: "8"
+phone: +49 2630 84088
 opening_hours: ""
-website: "https://www.sicna.de"
+website: https://www.sicna.de

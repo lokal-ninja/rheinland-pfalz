@@ -1,11 +1,11 @@
 id: 96053475
-type: way
+type: node
 latitude: 49.4254
 longitude: 8.36376
 postcode: "67112"
 city: Mutterstadt
-street: "Im Vorderkehr"
-housenumber: 1
+street: Im Vorderkehr
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
 website: ""

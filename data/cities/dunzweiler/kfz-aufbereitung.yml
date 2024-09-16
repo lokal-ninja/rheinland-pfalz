@@ -1,11 +1,11 @@
 id: 398774894
-type: way
+type: node
 latitude: 49.41491
 longitude: 7.31366
 postcode: "66916"
 city: Dunzweiler
-street: "Talstraße"
-housenumber: 9
+street: Talstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

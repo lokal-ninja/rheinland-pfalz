@@ -4,8 +4,8 @@ latitude: 50.34125
 longitude: 7.57014
 postcode: "56075"
 city: Koblenz
-street: "Potsdamer Straße"
-housenumber: 20
+street: Potsdamer Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.aldi-sued.de"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.aldi-sued.de

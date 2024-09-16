@@ -4,8 +4,8 @@ latitude: 49.96128
 longitude: 8.31114
 postcode: "55130"
 city: Mainz
-street: "Oppenheimer Straße"
-housenumber: 1
+street: Oppenheimer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-We,Fr 09:00-13:00; Th 12:00-18:00"
+opening_hours: Mo-We,Fr 09:00-13:00; Th 12:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 362237186
-type: way
+type: node
 latitude: 49.27906
 longitude: 8.4061
 postcode: "67354"
 city: Römerberg
-street: "Viehtriftstraße"
-housenumber: 110
+street: Viehtriftstraße
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

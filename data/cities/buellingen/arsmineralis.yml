@@ -4,8 +4,8 @@ latitude: 50.35265
 longitude: 6.38404
 postcode: "4760"
 city: Büllingen
-street: "Hergersberg"
-housenumber: 1
-phone: "+32 80 54 87 29"
-opening_hours: "Mo off;Tu-Su 10:00-18:00"
-website: "https://www.arsmineralis.net/"
+street: Hergersberg
+housenumber: "1"
+phone: +32 80 54 87 29
+opening_hours: Mo off;Tu-Su 10:00-18:00
+website: https://www.arsmineralis.net/

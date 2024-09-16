@@ -1,11 +1,11 @@
 id: 202605326
-type: way
+type: node
 latitude: 49.21588
 longitude: 7.98687
 postcode: "76855"
 city: Annweiler am Trifels
-street: "In den Bruchwiesen"
-housenumber: 25
+street: In den Bruchwiesen
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

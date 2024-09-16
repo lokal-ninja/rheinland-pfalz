@@ -4,8 +4,8 @@ latitude: 50.54218
 longitude: 7.0951
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Marktplatz"
-housenumber: 4
-phone: "+49 2641 9188453"
-opening_hours: "Mo-Su 10:30-22:00"
-website: "https://marktbrunnen-ahrweiler.de/"
+street: Marktplatz
+housenumber: "4"
+phone: +49 2641 9188453
+opening_hours: Mo-Su 10:30-22:00
+website: https://marktbrunnen-ahrweiler.de/

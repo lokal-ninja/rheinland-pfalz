@@ -1,11 +1,11 @@
 id: 1182433226
-type: way
+type: node
 latitude: 50.37825
 longitude: 8.0438
 postcode: "65582"
 city: Diez
-street: "Limburger Straße"
-housenumber: 153
-phone: "+49 6432 3418027"
-opening_hours: "Mo-Su 08:00-18:00"
-website: "https://www.schaefer-dein-baecker.de/"
+street: Limburger Straße
+housenumber: "153"
+phone: +49 6432 3418027
+opening_hours: Mo-Su 08:00-18:00
+website: https://www.schaefer-dein-baecker.de/

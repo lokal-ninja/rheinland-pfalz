@@ -1,11 +1,11 @@
 id: 196160264
-type: way
+type: node
 latitude: 49.48199
 longitude: 8.36273
 postcode: "67071"
 city: Ludwigshafen am Rhein
-street: "Hedwig-Laudien-Ring"
-housenumber: 21
+street: Hedwig-Laudien-Ring
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.hirsch-ille.de/"
+website: https://www.hirsch-ille.de/

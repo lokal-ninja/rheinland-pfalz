@@ -1,11 +1,11 @@
 id: 1215263217
-type: way
+type: node
 latitude: 49.73987
 longitude: 7.25344
 postcode: "55758"
 city: Hettenrodt
-street: "Im Dorf"
-housenumber: 3
+street: Im Dorf
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

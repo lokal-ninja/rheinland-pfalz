@@ -1,11 +1,11 @@
 id: 94532364
-type: way
+type: node
 latitude: 49.90006
 longitude: 8.30014
 postcode: "55296"
 city: Lörzweiler
-street: "Rheinstraße"
-housenumber: 16
+street: Rheinstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 868798070
-type: way
+type: node
 latitude: 50.00132
 longitude: 8.26844
 postcode: "55116"
 city: Mainz
-street: "Adolf-Kolping-Straße"
-housenumber: 
+street: Adolf-Kolping-Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://wolsdorff.shop/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://wolsdorff.shop/

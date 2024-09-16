@@ -1,11 +1,11 @@
 id: 546913636
-type: way
+type: node
 latitude: 49.62269
 longitude: 7.81904
 postcode: "67806"
 city: Rockenhausen
-street: "Kaiserslauterer Straße"
-housenumber: 11
+street: Kaiserslauterer Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 160664805
-type: way
+type: node
 latitude: 49.54782
 longitude: 8.34256
 postcode: "67227"
 city: Frankenthal (Pfalz)
-street: "Beindersheimer Straße"
-housenumber: 44
+street: Beindersheimer Straße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

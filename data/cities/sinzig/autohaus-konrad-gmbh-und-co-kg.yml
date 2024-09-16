@@ -1,11 +1,11 @@
 id: 860026410
-type: way
+type: node
 latitude: 50.54099
 longitude: 7.26269
 postcode: "53489"
 city: Sinzig
-street: "Eisenbahnstraße"
-housenumber: 18
-phone: "+49 2642 99380"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-16:00; Sa,Su,PH off"
-website: "https://www.ah-konrad.de"
+street: Eisenbahnstraße
+housenumber: "18"
+phone: +49 2642 99380
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-16:00; Sa,Su,PH off
+website: https://www.ah-konrad.de

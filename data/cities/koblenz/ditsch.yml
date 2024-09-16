@@ -4,8 +4,8 @@ latitude: 50.35087
 longitude: 7.5894
 postcode: "56068"
 city: Koblenz
-street: "Bahnhofplatz"
-housenumber: 2
+street: Bahnhofplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00; Sa 07:00-20:00; Su 08:00-20:00"
-website: "https://www.ditsch.de/"
+opening_hours: Mo-Fr 06:00-20:00; Sa 07:00-20:00; Su 08:00-20:00
+website: https://www.ditsch.de/

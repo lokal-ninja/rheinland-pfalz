@@ -1,11 +1,11 @@
 id: 192265803
-type: way
+type: node
 latitude: 49.68495
 longitude: 6.55723
 postcode: "54329"
 city: Konz
-street: "Am Maarbach"
-housenumber: 4
+street: Am Maarbach
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.bodenbau-hub.de/"
+website: http://www.bodenbau-hub.de/

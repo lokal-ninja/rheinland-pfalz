@@ -1,11 +1,11 @@
 id: 1167341682
-type: way
+type: node
 latitude: 50.35794
 longitude: 7.47721
 postcode: "56220"
 city: Bassenheim
-street: "Am Gülser Weg"
-housenumber: 14
-phone: "+49 2625 7371"
-opening_hours: "Mo-Th 08:00-16:30; Fr 08:00-16:30; PH off"
-website: "https://www.schuetz-bassenheim.de"
+street: Am Gülser Weg
+housenumber: "14"
+phone: +49 2625 7371
+opening_hours: Mo-Th 08:00-16:30; Fr 08:00-16:30; PH off
+website: https://www.schuetz-bassenheim.de

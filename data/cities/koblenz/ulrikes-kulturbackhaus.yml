@@ -4,8 +4,8 @@ latitude: 50.35462
 longitude: 7.59023
 postcode: "56068"
 city: Koblenz
-street: "Löhrstraße"
-housenumber: 111
+street: Löhrstraße
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Fr 07:00-14:00, Sa 07:00-13:00, Su 07:00-12:00; PH off"
+opening_hours: Mo-Fr 07:00-14:00, Sa 07:00-13:00, Su 07:00-12:00; PH off
 website: ""

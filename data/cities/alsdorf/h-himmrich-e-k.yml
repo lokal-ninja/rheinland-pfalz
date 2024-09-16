@@ -1,11 +1,11 @@
 id: 535256349
-type: way
+type: node
 latitude: 50.77742
 longitude: 7.89147
 postcode: "57518"
 city: Alsdorf
-street: "Industriestraße"
-housenumber: 9
-phone: "+49 2741 3520"
+street: Industriestraße
+housenumber: "9"
+phone: +49 2741 3520
 opening_hours: ""
 website: ""

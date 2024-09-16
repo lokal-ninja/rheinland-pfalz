@@ -1,11 +1,11 @@
 id: 116108133
-type: way
+type: node
 latitude: 50.39461
 longitude: 7.52725
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Industriestraße"
-housenumber: 17
-phone: "+49 261 91464231"
-opening_hours: "Mo-Sa 10:00-19:00; PH off"
-website: "https://www.only.com"
+street: Industriestraße
+housenumber: "17"
+phone: +49 261 91464231
+opening_hours: Mo-Sa 10:00-19:00; PH off
+website: https://www.only.com

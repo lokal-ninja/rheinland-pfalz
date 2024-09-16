@@ -4,8 +4,8 @@ latitude: 49.20704
 longitude: 8.13372
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Horstring"
-housenumber: 14
-phone: "+49 6341 98500"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.hammer-heimtex.de/maerkte"
+street: Horstring
+housenumber: "14"
+phone: +49 6341 98500
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.hammer-heimtex.de/maerkte

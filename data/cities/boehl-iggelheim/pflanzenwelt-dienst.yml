@@ -1,11 +1,11 @@
 id: 159056013
-type: way
+type: node
 latitude: 49.36441
 longitude: 8.29921
 postcode: "67459"
 city: Böhl-Iggelheim
-street: "Haßlocher Straße"
-housenumber: 40
-phone: "+49 6324 76218"
-opening_hours: "Mo-Fr 08:30-18:00,Sa 08:30-13:00"
-website: "https://www.pflanzenwelt-dienst.de/"
+street: Haßlocher Straße
+housenumber: "40"
+phone: +49 6324 76218
+opening_hours: Mo-Fr 08:30-18:00,Sa 08:30-13:00
+website: https://www.pflanzenwelt-dienst.de/

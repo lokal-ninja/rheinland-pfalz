@@ -1,11 +1,11 @@
 id: 207096986
-type: way
+type: node
 latitude: 49.6175
 longitude: 8.34826
 postcode: "67547"
 city: Worms
-street: "Horchheimer Straße"
-housenumber: 57
-phone: "+49 6241 93010"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.3c-cashundcarry.de"
+street: Horchheimer Straße
+housenumber: "57"
+phone: +49 6241 93010
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.3c-cashundcarry.de

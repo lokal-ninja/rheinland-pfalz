@@ -1,11 +1,11 @@
 id: 242657881
-type: way
+type: node
 latitude: 49.14933
 longitude: 8.22579
 postcode: "76863"
 city: Herxheim
-street: "Untere Hauptstraße"
-housenumber: 33
-phone: "+49 7276 966830"
+street: Untere Hauptstraße
+housenumber: "33"
+phone: +49 7276 966830
 opening_hours: ""
-website: "http://payarolla.eu"
+website: http://payarolla.eu

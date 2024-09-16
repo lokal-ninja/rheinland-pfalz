@@ -4,8 +4,8 @@ latitude: 49.99921
 longitude: 8.26851
 postcode: "55116"
 city: Mainz
-street: "Große Langgasse"
-housenumber: 8
-phone: "+49 6131 218821"
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.alnatura.de/"
+street: Große Langgasse
+housenumber: "8"
+phone: +49 6131 218821
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.alnatura.de/

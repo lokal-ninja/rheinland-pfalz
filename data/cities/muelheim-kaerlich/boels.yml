@@ -1,11 +1,11 @@
 id: 340359455
-type: way
+type: node
 latitude: 50.39353
 longitude: 7.52524
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Florinstraße"
-housenumber: 6
-phone: "+49 261 5796643"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:30; PH off"
-website: "https://www.boels.com"
+street: Florinstraße
+housenumber: "6"
+phone: +49 261 5796643
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:30; PH off
+website: https://www.boels.com

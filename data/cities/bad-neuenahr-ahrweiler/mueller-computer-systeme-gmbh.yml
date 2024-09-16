@@ -1,11 +1,11 @@
 id: 457638423
-type: way
+type: node
 latitude: 50.54749
 longitude: 7.13845
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Kölner Straße"
-housenumber: 16
-phone: "+49 2641 94900"
-opening_hours: "Mo-Fr 09:00-18:00; Sa,Su,PH off"
-website: "https://www.muellercomputer.de"
+street: Kölner Straße
+housenumber: "16"
+phone: +49 2641 94900
+opening_hours: Mo-Fr 09:00-18:00; Sa,Su,PH off
+website: https://www.muellercomputer.de

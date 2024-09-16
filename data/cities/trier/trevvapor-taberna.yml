@@ -1,11 +1,11 @@
 id: 419454025
-type: way
+type: node
 latitude: 49.79954
 longitude: 6.68861
 postcode: "54293"
 city: Trier
-street: "Unter dem Dostler"
-housenumber: 4
+street: Unter dem Dostler
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://trevvapor.de/trevvapor-taberna"
+website: https://trevvapor.de/trevvapor-taberna

@@ -1,11 +1,11 @@
 id: 329683131
-type: way
+type: node
 latitude: 50.43922
 longitude: 7.27916
 postcode: "56653"
 city: Wassenach
-street: "An der Raste"
-housenumber: 3
-phone: "+49 2636 3197"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://kfz-koegst.de/"
+street: An der Raste
+housenumber: "3"
+phone: +49 2636 3197
+opening_hours: Mo-Fr 08:00-18:00
+website: https://kfz-koegst.de/

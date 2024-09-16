@@ -4,8 +4,8 @@ latitude: 49.51583
 longitude: 8.40627
 postcode: "67069"
 city: Ludwigshafen am Rhein
-street: "Friesenheimer Straße"
-housenumber: 45
+street: Friesenheimer Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
-website: "http://kopfschmuck.biz/"
+opening_hours: '"Termine nach Vereinbarung"'
+website: http://kopfschmuck.biz/

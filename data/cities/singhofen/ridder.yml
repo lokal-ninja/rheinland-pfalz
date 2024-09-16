@@ -1,11 +1,11 @@
 id: 325736402
-type: way
+type: node
 latitude: 50.28007
 longitude: 7.83435
 postcode: "56379"
 city: Singhofen
-street: "Ridderstraße"
-housenumber: 1
-phone: "+49 (0) 2604 9541-0"
+street: Ridderstraße
+housenumber: "1"
+phone: +49 (0) 2604 9541-0
 opening_hours: ""
-website: "https://www.ridder-online.com/"
+website: https://www.ridder-online.com/

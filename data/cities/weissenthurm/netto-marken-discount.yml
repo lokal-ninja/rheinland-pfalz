@@ -1,11 +1,11 @@
 id: 1210022936
-type: way
+type: node
 latitude: 50.42081
 longitude: 7.44538
 postcode: "56575"
 city: Weißenthurm
-street: "Hauptstraße"
-housenumber: 219
+street: Hauptstraße
+housenumber: "219"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

@@ -4,8 +4,8 @@ latitude: 50.35932
 longitude: 7.61006
 postcode: "56077"
 city: Koblenz
-street: "Hofstraße"
-housenumber: 277
+street: Hofstraße
+housenumber: "277"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-13:00"
-website: "https://www.zweirad-mitschke.de/"
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-13:00
+website: https://www.zweirad-mitschke.de/

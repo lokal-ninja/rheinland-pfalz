@@ -1,11 +1,11 @@
 id: 531793707
-type: way
+type: node
 latitude: 50.46035
 longitude: 7.9732
 postcode: "56414"
 city: Hundsangen
-street: "Am Buch"
-housenumber: 4
-phone: "+49 6435 408080"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://www.fischer-gartenkultur.de/"
+street: Am Buch
+housenumber: "4"
+phone: +49 6435 408080
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://www.fischer-gartenkultur.de/

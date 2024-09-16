@@ -1,11 +1,11 @@
 id: 788948610
-type: way
+type: node
 latitude: 50.7107
 longitude: 7.67912
 postcode: "57636"
 city: Mammelzen
-street: "Siegener Straße"
-housenumber: 83
-phone: "+49 2681 70070"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://www.citroen-haendler.de/ramseger-mammelzen"
+street: Siegener Straße
+housenumber: "83"
+phone: +49 2681 70070
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://www.citroen-haendler.de/ramseger-mammelzen

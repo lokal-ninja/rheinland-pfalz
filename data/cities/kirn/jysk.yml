@@ -1,11 +1,11 @@
 id: 130997252
-type: way
+type: node
 latitude: 49.79253
 longitude: 7.45193
 postcode: "55606"
 city: Kirn
-street: "Kallenfelser Straße"
-housenumber: 36
+street: Kallenfelser Straße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

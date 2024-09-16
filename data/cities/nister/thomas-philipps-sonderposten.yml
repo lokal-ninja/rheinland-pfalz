@@ -1,11 +1,11 @@
 id: 92019721
-type: way
+type: node
 latitude: 50.67333
 longitude: 7.83561
 postcode: "57645"
 city: Nister
-street: "Zum Drahtzug"
-housenumber: 7
-phone: "+49 2662 943550"
-opening_hours: "closed"
-website: "https://www.thomas-philipps.de/de/Stores/Details/246-nister-hachenburg"
+street: Zum Drahtzug
+housenumber: "7"
+phone: +49 2662 943550
+opening_hours: closed
+website: https://www.thomas-philipps.de/de/Stores/Details/246-nister-hachenburg

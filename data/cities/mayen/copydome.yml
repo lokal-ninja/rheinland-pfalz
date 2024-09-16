@@ -4,8 +4,9 @@ latitude: 50.33039
 longitude: 7.22331
 postcode: "56727"
 city: Mayen
-street: "Brückenstraße"
-housenumber: 22
-phone: "+49 2651 900005"
-opening_hours: "Mo-We 09:00-12:00, 13:00-17:00; Th 09:00-12:00, 13:00-18:30; Fr 10:00-12:00, 13:00-17:00"
-website: "http://www.copydome.de/"
+street: Brückenstraße
+housenumber: "22"
+phone: +49 2651 900005
+opening_hours: Mo-We 09:00-12:00, 13:00-17:00; Th 09:00-12:00, 13:00-18:30; Fr 10:00-12:00,
+    13:00-17:00
+website: http://www.copydome.de/

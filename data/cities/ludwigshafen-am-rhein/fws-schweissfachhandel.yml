@@ -1,11 +1,11 @@
 id: 106568334
-type: way
+type: node
 latitude: 49.48212
 longitude: 8.3618
 postcode: "67071"
 city: Ludwigshafen am Rhein
-street: "Hedwig-Laudien-Ring"
-housenumber: 27
+street: Hedwig-Laudien-Ring
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "http://www.wilhelm-ohg.de/"
+website: http://www.wilhelm-ohg.de/

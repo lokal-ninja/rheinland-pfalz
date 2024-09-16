@@ -1,11 +1,11 @@
 id: 207517665
-type: way
+type: node
 latitude: 49.98701
 longitude: 8.02961
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Heinrich-Wieland-Straße"
-housenumber: 2
+street: Heinrich-Wieland-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

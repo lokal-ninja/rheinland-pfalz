@@ -1,11 +1,11 @@
 id: 543107172
-type: way
+type: node
 latitude: 49.22631
 longitude: 7.59151
 postcode: "66954"
 city: Pirmasens
-street: "Zweibrücker Straße"
-housenumber: 230
+street: Zweibrücker Straße
+housenumber: "230"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

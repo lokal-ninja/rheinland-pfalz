@@ -4,8 +4,8 @@ latitude: 49.33498
 longitude: 8.13008
 postcode: "67434"
 city: Neustadt an der Weinstraße
-street: "Weinstraße"
-housenumber: 150
+street: Weinstraße
+housenumber: "150"
 phone: ""
-opening_hours: "Mo,Tu,Fr 10:00-13:00;Sa,Su 09:00-12:00"
-website: "https://www.herzlich-hambach.de/"
+opening_hours: Mo,Tu,Fr 10:00-13:00;Sa,Su 09:00-12:00
+website: https://www.herzlich-hambach.de/

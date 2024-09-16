@@ -1,11 +1,11 @@
 id: 304344598
-type: way
+type: node
 latitude: 50.3813
 longitude: 6.94266
 postcode: "53518"
 city: Adenau
-street: "Hauptstraße"
-housenumber: 266
+street: Hauptstraße
+housenumber: "266"
 phone: ""
 opening_hours: ""
-website: "https://www.bell-lifestyle.de/"
+website: https://www.bell-lifestyle.de/

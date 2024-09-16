@@ -1,11 +1,11 @@
 id: 210074565
-type: way
+type: node
 latitude: 49.59978
 longitude: 6.53901
 postcode: "54439"
 city: Saarburg
-street: "Graf-Siegfried-Straße"
-housenumber: 124
+street: Graf-Siegfried-Straße
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

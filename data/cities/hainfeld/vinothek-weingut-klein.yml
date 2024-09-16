@@ -4,8 +4,8 @@ latitude: 49.25655
 longitude: 8.10025
 postcode: "76835"
 city: Hainfeld
-street: "Weinstraße"
-housenumber: 41
-phone: "+49 6323 986980"
-opening_hours: "Mo 10:00-12:00; Tu-Fr 10:00-18:00; Sa 11:00-16:00; Su,PH off"
-website: "https://www.kleinwein.com"
+street: Weinstraße
+housenumber: "41"
+phone: +49 6323 986980
+opening_hours: Mo 10:00-12:00; Tu-Fr 10:00-18:00; Sa 11:00-16:00; Su,PH off
+website: https://www.kleinwein.com

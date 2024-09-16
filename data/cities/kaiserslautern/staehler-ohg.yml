@@ -1,11 +1,11 @@
 id: 159661027
-type: way
+type: node
 latitude: 49.4323
 longitude: 7.75461
 postcode: "67663"
 city: Kaiserslautern
-street: "Trippstadter Straße"
-housenumber: 111
+street: Trippstadter Straße
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

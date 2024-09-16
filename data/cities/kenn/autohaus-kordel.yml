@@ -1,11 +1,11 @@
 id: 315325702
-type: way
+type: node
 latitude: 49.80512
 longitude: 6.72765
 postcode: "54344"
 city: Kenn
-street: "Gewerbegebiet"
-housenumber: 18
+street: Gewerbegebiet
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

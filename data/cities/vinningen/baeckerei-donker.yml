@@ -1,11 +1,11 @@
 id: 227338269
-type: way
+type: node
 latitude: 49.15482
 longitude: 7.55319
 postcode: "66957"
 city: Vinningen
-street: "Hauptstraße"
-housenumber: 22
+street: Hauptstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

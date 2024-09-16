@@ -1,11 +1,11 @@
 id: 93314481
-type: way
+type: node
 latitude: 49.01412
 longitude: 8.25463
 postcode: "76767"
 city: Hagenbach
-street: "Rheinstraße"
-housenumber: 60
+street: Rheinstraße
+housenumber: "60"
 phone: "+497273899480"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://edeka-dietz.de"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://edeka-dietz.de

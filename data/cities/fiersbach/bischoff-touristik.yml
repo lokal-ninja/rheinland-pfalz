@@ -4,8 +4,8 @@ latitude: 50.69585
 longitude: 7.49777
 postcode: "57635"
 city: Fiersbach
-street: "Mehrener Straße"
-housenumber: 2
-phone: "+49 2686 980610"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su, PH off"
-website: "https://bischoff-touristik.de/"
+street: Mehrener Straße
+housenumber: "2"
+phone: +49 2686 980610
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su, PH off
+website: https://bischoff-touristik.de/

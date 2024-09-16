@@ -4,8 +4,8 @@ latitude: 49.203
 longitude: 7.56121
 postcode: "66954"
 city: Pirmasens
-street: "Windsberger Straße"
-housenumber: 59
-phone: "+49 6331 2169844"
-opening_hours: "Tu-Fr 06:00-12:00,15:00-17:00, Sa 06:00-12:00, Su 07:00-11:00"
+street: Windsberger Straße
+housenumber: "59"
+phone: +49 6331 2169844
+opening_hours: Tu-Fr 06:00-12:00,15:00-17:00, Sa 06:00-12:00, Su 07:00-11:00
 website: ""

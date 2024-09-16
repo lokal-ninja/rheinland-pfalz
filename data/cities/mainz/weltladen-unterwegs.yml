@@ -4,8 +4,8 @@ latitude: 50.00224
 longitude: 8.2719
 postcode: "55116"
 city: Mainz
-street: "Christofsstraße"
-housenumber: 9
+street: Christofsstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.weltladenmainz.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.weltladenmainz.de/

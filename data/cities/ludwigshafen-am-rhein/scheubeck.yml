@@ -4,8 +4,8 @@ latitude: 49.49295
 longitude: 8.40443
 postcode: "67063"
 city: Ludwigshafen am Rhein
-street: "Sternstraße"
-housenumber: 128
-phone: "+49 621 54966147"
-opening_hours: "Mo-Fr 05:30-18:00, Sa 05:30-17:00, Su 07:00-18:00"
-website: "https://www.baeckerei-scheubeck.de"
+street: Sternstraße
+housenumber: "128"
+phone: +49 621 54966147
+opening_hours: Mo-Fr 05:30-18:00, Sa 05:30-17:00, Su 07:00-18:00
+website: https://www.baeckerei-scheubeck.de

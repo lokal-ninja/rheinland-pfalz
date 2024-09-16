@@ -4,8 +4,8 @@ latitude: 49.35345
 longitude: 8.13682
 postcode: "67433"
 city: Neustadt an der Weinstraße
-street: "Hauptstraße"
-housenumber: 89
-phone: "+49 6321 1872479"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.vodafone-shops.de/neustadt-an-der-weinstrasse-203351421/"
+street: Hauptstraße
+housenumber: "89"
+phone: +49 6321 1872479
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.vodafone-shops.de/neustadt-an-der-weinstrasse-203351421/

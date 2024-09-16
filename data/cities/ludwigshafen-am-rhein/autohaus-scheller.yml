@@ -1,11 +1,11 @@
 id: 299035015
-type: way
+type: node
 latitude: 49.48404
 longitude: 8.36335
 postcode: "67071"
 city: Ludwigshafen am Rhein
-street: "Ruchheimer Straße"
-housenumber: 1
+street: Ruchheimer Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://bmw-scheller.de/"
+website: https://bmw-scheller.de/

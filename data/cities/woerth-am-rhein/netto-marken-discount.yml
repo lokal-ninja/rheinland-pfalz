@@ -4,8 +4,8 @@ latitude: 49.04844
 longitude: 8.26593
 postcode: "76744"
 city: Wörth am Rhein
-street: "Wolfsgewanne"
-housenumber: 3
+street: Wolfsgewanne
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.netto-online.de/filialfinder"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.netto-online.de/filialfinder

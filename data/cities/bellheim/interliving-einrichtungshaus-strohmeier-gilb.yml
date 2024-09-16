@@ -1,11 +1,11 @@
 id: 47503456
-type: way
+type: node
 latitude: 49.1966
 longitude: 8.30123
 postcode: "76756"
 city: Bellheim
-street: "In der Fellach"
+street: In der Fellach
 housenumber: 2-4
-phone: "+49 7272 70030"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-17:00"
-website: "https://www.einrichtungshaus-strohmeiergilb.de/"
+phone: +49 7272 70030
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-17:00
+website: https://www.einrichtungshaus-strohmeiergilb.de/

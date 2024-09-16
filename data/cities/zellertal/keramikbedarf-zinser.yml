@@ -1,11 +1,11 @@
 id: 416646703
-type: way
+type: node
 latitude: 49.64024
 longitude: 8.13557
 postcode: "67308"
 city: Zellertal
-street: "Schenkelstück"
-housenumber: 4
+street: Schenkelstück
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,We,Fr 09:00-12:00,14:00-17:00; Sa 10:00-12:30"
+opening_hours: Mo,We,Fr 09:00-12:00,14:00-17:00; Sa 10:00-12:30
 website: ""

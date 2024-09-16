@@ -1,11 +1,11 @@
 id: 377719799
-type: way
+type: node
 latitude: 49.53772
 longitude: 8.36047
 postcode: "67227"
 city: Frankenthal (Pfalz)
-street: "Foltzring"
-housenumber: 33
-phone: "+49 6233 355870"
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/edeka-stiegler-foltzring-33/index.jsp"
+street: Foltzring
+housenumber: "33"
+phone: +49 6233 355870
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.edeka.de/eh/s%C3%BCdwest/edeka-stiegler-foltzring-33/index.jsp

@@ -4,8 +4,8 @@ latitude: 49.81982
 longitude: 6.74939
 postcode: "54338"
 city: Schweich
-street: "Bernhard-Becker-Straße"
-housenumber: 4
-phone: "+49 6502 4805"
-opening_hours: "Mo-Th 08:00-13:00, 14:00-18:00; Fr 8:00-13:00"
-website: "https://www.sh-wittlich.de/"
+street: Bernhard-Becker-Straße
+housenumber: "4"
+phone: +49 6502 4805
+opening_hours: Mo-Th 08:00-13:00, 14:00-18:00; Fr 8:00-13:00
+website: https://www.sh-wittlich.de/

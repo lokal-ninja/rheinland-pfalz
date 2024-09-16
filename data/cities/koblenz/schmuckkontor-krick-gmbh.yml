@@ -4,8 +4,8 @@ latitude: 50.36036
 longitude: 7.5941
 postcode: "56068"
 city: Koblenz
-street: "Löhrstraße"
-housenumber: 2
-phone: "+49 261 1334834"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-16:00"
-website: "https://schmuckkontor.de/"
+street: Löhrstraße
+housenumber: "2"
+phone: +49 261 1334834
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-16:00
+website: https://schmuckkontor.de/

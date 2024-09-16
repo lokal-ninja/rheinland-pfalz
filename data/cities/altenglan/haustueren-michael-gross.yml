@@ -1,11 +1,11 @@
 id: 507176988
-type: way
+type: node
 latitude: 49.55065
 longitude: 7.46181
 postcode: "66885"
 city: Altenglan
-street: "Schulstraße"
-housenumber: 2
+street: Schulstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

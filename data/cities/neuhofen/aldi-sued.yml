@@ -1,11 +1,11 @@
 id: 251301765
-type: way
+type: node
 latitude: 49.42085
 longitude: 8.41272
 postcode: "67141"
 city: Neuhofen
-street: "Industriestraße"
-housenumber: 10
+street: Industriestraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/rheinland-pfalz/neuhofen/industriestrasse-10"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://filialen.aldi-sued.de/rheinland-pfalz/neuhofen/industriestrasse-10

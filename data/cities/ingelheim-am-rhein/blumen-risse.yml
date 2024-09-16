@@ -1,11 +1,11 @@
 id: 193322184
-type: way
+type: node
 latitude: 49.98189
 longitude: 8.02729
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Nahering"
-housenumber: 14
+street: Nahering
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

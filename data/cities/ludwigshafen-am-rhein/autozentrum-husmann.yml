@@ -1,11 +1,11 @@
 id: 1105686855
-type: way
+type: node
 latitude: 49.48626
 longitude: 8.40114
 postcode: "67071"
 city: Ludwigshafen am Rhein
-street: "Mannheimer Straße"
-housenumber: 190
+street: Mannheimer Straße
+housenumber: "190"
 phone: ""
 opening_hours: ""
-website: "https://home.mobile.de/AZH"
+website: https://home.mobile.de/AZH

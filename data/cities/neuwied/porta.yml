@@ -1,11 +1,11 @@
 id: 36124315
-type: way
+type: node
 latitude: 50.43932
 longitude: 7.49141
 postcode: "56566"
 city: Neuwied
-street: "Breslauer Straße"
-housenumber: 88
-phone: "+49 2631 9030"
-opening_hours: "Tu-Sa 10:00-19:00; PH off"
-website: "https://porta.de"
+street: Breslauer Straße
+housenumber: "88"
+phone: +49 2631 9030
+opening_hours: Tu-Sa 10:00-19:00; PH off
+website: https://porta.de

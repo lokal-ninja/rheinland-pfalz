@@ -1,11 +1,11 @@
 id: 216856089
-type: way
+type: node
 latitude: 49.57459
 longitude: 6.57487
 postcode: "54455"
 city: Serrig
-street: "Martinusstraße"
-housenumber: 1
+street: Martinusstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 314237988
-type: way
+type: node
 latitude: 49.28611
 longitude: 7.64813
 postcode: "67714"
 city: Waldfischbach-Burgalben
-street: "Hauptstraße"
-housenumber: 90
+street: Hauptstraße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

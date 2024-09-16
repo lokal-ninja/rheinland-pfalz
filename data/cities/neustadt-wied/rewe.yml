@@ -1,11 +1,11 @@
 id: 96021649
-type: way
+type: node
 latitude: 50.62193
 longitude: 7.43231
 postcode: "53577"
 city: Neustadt (Wied)
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 42?
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "http://www.norma-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: http://www.norma-online.de

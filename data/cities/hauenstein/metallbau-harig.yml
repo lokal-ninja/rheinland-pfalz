@@ -1,11 +1,11 @@
 id: 353620414
-type: way
+type: node
 latitude: 49.19693
 longitude: 7.83832
 postcode: "76846"
 city: Hauenstein
-street: "Pirmasenser Straße"
-housenumber: 9
+street: Pirmasenser Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

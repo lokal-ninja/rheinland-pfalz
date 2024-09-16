@@ -4,8 +4,8 @@ latitude: 50.19365
 longitude: 7.15389
 postcode: "56814"
 city: Landkern
-street: "Hauptstraße"
-housenumber: 52
-phone: "+49 2653 6227"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00"
-website: "https://www.subaru-eifel-mosel.de/"
+street: Hauptstraße
+housenumber: "52"
+phone: +49 2653 6227
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00
+website: https://www.subaru-eifel-mosel.de/

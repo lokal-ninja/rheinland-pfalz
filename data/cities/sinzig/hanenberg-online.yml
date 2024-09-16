@@ -1,11 +1,11 @@
 id: 383095908
-type: way
+type: node
 latitude: 50.55623
 longitude: 7.22316
 postcode: "53489"
 city: Sinzig
-street: "Hauptstraße"
-housenumber: 23
+street: Hauptstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.edv-sinzig.de/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.edv-sinzig.de/

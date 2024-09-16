@@ -4,8 +4,8 @@ latitude: 49.32064
 longitude: 8.41778
 postcode: "67346"
 city: Speyer
-street: "Lessingstraße"
-housenumber: 2
+street: Lessingstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:00-13:00; Su,PH 08:00-11:00"
-website: "https://baeckerei-wilhelmi.de"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:00-13:00; Su,PH 08:00-11:00
+website: https://baeckerei-wilhelmi.de

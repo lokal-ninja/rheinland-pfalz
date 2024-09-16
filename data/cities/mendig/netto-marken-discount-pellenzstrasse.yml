@@ -1,11 +1,11 @@
 id: 332472358
-type: way
+type: node
 latitude: 50.37582
 longitude: 7.26207
 postcode: "56743"
 city: Mendig
-street: "Pellenzstraße"
-housenumber: 114
+street: Pellenzstraße
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

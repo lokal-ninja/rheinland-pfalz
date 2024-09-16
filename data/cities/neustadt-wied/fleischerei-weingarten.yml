@@ -1,11 +1,11 @@
 id: 221926335
-type: way
+type: node
 latitude: 50.62337
 longitude: 7.42711
 postcode: "53577"
 city: Neustadt (Wied)
-street: "Kirchplatz"
-housenumber: 5
-phone: "+49-2683-31263"
+street: Kirchplatz
+housenumber: "5"
+phone: +49-2683-31263
 opening_hours: ""
-website: "https://www.fleischerei-weingarten.de/"
+website: https://www.fleischerei-weingarten.de/

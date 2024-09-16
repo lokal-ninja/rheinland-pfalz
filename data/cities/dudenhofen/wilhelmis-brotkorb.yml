@@ -4,8 +4,8 @@ latitude: 49.31607
 longitude: 8.3891
 postcode: "67373"
 city: Dudenhofen
-street: "Landauer Straße"
-housenumber: 2
-phone: "+49 6232 990252"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-13:00; Su 08:00-13:00"
-website: "https://www.baeckerei-wilhelmi.de/"
+street: Landauer Straße
+housenumber: "2"
+phone: +49 6232 990252
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-13:00; Su 08:00-13:00
+website: https://www.baeckerei-wilhelmi.de/

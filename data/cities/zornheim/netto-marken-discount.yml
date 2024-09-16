@@ -1,11 +1,11 @@
 id: 255040921
-type: way
+type: node
 latitude: 49.88999
 longitude: 8.2202
 postcode: "55270"
 city: Zornheim
-street: "Pfortengewann"
-housenumber: 1
+street: Pfortengewann
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/filialen/zornheim/pfortengewann-1/3816"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/filialen/zornheim/pfortengewann-1/3816

@@ -1,11 +1,11 @@
 id: 115151915
-type: way
+type: node
 latitude: 50.2388
 longitude: 7.15833
 postcode: "56759"
 city: Kaisersesch
-street: "Werner-von-Siemens-Straße"
-housenumber: 6
+street: Werner-von-Siemens-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00; Sa 08:00-12:00
 website: ""

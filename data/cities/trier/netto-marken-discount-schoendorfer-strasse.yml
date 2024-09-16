@@ -1,11 +1,11 @@
 id: 126897888
-type: way
+type: node
 latitude: 49.76324
 longitude: 6.65725
 postcode: "54292"
 city: Trier
-street: "Schöndorfer Straße"
-housenumber: 84
+street: Schöndorfer Straße
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

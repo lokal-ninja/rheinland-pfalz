@@ -1,11 +1,11 @@
 id: 235219698
-type: way
+type: node
 latitude: 50.36741
 longitude: 7.59927
 postcode: "56070"
 city: Koblenz
-street: "Neuendorfer Straße"
-housenumber: 39
+street: Neuendorfer Straße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

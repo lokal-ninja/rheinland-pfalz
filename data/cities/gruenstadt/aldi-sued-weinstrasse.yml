@@ -1,11 +1,11 @@
 id: 1195652594
-type: way
+type: node
 latitude: 49.57557
 longitude: 8.16489
 postcode: "67269"
 city: Grünstadt
-street: "Weinstraße"
-housenumber: 2
+street: Weinstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

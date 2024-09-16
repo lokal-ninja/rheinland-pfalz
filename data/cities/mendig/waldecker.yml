@@ -4,8 +4,8 @@ latitude: 50.37204
 longitude: 7.28169
 postcode: "56743"
 city: Mendig
-street: "Poststraße"
-housenumber: 14
-phone: "+49 2652 939210"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.waldecker-mendig.de/"
+street: Poststraße
+housenumber: "14"
+phone: +49 2652 939210
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.waldecker-mendig.de/

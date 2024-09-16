@@ -1,11 +1,11 @@
 id: 25919473
-type: way
+type: node
 latitude: 50.35762
 longitude: 7.5758
 postcode: "56073"
 city: Koblenz
-street: "Moselweißer Straße"
-housenumber: 115
+street: Moselweißer Straße
+housenumber: "115"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-sued.de/

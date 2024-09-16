@@ -4,8 +4,8 @@ latitude: 49.10183
 longitude: 7.99884
 postcode: "76887"
 city: Bad Bergzabern
-street: "Marktstraße"
-housenumber: 57
-phone: "+49 6343 989883"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00"
-website: "http://www.reiseland-roth.de"
+street: Marktstraße
+housenumber: "57"
+phone: +49 6343 989883
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00
+website: http://www.reiseland-roth.de

@@ -1,11 +1,11 @@
 id: 107183614
-type: way
+type: node
 latitude: 50.15659
 longitude: 7.54435
 postcode: "56281"
 city: Emmelshausen
-street: "Rhein-Mosel-Straße"
-housenumber: 97
+street: Rhein-Mosel-Straße
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

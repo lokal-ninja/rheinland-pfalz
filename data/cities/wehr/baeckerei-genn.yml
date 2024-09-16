@@ -1,11 +1,12 @@
 id: 490725726
-type: way
+type: node
 latitude: 50.4214
 longitude: 7.21214
 postcode: "56653"
 city: Wehr
-street: "Hauptstraße"
-housenumber: 74
+street: Hauptstraße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo off; Tu-Th 06:00-12:30; Fr 06:00-12:30,14:00-17:00; Sa 06:00-12:00; Su,PH 07:30-10:30"
+opening_hours: Mo off; Tu-Th 06:00-12:30; Fr 06:00-12:30,14:00-17:00; Sa 06:00-12:00;
+    Su,PH 07:30-10:30
 website: ""

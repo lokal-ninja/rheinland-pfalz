@@ -4,8 +4,8 @@ latitude: 49.71605
 longitude: 7.28835
 postcode: "55743"
 city: Idar-Oberstein
-street: "Algenrodter Straße"
-housenumber: 7
-phone: "+49 6781 458700"
-opening_hours: "Mo,Th 09:00-12:00 || Nach telefonischer Terminvereinbarung"
-website: "https://www.faschingskiste.de"
+street: Algenrodter Straße
+housenumber: "7"
+phone: +49 6781 458700
+opening_hours: Mo,Th 09:00-12:00 || "Nach telefonischer Terminvereinbarung"
+website: https://www.faschingskiste.de

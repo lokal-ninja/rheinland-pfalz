@@ -4,8 +4,8 @@ latitude: 49.46175
 longitude: 8.168
 postcode: "67098"
 city: Bad Dürkheim
-street: "Kurgartenstraße"
-housenumber: 3
-phone: "+49 6322 9563430"
-opening_hours: "Tu-Fr 10:00-13:00,14:00-18:00,Sa 11:00-16:00"
-website: "http://www.bohn-apart.de"
+street: Kurgartenstraße
+housenumber: "3"
+phone: +49 6322 9563430
+opening_hours: Tu-Fr 10:00-13:00,14:00-18:00,Sa 11:00-16:00
+website: http://www.bohn-apart.de

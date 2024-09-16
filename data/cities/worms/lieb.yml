@@ -1,11 +1,11 @@
 id: 262580831
-type: way
+type: node
 latitude: 49.63736
 longitude: 8.27386
 postcode: "67551"
 city: Worms
-street: "Paternusstraße"
-housenumber: 63
+street: Paternusstraße
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 70733169
-type: way
+type: node
 latitude: 49.33323
 longitude: 8.44199
 postcode: "67346"
 city: Speyer
-street: "Auestraße"
-housenumber: 31
+street: Auestraße
+housenumber: "31"
 phone: ""
-opening_hours: "Tu-Th 14:30-18:30; Fr 12:00-18:30"
+opening_hours: Tu-Th 14:30-18:30; Fr 12:00-18:30
 website: ""

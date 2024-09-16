@@ -4,8 +4,8 @@ latitude: 50.01618
 longitude: 8.21802
 postcode: "55120"
 city: Mainz
-street: "Westring"
-housenumber: 5
-phone: "+49 6131 686659"
-opening_hours: "Mo-Fr 07:00-13:00,15:00-18:30; Sa 07:00-13:00"
+street: Westring
+housenumber: "5"
+phone: +49 6131 686659
+opening_hours: Mo-Fr 07:00-13:00,15:00-18:30; Sa 07:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 98093747
-type: way
+type: node
 latitude: 49.63594
 longitude: 8.04617
 postcode: "67297"
 city: Marnheim
-street: "Behatonstraße"
-housenumber: 1
+street: Behatonstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 206619083
-type: way
+type: node
 latitude: 49.60111
 longitude: 6.55421
 postcode: "54439"
 city: Saarburg
-street: "Am Saarufer"
-housenumber: 17
-phone: "+496581 99898-0"
+street: Am Saarufer
+housenumber: "17"
+phone: +496581 99898-0
 opening_hours: ""
-website: "https://www.opel-michels-saarburg.de/"
+website: https://www.opel-michels-saarburg.de/

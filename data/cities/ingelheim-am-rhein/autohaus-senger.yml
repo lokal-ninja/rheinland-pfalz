@@ -1,11 +1,11 @@
 id: 230212916
-type: way
+type: node
 latitude: 49.98498
 longitude: 8.05074
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Konrad-Adenauer-Straße"
-housenumber: 
+street: Konrad-Adenauer-Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

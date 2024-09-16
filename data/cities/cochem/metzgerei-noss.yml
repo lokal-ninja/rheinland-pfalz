@@ -4,8 +4,8 @@ latitude: 50.14657
 longitude: 7.16602
 postcode: "56812"
 city: Cochem
-street: "Bernstraße"
-housenumber: 17
-phone: "+49 2671 7778"
+street: Bernstraße
+housenumber: "17"
+phone: +49 2671 7778
 opening_hours: ""
-website: "http://metzgerei-noss.de/"
+website: http://metzgerei-noss.de/

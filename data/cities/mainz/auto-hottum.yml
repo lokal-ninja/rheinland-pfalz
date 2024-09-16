@@ -1,11 +1,11 @@
 id: 66121182
-type: way
+type: node
 latitude: 49.96424
 longitude: 8.25562
 postcode: "55129"
 city: Mainz
-street: "Dekan-Laist-Straße"
-housenumber: 19
+street: Dekan-Laist-Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

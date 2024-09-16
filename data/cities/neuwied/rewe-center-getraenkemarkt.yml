@@ -1,11 +1,11 @@
 id: 35838779
-type: way
+type: node
 latitude: 50.43385
 longitude: 7.487
 postcode: "56564"
 city: Neuwied
-street: "Königsberger Straße"
-housenumber: 4
+street: Königsberger Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

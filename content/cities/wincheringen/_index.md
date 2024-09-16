@@ -1,6 +1,6 @@
 ---
 title: Wincheringen
 url: /wincheringen/
-latitude: 49.61
-longitude: 6.43
+latitude: 49.609
+longitude: 6.425
 ---

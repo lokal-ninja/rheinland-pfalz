@@ -1,11 +1,11 @@
 id: 52433526
-type: way
+type: node
 latitude: 49.84682
 longitude: 8.35338
 postcode: "55276"
 city: Oppenheim
-street: "Wormser Straße"
-housenumber: 112
+street: Wormser Straße
+housenumber: "112"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

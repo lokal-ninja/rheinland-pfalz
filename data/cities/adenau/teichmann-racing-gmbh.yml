@@ -1,11 +1,11 @@
 id: 304343082
-type: way
+type: node
 latitude: 50.37753
 longitude: 6.9477
 postcode: "53518"
 city: Adenau
-street: "Im Broel"
-housenumber: 8
+street: Im Broel
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

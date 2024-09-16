@@ -1,11 +1,11 @@
 id: 782213235
-type: way
+type: node
 latitude: 49.74361
 longitude: 8.14214
 postcode: "55232"
 city: Alzey
-street: "Karl-Heinz-Kipp-Straße"
-housenumber: 12
+street: Karl-Heinz-Kipp-Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://lehmann-autoteile.de/"
+website: https://lehmann-autoteile.de/

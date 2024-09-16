@@ -4,8 +4,8 @@ latitude: 49.32059
 longitude: 8.43705
 postcode: "67346"
 city: Speyer
-street: "Lauergasse"
-housenumber: 6
-phone: "+49 6232 75909"
-opening_hours: "Mo-Fr 05:30-12:00, Sa 08:00-12:00"
+street: Lauergasse
+housenumber: "6"
+phone: +49 6232 75909
+opening_hours: Mo-Fr 05:30-12:00, Sa 08:00-12:00
 website: ""

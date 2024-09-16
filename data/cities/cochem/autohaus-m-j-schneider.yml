@@ -1,11 +1,11 @@
 id: 111206067
-type: way
+type: node
 latitude: 50.13031
 longitude: 7.14904
 postcode: "56812"
 city: Cochem
-street: "Industriering"
-housenumber: 2
-phone: "+49 2671 98870"
+street: Industriering
+housenumber: "2"
+phone: +49 2671 98870
 opening_hours: ""
-website: "http://www.auto-mjs.de"
+website: http://www.auto-mjs.de

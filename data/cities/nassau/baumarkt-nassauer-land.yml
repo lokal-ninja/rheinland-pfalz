@@ -1,11 +1,11 @@
 id: 168639624
-type: way
+type: node
 latitude: 50.31286
 longitude: 7.80074
 postcode: "56377"
 city: Nassau
-street: "Gerhart-Hauptmann-Straße"
-housenumber: 10
+street: Gerhart-Hauptmann-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00, Sa 08:00-14:00"
+opening_hours: Mo-Fr 07:30-18:00, Sa 08:00-14:00
 website: ""

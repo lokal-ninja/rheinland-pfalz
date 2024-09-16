@@ -1,11 +1,11 @@
 id: 193457745
-type: way
+type: node
 latitude: 49.78439
 longitude: 7.66245
 postcode: "55566"
 city: Bad Sobernheim
-street: "Staudernheimer Straße"
-housenumber: 57
+street: Staudernheimer Straße
+housenumber: "57"
 phone: ""
 opening_hours: ""
-website: "https://www.sanomed.de/"
+website: https://www.sanomed.de/

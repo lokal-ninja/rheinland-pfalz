@@ -4,8 +4,9 @@ latitude: 49.32608
 longitude: 8.41724
 postcode: "67346"
 city: Speyer
-street: "Kurt-Schumacher-Straße"
-housenumber: 7
-phone: "+49 6232 1213164"
-opening_hours: "Mo,Tu 10:00-12:00,14:15-19:00; We 10:00-13:00; Th,Fr 10:00-12:00,14:30-19:00; Sa 10:00-15:00"
-website: "http://www.wasserbetten-wiegus.de/"
+street: Kurt-Schumacher-Straße
+housenumber: "7"
+phone: +49 6232 1213164
+opening_hours: Mo,Tu 10:00-12:00,14:15-19:00; We 10:00-13:00; Th,Fr 10:00-12:00,14:30-19:00;
+    Sa 10:00-15:00
+website: http://www.wasserbetten-wiegus.de/

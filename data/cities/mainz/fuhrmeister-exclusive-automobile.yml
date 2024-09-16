@@ -1,11 +1,11 @@
 id: 63337807
-type: way
+type: node
 latitude: 49.95897
 longitude: 8.26415
 postcode: "55129"
 city: Mainz
-street: "Robert-Bosch-Straße"
-housenumber: 7
-phone: "+49 6131 603750"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://www.fuhrmeister.de/"
+street: Robert-Bosch-Straße
+housenumber: "7"
+phone: +49 6131 603750
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00; Su,PH off
+website: https://www.fuhrmeister.de/

@@ -4,8 +4,8 @@ latitude: 49.76266
 longitude: 6.64905
 postcode: "54292"
 city: Trier
-street: "Paulinstraße"
-housenumber: 61
-phone: "+49 6501 9227810"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.sportnahrung-engel.de/"
+street: Paulinstraße
+housenumber: "61"
+phone: +49 6501 9227810
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.sportnahrung-engel.de/

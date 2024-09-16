@@ -4,8 +4,8 @@ latitude: 49.74609
 longitude: 8.13798
 postcode: "55232"
 city: Alzey
-street: "Karl-Heinz-Kipp-Straße"
-housenumber: 23
-phone: "+49 6731 5480"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.mediamarkt.de/de/store/alzey-252"
+street: Karl-Heinz-Kipp-Straße
+housenumber: "23"
+phone: +49 6731 5480
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.mediamarkt.de/de/store/alzey-252

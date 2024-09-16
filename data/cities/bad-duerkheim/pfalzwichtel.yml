@@ -4,8 +4,8 @@ latitude: 49.46195
 longitude: 8.16712
 postcode: "67098"
 city: Bad Dürkheim
-street: "Weinstraße Nord"
-housenumber: 9
-phone: "+49 176 61683617"
-opening_hours: "Mo,Tu,Th,Fr 10:30-16:30; Sa 11:00-15:00; We,Su off"
+street: Weinstraße Nord
+housenumber: "9"
+phone: +49 176 61683617
+opening_hours: Mo,Tu,Th,Fr 10:30-16:30; Sa 11:00-15:00; We,Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 1052615056
-type: way
+type: node
 latitude: 50.40515
 longitude: 7.47019
 postcode: "56220"
 city: Kettig
-street: "Im Hundel"
-housenumber: 2
-phone: "+49 180 6949400"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-17:00; PH off"
-website: "https://www.kraemer.de"
+street: Im Hundel
+housenumber: "2"
+phone: +49 180 6949400
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-17:00; PH off
+website: https://www.kraemer.de

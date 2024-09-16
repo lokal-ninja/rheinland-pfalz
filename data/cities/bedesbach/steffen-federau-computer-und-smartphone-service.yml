@@ -1,11 +1,11 @@
 id: 360320782
-type: way
+type: node
 latitude: 49.56811
 longitude: 7.46088
 postcode: "66885"
 city: Bedesbach
-street: "Hauptstraße"
-housenumber: 24
+street: Hauptstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

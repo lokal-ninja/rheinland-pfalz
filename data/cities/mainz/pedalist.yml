@@ -4,8 +4,8 @@ latitude: 50.00822
 longitude: 8.26563
 postcode: "55118"
 city: Mainz
-street: "Adam-Karrillon-Straße"
-housenumber: 44
-phone: "+49 6131 5534260"
-opening_hours: "Tu-Fr 10:00-19:00"
-website: "https://www.pedalist.de"
+street: Adam-Karrillon-Straße
+housenumber: "44"
+phone: +49 6131 5534260
+opening_hours: Tu-Fr 10:00-19:00
+website: https://www.pedalist.de

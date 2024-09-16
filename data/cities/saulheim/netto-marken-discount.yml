@@ -1,11 +1,11 @@
 id: 51981314
-type: way
+type: node
 latitude: 49.87191
 longitude: 8.14636
 postcode: "55291"
 city: Saulheim
-street: "Ritter-Hundt-Straße"
-housenumber: 1
+street: Ritter-Hundt-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.netto-online.de/filialen/saulheim/ritter-hundt-str-1/3970"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.netto-online.de/filialen/saulheim/ritter-hundt-str-1/3970

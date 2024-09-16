@@ -1,11 +1,11 @@
 id: 238231822
-type: way
+type: node
 latitude: 49.28693
 longitude: 8.13746
 postcode: "67480"
 city: Edenkoben
-street: "Luitpoldstraße"
-housenumber: 73
+street: Luitpoldstraße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://kissel-sbk.de/maerkte/edeka-kissel-sbk-edenkoben/"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://kissel-sbk.de/maerkte/edeka-kissel-sbk-edenkoben/

@@ -1,11 +1,11 @@
 id: 113858911
-type: way
+type: node
 latitude: 50.76187
 longitude: 7.68718
 postcode: "57577"
 city: Hamm (Sieg)
-street: "Thalhauser Straße"
-housenumber: 1
+street: Thalhauser Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

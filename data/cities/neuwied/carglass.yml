@@ -1,11 +1,11 @@
 id: 329981496
-type: way
+type: node
 latitude: 50.44352
 longitude: 7.46883
 postcode: "56564"
 city: Neuwied
-street: "Berggärtenstraße"
-housenumber: 40
+street: Berggärtenstraße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.36103
 longitude: 7.59544
 postcode: "56068"
 city: Koblenz
-street: "An der Liebfrauenkirche"
-housenumber: 11
+street: An der Liebfrauenkirche
+housenumber: "11"
 phone: ""
-opening_hours: "Mo off; Tu-Sa 11:00-19:00; Su 13:00-18:00"
-website: "https://www.bazaar-of-wunderbar.de/"
+opening_hours: Mo off; Tu-Sa 11:00-19:00; Su 13:00-18:00
+website: https://www.bazaar-of-wunderbar.de/

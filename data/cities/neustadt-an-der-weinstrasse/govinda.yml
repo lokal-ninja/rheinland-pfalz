@@ -1,11 +1,11 @@
 id: 766076896
-type: way
+type: node
 latitude: 49.33821
 longitude: 8.17047
 postcode: "67433"
 city: Neustadt an der Weinstraße
-street: "Joseph-Monier-Straße"
-housenumber: 12
-phone: "+49 6321 499300"
-opening_hours: "Mo-Fr 10:00-16:30"
-website: "https://www.govinda-natur.de/"
+street: Joseph-Monier-Straße
+housenumber: "12"
+phone: +49 6321 499300
+opening_hours: Mo-Fr 10:00-16:30
+website: https://www.govinda-natur.de/

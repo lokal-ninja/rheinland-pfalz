@@ -4,8 +4,8 @@ latitude: 50.0298
 longitude: 7.16327
 postcode: "56856"
 city: Zell (Mosel)
-street: "Barlstraße"
-housenumber: 28
-phone: "+49 6542 969740"
-opening_hours: "Mo-Th 07:30-12:00,13:00-16:00; Fr 07:30-13:00"
-website: "https://www.stuelb-fenster.de/"
+street: Barlstraße
+housenumber: "28"
+phone: +49 6542 969740
+opening_hours: Mo-Th 07:30-12:00,13:00-16:00; Fr 07:30-13:00
+website: https://www.stuelb-fenster.de/

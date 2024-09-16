@@ -1,11 +1,11 @@
 id: 611880853
-type: way
+type: node
 latitude: 49.90583
 longitude: 7.03494
 postcode: "54470"
 city: Bernkastel-Kues
-street: "Junkerland"
-housenumber: 14
+street: Junkerland
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.34092
 longitude: 8.1585
 postcode: "67433"
 city: Neustadt an der Weinstraße
-street: "Chemnitzer Straße"
-housenumber: 33
-phone: "+49 6321 39780"
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://www.mediamarkt.de/de/store/neustadt-268"
+street: Chemnitzer Straße
+housenumber: "33"
+phone: +49 6321 39780
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://www.mediamarkt.de/de/store/neustadt-268

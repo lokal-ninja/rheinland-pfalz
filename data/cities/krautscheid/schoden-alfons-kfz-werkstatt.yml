@@ -1,11 +1,11 @@
 id: 205822512
-type: way
+type: node
 latitude: 50.06569
 longitude: 6.33163
 postcode: "54673"
 city: Krautscheid
-street: "Schildwachstraße"
-housenumber: 2
-phone: "+49 6554 628"
+street: Schildwachstraße
+housenumber: "2"
+phone: +49 6554 628
 opening_hours: ""
 website: ""

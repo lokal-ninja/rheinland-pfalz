@@ -1,11 +1,11 @@
 id: 754852072
-type: way
+type: node
 latitude: 49.96786
 longitude: 7.89663
 postcode: "55411"
 city: Bingen am Rhein
-street: "Kapuzinerstraße"
-housenumber: 20
+street: Kapuzinerstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:00; PH,Su 11:00-22:00"
+opening_hours: Mo-Sa 10:00-22:00; PH,Su 11:00-22:00
 website: ""

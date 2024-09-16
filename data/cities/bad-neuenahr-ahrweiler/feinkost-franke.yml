@@ -1,11 +1,11 @@
 id: 379949444
-type: way
+type: node
 latitude: 50.54573
 longitude: 7.13961
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Jesuitenstraße"
-housenumber: 8
+street: Jesuitenstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

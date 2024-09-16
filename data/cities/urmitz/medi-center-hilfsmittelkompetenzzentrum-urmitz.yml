@@ -1,11 +1,11 @@
 id: 299341301
-type: way
+type: node
 latitude: 50.4129
 longitude: 7.52718
 postcode: "56220"
 city: Urmitz
-street: "Brucknerstraße"
-housenumber: 27
-phone: "+49 261 460910"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su off"
-website: "https://medi-center.de/"
+street: Brucknerstraße
+housenumber: "27"
+phone: +49 261 460910
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su off
+website: https://medi-center.de/

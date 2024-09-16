@@ -1,11 +1,11 @@
 id: 838151661
-type: way
+type: node
 latitude: 50.69414
 longitude: 7.65287
 postcode: "57610"
 city: Altenkirchen
-street: "Siegener Straße"
-housenumber: 65
+street: Siegener Straße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://www.ak-blumenzimmer.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://www.ak-blumenzimmer.de/

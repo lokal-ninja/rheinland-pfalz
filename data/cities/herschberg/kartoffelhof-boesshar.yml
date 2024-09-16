@@ -1,11 +1,11 @@
 id: 401643604
-type: way
+type: node
 latitude: 49.30518
 longitude: 7.54709
 postcode: "66919"
 city: Herschberg
-street: "Thaleischweiler Straße"
-housenumber: 4
+street: Thaleischweiler Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

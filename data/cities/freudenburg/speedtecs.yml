@@ -1,11 +1,11 @@
 id: 260659778
-type: way
+type: node
 latitude: 49.54458
 longitude: 6.52758
 postcode: "54450"
 city: Freudenburg
-street: "Appoigny-Straße"
-housenumber: 6
-phone: "+49 6838 9814128"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.speedtecs.de/"
+street: Appoigny-Straße
+housenumber: "6"
+phone: +49 6838 9814128
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.speedtecs.de/

@@ -1,11 +1,11 @@
 id: 535233488
-type: way
+type: node
 latitude: 50.03479
 longitude: 6.52773
 postcode: "54636"
 city: Fließem
-street: "Am Ufo"
-housenumber: 5
+street: Am Ufo
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

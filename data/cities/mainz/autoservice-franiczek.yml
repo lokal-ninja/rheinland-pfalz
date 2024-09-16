@@ -1,11 +1,11 @@
 id: 191889222
-type: way
+type: node
 latitude: 49.97767
 longitude: 8.28907
 postcode: "55130"
 city: Mainz
-street: "Heiligkreuzweg"
-housenumber: 106
-phone: "+49 6131 5531016"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"
-website: "https://www.afs-mainz.de"
+street: Heiligkreuzweg
+housenumber: "106"
+phone: +49 6131 5531016
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:00
+website: https://www.afs-mainz.de

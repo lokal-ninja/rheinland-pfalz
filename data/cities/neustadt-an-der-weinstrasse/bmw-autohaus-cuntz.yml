@@ -4,8 +4,8 @@ latitude: 49.33983
 longitude: 8.15212
 postcode: "67433"
 city: Neustadt an der Weinstraße
-street: "Europastraße"
-housenumber: 28
-phone: "+49 6321 49940"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-14:00"
-website: "https://www.autohaus-cuntz.de/de/standorte/neustadt.html"
+street: Europastraße
+housenumber: "28"
+phone: +49 6321 49940
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-14:00
+website: https://www.autohaus-cuntz.de/de/standorte/neustadt.html

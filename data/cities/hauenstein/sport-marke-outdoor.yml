@@ -1,11 +1,11 @@
 id: 345051448
-type: way
+type: node
 latitude: 49.19869
 longitude: 7.83617
 postcode: "76846"
 city: Hauenstein
-street: "Industriestraße"
-housenumber: 1
+street: Industriestraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

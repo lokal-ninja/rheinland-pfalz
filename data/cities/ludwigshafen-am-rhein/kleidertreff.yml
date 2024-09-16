@@ -4,8 +4,9 @@ latitude: 49.49229
 longitude: 8.41978
 postcode: "67063"
 city: Ludwigshafen am Rhein
-street: "Hohenzollernstraße"
-housenumber: 71
-phone: "+49 621 63697181"
-opening_hours: "Mo 09:00-16:30, We 09:00-17:30, Th 09:00-16:30, Fr 09:00-13:00; PH off"
+street: Hohenzollernstraße
+housenumber: "71"
+phone: +49 621 63697181
+opening_hours: Mo 09:00-16:30, We 09:00-17:30, Th 09:00-16:30, Fr 09:00-13:00; PH
+    off
 website: ""

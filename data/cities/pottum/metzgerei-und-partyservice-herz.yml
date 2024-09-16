@@ -1,11 +1,11 @@
 id: 313399628
-type: way
+type: node
 latitude: 50.59747
 longitude: 7.99935
 postcode: "56459"
 city: Pottum
-street: "Hauptstraße"
-housenumber: 34
+street: Hauptstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

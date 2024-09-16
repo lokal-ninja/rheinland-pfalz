@@ -1,11 +1,11 @@
 id: 476604408
-type: way
+type: node
 latitude: 50.19916
 longitude: 7.18006
 postcode: "56814"
 city: Illerich
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 46A
-phone: "+49 2653 8199"
-opening_hours: "Tu-Fr 09:00-12:30,15:00-19:00; Sa 07:00-13:00"
+phone: +49 2653 8199
+opening_hours: Tu-Fr 09:00-12:30,15:00-19:00; Sa 07:00-13:00
 website: ""

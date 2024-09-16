@@ -1,11 +1,11 @@
 id: 328236291
-type: way
+type: node
 latitude: 50.35474
 longitude: 7.21981
 postcode: "56729"
 city: Ettringen
-street: "Alte Schulstraße"
-housenumber: 34
+street: Alte Schulstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

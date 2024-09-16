@@ -4,8 +4,8 @@ latitude: 49.32944
 longitude: 8.12961
 postcode: ""
 city: Neustadt an der Weinstraße
-street: "Weinstraße"
-housenumber: 240
-phone: "+49 6321 32044"
-opening_hours: "Mo 17:00+; Fr 17:00-20:00; Sa-Su 12:00-20:00"
-website: "http://www.fuxbau.biz/"
+street: Weinstraße
+housenumber: "240"
+phone: +49 6321 32044
+opening_hours: Mo 17:00+; Fr 17:00-20:00; Sa-Su 12:00-20:00
+website: http://www.fuxbau.biz/

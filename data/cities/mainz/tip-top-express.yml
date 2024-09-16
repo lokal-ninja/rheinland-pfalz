@@ -4,8 +4,8 @@ latitude: 50.00872
 longitude: 8.26273
 postcode: "55118"
 city: Mainz
-street: "Frauenlobstraße"
-housenumber: 9
+street: Frauenlobstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:00
 website: ""

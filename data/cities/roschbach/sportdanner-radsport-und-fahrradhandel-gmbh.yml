@@ -1,11 +1,11 @@
 id: 103734818
-type: way
+type: node
 latitude: 49.24479
 longitude: 8.11376
 postcode: "76835"
 city: Roschbach
-street: "Riedstraße"
-housenumber: 3
+street: Riedstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

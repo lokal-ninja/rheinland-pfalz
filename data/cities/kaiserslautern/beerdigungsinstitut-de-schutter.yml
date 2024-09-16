@@ -1,11 +1,11 @@
 id: 198288377
-type: way
+type: node
 latitude: 49.48841
 longitude: 7.68593
 postcode: "67661"
 city: Kaiserslautern
-street: "Otto-Hahn-Straße"
-housenumber: 6
+street: Otto-Hahn-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

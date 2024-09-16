@@ -1,11 +1,11 @@
 id: 742298598
-type: way
+type: node
 latitude: 49.98676
 longitude: 7.12117
 postcode: "56850"
 city: Enkirch
-street: "Bahnhofstraße"
-housenumber: 24
+street: Bahnhofstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

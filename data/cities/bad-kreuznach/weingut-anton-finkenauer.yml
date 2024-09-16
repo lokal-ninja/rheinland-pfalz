@@ -4,8 +4,8 @@ latitude: 49.8369
 longitude: 7.85987
 postcode: "55543"
 city: Bad Kreuznach
-street: "Rheingrafenstraße"
-housenumber: 15
+street: Rheingrafenstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-16:00
 website: ""

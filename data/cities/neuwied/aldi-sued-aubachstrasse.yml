@@ -1,11 +1,11 @@
 id: 263823032
-type: way
+type: node
 latitude: 50.46437
 longitude: 7.48027
 postcode: "56567"
 city: Neuwied
-street: "Aubachstraße"
-housenumber: 77
+street: Aubachstraße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su, PH off"
-website: "https://www.aldi-sued.de"
+opening_hours: Mo-Sa 07:00-20:00; Su, PH off
+website: https://www.aldi-sued.de

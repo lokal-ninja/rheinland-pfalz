@@ -1,11 +1,11 @@
 id: 424274363
-type: way
+type: node
 latitude: 49.37291
 longitude: 8.16531
 postcode: ""
 city: Neustadt an der Weinstraße
-street: "Kurpfalzstraße"
-housenumber: 76
-phone: "+49 6321 6173"
+street: Kurpfalzstraße
+housenumber: "76"
+phone: +49 6321 6173
 opening_hours: ""
-website: "https://www.weingut-estelmann.de/"
+website: https://www.weingut-estelmann.de/

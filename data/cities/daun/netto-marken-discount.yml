@@ -1,11 +1,11 @@
 id: 285467632
-type: way
+type: node
 latitude: 50.19522
 longitude: 6.83311
 postcode: "54550"
 city: Daun
-street: "Bahnhofstraße"
-housenumber: 8
+street: Bahnhofstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

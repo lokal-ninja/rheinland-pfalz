@@ -1,11 +1,11 @@
 id: 132704324
-type: way
+type: node
 latitude: 49.26341
 longitude: 8.40207
 postcode: "67354"
 city: Römerberg
-street: "Philippsburger Straße"
-housenumber: 17
+street: Philippsburger Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

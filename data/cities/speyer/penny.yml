@@ -1,11 +1,11 @@
 id: 212046534
-type: way
+type: node
 latitude: 49.31885
 longitude: 8.42099
 postcode: "67346"
 city: Speyer
-street: "Dudenhofer Straße"
-housenumber: 10
+street: Dudenhofer Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:30; Su,PH off"
-website: "https://www.penny.de"
+opening_hours: Mo-Sa 07:30-21:30; Su,PH off
+website: https://www.penny.de

@@ -4,8 +4,8 @@ latitude: 49.54161
 longitude: 8.40332
 postcode: "67069"
 city: Ludwigshafen am Rhein
-street: "Muldenstraße"
-housenumber: 10
-phone: "+49 621 664041"
-opening_hours: "Mo-Fr 8:00-18:00; Sa 8:00-13:00"
-website: "https://www.firststop.de/filialen/detail/?filId=0588&city=Ludwigshafen"
+street: Muldenstraße
+housenumber: "10"
+phone: +49 621 664041
+opening_hours: Mo-Fr 8:00-18:00; Sa 8:00-13:00
+website: https://www.firststop.de/filialen/detail/?filId=0588&city=Ludwigshafen

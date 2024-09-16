@@ -4,8 +4,8 @@ latitude: 49.63956
 longitude: 8.36278
 postcode: "67547"
 city: Worms
-street: "Prinz-Carl-Anlage"
-housenumber: 22
-phone: "+49 6241 206010"
-opening_hours: "Mo-Do 08:00-16:00"
-website: "https://www.nibelungentee.de"
+street: Prinz-Carl-Anlage
+housenumber: "22"
+phone: +49 6241 206010
+opening_hours: Mo-Do 08:00-16:00
+website: https://www.nibelungentee.de

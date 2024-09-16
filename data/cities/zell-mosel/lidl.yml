@@ -1,11 +1,11 @@
 id: 239221418
-type: way
+type: node
 latitude: 50.02989
 longitude: 7.15913
 postcode: "56856"
 city: Zell (Mosel)
-street: "Zur alten Schanze"
-housenumber: 7
+street: Zur alten Schanze
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

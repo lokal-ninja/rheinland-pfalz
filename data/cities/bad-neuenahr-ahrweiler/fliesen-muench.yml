@@ -1,11 +1,11 @@
 id: 382493423
-type: way
+type: node
 latitude: 50.54524
 longitude: 7.12913
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Sebastianstraße"
-housenumber: 12
-phone: "+49 2641 903240"
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00, 14:00-18:00; Sa 10:00-14:00; We,Su,PH off"
-website: "https://fliesenmuench.de"
+street: Sebastianstraße
+housenumber: "12"
+phone: +49 2641 903240
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00, 14:00-18:00; Sa 10:00-14:00; We,Su,PH off
+website: https://fliesenmuench.de

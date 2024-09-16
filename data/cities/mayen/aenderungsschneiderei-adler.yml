@@ -4,8 +4,8 @@ latitude: 50.32696
 longitude: 7.22495
 postcode: "56727"
 city: Mayen
-street: "Am Neutor"
-housenumber: 4
-phone: "+49 2651 901966"
-opening_hours: "Mo-Fr 08:30-13:00,14:00-18:00; Sa 08:30-13:00; PH closed"
+street: Am Neutor
+housenumber: "4"
+phone: +49 2651 901966
+opening_hours: Mo-Fr 08:30-13:00,14:00-18:00; Sa 08:30-13:00; PH closed
 website: ""

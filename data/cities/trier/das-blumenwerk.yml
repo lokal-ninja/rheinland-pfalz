@@ -4,8 +4,8 @@ latitude: 49.74593
 longitude: 6.63539
 postcode: "54290"
 city: Trier
-street: "Saarstraße"
-housenumber: 65
+street: Saarstraße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-14:00"
-website: "http://www.das-blumenwerk.com/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-14:00
+website: http://www.das-blumenwerk.com/

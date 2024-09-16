@@ -4,8 +4,8 @@ latitude: 50.32621
 longitude: 7.24526
 postcode: "56727"
 city: Mayen
-street: "Marktstraße"
-housenumber: 21
-phone: "+49 2651 96650"
-opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-16:00"
-website: "https://www.intersport-krumholz.de/filialen/intersport-krumholz-mayen"
+street: Marktstraße
+housenumber: "21"
+phone: +49 2651 96650
+opening_hours: Mo-Fr 09:30-18:30, Sa 09:30-16:00
+website: https://www.intersport-krumholz.de/filialen/intersport-krumholz-mayen

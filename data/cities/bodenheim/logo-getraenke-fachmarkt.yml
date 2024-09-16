@@ -1,11 +1,11 @@
 id: 419010277
-type: way
+type: node
 latitude: 49.92632
 longitude: 8.32475
 postcode: "55294"
 city: Bodenheim
-street: "Lange Ruthe"
-housenumber: 
+street: Lange Ruthe
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

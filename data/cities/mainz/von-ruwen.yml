@@ -4,8 +4,8 @@ latitude: 49.99661
 longitude: 8.27529
 postcode: "55116"
 city: Mainz
-street: "Augustinerstraße"
-housenumber: 24
+street: Augustinerstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://vonruwen.de/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://vonruwen.de/

@@ -1,11 +1,11 @@
 id: 227351220
-type: way
+type: node
 latitude: 49.9703
 longitude: 8.02103
 postcode: "55435"
 city: Gau-Algesheim
-street: "Rheinstraße"
-housenumber: 50
-phone: "+49 6725 93450"
+street: Rheinstraße
+housenumber: "50"
+phone: +49 6725 93450
 opening_hours: ""
-website: "https://www.schaberger.de/"
+website: https://www.schaberger.de/

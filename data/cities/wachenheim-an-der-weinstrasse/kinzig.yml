@@ -1,11 +1,11 @@
 id: 330894034
-type: way
+type: node
 latitude: 49.44441
 longitude: 8.17846
 postcode: "67157"
 city: Wachenheim an der Weinstraße
-street: "Weinstraße"
-housenumber: 94
+street: Weinstraße
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

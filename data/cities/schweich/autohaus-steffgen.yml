@@ -1,11 +1,11 @@
 id: 110399344
-type: way
+type: node
 latitude: 49.82024
 longitude: 6.7441
 postcode: "54338"
 city: Schweich
-street: "In den Schlimmfuhren"
-housenumber: 1
+street: In den Schlimmfuhren
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 217173821
-type: way
+type: node
 latitude: 49.5366
 longitude: 8.02849
 postcode: "67305"
 city: Ramsen
-street: "Pfaffenhecke"
-housenumber: 31
+street: Pfaffenhecke
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

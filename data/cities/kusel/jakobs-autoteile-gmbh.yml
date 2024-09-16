@@ -1,11 +1,11 @@
 id: 242351947
-type: way
+type: node
 latitude: 49.54166
 longitude: 7.42813
 postcode: "66869"
 city: Kusel
-street: "Industriestraße"
-housenumber: 35
+street: Industriestraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

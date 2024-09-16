@@ -4,8 +4,8 @@ latitude: 50.08841
 longitude: 6.27554
 postcode: "54687"
 city: Arzfeld
-street: "Hauptstraße"
-housenumber: 15
-phone: "+49 6550 1230"
-opening_hours: "Mo 05:00-13:30; Tu-Fr 05:00-17:30; Sa 05:00-13:30; Su 06:00-11:30"
-website: "https://www.kylls-backstube.de/"
+street: Hauptstraße
+housenumber: "15"
+phone: +49 6550 1230
+opening_hours: Mo 05:00-13:30; Tu-Fr 05:00-17:30; Sa 05:00-13:30; Su 06:00-11:30
+website: https://www.kylls-backstube.de/

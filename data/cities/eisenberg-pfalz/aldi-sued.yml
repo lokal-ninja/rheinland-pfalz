@@ -1,11 +1,11 @@
 id: 103300123
-type: way
+type: node
 latitude: 49.55834
 longitude: 8.08597
 postcode: "67304"
 city: Eisenberg (Pfalz)
-street: "Am Gielbrunnen"
-housenumber: 2
+street: Am Gielbrunnen
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

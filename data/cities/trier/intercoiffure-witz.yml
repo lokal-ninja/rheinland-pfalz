@@ -4,8 +4,8 @@ latitude: 49.7625
 longitude: 6.64878
 postcode: "54292"
 city: Trier
-street: "Paulinstraße"
-housenumber: 57
-phone: "+49 651 25577"
-opening_hours: "Tu-Fr 09:30-19:00; Sa 09:30-15:30; Su,Mo off"
-website: "www.friseur-witz.de"
+street: Paulinstraße
+housenumber: "57"
+phone: +49 651 25577
+opening_hours: Tu-Fr 09:30-19:00; Sa 09:30-15:30; Su,Mo off
+website: www.friseur-witz.de

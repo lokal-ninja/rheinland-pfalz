@@ -1,11 +1,11 @@
 id: 156517795
-type: way
+type: node
 latitude: 49.44677
 longitude: 8.36106
 postcode: "67112"
 city: Mutterstadt
-street: "Ludwigshafener Straße"
-housenumber: 52
+street: Ludwigshafener Straße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

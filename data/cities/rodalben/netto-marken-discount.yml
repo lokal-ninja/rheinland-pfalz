@@ -1,11 +1,11 @@
 id: 974843529
-type: way
+type: node
 latitude: 49.23535
 longitude: 7.65655
 postcode: "66976"
 city: Rodalben
-street: "Neuhofstraße"
+street: Neuhofstraße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

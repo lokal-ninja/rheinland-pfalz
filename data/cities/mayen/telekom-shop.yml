@@ -4,8 +4,8 @@ latitude: 50.32908
 longitude: 7.22257
 postcode: "56727"
 city: Mayen
-street: "Marktstraße"
-housenumber: 9
-phone: "+49 2651 4967203"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
+street: Marktstraße
+housenumber: "9"
+phone: +49 2651 4967203
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
 website: ""

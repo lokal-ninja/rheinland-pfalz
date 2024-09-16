@@ -1,11 +1,11 @@
 id: 183184727
-type: way
+type: node
 latitude: 49.3555
 longitude: 8.15312
 postcode: "67433"
 city: Neustadt an der Weinstraße
-street: "Martin-Luther-Straße"
-housenumber: 58
+street: Martin-Luther-Straße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Neustadt%20an%20der%20Weinstra%C3%9Fe&Mode=None#"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Neustadt%20an%20der%20Weinstra%C3%9Fe&Mode=None#

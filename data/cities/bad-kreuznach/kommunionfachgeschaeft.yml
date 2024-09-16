@@ -4,8 +4,8 @@ latitude: 49.8109
 longitude: 7.84513
 postcode: "55583"
 city: Bad Kreuznach
-street: "Berliner Straße"
-housenumber: 56
+street: Berliner Straße
+housenumber: "56"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

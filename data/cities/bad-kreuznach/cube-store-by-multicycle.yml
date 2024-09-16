@@ -1,11 +1,11 @@
 id: 387172595
-type: way
+type: node
 latitude: 49.84898
 longitude: 7.88776
 postcode: "55543"
 city: Bad Kreuznach
-street: "Schwabenheimer Weg"
-housenumber: 54
-phone: "+49 671 21547320"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-15:00; Su,PH off"
-website: "https://multicycle.de/cube-store-bad-kreuznach"
+street: Schwabenheimer Weg
+housenumber: "54"
+phone: +49 671 21547320
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:00-15:00; Su,PH off
+website: https://multicycle.de/cube-store-bad-kreuznach

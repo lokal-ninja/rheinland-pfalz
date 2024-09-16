@@ -1,11 +1,11 @@
 id: 485579365
-type: way
+type: node
 latitude: 50.39358
 longitude: 7.5248
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Auf dem Hahnenberg"
+street: Auf dem Hahnenberg
 housenumber: 2a
-phone: "+49 2630 529330"
-opening_hours: "Mo-Fr 10:00-19:30; Sa 10:00-16:30; PH off"
-website: "http://www.sukanya.de"
+phone: +49 2630 529330
+opening_hours: Mo-Fr 10:00-19:30; Sa 10:00-16:30; PH off
+website: http://www.sukanya.de

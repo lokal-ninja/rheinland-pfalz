@@ -4,8 +4,8 @@ latitude: 49.77195
 longitude: 6.72079
 postcode: "54318"
 city: Mertesdorf
-street: "Hauptstraße"
-housenumber: 4
+street: Hauptstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Nach Vereinbarung"
+opening_hours: '"Nach Vereinbarung"'
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.36686
 longitude: 8.25804
 postcode: "67454"
 city: Haßloch
-street: "Bismarckstraße"
-housenumber: 20
-phone: "+49 6324 7080330"
-opening_hours: "Mo-Fr 05:30-18:30; Sa 06:00-17:00; Su 07:30-17:00"
-website: "https://www.baeckergoertz.de/#filialenstart/filialfinder"
+street: Bismarckstraße
+housenumber: "20"
+phone: +49 6324 7080330
+opening_hours: Mo-Fr 05:30-18:30; Sa 06:00-17:00; Su 07:30-17:00
+website: https://www.baeckergoertz.de/#filialenstart/filialfinder

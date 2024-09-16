@@ -1,11 +1,11 @@
 id: 732595273
-type: way
+type: node
 latitude: 49.77824
 longitude: 8.28185
 postcode: "67587"
 city: Wintersheim
-street: "Eimsheimer Straße"
-housenumber: 5
+street: Eimsheimer Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Sa 06:30-12:30"
+opening_hours: Tu-Sa 06:30-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 988041064
-type: way
+type: node
 latitude: 49.65699
 longitude: 8.3563
 postcode: ""
 city: Worms
-street: "Am Gallborn"
-housenumber: 20
+street: Am Gallborn
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 304445182
-type: way
+type: node
 latitude: 49.01049
 longitude: 8.2543
 postcode: "76767"
 city: Hagenbach
-street: "Industriestraße"
-housenumber: 9
-phone: "+49 7273 3210"
-opening_hours: "Mo-Fr 08:30-12:00,13:00-18:30; Sa 08:30-14:00; Su off"
-website: "https://www.roemerteam.de/"
+street: Industriestraße
+housenumber: "9"
+phone: +49 7273 3210
+opening_hours: Mo-Fr 08:30-12:00,13:00-18:30; Sa 08:30-14:00; Su off
+website: https://www.roemerteam.de/

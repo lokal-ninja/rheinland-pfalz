@@ -4,8 +4,8 @@ latitude: 50.00824
 longitude: 8.25335
 postcode: "55118"
 city: Mainz
-street: "Uhlandstraße"
-housenumber: 10
-phone: "+49 6131 1445838"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-17:00"
+street: Uhlandstraße
+housenumber: "10"
+phone: +49 6131 1445838
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 121126988
-type: way
+type: node
 latitude: 50.21005
 longitude: 6.97846
 postcode: "56766"
 city: Ulmen
-street: "Bahnhofstraße"
-housenumber: 15
-phone: "+49 2676 8133"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 07:30-14:00"
-website: "https://www.thiel-hair-design.de/"
+street: Bahnhofstraße
+housenumber: "15"
+phone: +49 2676 8133
+opening_hours: Tu-Fr 08:30-18:00; Sa 07:30-14:00
+website: https://www.thiel-hair-design.de/

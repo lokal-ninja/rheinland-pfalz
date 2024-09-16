@@ -1,11 +1,11 @@
 id: 300694602
-type: way
+type: node
 latitude: 49.82457
 longitude: 6.70421
 postcode: "54293"
 city: Trier
-street: "Koblenzer Straße"
-housenumber: 5
+street: Koblenzer Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

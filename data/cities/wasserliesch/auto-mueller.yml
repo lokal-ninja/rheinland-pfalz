@@ -1,11 +1,11 @@
 id: 407040974
-type: way
+type: node
 latitude: 49.69489
 longitude: 6.55392
 postcode: "54332"
 city: Wasserliesch
-street: "Sabatierstraße"
-housenumber: 5
+street: Sabatierstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

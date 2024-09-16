@@ -1,11 +1,11 @@
 id: 353655167
-type: way
+type: node
 latitude: 49.20052
 longitude: 7.83305
 postcode: "76846"
 city: Hauenstein
-street: "Heinrich-Keller-Straße"
-housenumber: 2
+street: Heinrich-Keller-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

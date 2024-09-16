@@ -1,11 +1,11 @@
 id: 115998014
-type: way
+type: node
 latitude: 49.84846
 longitude: 7.87784
 postcode: "55543"
 city: Bad Kreuznach
-street: "Schwabenheimer Weg"
-housenumber: 5
-phone: "+49 671 79678660"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/"
+street: Schwabenheimer Weg
+housenumber: "5"
+phone: +49 671 79678660
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/

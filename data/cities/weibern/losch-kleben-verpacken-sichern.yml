@@ -1,11 +1,11 @@
 id: 499875835
-type: way
+type: node
 latitude: 50.40762
 longitude: 7.1404
 postcode: "56745"
 city: Weibern
-street: "Hommersbergstraße"
-housenumber: 26
+street: Hommersbergstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

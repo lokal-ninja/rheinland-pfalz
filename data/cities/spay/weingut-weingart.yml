@@ -1,11 +1,11 @@
 id: 1216124188
-type: way
+type: node
 latitude: 50.25002
 longitude: 7.63638
 postcode: "56322"
 city: Spay
-street: "Frankenweg"
-housenumber: 
-phone: "+49 2628 2835"
-opening_hours: "Mo-Fr 14:00-18:30; Sa 11:00-18:30; Su, PH off"
-website: "https://weingut-weingart.de"
+street: Frankenweg
+housenumber: ""
+phone: +49 2628 2835
+opening_hours: Mo-Fr 14:00-18:30; Sa 11:00-18:30; Su, PH off
+website: https://weingut-weingart.de

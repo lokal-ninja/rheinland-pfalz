@@ -1,11 +1,11 @@
 id: 203750681
-type: way
+type: node
 latitude: 50.54678
 longitude: 7.17046
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Wiesenweg"
+street: Wiesenweg
 housenumber: 22-24
-phone: "+49 2641 912777"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off"
-website: "https://www.getraenke-michel.com"
+phone: +49 2641 912777
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off
+website: https://www.getraenke-michel.com

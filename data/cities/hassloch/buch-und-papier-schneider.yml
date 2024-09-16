@@ -1,11 +1,11 @@
 id: 42161308
-type: way
+type: node
 latitude: 49.36315
 longitude: 8.2586
 postcode: "67454"
 city: Haßloch
-street: "Langgasse"
-housenumber: 101
-phone: "+49 6324 80790"
-opening_hours: "Mo-Fr 07:15-12:30,14:00-18:30; Sa 08:00-12:45"
+street: Langgasse
+housenumber: "101"
+phone: +49 6324 80790
+opening_hours: Mo-Fr 07:15-12:30,14:00-18:30; Sa 08:00-12:45
 website: ""

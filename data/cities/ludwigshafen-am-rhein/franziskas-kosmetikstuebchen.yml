@@ -1,11 +1,11 @@
 id: 170196669
-type: way
+type: node
 latitude: 49.46291
 longitude: 8.42059
 postcode: "67065"
 city: Ludwigshafen am Rhein
-street: "Knappenwegstraße"
-housenumber: 11
+street: Knappenwegstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

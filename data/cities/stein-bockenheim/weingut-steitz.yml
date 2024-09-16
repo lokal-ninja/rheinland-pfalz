@@ -1,11 +1,11 @@
 id: 314540735
-type: way
+type: node
 latitude: 49.77413
 longitude: 7.95547
 postcode: "55599"
 city: Stein-Bockenheim
-street: "Mörsfelder Straße"
-housenumber: 3
+street: Mörsfelder Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.weingut-steitz.de/"
+website: https://www.weingut-steitz.de/

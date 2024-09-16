@@ -1,11 +1,11 @@
 id: 180563568
-type: way
+type: node
 latitude: 49.95925
 longitude: 7.71876
 postcode: "55444"
 city: Seibersbach
-street: "Zum Schlossgrund"
-housenumber: 
+street: Zum Schlossgrund
+housenumber: ""
 phone: ""
-opening_hours: "Fr 15:00-16:00"
+opening_hours: Fr 15:00-16:00
 website: ""

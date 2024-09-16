@@ -1,11 +1,11 @@
 id: 103175732
-type: way
+type: node
 latitude: 50.62164
 longitude: 7.66892
 postcode: "57639"
 city: Oberdreis
-street: "Oberdreiser Kopf"
-housenumber: 3
+street: Oberdreiser Kopf
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

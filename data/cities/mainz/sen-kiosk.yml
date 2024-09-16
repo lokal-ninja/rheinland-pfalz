@@ -4,8 +4,8 @@ latitude: 50.00963
 longitude: 8.2563
 postcode: "55118"
 city: Mainz
-street: "Colmarstraße"
-housenumber: 27
+street: Colmarstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Tu-Fr 07:30-20:00; Sa 09:00-20:00; PH,Su 10:00-20:00"
+opening_hours: Tu-Fr 07:30-20:00; Sa 09:00-20:00; PH,Su 10:00-20:00
 website: ""

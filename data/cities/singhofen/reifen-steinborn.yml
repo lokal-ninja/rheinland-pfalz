@@ -1,11 +1,11 @@
 id: 995029300
-type: way
+type: node
 latitude: 50.27954
 longitude: 7.83573
 postcode: "56379"
 city: Singhofen
-street: "Walter Gemmer Straße (Auf'm Hunzel)"
-housenumber: 1
+street: Walter Gemmer Straße (Auf'm Hunzel)
+housenumber: "1"
 phone: "+4926049527222"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.singhofen.info/verzeichnis/visitenkarte.php?mandat=210790"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.singhofen.info/verzeichnis/visitenkarte.php?mandat=210790

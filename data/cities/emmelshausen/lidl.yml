@@ -1,11 +1,11 @@
 id: 40455422
-type: way
+type: node
 latitude: 50.15605
 longitude: 7.54617
 postcode: "56281"
 city: Emmelshausen
-street: "Am Stadion"
-housenumber: 3
+street: Am Stadion
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

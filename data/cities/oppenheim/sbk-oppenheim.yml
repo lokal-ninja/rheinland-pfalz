@@ -1,11 +1,11 @@
 id: 196672043
-type: way
+type: node
 latitude: 49.84563
 longitude: 8.35691
 postcode: "55276"
 city: Oppenheim
-street: "Sant'-Ambrogio-Ring"
-housenumber: 6
+street: Sant'-Ambrogio-Ring
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

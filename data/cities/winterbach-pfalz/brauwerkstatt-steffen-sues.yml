@@ -4,8 +4,8 @@ latitude: 49.30224
 longitude: 7.46953
 postcode: "66484"
 city: Winterbach (Pfalz)
-street: "Herrenwalderstraße"
-housenumber: 1
+street: Herrenwalderstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00; es gilt: Wenn Licht brennt, ist offen :-))"
-website: "https://www.stugge.de/"
+opening_hours: 'Mo-Sa 11:00-19:00; "es gilt: Wenn Licht brennt, ist offen :-))"'
+website: https://www.stugge.de/

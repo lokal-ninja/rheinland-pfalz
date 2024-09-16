@@ -1,11 +1,11 @@
 id: 208080549
-type: way
+type: node
 latitude: 49.84833
 longitude: 7.88698
 postcode: "55543"
 city: Bad Kreuznach
-street: "Bosenheimer Straße"
-housenumber: 255
+street: Bosenheimer Straße
+housenumber: "255"
 phone: ""
 opening_hours: ""
 website: ""

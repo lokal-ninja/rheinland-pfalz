@@ -1,11 +1,11 @@
 id: 942155013
-type: way
+type: node
 latitude: 49.80451
 longitude: 7.90057
 postcode: "55546"
 city: Frei-Laubersheim
-street: "In den Sennersmorgen"
-housenumber: 1
+street: In den Sennersmorgen
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

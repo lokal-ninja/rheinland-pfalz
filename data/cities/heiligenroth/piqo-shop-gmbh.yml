@@ -4,8 +4,8 @@ latitude: 50.45267
 longitude: 7.856
 postcode: "56412"
 city: Heiligenroth
-street: "In der Illbach"
-housenumber: 2
+street: In der Illbach
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00"
-website: "https://www.piqo.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-16:00
+website: https://www.piqo.de/

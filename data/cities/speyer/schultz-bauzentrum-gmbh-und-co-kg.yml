@@ -1,11 +1,11 @@
 id: 245263495
-type: way
+type: node
 latitude: 49.33767
 longitude: 8.42064
 postcode: "67346"
 city: Speyer
-street: "Landwehrstraße"
-housenumber: 2
+street: Landwehrstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.schultz-bauzentrum.de/"
+website: https://www.schultz-bauzentrum.de/

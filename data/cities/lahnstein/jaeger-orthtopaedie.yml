@@ -1,11 +1,11 @@
 id: 59312624
-type: way
+type: node
 latitude: 50.32175
 longitude: 7.60662
 postcode: "56112"
 city: Lahnstein
-street: "Hermsdorfer Straße"
-housenumber: 3
+street: Hermsdorfer Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://ortho-jaeger.de/"
+website: https://ortho-jaeger.de/

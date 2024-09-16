@@ -1,11 +1,11 @@
 id: 235545488
-type: way
+type: node
 latitude: 49.97289
 longitude: 8.0345
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Binger Straße"
-housenumber: 222
+street: Binger Straße
+housenumber: "222"
 phone: ""
 opening_hours: ""
 website: ""

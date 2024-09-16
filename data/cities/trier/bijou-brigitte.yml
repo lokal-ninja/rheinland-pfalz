@@ -4,8 +4,8 @@ latitude: 49.75581
 longitude: 6.64093
 postcode: "54290"
 city: Trier
-street: "Grabenstraße"
-housenumber: 16
+street: Grabenstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.bijou-brigitte.com/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.bijou-brigitte.com/

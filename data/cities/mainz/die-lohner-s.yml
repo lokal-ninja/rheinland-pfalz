@@ -4,8 +4,8 @@ latitude: 50.01436
 longitude: 8.25826
 postcode: "55120"
 city: Mainz
-street: "Rheinallee"
-housenumber: 64
+street: Rheinallee
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:00"
-website: "https://www.die-lohners.de/"
+opening_hours: Mo-Sa 07:00-18:00
+website: https://www.die-lohners.de/

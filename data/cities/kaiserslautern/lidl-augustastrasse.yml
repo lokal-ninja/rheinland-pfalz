@@ -1,11 +1,11 @@
 id: 104122195
-type: way
+type: node
 latitude: 49.4399
 longitude: 7.7783
 postcode: "67655"
 city: Kaiserslautern
-street: "Augustastraße"
-housenumber: 60
+street: Augustastraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

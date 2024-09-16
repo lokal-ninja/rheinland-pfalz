@@ -1,11 +1,11 @@
 id: 763598776
-type: way
+type: node
 latitude: 49.74893
 longitude: 6.62272
 postcode: "54294"
 city: Trier
-street: "Über Brücken"
-housenumber: 11
+street: Über Brücken
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

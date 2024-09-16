@@ -4,8 +4,8 @@ latitude: 49.19149
 longitude: 8.27348
 postcode: "76756"
 city: Bellheim
-street: "Hauptstraße"
-housenumber: 24
-phone: "+49 7272 7000277"
-opening_hours: "Mo,Sa 09:00-13:00; Tu-Fr 09:00-18:00; Su,PH off"
-website: "https://www.reifen-montagestationen.de/reifen-montage/dms_fahrzeugteile/76756_bellheim"
+street: Hauptstraße
+housenumber: "24"
+phone: +49 7272 7000277
+opening_hours: Mo,Sa 09:00-13:00; Tu-Fr 09:00-18:00; Su,PH off
+website: https://www.reifen-montagestationen.de/reifen-montage/dms_fahrzeugteile/76756_bellheim

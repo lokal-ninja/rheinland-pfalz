@@ -1,11 +1,11 @@
 id: 261946247
-type: way
+type: node
 latitude: 50.22207
 longitude: 6.66555
 postcode: "54568"
 city: Gerolstein
-street: "Hauptstraße"
-housenumber: 59
+street: Hauptstraße
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

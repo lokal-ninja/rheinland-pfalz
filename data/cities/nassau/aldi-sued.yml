@@ -1,11 +1,11 @@
 id: 168639623
-type: way
+type: node
 latitude: 50.31172
 longitude: 7.80257
 postcode: "56377"
 city: Nassau
-street: "Bahnhofstraße"
-housenumber: 18
+street: Bahnhofstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

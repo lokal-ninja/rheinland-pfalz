@@ -4,8 +4,8 @@ latitude: 49.96888
 longitude: 7.89502
 postcode: "55411"
 city: Bingen am Rhein
-street: "Fruchtmarkt"
-housenumber: 11
+street: Fruchtmarkt
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.modehaus-heck.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.modehaus-heck.de/

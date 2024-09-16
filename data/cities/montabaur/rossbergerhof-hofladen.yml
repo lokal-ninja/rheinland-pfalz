@@ -4,8 +4,8 @@ latitude: 50.43216
 longitude: 7.84807
 postcode: "56410"
 city: Montabaur
-street: "Rossberger Hof"
-housenumber: 4
-phone: "+49 163 1382978"
-opening_hours: "Th-Fr 14:00-18.00; Sa 09:00-13.00"
-website: "https://www.rossbergerhof.de/?page_id=282"
+street: Rossberger Hof
+housenumber: "4"
+phone: +49 163 1382978
+opening_hours: Th-Fr 14:00-18.00; Sa 09:00-13.00
+website: https://www.rossbergerhof.de/?page_id=282

@@ -1,11 +1,11 @@
 id: 169957435
-type: way
+type: node
 latitude: 49.46745
 longitude: 8.43367
 postcode: "67065"
 city: Ludwigshafen am Rhein
-street: "Herderstraße"
-housenumber: 2
+street: Herderstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-13:00"
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-13:00
 website: ""

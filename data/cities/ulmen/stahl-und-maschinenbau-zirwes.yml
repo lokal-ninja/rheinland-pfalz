@@ -1,11 +1,11 @@
 id: 92511099
-type: way
+type: node
 latitude: 50.21204
 longitude: 6.96629
 postcode: "56766"
 city: Ulmen
-street: "Eifel-Maar-Park"
-housenumber: 12
-phone: "+49 2676 951365"
+street: Eifel-Maar-Park
+housenumber: "12"
+phone: +49 2676 951365
 opening_hours: ""
-website: "https://www.zirwes-stahlbau.de/"
+website: https://www.zirwes-stahlbau.de/

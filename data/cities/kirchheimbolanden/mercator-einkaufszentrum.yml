@@ -1,11 +1,11 @@
 id: 289104108
-type: way
+type: node
 latitude: 49.66156
 longitude: 8.01779
 postcode: "67292"
 city: Kirchheimbolanden
-street: "Mühlstraße"
-housenumber: 3
+street: Mühlstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

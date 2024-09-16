@@ -1,11 +1,11 @@
 id: 541776546
-type: way
+type: node
 latitude: 49.83401
 longitude: 8.0127
 postcode: "55599"
 city: Gau-Bickelheim
-street: "St. Floriansweg"
-housenumber: 1
+street: St. Floriansweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

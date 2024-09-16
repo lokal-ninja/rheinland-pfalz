@@ -1,11 +1,11 @@
 id: 282329757
-type: way
+type: node
 latitude: 49.44352
 longitude: 7.88608
 postcode: "67691"
 city: Hochspeyer
-street: "Hauptstraße"
-housenumber: 35
+street: Hauptstraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

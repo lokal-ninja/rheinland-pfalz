@@ -1,11 +1,11 @@
 id: 667524977
-type: way
+type: node
 latitude: 50.38243
 longitude: 6.93001
 postcode: "53518"
 city: Adenau
-street: "Markt"
-housenumber: 17
+street: Markt
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

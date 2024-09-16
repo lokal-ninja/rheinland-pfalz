@@ -1,11 +1,11 @@
 id: 119684580
-type: way
+type: node
 latitude: 49.04896
 longitude: 8.0319
 postcode: "76889"
 city: Steinfeld (Pfalz)
-street: "Alte Landstraße"
-housenumber: 10
-phone: "+49 6340 919054"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.edeka-paul.de/"
+street: Alte Landstraße
+housenumber: "10"
+phone: +49 6340 919054
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.edeka-paul.de/

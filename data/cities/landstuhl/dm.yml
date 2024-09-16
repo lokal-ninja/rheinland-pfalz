@@ -1,11 +1,11 @@
 id: 914478318
-type: way
+type: node
 latitude: 49.41191
 longitude: 7.55035
 postcode: "66849"
 city: Landstuhl
-street: "Torfstraße"
-housenumber: 4
+street: Torfstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

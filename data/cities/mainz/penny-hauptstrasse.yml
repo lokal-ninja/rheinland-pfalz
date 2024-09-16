@@ -1,11 +1,11 @@
 id: 248989195
-type: way
+type: node
 latitude: 50.02131
 longitude: 8.22964
 postcode: "55120"
 city: Mainz
-street: "Hauptstraße"
-housenumber: 78
+street: Hauptstraße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00"
+opening_hours: Mo-Sa 07:30-22:00
 website: ""

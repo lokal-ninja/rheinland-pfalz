@@ -1,11 +1,11 @@
 id: 474103800
-type: way
+type: node
 latitude: 50.55071
 longitude: 7.93172
 postcode: "56459"
 city: Kölbingen
-street: "Hauptstraße"
-housenumber: 36
+street: Hauptstraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

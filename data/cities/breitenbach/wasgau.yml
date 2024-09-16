@@ -1,11 +1,11 @@
 id: 355779910
-type: way
+type: node
 latitude: 49.43413
 longitude: 7.26957
 postcode: "66916"
 city: Breitenbach
-street: "Fürther Straße"
-housenumber: 2
+street: Fürther Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

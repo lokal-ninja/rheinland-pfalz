@@ -1,11 +1,11 @@
 id: 673177352
-type: way
+type: node
 latitude: 50.45731
 longitude: 7.25863
 postcode: "56659"
 city: Burgbrohl
-street: "Im Effig"
-housenumber: 12
+street: Im Effig
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

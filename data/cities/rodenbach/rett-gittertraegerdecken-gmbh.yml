@@ -1,11 +1,11 @@
 id: 777355877
-type: way
+type: node
 latitude: 49.47339
 longitude: 7.6697
 postcode: "67688"
 city: Rodenbach
-street: "Am Tränkwald"
-housenumber: 4
+street: Am Tränkwald
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.rett-decken.de"
+website: https://www.rett-decken.de

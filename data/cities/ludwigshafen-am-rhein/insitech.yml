@@ -1,11 +1,11 @@
 id: 264373258
-type: way
+type: node
 latitude: 49.48371
 longitude: 8.36393
 postcode: "67071"
 city: Ludwigshafen am Rhein
-street: "Martha-Saalfeld-Straße"
-housenumber: 3
+street: Martha-Saalfeld-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://insitech.de/ludwigshafen"
+website: https://insitech.de/ludwigshafen

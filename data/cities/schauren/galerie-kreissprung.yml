@@ -1,11 +1,11 @@
 id: 729984035
-type: way
+type: node
 latitude: 49.80544
 longitude: 7.24132
 postcode: "55758"
 city: Schauren
-street: "Im Bohnenbruch"
-housenumber: 3
+street: Im Bohnenbruch
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

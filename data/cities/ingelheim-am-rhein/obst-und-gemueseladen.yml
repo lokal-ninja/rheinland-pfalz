@@ -1,11 +1,11 @@
 id: 247177880
-type: way
+type: node
 latitude: 49.96441
 longitude: 8.0601
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Marktplatz"
-housenumber: 6
+street: Marktplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00 open service || Mo-Sa 06:00-22:00; PH off"
+opening_hours: Mo-Sa 09:00-12:00 open "service" || Mo-Sa 06:00-22:00; PH off
 website: ""

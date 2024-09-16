@@ -1,11 +1,11 @@
 id: 330870661
-type: way
+type: node
 latitude: 50.36849
 longitude: 7.28906
 postcode: "56743"
 city: Mendig
-street: "Bahnstraße"
-housenumber: 90
+street: Bahnstraße
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

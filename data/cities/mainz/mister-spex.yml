@@ -4,8 +4,8 @@ latitude: 50.00053
 longitude: 8.27432
 postcode: "55116"
 city: Mainz
-street: "Am Brand"
-housenumber: 37
-phone: "+49  800 72 42 007"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.misterspex.de/c/sto/1034"
+street: Am Brand
+housenumber: "37"
+phone: +49  800 72 42 007
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.misterspex.de/c/sto/1034

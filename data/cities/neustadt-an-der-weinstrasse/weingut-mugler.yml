@@ -4,8 +4,8 @@ latitude: 49.37667
 longitude: 8.15188
 postcode: ""
 city: Neustadt an der Weinstraße
-street: "Peter-Koch-Straße"
-housenumber: 50
-phone: "+49 6321 66062"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.weingut-mugler.de/"
+street: Peter-Koch-Straße
+housenumber: "50"
+phone: +49 6321 66062
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.weingut-mugler.de/

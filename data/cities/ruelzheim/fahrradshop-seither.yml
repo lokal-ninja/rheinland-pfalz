@@ -4,8 +4,8 @@ latitude: 49.16097
 longitude: 8.29276
 postcode: "76761"
 city: Rülzheim
-street: "Germersheimer Straße"
-housenumber: 7
+street: Germersheimer Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo,Tu,Th 09:00-12:30,14:00-18:00; We 09:00-12:30; Fr 09:00-12:30,14:00-19:00"
-website: "https://www.radshop-seither.de/"
+opening_hours: Mo,Tu,Th 09:00-12:30,14:00-18:00; We 09:00-12:30; Fr 09:00-12:30,14:00-19:00
+website: https://www.radshop-seither.de/

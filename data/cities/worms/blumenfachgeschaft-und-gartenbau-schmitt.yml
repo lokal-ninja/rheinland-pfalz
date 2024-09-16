@@ -4,8 +4,8 @@ latitude: 49.639
 longitude: 8.27815
 postcode: "67551"
 city: Worms
-street: "Probsteistraße"
-housenumber: 2
-phone: "+49 6247 320"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00; Su 10:00-12:00"
-website: "https://www.blumen-schmitt.com/"
+street: Probsteistraße
+housenumber: "2"
+phone: +49 6247 320
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:00; Su 10:00-12:00
+website: https://www.blumen-schmitt.com/

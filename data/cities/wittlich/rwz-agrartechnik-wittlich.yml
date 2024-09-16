@@ -1,11 +1,11 @@
 id: 254358356
-type: way
+type: node
 latitude: 49.98366
 longitude: 6.90507
 postcode: "54516"
 city: Wittlich
-street: "Max-Planck-Straße"
-housenumber: 2
+street: Max-Planck-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00, Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-17:00, Sa 08:00-12:00; Su,PH off
 website: ""

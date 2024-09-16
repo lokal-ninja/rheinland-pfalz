@@ -1,11 +1,11 @@
 id: 353479855
-type: way
+type: node
 latitude: 49.19098
 longitude: 7.85281
 postcode: "76846"
 city: Hauenstein
-street: "Gartenstraße"
-housenumber: 11
+street: Gartenstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

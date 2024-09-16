@@ -1,11 +1,11 @@
 id: 40078474
-type: way
+type: node
 latitude: 49.97732
 longitude: 8.23417
 postcode: "55128"
 city: Mainz
-street: "Am Heckerpfad"
-housenumber: 26
-phone: "+49 6131 34746"
-opening_hours: "Mar-Jun Mo-Fr 09:00-18:30; Mar-Jun Sa 09:00-16:00"
-website: "https://www.hofladen-stauder.de/"
+street: Am Heckerpfad
+housenumber: "26"
+phone: +49 6131 34746
+opening_hours: Mar-Jun Mo-Fr 09:00-18:30; Mar-Jun Sa 09:00-16:00
+website: https://www.hofladen-stauder.de/

@@ -1,11 +1,11 @@
 id: 166186924
-type: way
+type: node
 latitude: 49.54323
 longitude: 8.35059
 postcode: "67227"
 city: Frankenthal (Pfalz)
-street: "Eisenbahnstraße"
-housenumber: 77
+street: Eisenbahnstraße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Fr 08:00-22:00"
+opening_hours: Mo-Sa 08:00-20:00; Fr 08:00-22:00
 website: ""

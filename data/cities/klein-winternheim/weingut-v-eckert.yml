@@ -4,8 +4,8 @@ latitude: 49.93986
 longitude: 8.21483
 postcode: "55270"
 city: Klein-Winternheim
-street: "Hauptstraße"
-housenumber: 32
-phone: "+49 6136 8085"
-opening_hours: "Mo 17:00-19:00; Tu-Fr 09:00-12:30,15:00-19:00; Sa 09:00-16:00"
-website: "https://weingut-eckert.de/"
+street: Hauptstraße
+housenumber: "32"
+phone: +49 6136 8085
+opening_hours: Mo 17:00-19:00; Tu-Fr 09:00-12:30,15:00-19:00; Sa 09:00-16:00
+website: https://weingut-eckert.de/

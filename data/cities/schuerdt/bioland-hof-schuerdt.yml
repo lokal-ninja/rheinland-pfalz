@@ -4,8 +4,8 @@ latitude: 50.66311
 longitude: 7.5508
 postcode: "57632"
 city: Schürdt
-street: "Mittelstraße"
-housenumber: 10
+street: Mittelstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo,We,Th 15:00-19:00; Fr 10:00-19:00; Sa 09:00-13:00"
+opening_hours: Mo,We,Th 15:00-19:00; Fr 10:00-19:00; Sa 09:00-13:00
 website: ""

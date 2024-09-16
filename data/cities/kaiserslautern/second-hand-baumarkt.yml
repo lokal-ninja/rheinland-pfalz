@@ -1,11 +1,11 @@
 id: 173691455
-type: way
+type: node
 latitude: 49.43742
 longitude: 7.75741
 postcode: "67655"
 city: Kaiserslautern
-street: "Pfaffstraße"
-housenumber: 3
+street: Pfaffstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.asz-kl.de/second-hand-baumarkt/"
+website: https://www.asz-kl.de/second-hand-baumarkt/

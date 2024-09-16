@@ -1,11 +1,11 @@
 id: 463699019
-type: way
+type: node
 latitude: 50.00163
 longitude: 8.25918
 postcode: "55116"
 city: Mainz
-street: "Bahnhofplatz"
-housenumber: 
+street: Bahnhofplatz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 05:00-22:00; Sa 06:00-22:00; Su 08:00-22:00"
-website: "http://www.ugde.com/barbarino/barbarino/ueber-uns/rauchkultur-seit-1887/"
+opening_hours: Mo-Fr 05:00-22:00; Sa 06:00-22:00; Su 08:00-22:00
+website: http://www.ugde.com/barbarino/barbarino/ueber-uns/rauchkultur-seit-1887/

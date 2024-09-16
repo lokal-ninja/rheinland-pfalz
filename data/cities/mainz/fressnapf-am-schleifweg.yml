@@ -4,8 +4,8 @@ latitude: 49.96825
 longitude: 8.23906
 postcode: "55128"
 city: Mainz
-street: "Am Schleifweg"
-housenumber: 18
-phone: "+49 6131 732860"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.fressnapf.de"
+street: Am Schleifweg
+housenumber: "18"
+phone: +49 6131 732860
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.fressnapf.de

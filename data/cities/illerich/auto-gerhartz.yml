@@ -1,11 +1,11 @@
 id: 476604304
-type: way
+type: node
 latitude: 50.20147
 longitude: 7.1754
 postcode: "56814"
 city: Illerich
-street: "Kaisersescher Straße"
-housenumber: 30
-phone: "+49 2653 6563"
-opening_hours: "Mo-Fr 08:00-18:00,Sa 08:00-13:00"
-website: "https://www.auto-gerhartz.de/"
+street: Kaisersescher Straße
+housenumber: "30"
+phone: +49 2653 6563
+opening_hours: Mo-Fr 08:00-18:00,Sa 08:00-13:00
+website: https://www.auto-gerhartz.de/

@@ -4,8 +4,8 @@ latitude: 49.22264
 longitude: 8.10969
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Lindenbergstraße"
-housenumber: 39
-phone: "+49 6341 968861"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://beppler.de/"
+street: Lindenbergstraße
+housenumber: "39"
+phone: +49 6341 968861
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://beppler.de/

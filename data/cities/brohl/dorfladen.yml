@@ -1,11 +1,12 @@
 id: 501227282
-type: way
+type: node
 latitude: 50.22034
 longitude: 7.27934
 postcode: "56754"
 city: Brohl
-street: "Neugasse"
-housenumber: 8
-phone: "+49 2672 9147 188"
-opening_hours: "Mo,We 06:30-12:00; Th,Tu,Fr 06:30-12:00,14:30-18:00, Sa 06:30-12:00; Su 08:00-11:00"
-website: "https://www.eifelhof-brohl.de/index.php/ferienwohnungen/dorfladen"
+street: Neugasse
+housenumber: "8"
+phone: +49 2672 9147 188
+opening_hours: Mo,We 06:30-12:00; Th,Tu,Fr 06:30-12:00,14:30-18:00, Sa 06:30-12:00;
+    Su 08:00-11:00
+website: https://www.eifelhof-brohl.de/index.php/ferienwohnungen/dorfladen

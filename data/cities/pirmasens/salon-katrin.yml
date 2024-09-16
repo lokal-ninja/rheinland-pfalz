@@ -4,8 +4,8 @@ latitude: 49.19393
 longitude: 7.60934
 postcode: "66955"
 city: Pirmasens
-street: "Bitscher Straße"
-housenumber: 6
-phone: "+49 6331 75556"
-opening_hours: "Tu-Fr 09:00-18:00, Sa 08:00-13:00"
-website: "https://salonkatrin.de/"
+street: Bitscher Straße
+housenumber: "6"
+phone: +49 6331 75556
+opening_hours: Tu-Fr 09:00-18:00, Sa 08:00-13:00
+website: https://salonkatrin.de/

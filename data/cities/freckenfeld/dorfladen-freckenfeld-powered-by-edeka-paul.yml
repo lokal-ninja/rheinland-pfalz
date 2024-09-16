@@ -4,8 +4,8 @@ latitude: 49.06599
 longitude: 8.11605
 postcode: "76872"
 city: Freckenfeld
-street: "Hauptstraße"
-housenumber: 73
+street: Hauptstraße
+housenumber: "73"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.edeka-paul.eu/maerkte/dorfladen-freckenfeld/"
+opening_hours: 24/7
+website: https://www.edeka-paul.eu/maerkte/dorfladen-freckenfeld/

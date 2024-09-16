@@ -4,8 +4,8 @@ latitude: 49.98597
 longitude: 6.89043
 postcode: "54516"
 city: Wittlich
-street: "Schloßstraße"
-housenumber: 5
-phone: "+49 6571 1469060"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00"
-website: "www.c-a.com"
+street: Schloßstraße
+housenumber: "5"
+phone: +49 6571 1469060
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-18:00
+website: www.c-a.com

@@ -4,8 +4,8 @@ latitude: 50.37058
 longitude: 8.01235
 postcode: "65582"
 city: Diez
-street: "Wilhelmstraße"
-housenumber: 42
+street: Wilhelmstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.00645
 longitude: 8.22004
 postcode: "55122"
 city: Mainz
-street: "Canisiusstraße"
+street: Canisiusstraße
 housenumber: 50a
-phone: "+49 6131 9073448"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; We 09:00-13:00; Sa 10:00-13:00"
-website: "http://www.dasreisezentrum.de"
+phone: +49 6131 9073448
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; We 09:00-13:00; Sa 10:00-13:00
+website: http://www.dasreisezentrum.de

@@ -1,11 +1,11 @@
 id: 236703004
-type: way
+type: node
 latitude: 50.74736
 longitude: 7.821
 postcode: "57580"
 city: Gebhardshain
-street: "Kirchplatz"
-housenumber: 14
-phone: "+49 2747 92250"
-opening_hours: "Mo-Fr 08:30-12:30, Mo,Tu,Th,Fr 14:00-17:00, Sa 08:30-11:00"
+street: Kirchplatz
+housenumber: "14"
+phone: +49 2747 92250
+opening_hours: Mo-Fr 08:30-12:30, Mo,Tu,Th,Fr 14:00-17:00, Sa 08:30-11:00
 website: ""

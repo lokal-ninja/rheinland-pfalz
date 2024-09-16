@@ -1,11 +1,11 @@
 id: 276059692
-type: way
+type: node
 latitude: 50.23166
 longitude: 7.59116
 postcode: "56154"
 city: Boppard
-street: "Kirchgasse"
-housenumber: 1
+street: Kirchgasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 31979999
-type: way
+type: node
 latitude: 49.74331
 longitude: 6.64335
 postcode: "54295"
 city: Trier
-street: "Wisportstraße"
-housenumber: 14
+street: Wisportstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off
 website: ""

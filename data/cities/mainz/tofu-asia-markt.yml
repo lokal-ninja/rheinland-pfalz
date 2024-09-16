@@ -4,8 +4,8 @@ latitude: 50.00382
 longitude: 8.26173
 postcode: "55118"
 city: Mainz
-street: "Boppstraße"
-housenumber: 6
-phone: "+49 6131 676229"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.tofumarkt.de/"
+street: Boppstraße
+housenumber: "6"
+phone: +49 6131 676229
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.tofumarkt.de/

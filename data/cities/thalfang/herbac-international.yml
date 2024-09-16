@@ -1,11 +1,11 @@
 id: 1283797491
-type: way
+type: node
 latitude: 49.75107
 longitude: 7.00707
 postcode: "54424"
 city: Thalfang
-street: "Bahnhofstraße"
-housenumber: 47
-phone: "+49 6504 7433510"
+street: Bahnhofstraße
+housenumber: "47"
+phone: +49 6504 7433510
 opening_hours: ""
-website: "https://www.dasgesundetier.de"
+website: https://www.dasgesundetier.de

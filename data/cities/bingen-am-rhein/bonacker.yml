@@ -1,11 +1,11 @@
 id: 556247758
-type: way
+type: node
 latitude: 49.96639
 longitude: 7.95992
 postcode: "55411"
 city: Bingen am Rhein
-street: "Mainzer Straße"
-housenumber: 404
+street: Mainzer Straße
+housenumber: "404"
 phone: ""
-opening_hours: "PH,Su 08:00-11:00"
+opening_hours: PH,Su 08:00-11:00
 website: ""

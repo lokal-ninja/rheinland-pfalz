@@ -1,11 +1,11 @@
 id: 201536299
-type: way
+type: node
 latitude: 49.49104
 longitude: 7.72262
 postcode: "67731"
 city: Otterbach
-street: "Ziegelhütterstraße"
-housenumber: 69
-phone: "06301 716484"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: Ziegelhütterstraße
+housenumber: "69"
+phone: 06301 716484
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

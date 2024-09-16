@@ -1,11 +1,11 @@
 id: 669416948
-type: way
+type: node
 latitude: 49.35601
 longitude: 7.65174
 postcode: "66851"
 city: Linden
-street: "Talstraße"
-housenumber: 14
+street: Talstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

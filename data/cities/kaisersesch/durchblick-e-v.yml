@@ -4,8 +4,8 @@ latitude: 50.23556
 longitude: 7.14533
 postcode: "56759"
 city: Kaisersesch
-street: "Alte Mayener Straße"
-housenumber: 2
-phone: "+49 160 5137067;+49 2653 9137203"
-opening_hours: "We 15:00-17:00; Th 14:00-17:00; Fr 09:00-12:00; Tu 10:00-12:00"
-website: "https://durchblick-kaisersesch.de/"
+street: Alte Mayener Straße
+housenumber: "2"
+phone: +49 160 5137067;+49 2653 9137203
+opening_hours: We 15:00-17:00; Th 14:00-17:00; Fr 09:00-12:00; Tu 10:00-12:00
+website: https://durchblick-kaisersesch.de/

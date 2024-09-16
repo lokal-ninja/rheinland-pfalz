@@ -1,11 +1,11 @@
 id: 110519084
-type: way
+type: node
 latitude: 49.36435
 longitude: 8.25606
 postcode: "67454"
 city: Haßloch
-street: "Bahnhofstraße"
-housenumber: 15
+street: Bahnhofstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

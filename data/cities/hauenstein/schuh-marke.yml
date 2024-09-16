@@ -1,11 +1,11 @@
 id: 108224649
-type: way
+type: node
 latitude: 49.19899
 longitude: 7.83751
 postcode: "76846"
 city: Hauenstein
-street: "Pirmasenser Straße"
-housenumber: 50
-phone: "+49-6392-922820"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00; Apr-Oct Su 13:00-18:00"
-website: "http://schuh-marke.de/filialen/hauenstein"
+street: Pirmasenser Straße
+housenumber: "50"
+phone: +49-6392-922820
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00; Apr-Oct Su 13:00-18:00
+website: http://schuh-marke.de/filialen/hauenstein

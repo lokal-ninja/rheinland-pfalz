@@ -1,11 +1,11 @@
 id: 251403382
-type: way
+type: node
 latitude: 49.92516
 longitude: 7.93324
 postcode: "55411"
 city: Bingen am Rhein
-street: "Gustav-Stresemann-Straße"
-housenumber: 1
+street: Gustav-Stresemann-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

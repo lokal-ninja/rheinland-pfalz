@@ -1,11 +1,11 @@
 id: 210011225
-type: way
+type: node
 latitude: 49.15552
 longitude: 8.28683
 postcode: "76761"
 city: Rülzheim
-street: "Mittlere Ortsstraße"
-housenumber: 124
+street: Mittlere Ortsstraße
+housenumber: "124"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 08:00-14:00; Su,Mo,PH off"
+opening_hours: Tu-Fr 09:00-18:30; Sa 08:00-14:00; Su,Mo,PH off
 website: ""

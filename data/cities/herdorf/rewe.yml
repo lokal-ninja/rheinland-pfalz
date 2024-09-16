@@ -1,11 +1,11 @@
 id: 235710116
-type: way
+type: node
 latitude: 50.78142
 longitude: 7.95916
 postcode: "57562"
 city: Herdorf
-street: "Schneiderstraße"
-housenumber: 34
+street: Schneiderstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

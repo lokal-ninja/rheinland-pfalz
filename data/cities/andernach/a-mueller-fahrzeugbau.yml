@@ -1,11 +1,11 @@
 id: 577200558
-type: way
+type: node
 latitude: 50.42286
 longitude: 7.34348
 postcode: "56626"
 city: Andernach
-street: "Im Breitholz"
-housenumber: 3
-phone: "+49 2632 988160"
-opening_hours: "Mo-Fr 07:00-12:00, 12:30-16:15; PH off"
-website: "https://www.lkw-fahrzeugbau.de"
+street: Im Breitholz
+housenumber: "3"
+phone: +49 2632 988160
+opening_hours: Mo-Fr 07:00-12:00, 12:30-16:15; PH off
+website: https://www.lkw-fahrzeugbau.de

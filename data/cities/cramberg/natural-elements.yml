@@ -4,8 +4,8 @@ latitude: 50.34137
 longitude: 7.94207
 postcode: "65558"
 city: Cramberg
-street: "Burgstraße"
-housenumber: 3
-phone: "+49 178 7206270"
-opening_hours: "Tu,Th 09:00-12:00,15:00-18:00; Fr,Sa 09:00-12:00; PH off"
-website: "https://www.naturalelements.site/"
+street: Burgstraße
+housenumber: "3"
+phone: +49 178 7206270
+opening_hours: Tu,Th 09:00-12:00,15:00-18:00; Fr,Sa 09:00-12:00; PH off
+website: https://www.naturalelements.site/

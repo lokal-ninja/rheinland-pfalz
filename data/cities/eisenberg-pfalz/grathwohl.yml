@@ -1,11 +1,11 @@
 id: 104671132
-type: way
+type: node
 latitude: 49.563
 longitude: 8.08154
 postcode: "67304"
 city: Eisenberg (Pfalz)
-street: "Boschstraße"
-housenumber: 6
+street: Boschstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

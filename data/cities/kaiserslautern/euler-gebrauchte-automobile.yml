@@ -1,11 +1,11 @@
 id: 567600746
-type: way
+type: node
 latitude: 49.44702
 longitude: 7.70877
 postcode: "67663"
 city: Kaiserslautern
-street: "Opelkreisel"
+street: Opelkreisel
 housenumber: 26a
-phone: "+49 631 35113600"
+phone: +49 631 35113600
 opening_hours: ""
 website: ""

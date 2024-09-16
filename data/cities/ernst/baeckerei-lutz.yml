@@ -4,8 +4,8 @@ latitude: 50.14336
 longitude: 7.23188
 postcode: "56814"
 city: Ernst
-street: "Weingartenstraße"
-housenumber: 104
-phone: "+49 2671 6056967"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-17:00; Su 07:00-13:00"
-website: "https://www.baeckerei-lutz.de/"
+street: Weingartenstraße
+housenumber: "104"
+phone: +49 2671 6056967
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-17:00; Su 07:00-13:00
+website: https://www.baeckerei-lutz.de/

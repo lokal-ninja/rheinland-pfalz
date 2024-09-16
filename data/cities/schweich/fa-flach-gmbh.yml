@@ -4,8 +4,8 @@ latitude: 49.8291
 longitude: 6.74187
 postcode: "54338"
 city: Schweich
-street: "Gewerbegebiet Am Bahnhof"
-housenumber: 1
-phone: "+49 6502 91380"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-17:00; Sa,Su,PH off"
-website: "https://www.flach-schweich.de/"
+street: Gewerbegebiet Am Bahnhof
+housenumber: "1"
+phone: +49 6502 91380
+opening_hours: Mo-Fr 09:00-12:30,13:30-17:00; Sa,Su,PH off
+website: https://www.flach-schweich.de/

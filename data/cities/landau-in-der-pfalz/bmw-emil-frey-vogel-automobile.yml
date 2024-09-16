@@ -4,8 +4,8 @@ latitude: 49.2094
 longitude: 8.11813
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Am Schänzel"
-housenumber: 6
-phone: "+49 6341 94840"
-opening_hours: "Mo-Fr 07:45-18:00; Sa 09:00-16:00"
-website: "https://www.emilfrey.de/vogel-automobile/landau"
+street: Am Schänzel
+housenumber: "6"
+phone: +49 6341 94840
+opening_hours: Mo-Fr 07:45-18:00; Sa 09:00-16:00
+website: https://www.emilfrey.de/vogel-automobile/landau

@@ -1,11 +1,11 @@
 id: 463699016
-type: way
+type: node
 latitude: 50.00118
 longitude: 8.25914
 postcode: "55116"
 city: Mainz
-street: "Bahnhofplatz"
-housenumber: 
+street: Bahnhofplatz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 05:00-21:00; Sa 06:00-21:00; Su 07:00-21:00"
-website: "https://www.yormas.de/"
+opening_hours: Mo-Fr 05:00-21:00; Sa 06:00-21:00; Su 07:00-21:00
+website: https://www.yormas.de/

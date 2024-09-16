@@ -1,11 +1,11 @@
 id: 116108132
-type: way
+type: node
 latitude: 50.39481
 longitude: 7.52856
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Industriestraße"
+street: Industriestraße
 housenumber: 11-13
-phone: "+49 261 927340"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:30; PH off"
-website: "https://www.intersport.de"
+phone: +49 261 927340
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:30; PH off
+website: https://www.intersport.de

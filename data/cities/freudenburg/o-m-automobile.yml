@@ -1,11 +1,11 @@
 id: 910019687
-type: way
+type: node
 latitude: 49.54294
 longitude: 6.53227
 postcode: "54450"
 city: Freudenburg
-street: "Leukstraße"
-housenumber: 1
-phone: "+49 6582 662"
+street: Leukstraße
+housenumber: "1"
+phone: +49 6582 662
 opening_hours: ""
 website: ""

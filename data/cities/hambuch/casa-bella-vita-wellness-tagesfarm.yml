@@ -4,8 +4,8 @@ latitude: 50.22469
 longitude: 7.18004
 postcode: "56761"
 city: Hambuch
-street: "Auf den Bungerten"
-housenumber: 2
-phone: "+49 2653 910391"
-opening_hours: "Tu-Fr 09:30-12:30,15:00-18:00; Sa Termine nach Vereinbarung"
-website: "https://www.casabellavita.de/"
+street: Auf den Bungerten
+housenumber: "2"
+phone: +49 2653 910391
+opening_hours: Tu-Fr 09:30-12:30,15:00-18:00; Sa "Termine nach Vereinbarung"
+website: https://www.casabellavita.de/

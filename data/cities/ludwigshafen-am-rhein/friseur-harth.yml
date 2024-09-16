@@ -1,11 +1,11 @@
 id: 107236700
-type: way
+type: node
 latitude: 49.47666
 longitude: 8.44735
 postcode: "67061"
 city: Ludwigshafen am Rhein
-street: "Bleichstraße"
-housenumber: 28
+street: Bleichstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

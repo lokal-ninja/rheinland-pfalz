@@ -1,11 +1,11 @@
 id: 595520401
-type: way
+type: node
 latitude: 49.61253
 longitude: 7.23933
 postcode: "55779"
 city: Heimbach
-street: "Hauptstraße"
-housenumber: 45
+street: Hauptstraße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

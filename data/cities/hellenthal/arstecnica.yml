@@ -1,11 +1,11 @@
 id: 212761122
-type: way
+type: node
 latitude: 50.35288
 longitude: 6.38429
 postcode: "53940"
 city: Hellenthal
-street: "Prümer Straße"
-housenumber: 54
-phone: "+49-6557-920640"
-opening_hours: "Mo off; Tu-Fr 12:00-18:00; Sa,Su,PH 10:00-18:00"
-website: "http://www.arstecnica.de/"
+street: Prümer Straße
+housenumber: "54"
+phone: +49-6557-920640
+opening_hours: Mo off; Tu-Fr 12:00-18:00; Sa,Su,PH 10:00-18:00
+website: http://www.arstecnica.de/

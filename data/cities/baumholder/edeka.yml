@@ -1,11 +1,11 @@
 id: 764436034
-type: way
+type: node
 latitude: 49.61279
 longitude: 7.33329
 postcode: "55774"
 city: Baumholder
-street: "Schubertstraße"
-housenumber: 8
+street: Schubertstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

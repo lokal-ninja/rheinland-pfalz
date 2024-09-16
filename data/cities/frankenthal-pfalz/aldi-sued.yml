@@ -1,11 +1,11 @@
 id: 162033797
-type: way
+type: node
 latitude: 49.51957
 longitude: 8.35124
 postcode: "67227"
 city: Frankenthal (Pfalz)
-street: "Daniel-Bechtel-Straße"
-housenumber: 1
+street: Daniel-Bechtel-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

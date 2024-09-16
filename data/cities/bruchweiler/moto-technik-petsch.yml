@@ -1,11 +1,11 @@
 id: 929148353
-type: way
+type: node
 latitude: 49.79589
 longitude: 7.2218
 postcode: "55758"
 city: Bruchweiler
-street: "Hochwaldstraße"
-housenumber: 25
+street: Hochwaldstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

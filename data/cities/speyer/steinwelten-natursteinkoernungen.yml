@@ -1,11 +1,11 @@
 id: 642886445
-type: way
+type: node
 latitude: 49.3301
 longitude: 8.42856
 postcode: "67346"
 city: Speyer
-street: "Werkstraße"
-housenumber: 6
+street: Werkstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

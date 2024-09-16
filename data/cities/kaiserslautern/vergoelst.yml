@@ -1,11 +1,11 @@
 id: 98776950
-type: way
+type: node
 latitude: 49.45469
 longitude: 7.78693
 postcode: "67657"
 city: Kaiserslautern
-street: "Hertelsbrunnenring"
-housenumber: 29
+street: Hertelsbrunnenring
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1023636224
-type: way
+type: node
 latitude: 49.97356
 longitude: 6.6327
 postcode: "54647"
 city: Dudeldorf
-street: "Ringstraße"
-housenumber: 49
-phone: "+49 6565 2151"
-opening_hours: "Tu,Th,Fr 08:00-19:00; We,Sa 08:00-12:00; Mo off"
+street: Ringstraße
+housenumber: "49"
+phone: +49 6565 2151
+opening_hours: Tu,Th,Fr 08:00-19:00; We,Sa 08:00-12:00; Mo off
 website: ""

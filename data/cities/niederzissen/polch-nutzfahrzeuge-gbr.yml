@@ -1,11 +1,11 @@
 id: 779501560
-type: way
+type: node
 latitude: 50.46628
 longitude: 7.23565
 postcode: "56651"
 city: Niederzissen
-street: "Industriegebiet Scheid"
-housenumber: 12
-phone: "+49 2636 9698690"
+street: Industriegebiet Scheid
+housenumber: "12"
+phone: +49 2636 9698690
 opening_hours: ""
-website: "https://www.polch-gbr.de"
+website: https://www.polch-gbr.de

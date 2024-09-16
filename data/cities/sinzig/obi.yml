@@ -1,11 +1,11 @@
 id: 109149951
-type: way
+type: node
 latitude: 50.54457
 longitude: 7.26791
 postcode: "53489"
 city: Sinzig
-street: "Trifterweg"
+street: Trifterweg
 housenumber: 14-20
-phone: "+49 2642 90620"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-20:00; PH off"
-website: "https://www.obi.de/markt/sinzig"
+phone: +49 2642 90620
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-20:00; PH off
+website: https://www.obi.de/markt/sinzig

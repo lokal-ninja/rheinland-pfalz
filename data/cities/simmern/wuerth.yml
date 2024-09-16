@@ -4,8 +4,8 @@ latitude: 49.98028
 longitude: 7.54309
 postcode: "55469"
 city: Simmern
-street: "Am Waldhof"
-housenumber: 11
-phone: "+49 6761 9678340"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00; "
+street: Am Waldhof
+housenumber: "11"
+phone: +49 6761 9678340
+opening_hours: 'Mo-Th 07:00-17:00; Fr 07:00-16:00; '
 website: ""

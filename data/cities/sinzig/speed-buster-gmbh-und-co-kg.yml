@@ -1,11 +1,11 @@
 id: 146355629
-type: way
+type: node
 latitude: 50.54373
 longitude: 7.26625
 postcode: "53489"
 city: Sinzig
-street: "Mosaikweg"
-housenumber: 18
-phone: "+49 2642  999111"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00; Sa-Su,PH off"
-website: "https://www.chiptuning.shop/de"
+street: Mosaikweg
+housenumber: "18"
+phone: +49 2642  999111
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00; Sa-Su,PH off
+website: https://www.chiptuning.shop/de

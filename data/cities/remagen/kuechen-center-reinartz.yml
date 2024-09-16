@@ -4,8 +4,8 @@ latitude: 50.62645
 longitude: 7.20776
 postcode: "53424"
 city: Remagen
-street: "Bonner Straße"
-housenumber: 21
-phone: "+49 2228 293"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00; Su,PH off"
+street: Bonner Straße
+housenumber: "21"
+phone: +49 2228 293
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00; Su,PH off
 website: ""

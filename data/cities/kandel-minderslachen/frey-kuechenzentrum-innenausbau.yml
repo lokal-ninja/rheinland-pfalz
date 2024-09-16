@@ -1,11 +1,11 @@
 id: 197252317
-type: way
+type: node
 latitude: 49.09735
 longitude: 8.1747
 postcode: "76870"
 city: Kandel-Minderslachen
-street: "Horstring"
-housenumber: 17
-phone: "+49 7275 9557 0"
-opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-15:00"
-website: "https://frey-kandel.de"
+street: Horstring
+housenumber: "17"
+phone: +49 7275 9557 0
+opening_hours: Mo-Fr 09:30-18:30, Sa 09:30-15:00
+website: https://frey-kandel.de

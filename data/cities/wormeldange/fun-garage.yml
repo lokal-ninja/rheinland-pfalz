@@ -4,8 +4,8 @@ latitude: 49.60934
 longitude: 6.40419
 postcode: "5480"
 city: Wormeldange
-street: "Rue Principale"
-housenumber: 100
-phone: "+352 671 012 540"
-opening_hours: "Mo-Fr 08:30-12:00,14:30-18:00"
+street: Rue Principale
+housenumber: "100"
+phone: +352 671 012 540
+opening_hours: Mo-Fr 08:30-12:00,14:30-18:00
 website: ""

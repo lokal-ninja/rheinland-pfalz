@@ -1,11 +1,11 @@
 id: 377984035
-type: way
+type: node
 latitude: 50.369
 longitude: 7.56107
 postcode: ""
 city: Koblenz
-street: "Rübenacher Straße"
+street: Rübenacher Straße
 housenumber: 33a
-phone: "+49 261 927260"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; PH off"
+phone: +49 261 927260
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00; PH off
 website: ""

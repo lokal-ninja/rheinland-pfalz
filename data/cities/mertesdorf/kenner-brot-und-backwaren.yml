@@ -4,8 +4,8 @@ latitude: 49.77275
 longitude: 6.73368
 postcode: "54318"
 city: Mertesdorf
-street: "Hauptstraße"
-housenumber: 84
-phone: "+49 651 52003"
-opening_hours: "Mo-Fr 05:00-18:30; Sa 05:00-13:00; Su,PH 07:00-11:00"
+street: Hauptstraße
+housenumber: "84"
+phone: +49 651 52003
+opening_hours: Mo-Fr 05:00-18:30; Sa 05:00-13:00; Su,PH 07:00-11:00
 website: ""

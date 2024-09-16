@@ -4,8 +4,8 @@ latitude: 49.19298
 longitude: 8.14308
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Hermann-Staudinger-Straße"
-housenumber: 1
-phone: "+49 6341 68140911"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://www.porsche-landau.de/"
+street: Hermann-Staudinger-Straße
+housenumber: "1"
+phone: +49 6341 68140911
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://www.porsche-landau.de/

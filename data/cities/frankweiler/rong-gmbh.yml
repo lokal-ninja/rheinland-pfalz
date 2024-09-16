@@ -4,8 +4,8 @@ latitude: 49.22909
 longitude: 8.06039
 postcode: "76833"
 city: Frankweiler
-street: "Königsgasse"
-housenumber: 6
+street: Königsgasse
+housenumber: "6"
 phone: "063459548170"
-opening_hours: "Mo-Tu, Th 08:00-16:30; We, Fr 08:00-12:30"
-website: "https://rong.de"
+opening_hours: Mo-Tu, Th 08:00-16:30; We, Fr 08:00-12:30
+website: https://rong.de

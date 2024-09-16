@@ -1,11 +1,11 @@
 id: 231627905
-type: way
+type: node
 latitude: 49.97536
 longitude: 8.06404
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Grundstraße"
-housenumber: 4
-phone: "+49 6132 2154"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-13:00"
-website: "http://www.elektro-kaiser.biz/"
+street: Grundstraße
+housenumber: "4"
+phone: +49 6132 2154
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-13:00
+website: http://www.elektro-kaiser.biz/

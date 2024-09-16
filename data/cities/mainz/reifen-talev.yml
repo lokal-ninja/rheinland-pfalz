@@ -4,8 +4,8 @@ latitude: 50.01887
 longitude: 8.23224
 postcode: "55120"
 city: Mainz
-street: "Albert-Knoll-Straße"
-housenumber: 2
-phone: "+49 6131 8900537"
+street: Albert-Knoll-Straße
+housenumber: "2"
+phone: +49 6131 8900537
 opening_hours: ""
-website: "https://reifentalev.de/"
+website: https://reifentalev.de/

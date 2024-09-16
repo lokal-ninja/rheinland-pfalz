@@ -4,8 +4,8 @@ latitude: 50.0192
 longitude: 8.23149
 postcode: "55120"
 city: Mainz
-street: "Suderstraße"
-housenumber: 5
+street: Suderstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

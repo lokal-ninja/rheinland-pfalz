@@ -1,11 +1,11 @@
 id: 87770699
-type: way
+type: node
 latitude: 50.44949
 longitude: 7.84523
 postcode: "56412"
 city: Heiligenroth
-street: "Industriestraße"
-housenumber: 8
-phone: "+49 2602 92110"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-14:00"
-website: "http://goerg-jung.mercedes-benz.de"
+street: Industriestraße
+housenumber: "8"
+phone: +49 2602 92110
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-14:00
+website: http://goerg-jung.mercedes-benz.de

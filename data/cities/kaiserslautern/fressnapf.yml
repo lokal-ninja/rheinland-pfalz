@@ -1,11 +1,11 @@
 id: 98863002
-type: way
+type: node
 latitude: 49.45165
 longitude: 7.78389
 postcode: "67657"
 city: Kaiserslautern
-street: "Mainzer Straße"
-housenumber: 65
+street: Mainzer Straße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.fressnapf.de/stores/fressnapf-kaiserslautern-xxl/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.fressnapf.de/stores/fressnapf-kaiserslautern-xxl/

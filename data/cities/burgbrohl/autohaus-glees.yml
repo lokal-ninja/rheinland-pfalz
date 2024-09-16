@@ -1,11 +1,11 @@
 id: 309116507
-type: way
+type: node
 latitude: 50.45737
 longitude: 7.28316
 postcode: "56659"
 city: Burgbrohl
-street: "Brohltalstraße"
-housenumber: 20
+street: Brohltalstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

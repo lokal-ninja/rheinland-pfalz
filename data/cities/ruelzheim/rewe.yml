@@ -1,11 +1,11 @@
 id: 88912509
-type: way
+type: node
 latitude: 49.14926
 longitude: 8.29359
 postcode: "76761"
 city: Rülzheim
-street: "Gutenbergstraße"
-housenumber: 1
+street: Gutenbergstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
 website: ""

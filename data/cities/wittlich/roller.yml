@@ -1,11 +1,11 @@
 id: 614124189
-type: way
+type: node
 latitude: 49.9781
 longitude: 6.88838
 postcode: "54516"
 city: Wittlich
-street: "Römerstraße"
-housenumber: 72
+street: Römerstraße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.00459
 longitude: 8.25924
 postcode: "55118"
 city: Mainz
-street: "Boppstraße"
-housenumber: 11
+street: Boppstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00; Su,PH off"
-website: "https://www.penny.de/startseite/"
+opening_hours: Mo-Sa 07:30-22:00; Su,PH off
+website: https://www.penny.de/startseite/

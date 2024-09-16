@@ -1,11 +1,11 @@
 id: 206518768
-type: way
+type: node
 latitude: 49.24729
 longitude: 7.35558
 postcode: "66482"
 city: Zweibrücken
-street: "Gottlieb-Daimler-Straße"
-housenumber: 20
+street: Gottlieb-Daimler-Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-16:00
 website: ""

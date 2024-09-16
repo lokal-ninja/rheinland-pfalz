@@ -1,11 +1,11 @@
 id: 260660084
-type: way
+type: node
 latitude: 49.54444
 longitude: 6.52665
 postcode: "54450"
 city: Freudenburg
-street: "Appoigny-Straße"
-housenumber: 3
-phone: "+49 6582 9920944"
-opening_hours: "Tu,Th 08:30-20:00; We,Fr 08:30-17:30; Sa 08:30-14:00"
+street: Appoigny-Straße
+housenumber: "3"
+phone: +49 6582 9920944
+opening_hours: Tu,Th 08:30-20:00; We,Fr 08:30-17:30; Sa 08:30-14:00
 website: ""

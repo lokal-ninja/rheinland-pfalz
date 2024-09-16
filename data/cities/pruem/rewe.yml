@@ -1,11 +1,11 @@
 id: 255779535
-type: way
+type: node
 latitude: 50.20287
 longitude: 6.41946
 postcode: "54595"
 city: Prüm
-street: "Bahnhofstraße"
-housenumber: 63
-phone: "+49 6551 9812955"
-opening_hours: "Mo-Sa 07:00-22:00; PH closed"
+street: Bahnhofstraße
+housenumber: "63"
+phone: +49 6551 9812955
+opening_hours: Mo-Sa 07:00-22:00; PH closed
 website: ""

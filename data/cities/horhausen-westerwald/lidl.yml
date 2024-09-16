@@ -1,11 +1,11 @@
 id: 114108507
-type: way
+type: node
 latitude: 50.59267
 longitude: 7.5304
 postcode: "56593"
 city: Horhausen (Westerwald)
-street: "Landblum"
-housenumber: 2
+street: Landblum
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

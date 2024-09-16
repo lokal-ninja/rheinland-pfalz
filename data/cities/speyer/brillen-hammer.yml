@@ -1,11 +1,11 @@
 id: 213206242
-type: way
+type: node
 latitude: 49.31768
 longitude: 8.43553
 postcode: "67346"
 city: Speyer
-street: "Maximilianstraße"
-housenumber: 74
+street: Maximilianstraße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-15:00"
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-15:00
 website: ""

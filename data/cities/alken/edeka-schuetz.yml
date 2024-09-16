@@ -1,11 +1,11 @@
 id: 846914016
-type: way
+type: node
 latitude: 50.24245
 longitude: 7.4468
 postcode: "56332"
 city: Alken
-street: "Quidembaum"
-housenumber: 3
-phone: "+49 800 3335211"
-opening_hours: "Mo-Sa 06:30-21:00"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/edeka-sch%C3%BCtz-quidembaum-3/index.jsp"
+street: Quidembaum
+housenumber: "3"
+phone: +49 800 3335211
+opening_hours: Mo-Sa 06:30-21:00
+website: https://www.edeka.de/eh/s%C3%BCdwest/edeka-sch%C3%BCtz-quidembaum-3/index.jsp

@@ -4,8 +4,8 @@ latitude: 49.97575
 longitude: 8.29212
 postcode: "55130"
 city: Mainz
-street: "Jakob-Anstatt-Straße"
-housenumber: 13
+street: Jakob-Anstatt-Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Jakob-Anstatt-Stra%C3%9Fe%2013%2055130%20Mainz-Weisenau&Mode=None"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
+website: https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Jakob-Anstatt-Stra%C3%9Fe%2013%2055130%20Mainz-Weisenau&Mode=None

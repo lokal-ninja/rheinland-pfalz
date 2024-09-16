@@ -1,11 +1,11 @@
 id: 799482893
-type: way
+type: node
 latitude: 50.7143
 longitude: 7.93103
 postcode: "57586"
 city: Weitefeld
-street: "Am Hochbehälter"
-housenumber: 
+street: Am Hochbehälter
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00
 website: ""

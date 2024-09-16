@@ -1,11 +1,11 @@
 id: 24318145
-type: way
+type: node
 latitude: 50.00098
 longitude: 8.26781
 postcode: "55116"
 city: Mainz
-street: "Adolf-Kolping-Straße"
-housenumber: 4
+street: Adolf-Kolping-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:30, Sa 09:30-18:00"
-website: "https://www.roemerpassage.com/"
+opening_hours: Mo-Fr 09:30-19:30, Sa 09:30-18:00
+website: https://www.roemerpassage.com/

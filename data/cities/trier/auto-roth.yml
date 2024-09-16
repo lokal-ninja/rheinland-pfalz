@@ -1,11 +1,11 @@
 id: 393196698
-type: way
+type: node
 latitude: 49.80644
 longitude: 6.68573
 postcode: ""
 city: Trier
-street: "Servaisstraße"
-housenumber: 1
-phone: "+49 651 96809-0"
-opening_hours: "Mo-Th 07:30-17:30, Fr 07:30-17:00, Sa 09:00-13:00; PH closed"
-website: "https://handel.suzuki.de/roth"
+street: Servaisstraße
+housenumber: "1"
+phone: +49 651 96809-0
+opening_hours: Mo-Th 07:30-17:30, Fr 07:30-17:00, Sa 09:00-13:00; PH closed
+website: https://handel.suzuki.de/roth

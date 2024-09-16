@@ -4,8 +4,8 @@ latitude: 50.00767
 longitude: 8.2088
 postcode: "55124"
 city: Mainz
-street: "Am Sportfeld"
-housenumber: 5
-phone: "+49 6131 687558"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-11:00"
-website: "https://www.backhaus-luening.de/html/filialen/fili_165.htm"
+street: Am Sportfeld
+housenumber: "5"
+phone: +49 6131 687558
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-11:00
+website: https://www.backhaus-luening.de/html/filialen/fili_165.htm

@@ -1,11 +1,11 @@
 id: 158768620
-type: way
+type: node
 latitude: 49.45167
 longitude: 7.55186
 postcode: "66877"
 city: Ramstein-Miesenbach
-street: "August-Süßdorf-Straße"
-housenumber: 5
+street: August-Süßdorf-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

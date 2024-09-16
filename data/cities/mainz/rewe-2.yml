@@ -5,7 +5,7 @@ longitude: 8.22115
 postcode: ""
 city: Mainz
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de

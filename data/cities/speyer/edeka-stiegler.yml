@@ -1,11 +1,11 @@
 id: 26592299
-type: way
+type: node
 latitude: 49.31267
 longitude: 8.43785
 postcode: "67346"
 city: Speyer
-street: "St.-German-Straße"
-housenumber: 8
-phone: "+49 6232 1002390"
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.edeka-stiegler.de/unsere-maerkte/speyer-sankt-german-str"
+street: St.-German-Straße
+housenumber: "8"
+phone: +49 6232 1002390
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.edeka-stiegler.de/unsere-maerkte/speyer-sankt-german-str

@@ -4,8 +4,8 @@ latitude: 50.2002
 longitude: 7.85597
 postcode: "56355"
 city: Nastätten
-street: "Römerstraße"
-housenumber: 56
-phone: "+49 6772 964713"
-opening_hours: "Mo-Fr 09:30-12:00,15:00-18:00; Sa 10:00-13:00"
-website: "https://www.einewelt-nastaetten.de/"
+street: Römerstraße
+housenumber: "56"
+phone: +49 6772 964713
+opening_hours: Mo-Fr 09:30-12:00,15:00-18:00; Sa 10:00-13:00
+website: https://www.einewelt-nastaetten.de/

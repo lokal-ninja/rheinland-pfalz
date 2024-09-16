@@ -4,8 +4,8 @@ latitude: 49.63234
 longitude: 8.36111
 postcode: "67547"
 city: Worms
-street: "Obermarkt"
-housenumber: 11
-phone: "+49 6241 42800"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00"
+street: Obermarkt
+housenumber: "11"
+phone: +49 6241 42800
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00
 website: ""

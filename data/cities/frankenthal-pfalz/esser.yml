@@ -1,11 +1,11 @@
 id: 235828560
-type: way
+type: node
 latitude: 49.51026
 longitude: 8.33204
 postcode: "67227"
 city: Frankenthal (Pfalz)
-street: "Dürkheimer Straße"
-housenumber: 5
+street: Dürkheimer Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

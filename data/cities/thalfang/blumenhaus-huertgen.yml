@@ -1,11 +1,11 @@
 id: 254576285
-type: way
+type: node
 latitude: 49.75585
 longitude: 6.99837
 postcode: "54424"
 city: Thalfang
-street: "Haardtwaldstraße"
-housenumber: 9
-phone: "+49 6504 8578"
+street: Haardtwaldstraße
+housenumber: "9"
+phone: +49 6504 8578
 opening_hours: ""
-website: "https://blumen-huertgen.de/"
+website: https://blumen-huertgen.de/

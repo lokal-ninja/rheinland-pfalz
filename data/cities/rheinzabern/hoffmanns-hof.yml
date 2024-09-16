@@ -1,11 +1,11 @@
 id: 223881842
-type: way
+type: node
 latitude: 49.12268
 longitude: 8.28924
 postcode: "76764"
 city: Rheinzabern
-street: "An der alten Neupotzer Straße"
-housenumber: 4
+street: An der alten Neupotzer Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 205523674
-type: way
+type: node
 latitude: 49.60548
 longitude: 6.54312
 postcode: "54439"
 city: Saarburg
-street: "Heckingstraße"
-housenumber: 20
+street: Heckingstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "http://www.zilliken-vdp.de/"
+website: http://www.zilliken-vdp.de/

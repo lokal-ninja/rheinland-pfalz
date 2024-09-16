@@ -1,11 +1,11 @@
 id: 64061954
-type: way
+type: node
 latitude: 49.95748
 longitude: 8.26085
 postcode: "55129"
 city: Mainz
-street: "Robert-Koch-Straße"
-housenumber: 32
+street: Robert-Koch-Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 6:30-17:30,Sa 7:00-12:30"
+opening_hours: Mo-Fr 6:30-17:30,Sa 7:00-12:30
 website: ""

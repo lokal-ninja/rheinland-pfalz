@@ -1,11 +1,11 @@
 id: 106485816
-type: way
+type: node
 latitude: 50.26351
 longitude: 7.64426
 postcode: "56322"
 city: Spay
-street: "An der B 9"
-housenumber: 1
+street: An der B 9
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 08:00-20:00"
+opening_hours: Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 08:00-20:00
 website: ""

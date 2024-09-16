@@ -1,11 +1,11 @@
 id: 285062374
-type: way
+type: node
 latitude: 49.6891
 longitude: 8.15125
 postcode: "55234"
 city: Flomborn
-street: "Wormser Straße"
-housenumber: 48
+street: Wormser Straße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

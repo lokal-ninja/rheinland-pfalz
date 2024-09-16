@@ -4,8 +4,8 @@ latitude: 50.00323
 longitude: 8.2114
 postcode: "55124"
 city: Mainz
-street: "Breite Straße"
-housenumber: 41
-phone: "+49 6131 2871193"
-opening_hours: "Sa 09:00-13:00; Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.frohnhaeuser.com/"
+street: Breite Straße
+housenumber: "41"
+phone: +49 6131 2871193
+opening_hours: Sa 09:00-13:00; Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.frohnhaeuser.com/

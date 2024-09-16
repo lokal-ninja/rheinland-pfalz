@@ -1,11 +1,11 @@
 id: 44088866
-type: way
+type: node
 latitude: 49.48928
 longitude: 8.34893
 postcode: "67071"
 city: Ludwigshafen am Rhein
-street: "Oderstraße"
-housenumber: 2
+street: Oderstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
 website: ""

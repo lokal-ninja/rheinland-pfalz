@@ -4,8 +4,8 @@ latitude: 49.75328
 longitude: 6.64951
 postcode: "54295"
 city: Trier
-street: "Gartenfeldstraße"
-housenumber: 21
-phone: "+49 651 43316"
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-14:00"
-website: "https://www.nahkauf-surges.de"
+street: Gartenfeldstraße
+housenumber: "21"
+phone: +49 651 43316
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-14:00
+website: https://www.nahkauf-surges.de

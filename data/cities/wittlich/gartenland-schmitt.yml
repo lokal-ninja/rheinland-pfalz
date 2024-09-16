@@ -1,11 +1,12 @@
 id: 171820228
-type: way
+type: node
 latitude: 49.97492
 longitude: 6.88869
 postcode: "54516"
 city: Wittlich
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-16:00, PH off; Nov-Feb Mo-Fr 09:00-18:00, Sa 09:00-16:00, PH off"
-website: "https://www.gartenland-schmitt.de/"
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-16:00, PH off; Nov-Feb Mo-Fr 09:00-18:00,
+    Sa 09:00-16:00, PH off
+website: https://www.gartenland-schmitt.de/

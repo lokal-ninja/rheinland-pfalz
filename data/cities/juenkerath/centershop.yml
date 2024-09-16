@@ -1,11 +1,11 @@
 id: 198067323
-type: way
+type: node
 latitude: 50.34822
 longitude: 6.56918
 postcode: "54584"
 city: Jünkerath
-street: "Auf dem Wehrt"
-housenumber: 5
+street: Auf dem Wehrt
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

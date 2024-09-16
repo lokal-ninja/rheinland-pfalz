@@ -1,11 +1,11 @@
 id: 1032611255
-type: way
+type: node
 latitude: 49.88803
 longitude: 7.77827
 postcode: "55595"
 city: Wallhausen
-street: "Gutenberger Straße"
-housenumber: 19
+street: Gutenberger Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

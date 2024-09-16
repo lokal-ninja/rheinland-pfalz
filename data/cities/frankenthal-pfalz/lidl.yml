@@ -1,11 +1,11 @@
 id: 154483743
-type: way
+type: node
 latitude: 49.5438
 longitude: 8.35207
 postcode: "67227"
 city: Frankenthal (Pfalz)
-street: "Wormser Straße"
-housenumber: 97
+street: Wormser Straße
+housenumber: "97"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

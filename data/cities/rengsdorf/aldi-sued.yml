@@ -1,11 +1,11 @@
 id: 219817486
-type: way
+type: node
 latitude: 50.51153
 longitude: 7.48362
 postcode: "56579"
 city: Rengsdorf
-street: "Westerwaldstraße"
-housenumber: 97
+street: Westerwaldstraße
+housenumber: "97"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/rheinland-pfalz/rengsdorf/westerwaldstrasse-97"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/rheinland-pfalz/rengsdorf/westerwaldstrasse-97

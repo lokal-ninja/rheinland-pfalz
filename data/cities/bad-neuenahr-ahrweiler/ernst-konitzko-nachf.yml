@@ -1,11 +1,11 @@
 id: 130755100
-type: way
+type: node
 latitude: 50.48865
 longitude: 7.09555
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Mayener Straße"
-housenumber: 10
-phone: "+49 2646 325"
-opening_hours: "Mo 07:00-14:00,Tu-Fr 07:00-19:00,Sa 07:00-14:00"
+street: Mayener Straße
+housenumber: "10"
+phone: +49 2646 325
+opening_hours: Mo 07:00-14:00,Tu-Fr 07:00-19:00,Sa 07:00-14:00
 website: ""

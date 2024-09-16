@@ -4,8 +4,8 @@ latitude: 49.2393
 longitude: 8.20091
 postcode: "76879"
 city: Hochstadt (Pfalz)
-street: "Obere Brückengärten"
-housenumber: 1
-phone: "+49 6347 919650"
-opening_hours: "We,Fr 09:00-18:00; Jul-Sep: Sa 14:00-18:00"
-website: "http://www.obsthof-wicke.de/"
+street: Obere Brückengärten
+housenumber: "1"
+phone: +49 6347 919650
+opening_hours: 'We,Fr 09:00-18:00; Jul-Sep: Sa 14:00-18:00'
+website: http://www.obsthof-wicke.de/

@@ -1,11 +1,11 @@
 id: 395118818
-type: way
+type: node
 latitude: 50.00908
 longitude: 8.24551
 postcode: "55122"
 city: Mainz
-street: "Mombacher Straße"
-housenumber: 91
-phone: "+49 6131 375950"
-opening_hours: "Mo-Fr 08:00-13:00; Sa 09:00-13:00"
-website: "https://www.holzland-klein.de/"
+street: Mombacher Straße
+housenumber: "91"
+phone: +49 6131 375950
+opening_hours: Mo-Fr 08:00-13:00; Sa 09:00-13:00
+website: https://www.holzland-klein.de/

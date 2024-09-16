@@ -1,11 +1,11 @@
 id: 625288484
-type: way
+type: node
 latitude: 49.4891
 longitude: 8.21813
 postcode: "67167"
 city: Erpolzheim
-street: "Bahnhofstraße"
+street: Bahnhofstraße
 housenumber: 12 A
-phone: "+49 6353 1587"
-opening_hours: "9:00-18:30"
-website: "http://www.landhaus-hilberth.de"
+phone: +49 6353 1587
+opening_hours: 9:00-18:30
+website: http://www.landhaus-hilberth.de

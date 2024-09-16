@@ -4,8 +4,8 @@ latitude: 49.75356
 longitude: 6.63932
 postcode: "54290"
 city: Trier
-street: "Fahrstraße"
-housenumber: 15
+street: Fahrstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
 website: ""

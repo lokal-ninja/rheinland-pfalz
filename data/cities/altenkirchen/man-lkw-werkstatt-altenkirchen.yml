@@ -1,11 +1,11 @@
 id: 815502631
-type: way
+type: node
 latitude: 50.6916
 longitude: 7.61989
 postcode: "57610"
 city: Altenkirchen
-street: "Kölner Straße"
-housenumber: 122
-phone: "+49 2681 95320"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 06:30-13:00; Su off"
+street: Kölner Straße
+housenumber: "122"
+phone: +49 2681 95320
+opening_hours: Mo-Fr 07:30-18:00; Sa 06:30-13:00; Su off
 website: ""

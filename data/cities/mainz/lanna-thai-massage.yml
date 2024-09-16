@@ -4,8 +4,8 @@ latitude: 50.00067
 longitude: 8.27401
 postcode: "55116"
 city: Mainz
-street: "Am Brand"
-housenumber: 25
-phone: "+49 06131 5869052"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.lannamainz.de/"
+street: Am Brand
+housenumber: "25"
+phone: +49 06131 5869052
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.lannamainz.de/

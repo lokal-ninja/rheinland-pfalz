@@ -4,8 +4,9 @@ latitude: 49.76209
 longitude: 6.72705
 postcode: "54317"
 city: Kasel
-street: "Bahnhofstraße"
-housenumber: 2
-phone: "+49 651 52123"
-opening_hours: "We-Fr 14:00+; Sa,Su 11:00+; Oct 20-Mar Su[-1]: We-Fr 16:00+; Sa,Su 11:00+"
-website: "http://www.weinhaus-neuerburg.com/"
+street: Bahnhofstraße
+housenumber: "2"
+phone: +49 651 52123
+opening_hours: 'We-Fr 14:00+; Sa,Su 11:00+; Oct 20-Mar Su[-1]: We-Fr 16:00+; Sa,Su
+    11:00+'
+website: http://www.weinhaus-neuerburg.com/

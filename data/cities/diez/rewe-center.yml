@@ -1,11 +1,11 @@
 id: 319058768
-type: way
+type: node
 latitude: 50.37137
 longitude: 8.03523
 postcode: "65582"
 city: Diez
-street: "Am Backsteinbrand"
-housenumber: 6
+street: Am Backsteinbrand
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

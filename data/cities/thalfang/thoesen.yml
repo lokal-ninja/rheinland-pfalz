@@ -1,11 +1,11 @@
 id: 254569864
-type: way
+type: node
 latitude: 49.75151
 longitude: 6.99798
 postcode: "54424"
 city: Thalfang
-street: "Saarstraße"
-housenumber: 8
-phone: "+49 6504 33 75 58"
+street: Saarstraße
+housenumber: "8"
+phone: +49 6504 33 75 58
 opening_hours: ""
 website: ""

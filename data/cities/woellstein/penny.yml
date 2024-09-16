@@ -1,11 +1,11 @@
 id: 316491258
-type: way
+type: node
 latitude: 49.81339
 longitude: 7.96037
 postcode: "55597"
 city: Wöllstein
-street: "Ernst-Ludwig-Straße"
-housenumber: 13
+street: Ernst-Ludwig-Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

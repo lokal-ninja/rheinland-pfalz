@@ -1,11 +1,11 @@
 id: 267606060
-type: way
+type: node
 latitude: 49.11314
 longitude: 7.80168
 postcode: "76891"
 city: Bruchweiler-Bärenbach
-street: "Dorfstraße"
-housenumber: 1
+street: Dorfstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 499974762
-type: way
+type: node
 latitude: 50.41724
 longitude: 7.11881
 postcode: "56746"
 city: Kempenich
-street: "Zur alten Burg"
-housenumber: 13
+street: Zur alten Burg
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00"
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00
 website: ""

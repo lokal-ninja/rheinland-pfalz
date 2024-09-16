@@ -1,11 +1,11 @@
 id: 119155364
-type: way
+type: node
 latitude: 49.26536
 longitude: 8.40183
 postcode: "67354"
 city: Römerberg
-street: "Holzgasse"
-housenumber: 26
+street: Holzgasse
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

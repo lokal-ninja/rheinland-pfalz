@@ -1,11 +1,11 @@
 id: 860924230
-type: way
+type: node
 latitude: 50.778
 longitude: 7.94789
 postcode: "57562"
 city: Herdorf
-street: "Hauptstraße"
-housenumber: 3
+street: Hauptstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 209218326
-type: way
+type: node
 latitude: 49.47636
 longitude: 8.28905
 postcode: "67133"
 city: Maxdorf
-street: "Hüttenmüllerstraße"
-housenumber: 50
+street: Hüttenmüllerstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

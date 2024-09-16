@@ -1,11 +1,11 @@
 id: 246388886
-type: way
+type: node
 latitude: 49.31761
 longitude: 8.43239
 postcode: "67346"
 city: Speyer
-street: "Gutenbergstraße"
-housenumber: 1
+street: Gutenbergstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

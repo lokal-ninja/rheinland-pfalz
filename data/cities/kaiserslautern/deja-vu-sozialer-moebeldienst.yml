@@ -1,11 +1,11 @@
 id: 173691456
-type: way
+type: node
 latitude: 49.4373
 longitude: 7.75757
 postcode: "67655"
 city: Kaiserslautern
-street: "Pfaffstraße"
-housenumber: 3
+street: Pfaffstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.asz-kl.de/moebelladen-hofladen/"
+website: https://www.asz-kl.de/moebelladen-hofladen/

@@ -1,11 +1,11 @@
 id: 138272648
-type: way
+type: node
 latitude: 50.38871
 longitude: 7.55528
 postcode: "56070"
 city: Koblenz
-street: "Ernst-Abbe-Straße"
-housenumber: 1
+street: Ernst-Abbe-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

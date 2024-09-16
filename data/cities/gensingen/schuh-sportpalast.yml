@@ -1,11 +1,11 @@
 id: 211774005
-type: way
+type: node
 latitude: 49.90472
 longitude: 7.92775
 postcode: "55457"
 city: Gensingen
-street: "Am Kieselberg"
-housenumber: 12
+street: Am Kieselberg
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

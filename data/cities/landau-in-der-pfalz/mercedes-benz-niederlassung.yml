@@ -4,8 +4,8 @@ latitude: 49.20955
 longitude: 8.11659
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Am Schänzel"
-housenumber: 1
-phone: "+49 6341 9700"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:30-19:30"
-website: "https://www.mercedes-benz-mannheim.de/de/desktop/about-us/locations/location.5106.html"
+street: Am Schänzel
+housenumber: "1"
+phone: +49 6341 9700
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:30-19:30
+website: https://www.mercedes-benz-mannheim.de/de/desktop/about-us/locations/location.5106.html

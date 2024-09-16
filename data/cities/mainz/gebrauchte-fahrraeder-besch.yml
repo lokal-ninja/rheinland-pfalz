@@ -4,8 +4,8 @@ latitude: 49.98425
 longitude: 8.23578
 postcode: "55128"
 city: Mainz
-street: "Draiser Straße"
-housenumber: 9
-phone: "+49 6131 366161"
-opening_hours: "Termine nach Vereinbarung"
-website: "https://www.gebrauchte-fahrraeder-besch.de/"
+street: Draiser Straße
+housenumber: "9"
+phone: +49 6131 366161
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://www.gebrauchte-fahrraeder-besch.de/

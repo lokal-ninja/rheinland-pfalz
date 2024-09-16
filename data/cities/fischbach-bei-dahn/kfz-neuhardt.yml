@@ -1,11 +1,11 @@
 id: 294705746
-type: way
+type: node
 latitude: 49.06609
 longitude: 7.69756
 postcode: "66996"
 city: Fischbach bei Dahn
-street: "Vogesenstraße"
-housenumber: 46
+street: Vogesenstraße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

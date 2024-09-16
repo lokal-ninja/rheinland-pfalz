@@ -1,11 +1,11 @@
 id: 95956458
-type: way
+type: node
 latitude: 49.42708
 longitude: 8.36109
 postcode: "67112"
 city: Mutterstadt
-street: "An der Fohlenweide"
-housenumber: 3
+street: An der Fohlenweide
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://henzel-automobile.de/"
+website: https://henzel-automobile.de/

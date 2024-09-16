@@ -1,11 +1,11 @@
 id: 668765951
-type: way
+type: node
 latitude: 49.81082
 longitude: 7.52335
 postcode: "55618"
 city: Simmertal
-street: "Hauptstraße"
-housenumber: 52
+street: Hauptstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 09:00-15:00"
+opening_hours: Mo-Sa 09:00-15:00
 website: ""

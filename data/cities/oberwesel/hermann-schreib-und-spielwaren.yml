@@ -4,8 +4,8 @@ latitude: 50.10647
 longitude: 7.72788
 postcode: "55430"
 city: Oberwesel
-street: "Liebfrauenstraße"
-housenumber: 31
-phone: "+49 6744 94390"
-opening_hours: "Mo-Fr 08:00-12:30,14:00-18:00, Sa 08:00-12:30"
-website: "https://hermann-oberwesel.de/"
+street: Liebfrauenstraße
+housenumber: "31"
+phone: +49 6744 94390
+opening_hours: Mo-Fr 08:00-12:30,14:00-18:00, Sa 08:00-12:30
+website: https://hermann-oberwesel.de/

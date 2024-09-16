@@ -1,11 +1,11 @@
 id: 66941623
-type: way
+type: node
 latitude: 49.77742
 longitude: 8.18872
 postcode: "55239"
 city: Gau-Odernheim
-street: "Bahnstraße"
-housenumber: 31
+street: Bahnstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

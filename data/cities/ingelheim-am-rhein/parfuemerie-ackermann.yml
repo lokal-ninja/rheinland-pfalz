@@ -4,8 +4,8 @@ latitude: 49.97431
 longitude: 8.05445
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Binger Straße"
-housenumber: 89
+street: Binger Straße
+housenumber: "89"
 phone: "+4961323415"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://www.parfuemerien-ackermann.de/"
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://www.parfuemerien-ackermann.de/

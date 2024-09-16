@@ -1,11 +1,11 @@
 id: 826211666
-type: way
+type: node
 latitude: 49.48133
 longitude: 8.36545
 postcode: "67071"
 city: Ludwigshafen am Rhein
-street: "Hedwig-Laudien-Ring"
-housenumber: 5
+street: Hedwig-Laudien-Ring
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.car-in-form.de/"
+website: https://www.car-in-form.de/

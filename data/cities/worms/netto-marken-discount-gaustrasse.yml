@@ -1,11 +1,11 @@
 id: 86961545
-type: way
+type: node
 latitude: 49.64269
 longitude: 8.3552
 postcode: "67549"
 city: Worms
-street: "Gaustraße"
-housenumber: 86
+street: Gaustraße
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.netto-online.de

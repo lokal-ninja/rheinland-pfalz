@@ -1,11 +1,11 @@
 id: 141769939
-type: way
+type: node
 latitude: 49.76936
 longitude: 6.58878
 postcode: "54311"
 city: Trierweiler
-street: "Bergstraße"
-housenumber: 3
+street: Bergstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Tu 07:30-16:45, Fr 07:30-14:00; PH closed"
-website: "http://www.mettler-trier.de"
+opening_hours: Mo-Tu 07:30-16:45, Fr 07:30-14:00; PH closed
+website: http://www.mettler-trier.de

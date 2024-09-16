@@ -1,11 +1,11 @@
 id: 470541194
-type: way
+type: node
 latitude: 49.13766
 longitude: 7.80084
 postcode: "66994"
 city: Dahn
-street: "Industriestraße"
-housenumber: 5
+street: Industriestraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

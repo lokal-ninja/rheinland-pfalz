@@ -1,11 +1,11 @@
 id: 27596575
-type: way
+type: node
 latitude: 49.75634
 longitude: 6.64923
 postcode: "54290"
 city: Trier
-street: "Ostallee"
+street: Ostallee
 housenumber: 3-5
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

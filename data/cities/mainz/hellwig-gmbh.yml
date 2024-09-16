@@ -4,8 +4,8 @@ latitude: 50.00632
 longitude: 8.25557
 postcode: "55118"
 city: Mainz
-street: "Boppstraße"
-housenumber: 66
-phone: "+49 6131 2776295"
-opening_hours: "Mo-Th 10:00-13:00,14:00-18:00; Fr 10:00-12:00"
-website: "http://www.hellwigteam.de/"
+street: Boppstraße
+housenumber: "66"
+phone: +49 6131 2776295
+opening_hours: Mo-Th 10:00-13:00,14:00-18:00; Fr 10:00-12:00
+website: http://www.hellwigteam.de/

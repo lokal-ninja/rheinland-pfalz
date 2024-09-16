@@ -1,11 +1,11 @@
 id: 150043700
-type: way
+type: node
 latitude: 50.09732
 longitude: 7.12208
 postcode: "56814"
 city: Bremm
-street: "An der Kapelle"
-housenumber: 19
+street: An der Kapelle
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

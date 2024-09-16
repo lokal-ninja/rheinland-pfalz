@@ -1,11 +1,11 @@
 id: 608727659
-type: way
+type: node
 latitude: 50.2922
 longitude: 7.46319
 postcode: "56332"
 city: Niederfell
-street: "Moselstraße"
-housenumber: 15
-phone: "+49 2607 8309"
-opening_hours: "Su 07:30-18:30; We-Sa 06:30-18:30"
-website: "http://www.cafesander.com/"
+street: Moselstraße
+housenumber: "15"
+phone: +49 2607 8309
+opening_hours: Su 07:30-18:30; We-Sa 06:30-18:30
+website: http://www.cafesander.com/

@@ -1,11 +1,11 @@
 id: 1207988510
-type: way
+type: node
 latitude: 49.77936
 longitude: 7.33829
 postcode: "55756"
 city: Herrstein
-street: "Hauptstraße"
-housenumber: 23
+street: Hauptstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

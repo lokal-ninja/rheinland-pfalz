@@ -1,11 +1,11 @@
 id: 142033118
-type: way
+type: node
 latitude: 49.60831
 longitude: 8.3201
 postcode: "67551"
 city: Worms
-street: "Neubachstraße"
+street: Neubachstraße
 housenumber: 87a
-phone: "+49 6241 34960"
-opening_hours: "Mo-Fr 10:00-12:30,16:00-18:30; Th off; Sa 10:00-13:00"
-website: "https://boerschingers-nudeln.de"
+phone: +49 6241 34960
+opening_hours: Mo-Fr 10:00-12:30,16:00-18:30; Th off; Sa 10:00-13:00
+website: https://boerschingers-nudeln.de

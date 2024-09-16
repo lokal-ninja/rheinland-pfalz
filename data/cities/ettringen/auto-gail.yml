@@ -1,11 +1,11 @@
 id: 328013922
-type: way
+type: node
 latitude: 50.35799
 longitude: 7.21823
 postcode: "56729"
 city: Ettringen
-street: "Hochsimmerstraße"
-housenumber: 8
+street: Hochsimmerstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

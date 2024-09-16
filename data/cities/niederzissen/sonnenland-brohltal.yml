@@ -1,11 +1,11 @@
 id: 359660909
-type: way
+type: node
 latitude: 50.46026
 longitude: 7.22218
 postcode: "56651"
 city: Niederzissen
-street: "Brohltalstraße"
-housenumber: 80
+street: Brohltalstraße
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

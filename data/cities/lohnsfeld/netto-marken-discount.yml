@@ -1,11 +1,11 @@
 id: 1235489512
-type: way
+type: node
 latitude: 49.56305
 longitude: 7.85764
 postcode: "67722"
 city: Lohnsfeld
-street: "Schäferdelle"
-housenumber: 1
+street: Schäferdelle
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

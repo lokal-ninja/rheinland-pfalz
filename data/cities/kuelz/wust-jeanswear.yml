@@ -1,11 +1,11 @@
 id: 592523644
-type: way
+type: node
 latitude: 50.00733
 longitude: 7.49365
 postcode: "55471"
 city: Külz
-street: "Hauptstraße"
-housenumber: 20
+street: Hauptstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00;Sa 09:00-13:00"
+opening_hours: Mo-Fr 10:00-18:00;Sa 09:00-13:00
 website: ""

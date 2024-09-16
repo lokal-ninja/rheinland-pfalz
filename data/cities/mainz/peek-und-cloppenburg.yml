@@ -4,8 +4,8 @@ latitude: 50.00034
 longitude: 8.27481
 postcode: "55116"
 city: Mainz
-street: "Am Brand"
-housenumber: 38
-phone: "+49 6131 669200"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.peek-cloppenburg.de/"
+street: Am Brand
+housenumber: "38"
+phone: +49 6131 669200
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.peek-cloppenburg.de/

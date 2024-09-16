@@ -4,8 +4,8 @@ latitude: 50.0027
 longitude: 8.2557
 postcode: "55122"
 city: Mainz
-street: "Mombacher Straße"
-housenumber: 25
-phone: "+49 6131 689535"
-opening_hours: "Mo-Th 08:00-17:30; Fr 08:00-15:30"
+street: Mombacher Straße
+housenumber: "25"
+phone: +49 6131 689535
+opening_hours: Mo-Th 08:00-17:30; Fr 08:00-15:30
 website: ""

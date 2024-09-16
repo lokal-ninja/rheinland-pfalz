@@ -1,11 +1,11 @@
 id: 253388520
-type: way
+type: node
 latitude: 49.07798
 longitude: 8.20161
 postcode: "76870"
 city: Kandel
-street: "Lauterburger Straße"
-housenumber: 9
-phone: "+49 7275 2601"
+street: Lauterburger Straße
+housenumber: "9"
+phone: +49 7275 2601
 opening_hours: ""
-website: "https://www.drehleiter-service.com/"
+website: https://www.drehleiter-service.com/

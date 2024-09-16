@@ -4,8 +4,9 @@ latitude: 50.57173
 longitude: 7.78402
 postcode: "56244"
 city: Hartenfels
-street: "Hauptstraße"
-housenumber: 13
-phone: "+49 2626 6131"
-opening_hours: "Mo 07:30-13:00; Tu-Th 07:30-13:00, 15:00-18:00; Fr 07:30-13:00, 14:30-18:00; Sa 07:30-12:00"
-website: "https://www.burgmetzgerei-botte.de/"
+street: Hauptstraße
+housenumber: "13"
+phone: +49 2626 6131
+opening_hours: Mo 07:30-13:00; Tu-Th 07:30-13:00, 15:00-18:00; Fr 07:30-13:00, 14:30-18:00;
+    Sa 07:30-12:00
+website: https://www.burgmetzgerei-botte.de/

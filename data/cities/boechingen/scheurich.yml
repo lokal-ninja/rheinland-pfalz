@@ -1,11 +1,11 @@
 id: 187622267
-type: way
+type: node
 latitude: 49.23669
 longitude: 8.09177
 postcode: "76833"
 city: Böchingen
-street: "Landauer Straße"
-housenumber: 12
+street: Landauer Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

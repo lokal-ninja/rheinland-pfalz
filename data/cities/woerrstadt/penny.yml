@@ -1,11 +1,11 @@
 id: 356647722
-type: way
+type: node
 latitude: 49.83738
 longitude: 8.11379
 postcode: "55286"
 city: Wörrstadt
-street: "Pariser Straße"
-housenumber: 83
+street: Pariser Straße
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
+opening_hours: Mo-Sa 07:30-21:00
 website: ""

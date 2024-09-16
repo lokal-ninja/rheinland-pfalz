@@ -1,11 +1,11 @@
 id: 505414244
-type: way
+type: node
 latitude: 49.33648
 longitude: 8.43702
 postcode: "67346"
 city: Speyer
-street: "Tullastraße"
-housenumber: 47
-phone: "+49 6232 64230"
-opening_hours: "Mo-Fr 07:30-17:15; Sa 08:00-12:00"
+street: Tullastraße
+housenumber: "47"
+phone: +49 6232 64230
+opening_hours: Mo-Fr 07:30-17:15; Sa 08:00-12:00
 website: ""

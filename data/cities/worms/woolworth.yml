@@ -1,11 +1,11 @@
 id: 208452935
-type: way
+type: node
 latitude: 49.63241
 longitude: 8.36246
 postcode: "67547"
 city: Worms
-street: "Hardtgasse"
-housenumber: 4
+street: Hardtgasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

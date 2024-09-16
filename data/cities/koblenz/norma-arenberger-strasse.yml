@@ -1,11 +1,11 @@
 id: 44809913
-type: way
+type: node
 latitude: 50.36542
 longitude: 7.61998
 postcode: "56077"
 city: Koblenz
-street: "Arenberger Straße"
-housenumber: 22
+street: Arenberger Straße
+housenumber: "22"
 phone: ""
-opening_hours: "mo-fr 08:00-20:00"
+opening_hours: mo-fr 08:00-20:00
 website: ""

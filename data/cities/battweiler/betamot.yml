@@ -1,11 +1,11 @@
 id: 37662328
-type: way
+type: node
 latitude: 49.2802
 longitude: 7.46145
 postcode: "66484"
 city: Battweiler
-street: "Windhofstraße"
-housenumber: 13
+street: Windhofstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 198861495
-type: way
+type: node
 latitude: 49.95147
 longitude: 7.12082
 postcode: "56841"
 city: Traben-Trarbach
-street: "Am Bahnhof"
-housenumber: 9
+street: Am Bahnhof
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

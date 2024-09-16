@@ -4,8 +4,8 @@ latitude: 49.9623
 longitude: 8.28067
 postcode: "55129"
 city: Mainz
-street: "Alte Mainzer Straße"
-housenumber: 23
-phone: "+49 6131 59519"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00"
-website: "https://www.waescherei-delle.de"
+street: Alte Mainzer Straße
+housenumber: "23"
+phone: +49 6131 59519
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00
+website: https://www.waescherei-delle.de

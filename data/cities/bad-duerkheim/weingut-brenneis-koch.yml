@@ -4,8 +4,8 @@ latitude: 49.49325
 longitude: 8.15827
 postcode: "67098"
 city: Bad Dürkheim
-street: "Freinsheimer Straße"
-housenumber: 2
-phone: "+49 6322 1898"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.brenneis-koch.de/"
+street: Freinsheimer Straße
+housenumber: "2"
+phone: +49 6322 1898
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.brenneis-koch.de/

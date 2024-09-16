@@ -1,11 +1,11 @@
 id: 257618116
-type: way
+type: node
 latitude: 49.95321
 longitude: 6.9542
 postcode: ""
 city: Platten
-street: "Lieserstraße"
-housenumber: 22
+street: Lieserstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Tu-Fr 08:00-12:00;Tu-Fr 13:00-18:00;Sa 08:00-13:00"
+opening_hours: Tu-Fr 08:00-12:00;Tu-Fr 13:00-18:00;Sa 08:00-13:00
 website: ""

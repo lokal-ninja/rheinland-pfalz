@@ -4,8 +4,8 @@ latitude: 49.5116
 longitude: 8.29989
 postcode: "67245"
 city: Lambsheim
-street: "Marktstraße"
-housenumber: 51
+street: Marktstraße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo,We,Fr 10:00-12:00; Mo-Th 16:00-18:00; Fr 14:00-18:00; Sa 16:30-18:00"
+opening_hours: Mo,We,Fr 10:00-12:00; Mo-Th 16:00-18:00; Fr 14:00-18:00; Sa 16:30-18:00
 website: ""

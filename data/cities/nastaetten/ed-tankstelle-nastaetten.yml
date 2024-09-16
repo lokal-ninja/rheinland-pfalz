@@ -4,8 +4,8 @@ latitude: 50.19693
 longitude: 7.84421
 postcode: "56355"
 city: Nastätten
-street: "Rheinstraße"
-housenumber: 66
+street: Rheinstraße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su,PH 08:00-22:00"
-website: "https://ed-info.de/tankstelle/tankstellen_sto_nastaetten/"
+opening_hours: Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su,PH 08:00-22:00
+website: https://ed-info.de/tankstelle/tankstellen_sto_nastaetten/

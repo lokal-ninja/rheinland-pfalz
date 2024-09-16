@@ -1,11 +1,11 @@
 id: 575063945
-type: way
+type: node
 latitude: 50.46207
 longitude: 7.23903
 postcode: "56651"
 city: Niederzissen
-street: "Brohltalstraße"
-housenumber: 6
-phone: "+49 2636 93180"
-opening_hours: "Mo-Fr 07:30-12:00, 13:00-17:30; Sa 08:00-12:00; PH off"
-website: "https://www.ford-niederzissen-niederzissen.de/"
+street: Brohltalstraße
+housenumber: "6"
+phone: +49 2636 93180
+opening_hours: Mo-Fr 07:30-12:00, 13:00-17:30; Sa 08:00-12:00; PH off
+website: https://www.ford-niederzissen-niederzissen.de/

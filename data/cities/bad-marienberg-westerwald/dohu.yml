@@ -1,11 +1,11 @@
 id: 548781133
-type: way
+type: node
 latitude: 50.6443
 longitude: 7.94454
 postcode: "56470"
 city: Bad Marienberg (Westerwald)
-street: "Marienberger Straße"
-housenumber: 26
+street: Marienberger Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
 website: ""

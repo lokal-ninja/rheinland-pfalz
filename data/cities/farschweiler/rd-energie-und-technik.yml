@@ -1,11 +1,11 @@
 id: 261217686
-type: way
+type: node
 latitude: 49.71577
 longitude: 6.83172
 postcode: "54317"
 city: Farschweiler
-street: "Unterm Wehlenkopf"
-housenumber: 8
+street: Unterm Wehlenkopf
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

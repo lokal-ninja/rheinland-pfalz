@@ -1,11 +1,11 @@
 id: 122292290
-type: way
+type: node
 latitude: 49.84632
 longitude: 7.8838
 postcode: "55543"
 city: Bad Kreuznach
-street: "Bosenheimer Straße"
+street: Bosenheimer Straße
 housenumber: 200a
-phone: "+49 671 9203505"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://www.fahrradbecker.de/"
+phone: +49 671 9203505
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://www.fahrradbecker.de/

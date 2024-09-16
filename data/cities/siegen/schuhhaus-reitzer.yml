@@ -1,11 +1,11 @@
 id: 291286448
-type: way
+type: node
 latitude: 50.84429
 longitude: 7.9678
 postcode: "57080"
 city: Siegen
-street: "Siegtalstraße"
-housenumber: 216
+street: Siegtalstraße
+housenumber: "216"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30,Sa 09:00-14:00; PH off"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:30,Sa 09:00-14:00; PH off
 website: ""

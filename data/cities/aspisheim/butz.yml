@@ -1,11 +1,11 @@
 id: 830008206
-type: way
+type: node
 latitude: 49.90588
 longitude: 7.97956
 postcode: "55459"
 city: Aspisheim
-street: "Horrweiler Straße"
-housenumber: 11
+street: Horrweiler Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

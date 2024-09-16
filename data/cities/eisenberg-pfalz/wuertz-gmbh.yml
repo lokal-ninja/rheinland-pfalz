@@ -1,11 +1,11 @@
 id: 221446125
-type: way
+type: node
 latitude: 49.56383
 longitude: 8.08101
 postcode: "67304"
 city: Eisenberg (Pfalz)
-street: "Alfred-Nobel-Straße"
-housenumber: 3
+street: Alfred-Nobel-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

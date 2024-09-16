@@ -1,11 +1,11 @@
 id: 208155244
-type: way
+type: node
 latitude: 49.85086
 longitude: 7.8901
 postcode: "55543"
 city: Bad Kreuznach
-street: "Industriestraße"
-housenumber: 40
-phone: "+49 800 4209050"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 09:00-13:00"
-website: "http://www.carclass.de/"
+street: Industriestraße
+housenumber: "40"
+phone: +49 800 4209050
+opening_hours: Mo-Fr 07:30-17:00; Sa 09:00-13:00
+website: http://www.carclass.de/

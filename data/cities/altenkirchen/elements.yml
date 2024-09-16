@@ -1,11 +1,11 @@
 id: 495064128
-type: way
+type: node
 latitude: 50.69374
 longitude: 7.65344
 postcode: "57610"
 city: Altenkirchen
-street: "Siegener Straße"
+street: Siegener Straße
 housenumber: 65c
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-15:00"
-website: "https://www.elements-show.de/altenkirchen"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-15:00
+website: https://www.elements-show.de/altenkirchen

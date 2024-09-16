@@ -1,11 +1,11 @@
 id: 145017580
-type: way
+type: node
 latitude: 49.85718
 longitude: 7.91023
 postcode: "55545"
 city: Bad Kreuznach
-street: "Weinstraße"
-housenumber: 2
-phone: "+49 671 79613-0"
-opening_hours: "Mo-Fr 10:00-19:15; Sa 10:00-18:00"
-website: "https://moebel-fundgrube.de"
+street: Weinstraße
+housenumber: "2"
+phone: +49 671 79613-0
+opening_hours: Mo-Fr 10:00-19:15; Sa 10:00-18:00
+website: https://moebel-fundgrube.de

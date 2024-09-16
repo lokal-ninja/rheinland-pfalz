@@ -1,11 +1,11 @@
 id: 215621356
-type: way
+type: node
 latitude: 49.55951
 longitude: 8.07095
 postcode: "67304"
 city: Eisenberg (Pfalz)
-street: "Kerzenheimer Straße"
-housenumber: 35
+street: Kerzenheimer Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

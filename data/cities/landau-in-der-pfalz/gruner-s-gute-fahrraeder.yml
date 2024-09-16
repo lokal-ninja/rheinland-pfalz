@@ -4,8 +4,8 @@ latitude: 49.19842
 longitude: 8.11425
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Trappengasse"
-housenumber: 14
-phone: "+49 6341 919034"
-opening_hours: "We-Fr 14:00-17:00; Sa 09:00-14:00"
-website: "http://www.fahrrad-gruner.de/index.html"
+street: Trappengasse
+housenumber: "14"
+phone: +49 6341 919034
+opening_hours: We-Fr 14:00-17:00; Sa 09:00-14:00
+website: http://www.fahrrad-gruner.de/index.html

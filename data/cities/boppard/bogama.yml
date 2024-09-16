@@ -1,11 +1,11 @@
 id: 967877427
-type: way
+type: node
 latitude: 50.2191
 longitude: 7.60395
 postcode: "56154"
 city: Boppard
-street: "Schiffelsfelder Weg"
-housenumber: 1
+street: Schiffelsfelder Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

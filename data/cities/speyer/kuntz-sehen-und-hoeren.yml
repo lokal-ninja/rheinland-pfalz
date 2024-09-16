@@ -4,8 +4,8 @@ latitude: 49.31773
 longitude: 8.42987
 postcode: "67346"
 city: Speyer
-street: "Mühlturmstraße"
-housenumber: 20
+street: Mühlturmstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://kuntz.online"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://kuntz.online

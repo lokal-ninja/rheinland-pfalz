@@ -1,11 +1,11 @@
 id: 89057842
-type: way
+type: node
 latitude: 50.02522
 longitude: 8.17499
 postcode: "55257"
 city: Budenheim
-street: "Auf der Bein"
-housenumber: 9
-phone: "+49 6139 2905757"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.autoglas-budenheim.de/"
+street: Auf der Bein
+housenumber: "9"
+phone: +49 6139 2905757
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.autoglas-budenheim.de/

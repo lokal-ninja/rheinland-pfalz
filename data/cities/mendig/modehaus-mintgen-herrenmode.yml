@@ -4,8 +4,8 @@ latitude: 50.37104
 longitude: 7.28325
 postcode: "56743"
 city: Mendig
-street: "Bahnstraße"
-housenumber: 
-phone: "+49 2652 93 43 20"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00"
-website: "https://mintgen-mendig.de/"
+street: Bahnstraße
+housenumber: ""
+phone: +49 2652 93 43 20
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:00
+website: https://mintgen-mendig.de/

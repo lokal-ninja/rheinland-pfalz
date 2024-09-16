@@ -1,11 +1,11 @@
 id: 203159949
-type: way
+type: node
 latitude: 49.63251
 longitude: 8.36361
 postcode: "67547"
 city: Worms
-street: "Korngasse"
-housenumber: 2
-phone: "+49 6241 302710"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.kaiser-passage-worms.de"
+street: Korngasse
+housenumber: "2"
+phone: +49 6241 302710
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.kaiser-passage-worms.de

@@ -1,11 +1,11 @@
 id: 258766674
-type: way
+type: node
 latitude: 50.11164
 longitude: 7.72176
 postcode: "55430"
 city: Oberwesel
-street: "Am Katzenturm"
-housenumber: 3
+street: Am Katzenturm
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

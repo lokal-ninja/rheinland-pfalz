@@ -1,11 +1,11 @@
 id: 626888254
-type: way
+type: node
 latitude: 49.47333
 longitude: 7.58194
 postcode: "67686"
 city: Mackenbach
-street: "Triftstraße"
-housenumber: 2
+street: Triftstraße
+housenumber: "2"
 phone: "+496374914960"
 opening_hours: ""
-website: "https://www.autoteileroiger.de/"
+website: https://www.autoteileroiger.de/

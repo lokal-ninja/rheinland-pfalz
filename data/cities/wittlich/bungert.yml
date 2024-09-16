@@ -1,11 +1,11 @@
 id: 268714574
-type: way
+type: node
 latitude: 49.99056
 longitude: 6.90592
 postcode: "54516"
 city: Wittlich
-street: "Friedrichstraße"
-housenumber: 59
-phone: "+49 6571 696-0"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://bungert-online.de/"
+street: Friedrichstraße
+housenumber: "59"
+phone: +49 6571 696-0
+opening_hours: Mo-Sa 08:00-20:00
+website: https://bungert-online.de/

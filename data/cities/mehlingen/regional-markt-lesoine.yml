@@ -1,11 +1,11 @@
 id: 1270045475
-type: way
+type: node
 latitude: 49.49179
 longitude: 7.85615
 postcode: "67678"
 city: Mehlingen
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 29a
-phone: "+49 6303 7066"
+phone: +49 6303 7066
 opening_hours: ""
 website: ""

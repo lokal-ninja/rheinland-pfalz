@@ -1,11 +1,11 @@
 id: 37282326
-type: way
+type: node
 latitude: 50.43204
 longitude: 7.48353
 postcode: "56564"
 city: Neuwied
-street: "Insterburger Straße"
-housenumber: 14
+street: Insterburger Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "mega-buero.de"
+website: mega-buero.de

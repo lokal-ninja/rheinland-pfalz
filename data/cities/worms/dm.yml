@@ -4,8 +4,8 @@ latitude: 49.63177
 longitude: 8.36302
 postcode: "67547"
 city: Worms
-street: "Kämmererstraße"
-housenumber: 34
-phone: "+49 6241 925073"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.dm.de/store/de-154/worms/kaemmererstrasse-34"
+street: Kämmererstraße
+housenumber: "34"
+phone: +49 6241 925073
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.dm.de/store/de-154/worms/kaemmererstrasse-34

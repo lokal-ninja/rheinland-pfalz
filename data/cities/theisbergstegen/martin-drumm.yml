@@ -1,11 +1,11 @@
 id: 755749791
-type: way
+type: node
 latitude: 49.51703
 longitude: 7.448
 postcode: "66871"
 city: Theisbergstegen
-street: "Moorstraße"
-housenumber: 9
+street: Moorstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

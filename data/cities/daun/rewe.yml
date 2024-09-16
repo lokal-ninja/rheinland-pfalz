@@ -1,11 +1,11 @@
 id: 304103380
-type: way
+type: node
 latitude: 50.19176
 longitude: 6.80344
 postcode: "54550"
 city: Daun
-street: "Hamsterweg"
-housenumber: 5
+street: Hamsterweg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/

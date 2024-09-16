@@ -1,11 +1,11 @@
 id: 104650770
-type: way
+type: node
 latitude: 49.43971
 longitude: 7.74085
 postcode: "67663"
 city: Kaiserslautern
-street: "Pariser Straße"
-housenumber: 211
+street: Pariser Straße
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 259617148
-type: way
+type: node
 latitude: 49.44126
 longitude: 7.89583
 postcode: "67691"
 city: Hochspeyer
-street: "Trippstadter Straße"
-housenumber: 36
+street: Trippstadter Straße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

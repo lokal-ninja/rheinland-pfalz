@@ -1,11 +1,11 @@
 id: 180566715
-type: way
+type: node
 latitude: 49.95016
 longitude: 7.78702
 postcode: "55442"
 city: Stromberg
-street: "Friedrichsheck"
-housenumber: 33
+street: Friedrichsheck
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

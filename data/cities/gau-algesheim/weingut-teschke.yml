@@ -1,11 +1,11 @@
 id: 246820267
-type: way
+type: node
 latitude: 49.93135
 longitude: 7.99554
 postcode: "55435"
 city: Gau-Algesheim
 street: ""
-housenumber: 14
-phone: "+49 6725 23 31"
+housenumber: "14"
+phone: +49 6725 23 31
 opening_hours: ""
-website: "http://www.weingut-teschke.de"
+website: http://www.weingut-teschke.de

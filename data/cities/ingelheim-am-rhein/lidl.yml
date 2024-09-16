@@ -1,11 +1,11 @@
 id: 28141415
-type: way
+type: node
 latitude: 49.97335
 longitude: 8.03716
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Binger Straße"
-housenumber: 210
+street: Binger Straße
+housenumber: "210"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.lidl.de/f/ingelheim/binger-str-210.html"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.lidl.de/f/ingelheim/binger-str-210.html

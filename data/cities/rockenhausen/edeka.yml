@@ -1,11 +1,11 @@
 id: 507025418
-type: way
+type: node
 latitude: 49.63743
 longitude: 7.82858
 postcode: "67806"
 city: Rockenhausen
-street: "An der Linde"
-housenumber: 7
-phone: "+49 6361 459680"
-opening_hours: "Mo-Sa 07:30-21:00"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/edeka-strese-an-der-linde-7/index.jsp"
+street: An der Linde
+housenumber: "7"
+phone: +49 6361 459680
+opening_hours: Mo-Sa 07:30-21:00
+website: https://www.edeka.de/eh/s%C3%BCdwest/edeka-strese-an-der-linde-7/index.jsp

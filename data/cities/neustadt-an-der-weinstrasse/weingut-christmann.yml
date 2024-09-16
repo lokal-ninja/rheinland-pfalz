@@ -4,8 +4,8 @@ latitude: 49.37634
 longitude: 8.15178
 postcode: ""
 city: Neustadt an der Weinstraße
-street: "Peter-Koch-Straße"
-housenumber: 43
-phone: "+49 6321 66039"
-opening_hours: "Mo-Fr 8:00-12:00,13:00-18:00,Sa 10:00-16:00"
-website: "https://www.weingut-christmann.de/"
+street: Peter-Koch-Straße
+housenumber: "43"
+phone: +49 6321 66039
+opening_hours: Mo-Fr 8:00-12:00,13:00-18:00,Sa 10:00-16:00
+website: https://www.weingut-christmann.de/

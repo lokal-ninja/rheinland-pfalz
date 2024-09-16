@@ -1,11 +1,11 @@
 id: 258750579
-type: way
+type: node
 latitude: 50.54565
 longitude: 7.17768
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Göppinger Straße"
+street: Göppinger Straße
 housenumber: 13a
-phone: "+49 2641 23349"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-17:00; Sa 10:00-14:00"
-website: "http://www.weingut-nelles.de/"
+phone: +49 2641 23349
+opening_hours: Mo-Fr 09:00-12:00,14:00-17:00; Sa 10:00-14:00
+website: http://www.weingut-nelles.de/

@@ -4,8 +4,8 @@ latitude: 50.57827
 longitude: 7.23302
 postcode: "53424"
 city: Remagen
-street: "Marktstraße"
-housenumber: 34
-phone: "+49 2642 23966"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su, PH off"
-website: "https://buchhandlung-geber.de"
+street: Marktstraße
+housenumber: "34"
+phone: +49 2642 23966
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su, PH off
+website: https://buchhandlung-geber.de

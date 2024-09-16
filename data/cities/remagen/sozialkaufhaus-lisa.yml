@@ -1,11 +1,11 @@
 id: 23543035
-type: way
+type: node
 latitude: 50.57528
 longitude: 7.2413
 postcode: "53424"
 city: Remagen
-street: "Alte Straße"
-housenumber: 58
+street: Alte Straße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo,We-Th 10:00-16:45; Fr 10:00-13:45"
+opening_hours: Mo,We-Th 10:00-16:45; Fr 10:00-13:45
 website: ""

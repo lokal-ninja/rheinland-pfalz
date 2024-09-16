@@ -1,11 +1,11 @@
 id: 697231545
-type: way
+type: node
 latitude: 49.04729
 longitude: 7.95426
 postcode: "76889"
 city: Schweigen-Rechtenbach
-street: "An der Schmalwiese"
-housenumber: 6
+street: An der Schmalwiese
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

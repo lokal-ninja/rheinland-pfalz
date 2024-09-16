@@ -1,11 +1,11 @@
 id: 314993397
-type: way
+type: node
 latitude: 50.65804
 longitude: 7.96288
 postcode: "56470"
 city: Bad Marienberg (Westerwald)
-street: "Jahnstraße"
-housenumber: 13
+street: Jahnstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

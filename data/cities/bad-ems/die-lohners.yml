@@ -4,8 +4,8 @@ latitude: 50.33129
 longitude: 7.70676
 postcode: "56130"
 city: Bad Ems
-street: "Ernst-Born-Straße"
-housenumber: 4
-phone: "+49 2603 5068159"
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-18:00; Su 08:00-18:00"
-website: "https://www.die-lohners.de/"
+street: Ernst-Born-Straße
+housenumber: "4"
+phone: +49 2603 5068159
+opening_hours: Mo-Fr 06:30-19:00; Sa 06:30-18:00; Su 08:00-18:00
+website: https://www.die-lohners.de/

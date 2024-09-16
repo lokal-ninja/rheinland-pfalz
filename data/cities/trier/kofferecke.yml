@@ -4,8 +4,8 @@ latitude: 49.75638
 longitude: 6.64114
 postcode: "54290"
 city: Trier
-street: "Hauptmarkt"
-housenumber: 7
+street: Hauptmarkt
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-18:00
 website: ""

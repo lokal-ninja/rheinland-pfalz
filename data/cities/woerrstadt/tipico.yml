@@ -1,11 +1,11 @@
 id: 356864957
-type: way
+type: node
 latitude: 49.83833
 longitude: 8.11599
 postcode: "55286"
 city: Wörrstadt
-street: "Friedrich-Ebert-Straße"
-housenumber: 7
+street: Friedrich-Ebert-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Su 11:00-23:00"
+opening_hours: Mo-Su 11:00-23:00
 website: ""

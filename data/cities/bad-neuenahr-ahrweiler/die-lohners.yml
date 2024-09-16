@@ -4,8 +4,8 @@ latitude: 50.53917
 longitude: 7.08712
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Am Silberberg"
-housenumber: 2
-phone: "+49 2642 9060810"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-11:00"
-website: "https://www.die-lohners.de"
+street: Am Silberberg
+housenumber: "2"
+phone: +49 2642 9060810
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-11:00
+website: https://www.die-lohners.de

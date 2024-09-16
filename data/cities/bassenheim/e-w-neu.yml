@@ -1,11 +1,11 @@
 id: 90237718
-type: way
+type: node
 latitude: 50.35652
 longitude: 7.47699
 postcode: "56220"
 city: Bassenheim
-street: "Am Gülser Weg"
-housenumber: 16
-phone: "+49 2625 9526080"
-opening_hours: "Mo-Th 07:30-16:45; Fr 07:30-15:00; PH off"
-website: "https://www.werkzeug-neu.de"
+street: Am Gülser Weg
+housenumber: "16"
+phone: +49 2625 9526080
+opening_hours: Mo-Th 07:30-16:45; Fr 07:30-15:00; PH off
+website: https://www.werkzeug-neu.de

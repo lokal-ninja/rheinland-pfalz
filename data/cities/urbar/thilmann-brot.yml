@@ -4,8 +4,8 @@ latitude: 50.38496
 longitude: 7.62374
 postcode: "56182"
 city: Urbar
-street: "Beginenstraße"
-housenumber: 2
-phone: "+49 261 98899708"
-opening_hours: "Mo-Fr 06:00-18:00, Sa 06:00-13:00, Su 08:00-11:00"
-website: "https://thilmann-brot-urbar.slue.io/"
+street: Beginenstraße
+housenumber: "2"
+phone: +49 261 98899708
+opening_hours: Mo-Fr 06:00-18:00, Sa 06:00-13:00, Su 08:00-11:00
+website: https://thilmann-brot-urbar.slue.io/

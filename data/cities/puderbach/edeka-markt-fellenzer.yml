@@ -1,11 +1,11 @@
 id: 227117019
-type: way
+type: node
 latitude: 50.59331
 longitude: 7.60805
 postcode: "56305"
 city: Puderbach
-street: "Urbacher Straße"
-housenumber: 24
+street: Urbacher Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 8:00-21:00"
+opening_hours: Mo-Sa 8:00-21:00
 website: ""

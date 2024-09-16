@@ -1,11 +1,11 @@
 id: 668030364
-type: way
+type: node
 latitude: 49.55998
 longitude: 8.17018
 postcode: "67269"
 city: Grünstadt
-street: "Kirchheimer Straße"
+street: Kirchheimer Straße
 housenumber: 49 b
-phone: "+49 6359 205616"
-opening_hours: "Mo-Fr 09:00-18:30,Sa 09:00-13:00"
-website: "https://www.expert.de/gruenstadt/mueller5"
+phone: +49 6359 205616
+opening_hours: Mo-Fr 09:00-18:30,Sa 09:00-13:00
+website: https://www.expert.de/gruenstadt/mueller5

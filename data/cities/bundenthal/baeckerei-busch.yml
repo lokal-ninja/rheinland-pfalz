@@ -1,11 +1,11 @@
 id: 295846479
-type: way
+type: node
 latitude: 49.09508
 longitude: 7.81065
 postcode: "76891"
 city: Bundenthal
-street: "Hauptstraße"
-housenumber: 67
+street: Hauptstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Fr 05:30-17:00; Sa 05:30-12:00; Su 07:30-10:30; PH off"
+opening_hours: Mo-Fr 05:30-17:00; Sa 05:30-12:00; Su 07:30-10:30; PH off
 website: ""

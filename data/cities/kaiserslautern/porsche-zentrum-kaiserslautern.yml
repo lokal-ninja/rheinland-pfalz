@@ -1,11 +1,11 @@
 id: 1102343385
-type: way
+type: node
 latitude: 49.45275
 longitude: 7.81723
 postcode: "67657"
 city: Kaiserslautern
-street: "Europaallee"
-housenumber: 37
+street: Europaallee
+housenumber: "37"
 phone: ""
 opening_hours: ""
-website: "https://www.porsche-kaiserslautern.de/"
+website: https://www.porsche-kaiserslautern.de/

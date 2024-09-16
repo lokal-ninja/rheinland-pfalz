@@ -4,8 +4,8 @@ latitude: 50.43807
 longitude: 7.39831
 postcode: "56626"
 city: Andernach
-street: "Schafbachstraße"
-housenumber: 21
-phone: "+49 2632 9891155"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00; PH off"
-website: "https://hundesalon-andernach.de"
+street: Schafbachstraße
+housenumber: "21"
+phone: +49 2632 9891155
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00; PH off
+website: https://hundesalon-andernach.de

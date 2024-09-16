@@ -1,11 +1,11 @@
 id: 49996568
-type: way
+type: node
 latitude: 50.55905
 longitude: 7.52753
 postcode: "56587"
 city: Oberhonnefeld-Gierend
-street: "Über dem Stellweg"
-housenumber: 5
+street: Über dem Stellweg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de/

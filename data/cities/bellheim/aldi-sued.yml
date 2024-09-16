@@ -1,11 +1,11 @@
 id: 47503466
-type: way
+type: node
 latitude: 49.19725
 longitude: 8.30757
 postcode: "76756"
 city: Bellheim
-street: "Waldstückerring"
-housenumber: 30
+street: Waldstückerring
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=%20Waldst%C3%BCckerring%2030%2076756%20Bellheim&Mode=None"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=%20Waldst%C3%BCckerring%2030%2076756%20Bellheim&Mode=None

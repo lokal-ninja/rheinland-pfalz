@@ -1,11 +1,11 @@
 id: 259209267
-type: way
+type: node
 latitude: 50.07248
 longitude: 7.44255
 postcode: "56288"
 city: Kastellaun
-street: "Perlengasse"
-housenumber: 10
+street: Perlengasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

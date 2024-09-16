@@ -1,11 +1,11 @@
 id: 241947392
-type: way
+type: node
 latitude: 49.14973
 longitude: 8.23153
 postcode: "76863"
 city: Herxheim
-street: "Im Riegel"
-housenumber: 6
-phone: "+49 221 20199959"
-opening_hours: "Mo-Sa 07:30-21:00; Su,PH off"
-website: "https://www.penny.de/markt/herxheim-bei-landau-pfalz/830636/penny-herxe-im-riegel-6"
+street: Im Riegel
+housenumber: "6"
+phone: +49 221 20199959
+opening_hours: Mo-Sa 07:30-21:00; Su,PH off
+website: https://www.penny.de/markt/herxheim-bei-landau-pfalz/830636/penny-herxe-im-riegel-6

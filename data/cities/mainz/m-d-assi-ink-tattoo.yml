@@ -4,8 +4,8 @@ latitude: 50.00555
 longitude: 8.25683
 postcode: "55118"
 city: Mainz
-street: "Josefsstraße"
-housenumber: 10
-phone: "+49 6131 2491296"
-opening_hours: "Tu-Sa 10:00-18:00"
+street: Josefsstraße
+housenumber: "10"
+phone: +49 6131 2491296
+opening_hours: Tu-Sa 10:00-18:00
 website: ""

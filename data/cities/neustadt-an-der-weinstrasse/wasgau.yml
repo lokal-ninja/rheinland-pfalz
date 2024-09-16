@@ -1,11 +1,11 @@
 id: 475069985
-type: way
+type: node
 latitude: 49.30337
 longitude: 8.26685
 postcode: "67435"
 city: Neustadt an der Weinstraße
-street: "Gäustraße"
-housenumber: 3
-phone: "+49 6327 9779960"
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+street: Gäustraße
+housenumber: "3"
+phone: +49 6327 9779960
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

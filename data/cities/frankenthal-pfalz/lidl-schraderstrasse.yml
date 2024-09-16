@@ -1,11 +1,11 @@
 id: 149173008
-type: way
+type: node
 latitude: 49.52071
 longitude: 8.35102
 postcode: "67227"
 city: Frankenthal (Pfalz)
-street: "Schraderstraße"
-housenumber: 42
+street: Schraderstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

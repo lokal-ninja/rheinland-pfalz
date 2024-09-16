@@ -1,11 +1,11 @@
 id: 116022372
-type: way
+type: node
 latitude: 50.39595
 longitude: 7.51455
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Spitalsgraben"
-housenumber: 7
-phone: "+49 2630 94200"
-opening_hours: "Mo-Sa 10:00-19:00; PH off"
-website: "https://kueche-plus.com"
+street: Spitalsgraben
+housenumber: "7"
+phone: +49 2630 94200
+opening_hours: Mo-Sa 10:00-19:00; PH off
+website: https://kueche-plus.com

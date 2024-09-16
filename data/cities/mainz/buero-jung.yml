@@ -4,8 +4,8 @@ latitude: 50.02
 longitude: 8.23512
 postcode: "55120"
 city: Mainz
-street: "Liebigstraße"
+street: Liebigstraße
 housenumber: 9-11
-phone: "+49 6131 68 20 11"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-17:00"
-website: "https://www.buero-jung.de/"
+phone: +49 6131 68 20 11
+opening_hours: Mo-Fr 09:00-13:00, 14:00-17:00
+website: https://www.buero-jung.de/

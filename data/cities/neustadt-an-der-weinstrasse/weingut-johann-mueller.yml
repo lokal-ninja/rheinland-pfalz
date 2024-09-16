@@ -4,8 +4,8 @@ latitude: 49.32794
 longitude: 8.12785
 postcode: ""
 city: Neustadt an der Weinstraße
-street: "Schlossstraße"
-housenumber: 42
-phone: "+49 6321 80259"
+street: Schlossstraße
+housenumber: "42"
+phone: +49 6321 80259
 opening_hours: ""
-website: "https://www.weingut-johann-mueller.de/"
+website: https://www.weingut-johann-mueller.de/

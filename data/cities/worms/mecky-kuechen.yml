@@ -1,11 +1,11 @@
 id: 142486818
-type: way
+type: node
 latitude: 49.61153
 longitude: 8.32763
 postcode: "67551"
 city: Worms
-street: "Wormser Straße"
-housenumber: 22
-phone: "+49 6241 935223"
-opening_hours: "Mo-Fr 09:00-12:00,14:30-18:00; Sa 09:00-12:00"
-website: "https://www.meckyundmecky.de"
+street: Wormser Straße
+housenumber: "22"
+phone: +49 6241 935223
+opening_hours: Mo-Fr 09:00-12:00,14:30-18:00; Sa 09:00-12:00
+website: https://www.meckyundmecky.de

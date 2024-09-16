@@ -1,11 +1,11 @@
 id: 315461203
-type: way
+type: node
 latitude: 49.27749
 longitude: 7.63205
 postcode: "67714"
 city: Waldfischbach-Burgalben
-street: "Moschelmühle"
-housenumber: 2
+street: Moschelmühle
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.schuh-welt.shop/"
+website: https://www.schuh-welt.shop/

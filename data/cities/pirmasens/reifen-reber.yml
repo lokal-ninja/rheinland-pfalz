@@ -1,11 +1,11 @@
 id: 596613464
-type: way
+type: node
 latitude: 49.19212
 longitude: 7.59076
 postcode: "66955"
 city: Pirmasens
-street: "Winzler Straße"
-housenumber: 164
+street: Winzler Straße
+housenumber: "164"
 phone: ""
 opening_hours: ""
 website: ""

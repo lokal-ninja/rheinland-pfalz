@@ -1,11 +1,11 @@
 id: 207441887
-type: way
+type: node
 latitude: 49.24873
 longitude: 7.34568
 postcode: "66482"
 city: Zweibrücken
-street: "Unterer Hornbachstaden"
-housenumber: 29
+street: Unterer Hornbachstaden
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

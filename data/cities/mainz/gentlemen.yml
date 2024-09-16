@@ -4,8 +4,8 @@ latitude: 50.00569
 longitude: 8.22057
 postcode: "55122"
 city: Mainz
-street: "Werrastraße"
-housenumber: 7
+street: Werrastraße
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00; Sa 08:30-15:00"
-website: "http://friseur-gentlemen.de/"
+opening_hours: Tu-Fr 09:00-19:00; Sa 08:30-15:00
+website: http://friseur-gentlemen.de/

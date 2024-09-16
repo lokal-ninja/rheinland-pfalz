@@ -4,8 +4,8 @@ latitude: 49.42609
 longitude: 8.42398
 postcode: "67141"
 city: Neuhofen
-street: "Ludwigshafener Straße"
-housenumber: 73
-phone: "+49 621 558295"
-opening_hours: "Mo-Sa 6:00-12:00;Su 7:00-11:00"
+street: Ludwigshafener Straße
+housenumber: "73"
+phone: +49 621 558295
+opening_hours: Mo-Sa 6:00-12:00;Su 7:00-11:00
 website: ""

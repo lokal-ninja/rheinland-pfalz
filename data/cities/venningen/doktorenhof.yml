@@ -1,11 +1,11 @@
 id: 144767747
-type: way
+type: node
 latitude: 49.28309
 longitude: 8.17638
 postcode: "67482"
 city: Venningen
-street: "Raiffeisenstraße"
-housenumber: 5
-phone: "+49 6323 5505"
+street: Raiffeisenstraße
+housenumber: "5"
+phone: +49 6323 5505
 opening_hours: ""
-website: "https://doktorenhof.de/"
+website: https://doktorenhof.de/

@@ -1,11 +1,11 @@
 id: 100130984
-type: way
+type: node
 latitude: 49.43662
 longitude: 7.75671
 postcode: "67655"
 city: Kaiserslautern
-street: "Pirmasenser Straße"
-housenumber: 100
+street: Pirmasenser Straße
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

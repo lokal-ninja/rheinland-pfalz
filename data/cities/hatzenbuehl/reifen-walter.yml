@@ -1,11 +1,11 @@
 id: 574389254
-type: way
+type: node
 latitude: 49.11285
 longitude: 8.23036
 postcode: "76770"
 city: Hatzenbühl
-street: "Gereutäcker"
-housenumber: 16
+street: Gereutäcker
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 13:30-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-12:00, 13:30-18:00; Sa 09:00-12:00
 website: ""

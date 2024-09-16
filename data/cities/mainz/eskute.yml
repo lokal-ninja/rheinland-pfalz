@@ -4,8 +4,8 @@ latitude: 49.99687
 longitude: 8.27316
 postcode: "55116"
 city: Mainz
-street: "Kirschgarten"
-housenumber: 20
+street: Kirschgarten
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00"
-website: "https://eskute.de/"
+opening_hours: Mo-Fr 10:00-19:00
+website: https://eskute.de/

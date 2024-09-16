@@ -1,11 +1,11 @@
 id: 88048491
-type: way
+type: node
 latitude: 50.20728
 longitude: 6.41574
 postcode: "54595"
 city: Prüm
-street: "Kalvarienbergstraße"
+street: Kalvarienbergstraße
 housenumber: 37-41
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.hit.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.hit.de/

@@ -1,11 +1,11 @@
 id: 207631198
-type: way
+type: node
 latitude: 50.57733
 longitude: 7.24182
 postcode: "53424"
 city: Remagen
-street: "Goethestraße"
-housenumber: 7
+street: Goethestraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

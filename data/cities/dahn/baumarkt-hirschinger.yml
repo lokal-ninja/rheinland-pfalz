@@ -1,11 +1,11 @@
 id: 243422831
-type: way
+type: node
 latitude: 49.15233
 longitude: 7.77451
 postcode: "66994"
 city: Dahn
-street: "Pirmasenser Straße"
-housenumber: 27
+street: Pirmasenser Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-14:00"
-website: "https://www.dahner-baufachmarkt-hirschinger.de"
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:30-14:00
+website: https://www.dahner-baufachmarkt-hirschinger.de

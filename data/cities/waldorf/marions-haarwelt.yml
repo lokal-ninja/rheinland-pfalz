@@ -1,11 +1,11 @@
 id: 496760501
-type: way
+type: node
 latitude: 50.48496
 longitude: 7.23765
 postcode: "53498"
 city: Waldorf
-street: "Hauptstraße"
-housenumber: 9
-phone: "+49 2636 809980"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-13:00; Su,PH off"
-website: "https://marions-haarwelt.business.site/"
+street: Hauptstraße
+housenumber: "9"
+phone: +49 2636 809980
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:30-13:00; Su,PH off
+website: https://marions-haarwelt.business.site/

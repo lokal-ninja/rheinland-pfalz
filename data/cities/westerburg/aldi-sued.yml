@@ -1,11 +1,11 @@
 id: 133283636
-type: way
+type: node
 latitude: 50.55682
 longitude: 7.98381
 postcode: "56457"
 city: Westerburg
-street: "Günther-Koch-Straße"
-housenumber: 27
+street: Günther-Koch-Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 473045287
-type: way
+type: node
 latitude: 50.50301
 longitude: 7.92764
 postcode: "56414"
 city: Herschbach
-street: "Hauptstraße"
-housenumber: 5
+street: Hauptstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.autohauskegler.de/"
+website: https://www.autohauskegler.de/

@@ -4,8 +4,8 @@ latitude: 49.44132
 longitude: 7.76184
 postcode: "67655"
 city: Kaiserslautern
-street: "St.-Marien-Platz"
-housenumber: 10
-phone: "+49 631 12334"
-opening_hours: "Mo-Fr 9:00-18:00; Sa 9:00-13:30; Su 10:00-12:30"
-website: "https://blumen-fess-scherrer.de/"
+street: St.-Marien-Platz
+housenumber: "10"
+phone: +49 631 12334
+opening_hours: Mo-Fr 9:00-18:00; Sa 9:00-13:30; Su 10:00-12:30
+website: https://blumen-fess-scherrer.de/

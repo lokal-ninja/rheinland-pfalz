@@ -1,11 +1,11 @@
 id: 491101619
-type: way
+type: node
 latitude: 49.18778
 longitude: 7.37469
 postcode: "66500"
 city: Hornbach
-street: "Pirmasenser Straße"
-housenumber: 3
+street: Pirmasenser Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

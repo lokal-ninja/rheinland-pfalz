@@ -1,11 +1,11 @@
 id: 236702809
-type: way
+type: node
 latitude: 50.74591
 longitude: 7.81915
 postcode: "57580"
 city: Gebhardshain
-street: "Hachenburger Straße"
-housenumber: 2
-phone: "+49 2747 2410"
-opening_hours: "Termine nach Vereinbarung"
+street: Hachenburger Straße
+housenumber: "2"
+phone: +49 2747 2410
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

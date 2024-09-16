@@ -4,8 +4,8 @@ latitude: 49.63346
 longitude: 8.02846
 postcode: "67295"
 city: Bolanden
-street: "Crayenbühlstraße"
-housenumber: 4
-phone: "+49 176 61892374"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://gerbachhof.de/"
+street: Crayenbühlstraße
+housenumber: "4"
+phone: +49 176 61892374
+opening_hours: Mo-Su 08:00-20:00
+website: https://gerbachhof.de/

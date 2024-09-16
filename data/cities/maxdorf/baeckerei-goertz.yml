@@ -1,11 +1,11 @@
 id: 407634923
-type: way
+type: node
 latitude: 49.48193
 longitude: 8.2939
 postcode: "67133"
 city: Maxdorf
-street: "Hauptstraße"
-housenumber: 64
+street: Hauptstraße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 06:00-17:00; Su 07:30-17:00"
-website: "https://www.baeckergoertz.de/"
+opening_hours: Mo-Fr 05:30-18:00; Sa 06:00-17:00; Su 07:30-17:00
+website: https://www.baeckergoertz.de/

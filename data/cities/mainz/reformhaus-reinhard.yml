@@ -4,8 +4,8 @@ latitude: 50.00055
 longitude: 8.27139
 postcode: "55116"
 city: Mainz
-street: "Betzelsstraße"
-housenumber: 26
+street: Betzelsstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://reformhaus.de/blogs/vita-nova/reformhaus-reinhard-mainz/?utm_store_id=7c9486f3538599abe92b791494f58e90"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://reformhaus.de/blogs/vita-nova/reformhaus-reinhard-mainz/?utm_store_id=7c9486f3538599abe92b791494f58e90

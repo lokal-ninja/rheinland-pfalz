@@ -4,8 +4,8 @@ latitude: 49.75296
 longitude: 6.63896
 postcode: "54290"
 city: Trier
-street: "Neustraße"
-housenumber: 94
+street: Neustraße
+housenumber: "94"
 phone: ""
-opening_hours: "Tu-Sa 11:00-19:00"
-website: "https://art-and-home.com/"
+opening_hours: Tu-Sa 11:00-19:00
+website: https://art-and-home.com/

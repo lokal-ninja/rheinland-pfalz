@@ -1,11 +1,11 @@
 id: 90497891
-type: way
+type: node
 latitude: 49.95558
 longitude: 6.52415
 postcode: "54634"
 city: Bitburg
-street: "Saarstraße"
-housenumber: 60
+street: Saarstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-13:00
 website: ""

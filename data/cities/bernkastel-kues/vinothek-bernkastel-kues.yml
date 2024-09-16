@@ -1,11 +1,11 @@
 id: 204430454
-type: way
+type: node
 latitude: 49.92804
 longitude: 7.06086
 postcode: "54470"
 city: Bernkastel-Kues
-street: "Bornwiese"
-housenumber: 2
+street: Bornwiese
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

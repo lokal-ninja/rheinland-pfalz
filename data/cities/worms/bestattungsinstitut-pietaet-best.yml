@@ -1,11 +1,11 @@
 id: 261068565
-type: way
+type: node
 latitude: 49.6335
 longitude: 8.35218
 postcode: "67549"
 city: Worms
-street: "Seidenbenderstraße"
-housenumber: 28
-phone: "+49 6241 973290"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.bestattungen-best.de"
+street: Seidenbenderstraße
+housenumber: "28"
+phone: +49 6241 973290
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.bestattungen-best.de

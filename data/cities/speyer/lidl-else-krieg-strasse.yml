@@ -1,11 +1,11 @@
 id: 131910763
-type: way
+type: node
 latitude: 49.30879
 longitude: 8.43183
 postcode: "67346"
 city: Speyer
-street: "Else-Krieg-Straße"
-housenumber: 6
+street: Else-Krieg-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

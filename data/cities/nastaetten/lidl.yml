@@ -1,11 +1,11 @@
 id: 40254490
-type: way
+type: node
 latitude: 50.20102
 longitude: 7.84799
 postcode: "56355"
 city: Nastätten
-street: "Webergasse"
-housenumber: 13
+street: Webergasse
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

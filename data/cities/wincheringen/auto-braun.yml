@@ -1,11 +1,11 @@
 id: 331679283
-type: way
+type: node
 latitude: 49.6104
 longitude: 6.43014
 postcode: "54457"
 city: Wincheringen
-street: "Trierer Straße"
-housenumber: 12
-phone: "+49 6583 1202"
+street: Trierer Straße
+housenumber: "12"
+phone: +49 6583 1202
 opening_hours: ""
-website: "https://www.auto-braun.net/"
+website: https://www.auto-braun.net/

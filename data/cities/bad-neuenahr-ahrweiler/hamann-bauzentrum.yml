@@ -1,11 +1,11 @@
 id: 162142173
-type: way
+type: node
 latitude: 50.5479
 longitude: 7.14584
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Heerstraße"
+street: Heerstraße
 housenumber: 15-25
-phone: "+49 2641 75620"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:00-13:00; PH off"
-website: "https://hamann.info/badneuenahr"
+phone: +49 2641 75620
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:00-13:00; PH off
+website: https://hamann.info/badneuenahr

@@ -4,8 +4,8 @@ latitude: 49.31859
 longitude: 8.43341
 postcode: "67346"
 city: Speyer
-street: "Wormser Straße"
-housenumber: 48
+street: Wormser Straße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00; Su off"
-website: "https://www.nähmaschinen-speyer.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00; Su off
+website: https://www.nähmaschinen-speyer.de/

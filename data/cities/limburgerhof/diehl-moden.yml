@@ -4,8 +4,8 @@ latitude: 49.42194
 longitude: 8.39394
 postcode: "67117"
 city: Limburgerhof
-street: "Speyerer Straße"
-housenumber: 105
+street: Speyerer Straße
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-We,Fr 09:00-12:30,14:30-18:30; Th 09:00-18:30; Sa 09:00-13:00"
-website: "https://www.diehl-moden.de/"
+opening_hours: Mo-We,Fr 09:00-12:30,14:30-18:30; Th 09:00-18:30; Sa 09:00-13:00
+website: https://www.diehl-moden.de/

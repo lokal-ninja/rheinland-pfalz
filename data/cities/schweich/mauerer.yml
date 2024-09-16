@@ -1,11 +1,11 @@
 id: 718371211
-type: way
+type: node
 latitude: 49.82342
 longitude: 6.75337
 postcode: "54338"
 city: Schweich
-street: "Richtstraße"
-housenumber: 21
+street: Richtstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo 13:00-18:00; Tu-Fr 09:30-18:00; Sa 09:30-14:00; Su,PH off"
+opening_hours: Mo 13:00-18:00; Tu-Fr 09:30-18:00; Sa 09:30-14:00; Su,PH off
 website: ""

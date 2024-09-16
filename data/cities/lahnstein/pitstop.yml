@@ -1,11 +1,11 @@
 id: 852329774
-type: way
+type: node
 latitude: 50.32252
 longitude: 7.59775
 postcode: "56112"
 city: Lahnstein
-street: "Koblenzer Straße"
-housenumber: 38
-phone: "+49 2621 1883579"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://www.pitstop.de/"
+street: Koblenzer Straße
+housenumber: "38"
+phone: +49 2621 1883579
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://www.pitstop.de/

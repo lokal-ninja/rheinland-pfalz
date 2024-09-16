@@ -1,11 +1,11 @@
 id: 126706262
-type: way
+type: node
 latitude: 50.54757
 longitude: 7.14749
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Heerstraße"
+street: Heerstraße
 housenumber: 3-5
-phone: "+49 221 1490"
-opening_hours: "Mo-Sa 07:00-21:45; Su off"
+phone: +49 221 1490
+opening_hours: Mo-Sa 07:00-21:45; Su off
 website: ""

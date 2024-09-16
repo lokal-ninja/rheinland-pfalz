@@ -1,11 +1,11 @@
 id: 258758117
-type: way
+type: node
 latitude: 49.152
 longitude: 7.77898
 postcode: "66994"
 city: Dahn
-street: "Schulstraße"
-housenumber: 13
+street: Schulstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

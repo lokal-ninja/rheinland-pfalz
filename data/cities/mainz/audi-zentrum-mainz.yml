@@ -1,11 +1,11 @@
 id: 41671569
-type: way
+type: node
 latitude: 49.97767
 longitude: 8.2791
 postcode: "55131"
 city: Mainz
-street: "Hechtsheimer Straße"
-housenumber: 23
+street: Hechtsheimer Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "www.audi-zentrum-mainz.de"
+website: www.audi-zentrum-mainz.de

@@ -1,11 +1,11 @@
 id: 160093112
-type: way
+type: node
 latitude: 49.74192
 longitude: 6.6425
 postcode: "54295"
 city: Trier
-street: "De-Nys-Straße"
-housenumber: 8
+street: De-Nys-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

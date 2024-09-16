@@ -4,8 +4,9 @@ latitude: 50.54191
 longitude: 7.51543
 postcode: "56587"
 city: Straßenhaus
-street: "Ringstraße"
-housenumber: 8
-phone: "+49 2634 940179"
-opening_hours: "Tu-Th 07:30-13:00,15:00-18:00; Fr 07:30-18:00; Sa 07:30-12:30; Su,Mo,PH off"
+street: Ringstraße
+housenumber: "8"
+phone: +49 2634 940179
+opening_hours: Tu-Th 07:30-13:00,15:00-18:00; Fr 07:30-18:00; Sa 07:30-12:30; Su,Mo,PH
+    off
 website: ""

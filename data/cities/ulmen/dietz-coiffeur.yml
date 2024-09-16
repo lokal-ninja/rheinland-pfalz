@@ -4,8 +4,8 @@ latitude: 50.21457
 longitude: 6.97294
 postcode: "56766"
 city: Ulmen
-street: "Ritter-Heinrich-Straße"
-housenumber: 10
-phone: "+49 2676 951631"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.dietz-coiffeur.de/"
+street: Ritter-Heinrich-Straße
+housenumber: "10"
+phone: +49 2676 951631
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://www.dietz-coiffeur.de/

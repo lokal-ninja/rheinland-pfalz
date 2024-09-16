@@ -1,11 +1,11 @@
 id: 146852024
-type: way
+type: node
 latitude: 50.35045
 longitude: 6.61402
 postcode: "54584"
 city: Feusdorf
-street: "Hauptstraße"
-housenumber: 4
+street: Hauptstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

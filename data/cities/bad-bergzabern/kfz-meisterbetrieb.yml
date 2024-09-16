@@ -1,11 +1,11 @@
 id: 222155787
-type: way
+type: node
 latitude: 49.1074
 longitude: 8.0092
 postcode: "76887"
 city: Bad Bergzabern
-street: "Lindelbrunnstraße"
-housenumber: 6
+street: Lindelbrunnstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

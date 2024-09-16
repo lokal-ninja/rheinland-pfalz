@@ -1,11 +1,11 @@
 id: 422406778
-type: way
+type: node
 latitude: 49.40953
 longitude: 7.38116
 postcode: "66901"
 city: Schönenberg-Kübelberg
-street: "Festwiesenstraße"
-housenumber: 3
-phone: "0221 20199959"
-opening_hours: "Mo-Sa 07:30-22:00"
-website: "https://www.penny.de/markt/schoenenberg-kuebelberg/324111/penny-schoenenberg-festwiesenstr-3"
+street: Festwiesenstraße
+housenumber: "3"
+phone: 0221 20199959
+opening_hours: Mo-Sa 07:30-22:00
+website: https://www.penny.de/markt/schoenenberg-kuebelberg/324111/penny-schoenenberg-festwiesenstr-3

@@ -1,11 +1,11 @@
 id: 254648812
-type: way
+type: node
 latitude: 49.75053
 longitude: 7.0014
 postcode: "54424"
 city: Thalfang
-street: "Charlottenhöhe"
-housenumber: 11
+street: Charlottenhöhe
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 262350366
-type: way
+type: node
 latitude: 49.64944
 longitude: 8.3382
 postcode: "67550"
 city: Worms
-street: "Dr.-Carl-Sonnenschein-Straße"
-housenumber: 3
+street: Dr.-Carl-Sonnenschein-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 7:00-22:00"
+opening_hours: Mo-Sa 7:00-22:00
 website: ""

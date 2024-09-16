@@ -4,8 +4,8 @@ latitude: 49.80584
 longitude: 8.19591
 postcode: "55234"
 city: Bechtolsheim
-street: "Grabenstraße"
-housenumber: 9
+street: Grabenstraße
+housenumber: "9"
 phone: "+4967336364"
-opening_hours: "Tu, Fr, Sa 08:00-12:00; Th 13:00-18:00"
+opening_hours: Tu, Fr, Sa 08:00-12:00; Th 13:00-18:00
 website: ""

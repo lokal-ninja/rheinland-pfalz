@@ -1,11 +1,11 @@
 id: 459625652
-type: way
+type: node
 latitude: 50.19095
 longitude: 7.01269
 postcode: "56766"
 city: Auderath
-street: "Am Seitert"
-housenumber: 3
-phone: "+49 2676 677"
+street: Am Seitert
+housenumber: "3"
+phone: +49 2676 677
 opening_hours: ""
-website: "http://prehn.auderath.net"
+website: http://prehn.auderath.net

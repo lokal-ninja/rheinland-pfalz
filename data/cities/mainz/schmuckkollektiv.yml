@@ -4,8 +4,8 @@ latitude: 50.0009
 longitude: 8.27179
 postcode: "55116"
 city: Mainz
-street: "Schusterstraße"
-housenumber: 42
+street: Schusterstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.schmuckkollektiv.com/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.schmuckkollektiv.com/

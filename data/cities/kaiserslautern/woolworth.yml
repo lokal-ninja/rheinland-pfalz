@@ -1,11 +1,11 @@
 id: 380598310
-type: way
+type: node
 latitude: 49.44261
 longitude: 7.81764
 postcode: "67657"
 city: Kaiserslautern
-street: "Mannheimer Straße"
-housenumber: 234
+street: Mannheimer Straße
+housenumber: "234"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off
 website: ""

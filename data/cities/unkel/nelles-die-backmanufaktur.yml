@@ -4,8 +4,8 @@ latitude: 50.59309
 longitude: 7.22278
 postcode: "53572"
 city: Unkel
-street: "Sebastianstraße"
-housenumber: 2
-phone: "+49 2224 9814540"
-opening_hours: "Tu-Fr 06:00-19:00; Sa 07:00-18:00; Su 07:30-17:00"
-website: "https://www.die-backmanufaktur.de/"
+street: Sebastianstraße
+housenumber: "2"
+phone: +49 2224 9814540
+opening_hours: Tu-Fr 06:00-19:00; Sa 07:00-18:00; Su 07:30-17:00
+website: https://www.die-backmanufaktur.de/

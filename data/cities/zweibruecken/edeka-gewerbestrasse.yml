@@ -1,11 +1,11 @@
 id: 99168950
-type: way
+type: node
 latitude: 49.25355
 longitude: 7.38854
 postcode: "66482"
 city: Zweibrücken
-street: "Gewerbestraße"
-housenumber: 33
-phone: "+49-6332-45432"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Gewerbestraße
+housenumber: "33"
+phone: +49-6332-45432
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

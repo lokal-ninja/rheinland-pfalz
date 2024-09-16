@@ -1,11 +1,11 @@
 id: 425593799
-type: way
+type: node
 latitude: 49.90799
 longitude: 7.81666
 postcode: "55452"
 city: Windesheim
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

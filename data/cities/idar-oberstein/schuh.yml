@@ -1,11 +1,11 @@
 id: 374783485
-type: way
+type: node
 latitude: 49.71035
 longitude: 7.36
 postcode: "55743"
 city: Idar-Oberstein
-street: "John-F.-Kennedy-Straße"
-housenumber: 6
-phone: "+49 66754 8469"
+street: John-F.-Kennedy-Straße
+housenumber: "6"
+phone: +49 66754 8469
 opening_hours: ""
 website: ""

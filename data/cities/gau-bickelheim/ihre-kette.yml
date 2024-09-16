@@ -1,11 +1,11 @@
 id: 320094242
-type: way
+type: node
 latitude: 49.83555
 longitude: 8.02053
 postcode: "55599"
 city: Gau-Bickelheim
-street: "Wallertheimer Straße"
-housenumber: 2
+street: Wallertheimer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo, We-Fr 07:30-12:30, 14:30-18:00; Tu 07:30-12:30; Sa 07:00-13:00"
+opening_hours: Mo, We-Fr 07:30-12:30, 14:30-18:00; Tu 07:30-12:30; Sa 07:00-13:00
 website: ""

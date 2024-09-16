@@ -1,11 +1,11 @@
 id: 208141989
-type: way
+type: node
 latitude: 49.8523
 longitude: 7.89822
 postcode: "55545"
 city: Bad Kreuznach
-street: "Am Grenzgraben"
-housenumber: 16
-phone: "+49 671 894440"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-14:00"
-website: "https://www.nahe-cc.de/"
+street: Am Grenzgraben
+housenumber: "16"
+phone: +49 671 894440
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-14:00
+website: https://www.nahe-cc.de/

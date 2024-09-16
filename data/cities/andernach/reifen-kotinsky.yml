@@ -1,11 +1,11 @@
 id: 1054098853
-type: way
+type: node
 latitude: 50.43278
 longitude: 7.41426
 postcode: "56626"
 city: Andernach
-street: "Füllscheuer"
+street: Füllscheuer
 housenumber: 9-11
-phone: "+49 2632 47622"
-opening_hours: "Mo-Fr 8:00-12:00, 13:00-16:00; PH off"
-website: "https://reifen-kotinsky.de"
+phone: +49 2632 47622
+opening_hours: Mo-Fr 8:00-12:00, 13:00-16:00; PH off
+website: https://reifen-kotinsky.de

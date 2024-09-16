@@ -1,11 +1,11 @@
 id: 357206465
-type: way
+type: node
 latitude: 49.77354
 longitude: 7.45412
 postcode: "55606"
 city: Kirn
-street: "Krebsweilerer Straße"
-housenumber: 1
+street: Krebsweilerer Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.holzhauser.info/"
+website: https://www.holzhauser.info/

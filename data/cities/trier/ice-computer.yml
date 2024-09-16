@@ -4,8 +4,8 @@ latitude: 49.7468
 longitude: 6.63549
 postcode: "54290"
 city: Trier
-street: "Saarstraße"
-housenumber: 42
+street: Saarstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 09:30-14:00,15:00-18:30; Sa 09:30-14:00"
+opening_hours: Mo-Fr 09:30-14:00,15:00-18:30; Sa 09:30-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 405673023
-type: way
+type: node
 latitude: 50.19432
 longitude: 6.40684
 postcode: "54595"
 city: Prüm
-street: "St.-Vither-Straße"
-housenumber: 70
-phone: "+49 6551/ 954 00"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:30-16:00"
-website: "www.franzmueller-pruem.de"
+street: St.-Vither-Straße
+housenumber: "70"
+phone: +49 6551/ 954 00
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:30-16:00
+website: www.franzmueller-pruem.de

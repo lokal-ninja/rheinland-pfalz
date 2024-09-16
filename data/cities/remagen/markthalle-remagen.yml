@@ -1,11 +1,11 @@
 id: 1206334893
-type: way
+type: node
 latitude: 50.57784
 longitude: 7.23049
 postcode: "53424"
 city: Remagen
-street: "Bahnhofstraße"
-housenumber: 6
-phone: "+49 (0) 178 72 56 836"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-15:00"
+street: Bahnhofstraße
+housenumber: "6"
+phone: +49 (0) 178 72 56 836
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-15:00
 website: ""

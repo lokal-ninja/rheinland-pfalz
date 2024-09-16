@@ -1,11 +1,11 @@
 id: 251221262
-type: way
+type: node
 latitude: 49.07954
 longitude: 8.18378
 postcode: "76870"
 city: Kandel
-street: "Briandstraße"
-housenumber: 7
-phone: "+49 7275 2266"
+street: Briandstraße
+housenumber: "7"
+phone: +49 7275 2266
 opening_hours: ""
-website: "https://www.schowalters-spargel.de/"
+website: https://www.schowalters-spargel.de/

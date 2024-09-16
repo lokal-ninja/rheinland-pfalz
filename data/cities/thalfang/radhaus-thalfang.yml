@@ -1,11 +1,11 @@
 id: 260186609
-type: way
+type: node
 latitude: 49.75442
 longitude: 6.99626
 postcode: "54424"
 city: Thalfang
-street: "Hauptstraße"
-housenumber: 18
-phone: "+49 6504 7289931"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We off"
-website: "https://www.radhaus-thalfang.de/"
+street: Hauptstraße
+housenumber: "18"
+phone: +49 6504 7289931
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We off
+website: https://www.radhaus-thalfang.de/

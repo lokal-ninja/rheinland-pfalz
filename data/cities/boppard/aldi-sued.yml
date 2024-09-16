@@ -1,11 +1,11 @@
 id: 107538958
-type: way
+type: node
 latitude: 50.21232
 longitude: 7.6092
 postcode: "56154"
 city: Boppard
-street: "Bei den Roten Buchen"
-housenumber: 
+street: Bei den Roten Buchen
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

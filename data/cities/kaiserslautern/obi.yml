@@ -1,11 +1,11 @@
 id: 30754621
-type: way
+type: node
 latitude: 49.44438
 longitude: 7.70626
 postcode: "67663"
 city: Kaiserslautern
-street: "Opelkreisel"
-housenumber: 16
+street: Opelkreisel
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

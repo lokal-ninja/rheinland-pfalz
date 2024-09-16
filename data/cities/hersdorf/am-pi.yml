@@ -1,11 +1,11 @@
 id: 439470662
-type: way
+type: node
 latitude: 50.15384
 longitude: 6.55131
 postcode: "54597"
 city: Hersdorf
-street: "Am Pi"
-housenumber: 1
+street: Am Pi
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

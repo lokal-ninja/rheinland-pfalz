@@ -1,11 +1,11 @@
 id: 154719285
-type: way
+type: node
 latitude: 49.42493
 longitude: 8.41674
 postcode: "67141"
 city: Neuhofen
-street: "Carl-Reiß-Straße"
-housenumber: 21
+street: Carl-Reiß-Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.netto-online.de/filialen/neuhofen/carl-reiss-str-21/3644"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.netto-online.de/filialen/neuhofen/carl-reiss-str-21/3644

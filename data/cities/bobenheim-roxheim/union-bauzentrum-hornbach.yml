@@ -1,11 +1,11 @@
 id: 1116900676
-type: way
+type: node
 latitude: 49.58301
 longitude: 8.35167
 postcode: "67240"
 city: Bobenheim-Roxheim
-street: "In den Fuchslöchern"
-housenumber: 1
+street: In den Fuchslöchern
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

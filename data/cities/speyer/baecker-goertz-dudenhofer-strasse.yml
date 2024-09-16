@@ -4,8 +4,8 @@ latitude: 49.31841
 longitude: 8.42117
 postcode: "67346"
 city: Speyer
-street: "Dudenhofer Straße"
-housenumber: 10
-phone: "+49 6232 6870925"
-opening_hours: "Mo-Fr 05:00-18:00; Sa 06:00-18:00; Su 07:30-12:00"
-website: "https://www.baeckergoertz.de"
+street: Dudenhofer Straße
+housenumber: "10"
+phone: +49 6232 6870925
+opening_hours: Mo-Fr 05:00-18:00; Sa 06:00-18:00; Su 07:30-12:00
+website: https://www.baeckergoertz.de

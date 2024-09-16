@@ -1,11 +1,11 @@
 id: 50730626
-type: way
+type: node
 latitude: 49.86451
 longitude: 8.33263
 postcode: "55283"
 city: Nierstein
-street: "Gutenbergstraße"
-housenumber: 8
+street: Gutenbergstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 125951435
-type: way
+type: node
 latitude: 49.63011
 longitude: 6.55679
 postcode: "54441"
 city: Ayl
-street: "Wiesenweg"
-housenumber: 23
+street: Wiesenweg
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

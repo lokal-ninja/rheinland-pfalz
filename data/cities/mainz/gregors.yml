@@ -4,8 +4,8 @@ latitude: 49.99676
 longitude: 8.27169
 postcode: "55116"
 city: Mainz
-street: "Weihergarten"
-housenumber: 11
+street: Weihergarten
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 08:00-14:00"
+opening_hours: Tu-Fr 09:00-18:30; Sa 08:00-14:00
 website: ""

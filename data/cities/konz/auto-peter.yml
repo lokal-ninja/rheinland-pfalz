@@ -1,11 +1,11 @@
 id: 155558491
-type: way
+type: node
 latitude: 49.69386
 longitude: 6.56628
 postcode: "54329"
 city: Konz
-street: "Konzerbrück"
-housenumber: 35
+street: Konzerbrück
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

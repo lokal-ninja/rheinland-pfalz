@@ -1,11 +1,11 @@
 id: 147961194
-type: way
+type: node
 latitude: 50.51635
 longitude: 7.29118
 postcode: "53498"
 city: Bad Breisig
-street: "Am Kesselberg"
-housenumber: 1
-phone: "+49 2633 96701"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://vergoelst.de/branches/vergoelst-bad-breisig-am-kesselberg.bot.html"
+street: Am Kesselberg
+housenumber: "1"
+phone: +49 2633 96701
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00; PH off
+website: https://vergoelst.de/branches/vergoelst-bad-breisig-am-kesselberg.bot.html

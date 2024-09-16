@@ -1,11 +1,11 @@
 id: 281075687
-type: way
+type: node
 latitude: 50.56707
 longitude: 7.28161
 postcode: "53545"
 city: Linz am Rhein
-street: "Buttermarkt"
-housenumber: 13
-phone: "+49 2644 601406"
-opening_hours: "Mo-Fr 09:30-17:00; Sa 09:30-14:00"
+street: Buttermarkt
+housenumber: "13"
+phone: +49 2644 601406
+opening_hours: Mo-Fr 09:30-17:00; Sa 09:30-14:00
 website: ""

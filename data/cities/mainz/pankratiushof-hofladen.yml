@@ -4,8 +4,8 @@ latitude: 49.96022
 longitude: 8.28077
 postcode: "55129"
 city: Mainz
-street: "Lindenplatz"
-housenumber: 6
-phone: "+49 6131 957780"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-14:00"
-website: "https://www.pankratiushof.de/"
+street: Lindenplatz
+housenumber: "6"
+phone: +49 6131 957780
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-14:00
+website: https://www.pankratiushof.de/

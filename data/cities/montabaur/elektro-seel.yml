@@ -1,11 +1,11 @@
 id: 83106014
-type: way
+type: node
 latitude: 50.43565
 longitude: 7.83163
 postcode: "56410"
 city: Montabaur
-street: "Kirchstraße"
-housenumber: 22
-phone: "+49 2602 3580"
+street: Kirchstraße
+housenumber: "22"
+phone: +49 2602 3580
 opening_hours: ""
-website: "https://elektro-seel.de/"
+website: https://elektro-seel.de/

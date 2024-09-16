@@ -1,11 +1,11 @@
 id: 1305034380
-type: way
+type: node
 latitude: 50.00061
 longitude: 8.27385
 postcode: "55116"
 city: Mainz
-street: "Am Brand"
-housenumber: 23
+street: Am Brand
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 130005917
-type: way
+type: node
 latitude: 49.92014
 longitude: 8.33457
 postcode: "55299"
 city: Nackenheim
-street: "Mainzer Straße"
-housenumber: 139
+street: Mainzer Straße
+housenumber: "139"
 phone: ""
 opening_hours: ""
-website: "http://www.blumen-kimmes.de/"
+website: http://www.blumen-kimmes.de/

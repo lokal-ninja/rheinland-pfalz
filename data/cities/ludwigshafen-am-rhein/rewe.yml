@@ -1,11 +1,11 @@
 id: 226458430
-type: way
+type: node
 latitude: 49.5347
 longitude: 8.38886
 postcode: "67069"
 city: Ludwigshafen am Rhein
-street: "Oppauer Straße"
-housenumber: 129
-phone: "+49 621 6296124"
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+street: Oppauer Straße
+housenumber: "129"
+phone: +49 621 6296124
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
 website: ""

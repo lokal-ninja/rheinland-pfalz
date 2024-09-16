@@ -1,11 +1,11 @@
 id: 33496155
-type: way
+type: node
 latitude: 49.92463
 longitude: 8.09634
 postcode: "55270"
 city: Schwabenheim an der Selz
-street: "Am Sportfeld"
-housenumber: 19
+street: Am Sportfeld
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-13:00
 website: ""

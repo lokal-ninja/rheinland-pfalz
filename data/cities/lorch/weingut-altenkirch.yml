@@ -1,11 +1,11 @@
 id: 116950546
-type: way
+type: node
 latitude: 50.0396
 longitude: 7.8147
 postcode: "65391"
 city: Lorch
-street: "Binger Weg"
-housenumber: 2
-phone: "+49 6726 830012"
+street: Binger Weg
+housenumber: "2"
+phone: +49 6726 830012
 opening_hours: ""
-website: "https://www.weingut-altenkirch.de/"
+website: https://www.weingut-altenkirch.de/

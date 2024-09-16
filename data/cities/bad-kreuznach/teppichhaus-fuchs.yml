@@ -4,8 +4,8 @@ latitude: 49.84374
 longitude: 7.86171
 postcode: "55543"
 city: Bad Kreuznach
-street: "Römerstraße"
-housenumber: 19
-phone: "+49 671 35778"
-opening_hours: "Mo-Fr 09:30-12:45, 13:45-18:30; Sa 10:00-15:30"
-website: "http://www.teppichfuchs.de"
+street: Römerstraße
+housenumber: "19"
+phone: +49 671 35778
+opening_hours: Mo-Fr 09:30-12:45, 13:45-18:30; Sa 10:00-15:30
+website: http://www.teppichfuchs.de

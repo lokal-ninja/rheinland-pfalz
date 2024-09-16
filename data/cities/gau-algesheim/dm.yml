@@ -1,11 +1,11 @@
 id: 966693483
-type: way
+type: node
 latitude: 49.96368
 longitude: 8.01478
 postcode: "55435"
 city: Gau-Algesheim
-street: "Rheinstraße"
-housenumber: 7
+street: Rheinstraße
+housenumber: "7"
 phone: "+4967259189970"
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: "https://www.dm.de/store/de-2945/gau-algesheim/rheinstrasse-7"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
+website: https://www.dm.de/store/de-2945/gau-algesheim/rheinstrasse-7

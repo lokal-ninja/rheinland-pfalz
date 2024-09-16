@@ -1,11 +1,11 @@
 id: 193322196
-type: way
+type: node
 latitude: 49.98305
 longitude: 8.02945
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Nahering"
+street: Nahering
 housenumber: 12b
-phone: "+49 6132 2686"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.zweirad-rosskopp.de/"
+phone: +49 6132 2686
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.zweirad-rosskopp.de/

@@ -1,11 +1,11 @@
 id: 820585038
-type: way
+type: node
 latitude: 49.24289
 longitude: 7.49209
 postcode: "66509"
 city: Rieschweiler-Mühlbach
-street: "Am Markt"
-housenumber: 1
+street: Am Markt
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

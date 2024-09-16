@@ -4,8 +4,8 @@ latitude: 50.05521
 longitude: 7.13211
 postcode: "56859"
 city: Bullay
-street: "Bahnhofstraße"
-housenumber: 32
-phone: "+49 6542 2519"
-opening_hours: "Tu,Th-Su,PH 08:00-17:00"
-website: "http://www.cafe-baeckerei-goergen.de/"
+street: Bahnhofstraße
+housenumber: "32"
+phone: +49 6542 2519
+opening_hours: Tu,Th-Su,PH 08:00-17:00
+website: http://www.cafe-baeckerei-goergen.de/

@@ -1,11 +1,11 @@
 id: 61558667
-type: way
+type: node
 latitude: 49.64486
 longitude: 8.36338
 postcode: "67547"
 city: Worms
-street: "Mainzer Straße"
-housenumber: 94
+street: Mainzer Straße
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

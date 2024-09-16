@@ -1,11 +1,11 @@
 id: 548453514
-type: way
+type: node
 latitude: 50.32531
 longitude: 7.52372
 postcode: "56333"
 city: Winningen
-street: "An der Steinkaul"
-housenumber: 1
+street: An der Steinkaul
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.moselanerreisen.de/"
+website: https://www.moselanerreisen.de/

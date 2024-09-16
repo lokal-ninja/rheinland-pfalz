@@ -1,11 +1,11 @@
 id: 37561561
-type: way
+type: node
 latitude: 49.70552
 longitude: 8.32068
 postcode: "67574"
 city: Osthofen
-street: "Ludwig-Schwamb-Straße"
-housenumber: 22
+street: Ludwig-Schwamb-Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

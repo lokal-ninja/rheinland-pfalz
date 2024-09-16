@@ -1,11 +1,11 @@
 id: 498366570
-type: way
+type: node
 latitude: 49.55612
 longitude: 8.32878
 postcode: "67259"
 city: Beindersheim
-street: "Frankenthaler Straße"
-housenumber: 48
+street: Frankenthaler Straße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.netto-online.de/filialen/beindersheim/frankenthaler-str-48/5687"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.netto-online.de/filialen/beindersheim/frankenthaler-str-48/5687

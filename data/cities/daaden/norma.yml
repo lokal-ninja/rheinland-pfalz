@@ -1,11 +1,11 @@
 id: 206168932
-type: way
+type: node
 latitude: 50.7383
 longitude: 7.96993
 postcode: "57567"
 city: Daaden
-street: "Saynische Straße"
-housenumber: 14
+street: Saynische Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

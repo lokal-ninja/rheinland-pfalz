@@ -1,11 +1,11 @@
 id: 106568336
-type: way
+type: node
 latitude: 49.48165
 longitude: 8.36332
 postcode: "67071"
 city: Ludwigshafen am Rhein
-street: "Hedwig-Laudien-Ring"
-housenumber: 15
+street: Hedwig-Laudien-Ring
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.sanitaetshaus-winkler.de/"
+website: https://www.sanitaetshaus-winkler.de/

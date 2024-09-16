@@ -1,11 +1,11 @@
 id: 722952480
-type: way
+type: node
 latitude: 50.33436
 longitude: 7.71544
 postcode: "56130"
 city: Bad Ems
-street: "Römerstraße"
-housenumber: 65
+street: Römerstraße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00; Su off"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00; Su off
 website: ""

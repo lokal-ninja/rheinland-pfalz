@@ -1,11 +1,11 @@
 id: 215621342
-type: way
+type: node
 latitude: 49.55972
 longitude: 8.07147
 postcode: "67304"
 city: Eisenberg (Pfalz)
-street: "Am Marktplatz"
-housenumber: 5
+street: Am Marktplatz
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 104122203
-type: way
+type: node
 latitude: 49.4396
 longitude: 7.77667
 postcode: "67655"
 city: Kaiserslautern
-street: "Barbarossastraße"
-housenumber: 31
+street: Barbarossastraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

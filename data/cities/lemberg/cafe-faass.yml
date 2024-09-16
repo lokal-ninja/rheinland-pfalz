@@ -4,8 +4,8 @@ latitude: 49.17134
 longitude: 7.65379
 postcode: "66969"
 city: Lemberg
-street: "Hauptstraße"
-housenumber: 31
-phone: "+49 6331 49371"
-opening_hours: "Mo-Sa 05:30-18:30;Tu 05:30-13:00;Su, PH 07:00-12:00,14:00-18:30"
-website: "https://www.cafe-faass.de/"
+street: Hauptstraße
+housenumber: "31"
+phone: +49 6331 49371
+opening_hours: Mo-Sa 05:30-18:30;Tu 05:30-13:00;Su, PH 07:00-12:00,14:00-18:30
+website: https://www.cafe-faass.de/

@@ -4,8 +4,8 @@ latitude: 49.63208
 longitude: 8.36462
 postcode: "67547"
 city: Worms
-street: "Am Römischen Kaiser"
-housenumber: 9
-phone: "+49 6241 203930"
-opening_hours: "09:00-20:00; Su,PH off"
-website: "https://www.mueller.de/"
+street: Am Römischen Kaiser
+housenumber: "9"
+phone: +49 6241 203930
+opening_hours: 09:00-20:00; Su,PH off
+website: https://www.mueller.de/

@@ -4,8 +4,8 @@ latitude: 49.19583
 longitude: 8.11564
 postcode: "76829"
 city: Landau
-street: "Königstraße"
-housenumber: 71
-phone: "+49 6341 9458530"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.baeckergoertz.de/#filialenstart/filialfinder"
+street: Königstraße
+housenumber: "71"
+phone: +49 6341 9458530
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.baeckergoertz.de/#filialenstart/filialfinder

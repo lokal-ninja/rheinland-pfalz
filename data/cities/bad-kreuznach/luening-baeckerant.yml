@@ -1,11 +1,11 @@
 id: 208074935
-type: way
+type: node
 latitude: 49.85113
 longitude: 7.89315
 postcode: "55543"
 city: Bad Kreuznach
-street: "Schwabenheimer Weg"
-housenumber: 64
-phone: "+49 671 4834971"
-opening_hours: "Mo-Sa 06:00-16:00; Su 07:00-16:00"
-website: "https://www.backhaus-luening.de/"
+street: Schwabenheimer Weg
+housenumber: "64"
+phone: +49 671 4834971
+opening_hours: Mo-Sa 06:00-16:00; Su 07:00-16:00
+website: https://www.backhaus-luening.de/

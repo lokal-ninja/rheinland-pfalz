@@ -4,8 +4,8 @@ latitude: 49.90961
 longitude: 8.20312
 postcode: "55268"
 city: Nieder-Olm
-street: "Pariser Straße"
-housenumber: 108
+street: Pariser Straße
+housenumber: "108"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00
 website: ""

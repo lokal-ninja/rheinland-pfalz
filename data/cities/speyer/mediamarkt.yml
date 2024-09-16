@@ -1,11 +1,11 @@
 id: 53738038
-type: way
+type: node
 latitude: 49.33179
 longitude: 8.42973
 postcode: "67346"
 city: Speyer
-street: "Wormser Landstraße"
-housenumber: 94
+street: Wormser Landstraße
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://www.mediamarkt.de/de/store/speyer-580"
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://www.mediamarkt.de/de/store/speyer-580

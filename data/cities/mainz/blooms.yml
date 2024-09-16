@@ -4,8 +4,8 @@ latitude: 50.0006
 longitude: 8.26591
 postcode: "55116"
 city: Mainz
-street: "Steingasse"
-housenumber: 2
+street: Steingasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-We 09:00-20:00, Th,Fr 09:00-21:00, Sa 09:00-19:00"
+opening_hours: Mo-We 09:00-20:00, Th,Fr 09:00-21:00, Sa 09:00-19:00
 website: ""

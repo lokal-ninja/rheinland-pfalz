@@ -1,11 +1,11 @@
 id: 47288566
-type: way
+type: node
 latitude: 50.6058
 longitude: 7.21115
 postcode: "53424"
 city: Remagen
-street: "Am Unkelstein"
-housenumber: 
-phone: "+49 2228 94220"
+street: Am Unkelstein
+housenumber: ""
+phone: +49 2228 94220
 opening_hours: ""
-website: "http://www.frensch-mobile.de/"
+website: http://www.frensch-mobile.de/

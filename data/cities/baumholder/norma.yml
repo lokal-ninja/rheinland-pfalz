@@ -1,11 +1,11 @@
 id: 206815233
-type: way
+type: node
 latitude: 49.61398
 longitude: 7.34406
 postcode: "55774"
 city: Baumholder
-street: "Kuseler Straße"
-housenumber: 11
+street: Kuseler Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

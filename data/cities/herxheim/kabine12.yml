@@ -4,8 +4,8 @@ latitude: 49.14442
 longitude: 8.21492
 postcode: "76863"
 city: Herxheim
-street: "Marktstraße"
-housenumber: 4
-phone: "+49 175 2692106"
-opening_hours: "Fr 10-12:30 15-18; Sa 10-13"
-website: "https://kabine12.de/"
+street: Marktstraße
+housenumber: "4"
+phone: +49 175 2692106
+opening_hours: Fr 10-12:30 15-18; Sa 10-13
+website: https://kabine12.de/

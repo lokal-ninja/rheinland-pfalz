@@ -1,11 +1,11 @@
 id: 237022095
-type: way
+type: node
 latitude: 50.46035
 longitude: 7.51967
 postcode: "56566"
 city: Neuwied
-street: "An der Marienkirche"
-housenumber: 37
+street: An der Marienkirche
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 114084645
-type: way
+type: node
 latitude: 49.44234
 longitude: 7.73823
 postcode: "67659"
 city: Kaiserslautern
-street: "Vogelwoogstraße"
-housenumber: 40
+street: Vogelwoogstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

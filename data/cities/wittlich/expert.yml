@@ -1,11 +1,11 @@
 id: 203208450
-type: way
+type: node
 latitude: 49.97636
 longitude: 6.88649
 postcode: "54516"
 city: Wittlich
-street: "Römerstraße"
-housenumber: 57
+street: Römerstraße
+housenumber: "57"
 phone: ""
 opening_hours: ""
-website: "https://www.expert.de/wittlich"
+website: https://www.expert.de/wittlich

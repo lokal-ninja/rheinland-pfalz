@@ -4,8 +4,8 @@ latitude: 49.30403
 longitude: 8.4308
 postcode: "67346"
 city: Speyer
-street: "Windthorststraße"
-housenumber: 11
-phone: "+49 6232 677777"
-opening_hours: "Mo-Sa 08:30-12:00, Mo,We-Fr 13:30-18:00"
-website: "https://www.tintenservice-speyer.de/"
+street: Windthorststraße
+housenumber: "11"
+phone: +49 6232 677777
+opening_hours: Mo-Sa 08:30-12:00, Mo,We-Fr 13:30-18:00
+website: https://www.tintenservice-speyer.de/

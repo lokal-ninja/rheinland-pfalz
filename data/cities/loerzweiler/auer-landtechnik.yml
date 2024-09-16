@@ -1,11 +1,11 @@
 id: 202393539
-type: way
+type: node
 latitude: 49.89867
 longitude: 8.29277
 postcode: "55296"
 city: Lörzweiler
-street: "Mainzer Straße"
-housenumber: 12
+street: Mainzer Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

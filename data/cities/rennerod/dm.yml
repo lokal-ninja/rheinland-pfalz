@@ -1,11 +1,11 @@
 id: 1116882680
-type: way
+type: node
 latitude: 50.60013
 longitude: 8.06272
 postcode: "56477"
 city: Rennerod
-street: "Konnwiese"
-housenumber: 6
+street: Konnwiese
+housenumber: "6"
 phone: ""
-opening_hours: "09:00-18:00"
+opening_hours: 09:00-18:00
 website: ""

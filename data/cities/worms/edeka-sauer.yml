@@ -1,11 +1,11 @@
 id: 262172787
-type: way
+type: node
 latitude: 49.63323
 longitude: 8.32317
 postcode: "67549"
 city: Worms
-street: "Alzeyer Straße"
+street: Alzeyer Straße
 housenumber: 242-244
-phone: "+49 6241 975490"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/e-aktiv-markt-sauer-alzeyer-stra%C3%9Fe-242-244/index.jsp"
+phone: +49 6241 975490
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.edeka.de/eh/s%C3%BCdwest/e-aktiv-markt-sauer-alzeyer-stra%C3%9Fe-242-244/index.jsp

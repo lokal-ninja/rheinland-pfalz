@@ -1,11 +1,11 @@
 id: 41453237
-type: way
+type: node
 latitude: 49.12276
 longitude: 8.27683
 postcode: "76764"
 city: Rheinzabern
-street: "Neun-Morgen"
-housenumber: 15
+street: Neun-Morgen
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

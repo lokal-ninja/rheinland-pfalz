@@ -1,11 +1,11 @@
 id: 539023386
-type: way
+type: node
 latitude: 50.12738
 longitude: 7.00504
 postcode: "56826"
 city: Lutzerath
-street: "Trierer Straße"
-housenumber: 50
-phone: "+49 2677 274"
-opening_hours: "Mo-Fr 08:30-13:30,15:00-18:30,Sa 08:30-13:30"
+street: Trierer Straße
+housenumber: "50"
+phone: +49 2677 274
+opening_hours: Mo-Fr 08:30-13:30,15:00-18:30,Sa 08:30-13:30
 website: ""

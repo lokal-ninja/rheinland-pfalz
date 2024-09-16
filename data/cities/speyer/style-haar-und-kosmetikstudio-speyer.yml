@@ -4,8 +4,8 @@ latitude: 49.34983
 longitude: 8.42676
 postcode: "67346"
 city: Speyer
-street: "Eschenweg"
-housenumber: 5
-phone: "+49 6232 294523"
+street: Eschenweg
+housenumber: "5"
+phone: +49 6232 294523
 opening_hours: ""
-website: "https://style-speyer.de/"
+website: https://style-speyer.de/

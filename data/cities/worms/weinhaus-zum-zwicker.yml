@@ -4,8 +4,8 @@ latitude: 49.63136
 longitude: 8.35429
 postcode: "67549"
 city: Worms
-street: "Gewerbeschulstraße"
-housenumber: 3
+street: Gewerbeschulstraße
+housenumber: "3"
 phone: ""
-opening_hours: ""
-website: "https://www.zwicker-worms.de/"
+opening_hours: Tu-Sa 18:00-22:00
+website: https://www.zwicker-worms.de/

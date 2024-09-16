@@ -4,8 +4,8 @@ latitude: 49.19614
 longitude: 8.11384
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Kronstraße"
-housenumber: 45
-phone: "+49 6341 9878949"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-13:00; Mo,Su,PH off"
-website: "https://landaurunning.de/"
+street: Kronstraße
+housenumber: "45"
+phone: +49 6341 9878949
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-13:00; Mo,Su,PH off
+website: https://landaurunning.de/

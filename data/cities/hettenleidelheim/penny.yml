@@ -1,11 +1,11 @@
 id: 375891087
-type: way
+type: node
 latitude: 49.53048
 longitude: 8.06536
 postcode: "67310"
 city: Hettenleidelheim
-street: "Wattenheimer Straße"
-housenumber: 34
+street: Wattenheimer Straße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
+opening_hours: Mo-Sa 07:30-21:00
 website: ""

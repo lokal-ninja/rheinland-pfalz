@@ -1,11 +1,11 @@
 id: 389666619
-type: way
+type: node
 latitude: 49.30906
 longitude: 8.38011
 postcode: "67373"
 city: Dudenhofen
-street: "Am Gewerbering"
-housenumber: 22
+street: Am Gewerbering
+housenumber: "22"
 phone: ""
-opening_hours: "08:00-16:00"
+opening_hours: 08:00-16:00
 website: ""

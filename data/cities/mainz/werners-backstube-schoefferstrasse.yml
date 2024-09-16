@@ -4,8 +4,8 @@ latitude: 49.99888
 longitude: 8.27267
 postcode: "55116"
 city: Mainz
-street: "Schöfferstraße"
-housenumber: 6
-phone: "+49 6131 279649"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-16:00"
-website: "https://werners-backstube.de/"
+street: Schöfferstraße
+housenumber: "6"
+phone: +49 6131 279649
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-16:00
+website: https://werners-backstube.de/

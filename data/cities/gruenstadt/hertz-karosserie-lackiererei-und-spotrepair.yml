@@ -1,11 +1,11 @@
 id: 581079574
-type: way
+type: node
 latitude: 49.55687
 longitude: 8.1754
 postcode: "67269"
 city: Grünstadt
-street: "Siemensstraße"
-housenumber: 5
-phone: "+49 6359 924560"
-opening_hours: "Mo-Th 08:00-17:00,Fr 08:00-16:00"
-website: "https://www.hertz-karosserie-lack.de/"
+street: Siemensstraße
+housenumber: "5"
+phone: +49 6359 924560
+opening_hours: Mo-Th 08:00-17:00,Fr 08:00-16:00
+website: https://www.hertz-karosserie-lack.de/

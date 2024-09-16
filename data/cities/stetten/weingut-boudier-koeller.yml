@@ -1,11 +1,11 @@
 id: 572358163
-type: way
+type: node
 latitude: 49.66964
 longitude: 8.08968
 postcode: "67294"
 city: Stetten
-street: "Hauptstraße"
-housenumber: 19
-phone: "+49 6355 586"
+street: Hauptstraße
+housenumber: "19"
+phone: +49 6355 586
 opening_hours: ""
-website: "https://www.boudierkoeller.de/"
+website: https://www.boudierkoeller.de/

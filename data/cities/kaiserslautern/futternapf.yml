@@ -1,11 +1,11 @@
 id: 102272108
-type: way
+type: node
 latitude: 49.44384
 longitude: 7.71812
 postcode: "67663"
 city: Kaiserslautern
-street: "Denisstraße"
-housenumber: 30
+street: Denisstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

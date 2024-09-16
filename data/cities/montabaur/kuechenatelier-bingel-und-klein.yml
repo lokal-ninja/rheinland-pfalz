@@ -4,8 +4,8 @@ latitude: 50.42784
 longitude: 7.81817
 postcode: "56410"
 city: Montabaur
-street: "Hunsrückstraße"
-housenumber: 1
+street: Hunsrückstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:30; Sa 09:30-15:00; Su,Mo off"
-website: "https://www.kuechenstudio-bingel.de/"
+opening_hours: Tu-Fr 09:30-18:30; Sa 09:30-15:00; Su,Mo off
+website: https://www.kuechenstudio-bingel.de/

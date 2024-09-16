@@ -1,11 +1,11 @@
 id: 273757600
-type: way
+type: node
 latitude: 49.71624
 longitude: 7.32221
 postcode: "55743"
 city: Idar-Oberstein
-street: "Dr.-Ottmar-Kohler-Straße"
-housenumber: 2
-phone: "+49 6781 661770"
+street: Dr.-Ottmar-Kohler-Straße
+housenumber: "2"
+phone: +49 6781 661770
 opening_hours: ""
 website: ""

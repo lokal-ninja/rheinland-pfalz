@@ -4,8 +4,8 @@ latitude: 50.05398
 longitude: 7.11521
 postcode: "56859"
 city: Alf
-street: "Mühlenstraße"
-housenumber: 90
-phone: "+49 6542 2864"
+street: Mühlenstraße
+housenumber: "90"
+phone: +49 6542 2864
 opening_hours: ""
-website: "http://www.weinhof-sankt-barbara.de/"
+website: http://www.weinhof-sankt-barbara.de/

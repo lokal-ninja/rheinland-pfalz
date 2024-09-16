@@ -1,11 +1,11 @@
 id: 259527360
-type: way
+type: node
 latitude: 49.14924
 longitude: 7.77827
 postcode: "66994"
 city: Dahn
-street: "Hasenbergstraße"
-housenumber: 15
-phone: "+49 6391 1591"
+street: Hasenbergstraße
+housenumber: "15"
+phone: +49 6391 1591
 opening_hours: ""
-website: "https://www.moebel-naab.de"
+website: https://www.moebel-naab.de

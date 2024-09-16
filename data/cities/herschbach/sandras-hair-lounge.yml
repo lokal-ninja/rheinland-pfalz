@@ -1,11 +1,11 @@
 id: 685427499
-type: way
+type: node
 latitude: 50.57403
 longitude: 7.7378
 postcode: "56249"
 city: Herschbach
-street: "Hauptstraße"
-housenumber: 43
+street: Hauptstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

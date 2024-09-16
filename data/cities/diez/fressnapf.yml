@@ -1,11 +1,11 @@
 id: 319144692
-type: way
+type: node
 latitude: 50.37083
 longitude: 8.03385
 postcode: "65582"
 city: Diez
-street: "Am Backsteinbrand"
-housenumber: 6
-phone: "+49 6432 6440390"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.fressnapf.de/stores/fressnapf-diez/"
+street: Am Backsteinbrand
+housenumber: "6"
+phone: +49 6432 6440390
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.fressnapf.de/stores/fressnapf-diez/

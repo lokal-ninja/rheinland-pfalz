@@ -1,11 +1,11 @@
 id: 61435198
-type: way
+type: node
 latitude: 49.22568
 longitude: 8.09982
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Lindenbergstraße"
-housenumber: 79
+street: Lindenbergstraße
+housenumber: "79"
 phone: ""
 opening_hours: ""
-website: "http://www.weingut-h-m-hochdoerffer.de"
+website: http://www.weingut-h-m-hochdoerffer.de

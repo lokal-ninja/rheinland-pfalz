@@ -4,8 +4,8 @@ latitude: 50.36068
 longitude: 7.5953
 postcode: "56068"
 city: Koblenz
-street: "An der Liebfrauenkirche"
-housenumber: 18
-phone: "+49 170 5428855"
-opening_hours: "Termine nach Vereinbarung"
-website: "https://druckwerk-koblenz.de/"
+street: An der Liebfrauenkirche
+housenumber: "18"
+phone: +49 170 5428855
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://druckwerk-koblenz.de/

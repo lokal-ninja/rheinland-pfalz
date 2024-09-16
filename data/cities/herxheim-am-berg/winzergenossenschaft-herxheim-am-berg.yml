@@ -1,11 +1,11 @@
 id: 129877212
-type: way
+type: node
 latitude: 49.50711
 longitude: 8.17863
 postcode: "67273"
 city: Herxheim am Berg
-street: "Weinstraße"
-housenumber: 1
+street: Weinstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.wg-herxheim.com/"
+website: https://www.wg-herxheim.com/

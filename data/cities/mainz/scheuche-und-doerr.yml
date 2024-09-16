@@ -4,8 +4,8 @@ latitude: 50.01219
 longitude: 8.25876
 postcode: "55118"
 city: Mainz
-street: "Wallaustraße"
-housenumber: 72
-phone: "+49 6131 611407"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Wallaustraße
+housenumber: "72"
+phone: +49 6131 611407
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

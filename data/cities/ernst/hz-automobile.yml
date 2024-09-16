@@ -1,11 +1,11 @@
 id: 587341486
-type: way
+type: node
 latitude: 50.14206
 longitude: 7.23289
 postcode: "56814"
 city: Ernst
-street: "Auf dem Acker"
-housenumber: 7
-phone: "+49 2671 9173160"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"
-website: "https://www.hz-automobile.de/"
+street: Auf dem Acker
+housenumber: "7"
+phone: +49 2671 9173160
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:00
+website: https://www.hz-automobile.de/

@@ -1,11 +1,11 @@
 id: 589633585
-type: way
+type: node
 latitude: 49.19226
 longitude: 7.5992
 postcode: "66955"
 city: Pirmasens
-street: "Blocksbergstraße"
-housenumber: 54
+street: Blocksbergstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
+opening_hours: Mo-Sa 07:30-21:00
 website: ""

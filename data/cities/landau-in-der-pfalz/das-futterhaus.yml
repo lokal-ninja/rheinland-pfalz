@@ -4,8 +4,8 @@ latitude: 49.19178
 longitude: 8.13894
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Max-Planck-Straße"
-housenumber: 2
+street: Max-Planck-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:30; Sa 08:00-18:00"
-website: "https://www.futterhaus.de/mein-futterhaus/filialen/landau/"
+opening_hours: Mo-Fr 08:30-19:30; Sa 08:00-18:00
+website: https://www.futterhaus.de/mein-futterhaus/filialen/landau/

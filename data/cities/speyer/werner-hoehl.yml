@@ -1,11 +1,11 @@
 id: 484127529
-type: way
+type: node
 latitude: 49.30559
 longitude: 8.44798
 postcode: "67346"
 city: Speyer
-street: "Industriestraße"
-housenumber: 15
+street: Industriestraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

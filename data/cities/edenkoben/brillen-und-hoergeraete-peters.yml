@@ -4,8 +4,8 @@ latitude: 49.28218
 longitude: 8.12712
 postcode: "67480"
 city: Edenkoben
-street: "Weinstraße"
-housenumber: 89
-phone: "+49 6323 5078"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We,Sa 09:00-12:30"
-website: "https://peters-brillen.de/"
+street: Weinstraße
+housenumber: "89"
+phone: +49 6323 5078
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We,Sa 09:00-12:30
+website: https://peters-brillen.de/

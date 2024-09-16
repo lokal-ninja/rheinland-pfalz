@@ -4,8 +4,8 @@ latitude: 49.61266
 longitude: 8.32983
 postcode: "67551"
 city: Worms
-street: "Wormser Straße"
-housenumber: 52
+street: Wormser Straße
+housenumber: "52"
 phone: ""
-opening_hours: "auf Termin"
+opening_hours: '"auf Termin"'
 website: ""

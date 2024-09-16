@@ -4,8 +4,8 @@ latitude: 49.97503
 longitude: 8.05874
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Binger Straße"
-housenumber: 55
+street: Binger Straße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,14:00-18:15; Sa 09:00-13:30"
-website: "http://www.selvicdladen.de/"
+opening_hours: Mo-Fr 09:30-13:00,14:00-18:15; Sa 09:00-13:30
+website: http://www.selvicdladen.de/

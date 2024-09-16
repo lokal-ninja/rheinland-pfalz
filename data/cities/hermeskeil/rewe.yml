@@ -1,11 +1,11 @@
 id: 241500566
-type: way
+type: node
 latitude: 49.65473
 longitude: 6.9466
 postcode: "54411"
 city: Hermeskeil
-street: "Trierer Straße"
-housenumber: 6
+street: Trierer Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

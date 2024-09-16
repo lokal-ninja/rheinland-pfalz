@@ -1,11 +1,11 @@
 id: 241957248
-type: way
+type: node
 latitude: 49.14018
 longitude: 8.2242
 postcode: "76863"
 city: Herxheim
-street: "Am Kleinwald"
-housenumber: 5
+street: Am Kleinwald
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:30-12:00"
-website: "https://www.ziegler-autoteile.de/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:30-12:00
+website: https://www.ziegler-autoteile.de/

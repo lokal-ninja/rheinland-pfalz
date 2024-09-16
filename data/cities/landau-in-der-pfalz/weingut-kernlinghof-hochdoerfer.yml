@@ -4,8 +4,8 @@ latitude: 49.22261
 longitude: 8.10683
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Lindenbergstraße"
-housenumber: 60
-phone: "+49 6341 62892"
+street: Lindenbergstraße
+housenumber: "60"
+phone: +49 6341 62892
 opening_hours: ""
-website: "http://www.kernlinghof.de/"
+website: http://www.kernlinghof.de/

@@ -1,11 +1,11 @@
 id: 733021749
-type: way
+type: node
 latitude: 50.23318
 longitude: 7.87121
 postcode: "56355"
 city: Bettendorf
-street: "Nastätter Straße"
-housenumber: 1
-phone: "+49 6772 8982"
-opening_hours: "Mo-Fr 15:30-18:30; Sa 09:00-12:30; We off"
-website: "https://www.getraenke-holl.de/"
+street: Nastätter Straße
+housenumber: "1"
+phone: +49 6772 8982
+opening_hours: Mo-Fr 15:30-18:30; Sa 09:00-12:30; We off
+website: https://www.getraenke-holl.de/

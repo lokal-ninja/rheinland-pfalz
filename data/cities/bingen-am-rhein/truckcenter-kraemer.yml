@@ -1,11 +1,11 @@
 id: 251403388
-type: way
+type: node
 latitude: 49.92699
 longitude: 7.93182
 postcode: "55411"
 city: Bingen am Rhein
-street: "Gustav-Stresemann-Straße"
-housenumber: 8
-phone: "+49 6721 40000"
-opening_hours: "Mo-Fr 07:00-19:00"
-website: "http://www.kraemer-trucks.com"
+street: Gustav-Stresemann-Straße
+housenumber: "8"
+phone: +49 6721 40000
+opening_hours: Mo-Fr 07:00-19:00
+website: http://www.kraemer-trucks.com

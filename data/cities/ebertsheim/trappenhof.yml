@@ -4,8 +4,8 @@ latitude: 49.56168
 longitude: 8.1075
 postcode: "67280"
 city: Ebertsheim
-street: "Am Hettenheimer Weg"
-housenumber: 1
-phone: "+49 176 21232639"
-opening_hours: "We 15:00-18:00, Fr 15:00-17:00, Sa 09:30-12:00"
-website: "https://trappenhof.de"
+street: Am Hettenheimer Weg
+housenumber: "1"
+phone: +49 176 21232639
+opening_hours: We 15:00-18:00, Fr 15:00-17:00, Sa 09:30-12:00
+website: https://trappenhof.de

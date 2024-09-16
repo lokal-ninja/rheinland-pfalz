@@ -4,8 +4,8 @@ latitude: 49.29953
 longitude: 8.21594
 postcode: "67435"
 city: Neustadt an der Weinstraße
-street: "Dudostraße"
-housenumber: 104
-phone: "+49 6327 2768"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.sl-wein.de"
+street: Dudostraße
+housenumber: "104"
+phone: +49 6327 2768
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.sl-wein.de

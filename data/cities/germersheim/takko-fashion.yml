@@ -1,11 +1,11 @@
 id: 732853326
-type: way
+type: node
 latitude: 49.22778
 longitude: 8.36787
 postcode: "76726"
 city: Germersheim
-street: "Mainzer Straße"
-housenumber: 11
+street: Mainzer Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

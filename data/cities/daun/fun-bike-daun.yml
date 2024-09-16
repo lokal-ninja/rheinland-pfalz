@@ -4,8 +4,8 @@ latitude: 50.19764
 longitude: 6.82734
 postcode: "54550"
 city: Daun
-street: "Trierer Straße"
-housenumber: 1
-phone: "+49 6592 3883"
-opening_hours: "Tu-Fr 09:00-13:00,14:00-18:00"
-website: "http://www.fun-bike-daun.de/"
+street: Trierer Straße
+housenumber: "1"
+phone: +49 6592 3883
+opening_hours: Tu-Fr 09:00-13:00,14:00-18:00
+website: http://www.fun-bike-daun.de/

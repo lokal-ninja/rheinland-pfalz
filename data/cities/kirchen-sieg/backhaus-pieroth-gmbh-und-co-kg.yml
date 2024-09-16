@@ -1,11 +1,11 @@
 id: 186940174
-type: way
+type: node
 latitude: 50.8218
 longitude: 7.85579
 postcode: "57548"
 city: Kirchen (Sieg)
-street: "Friedrichshüttenstraße"
-housenumber: 11
-phone: "+49 2741 95610"
+street: Friedrichshüttenstraße
+housenumber: "11"
+phone: +49 2741 95610
 opening_hours: ""
-website: "https://www.backhaus-pieroth.de/"
+website: https://www.backhaus-pieroth.de/

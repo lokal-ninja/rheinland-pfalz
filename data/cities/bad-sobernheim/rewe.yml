@@ -1,11 +1,11 @@
 id: 125981891
-type: way
+type: node
 latitude: 49.78389
 longitude: 7.65343
 postcode: "55566"
 city: Bad Sobernheim
-street: "Kapellenstraße"
-housenumber: 2
+street: Kapellenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

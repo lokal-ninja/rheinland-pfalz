@@ -1,11 +1,11 @@
 id: 121110591
-type: way
+type: node
 latitude: 50.56759
 longitude: 7.2505
 postcode: "53424"
 city: Remagen
-street: "Dornierstraße"
-housenumber: 19
+street: Dornierstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

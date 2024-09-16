@@ -4,8 +4,9 @@ latitude: 49.97647
 longitude: 8.23528
 postcode: "55128"
 city: Mainz
-street: "Essenheimer Straße"
-housenumber: 133
+street: Essenheimer Straße
+housenumber: "133"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Essenheimer Straße 133 55128 Mainz-Bretzenheim&Mode=None"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
+website: https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Essenheimer
+    Straße 133 55128 Mainz-Bretzenheim&Mode=None

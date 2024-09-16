@@ -1,11 +1,11 @@
 id: 262112844
-type: way
+type: node
 latitude: 49.81402
 longitude: 7.12218
 postcode: ""
 city: Morbach
-street: "Bremerwiese"
-housenumber: 4
+street: Bremerwiese
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 84490806
-type: way
+type: node
 latitude: 49.33001
 longitude: 8.43066
 postcode: "67346"
 city: Speyer
-street: "Wormser Landstraße"
-housenumber: 85
+street: Wormser Landstraße
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

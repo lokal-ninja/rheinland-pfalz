@@ -1,11 +1,11 @@
 id: 389177588
-type: way
+type: node
 latitude: 50.41912
 longitude: 7.93265
 postcode: "56412"
 city: Nentershausen
-street: "In der Struth"
-housenumber: 2
+street: In der Struth
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

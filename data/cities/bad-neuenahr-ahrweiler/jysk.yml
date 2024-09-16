@@ -1,11 +1,11 @@
 id: 96246998
-type: way
+type: node
 latitude: 50.54762
 longitude: 7.11231
 postcode: "53474"
 city: Bad Neuenahr-Ahrweiler
-street: "Rotweinstraße"
-housenumber: 11
-phone: "+49 2641 9148380"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00; PH off"
+street: Rotweinstraße
+housenumber: "11"
+phone: +49 2641 9148380
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:00; PH off
 website: ""

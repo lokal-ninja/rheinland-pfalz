@@ -4,8 +4,8 @@ latitude: 49.9967
 longitude: 8.27298
 postcode: "55116"
 city: Mainz
-street: "Rochusstraße"
-housenumber: 23
-phone: "+49 6131 229853"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.schmuck-stoeckl.de/"
+street: Rochusstraße
+housenumber: "23"
+phone: +49 6131 229853
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.schmuck-stoeckl.de/

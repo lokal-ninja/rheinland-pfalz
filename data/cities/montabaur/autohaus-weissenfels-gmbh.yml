@@ -4,8 +4,8 @@ latitude: 50.4387
 longitude: 7.83181
 postcode: "56410"
 city: Montabaur
-street: "Alleestraße"
-housenumber: 15
-phone: "+49 2602 15650"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-17:00"
-website: "https://www.bmw-service-weissenfels.de"
+street: Alleestraße
+housenumber: "15"
+phone: +49 2602 15650
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-17:00
+website: https://www.bmw-service-weissenfels.de

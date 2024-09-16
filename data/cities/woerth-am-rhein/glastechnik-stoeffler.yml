@@ -1,11 +1,11 @@
 id: 88218349
-type: way
+type: node
 latitude: 49.06055
 longitude: 8.26519
 postcode: "76744"
 city: Wörth am Rhein
-street: "In den Niederwiesen"
-housenumber: 5
-phone: "+49-7271-6466"
+street: In den Niederwiesen
+housenumber: "5"
+phone: +49-7271-6466
 opening_hours: ""
 website: ""

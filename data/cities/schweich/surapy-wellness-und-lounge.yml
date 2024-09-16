@@ -4,8 +4,8 @@ latitude: 49.82389
 longitude: 6.75344
 postcode: "54338"
 city: Schweich
-street: "Richtstraße"
-housenumber: 33
+street: Richtstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

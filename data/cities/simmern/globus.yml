@@ -1,11 +1,11 @@
 id: 65181065
-type: way
+type: node
 latitude: 49.98165
 longitude: 7.54784
 postcode: "55469"
 city: Simmern
-street: "Argenthaler Straße"
-housenumber: 
+street: Argenthaler Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.globus.de/simmern/index.php"
+website: https://www.globus.de/simmern/index.php

@@ -1,11 +1,11 @@
 id: 32017183
-type: way
+type: node
 latitude: 49.47537
 longitude: 8.32744
 postcode: "67071"
 city: Ludwigshafen am Rhein
-street: "Maxdorfer Straße"
-housenumber: 35
+street: Maxdorfer Straße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.netto-online.de/filialen/ludwigshafen-ruchheim/maxdorfer-str-35/3038"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.netto-online.de/filialen/ludwigshafen-ruchheim/maxdorfer-str-35/3038

@@ -1,11 +1,11 @@
 id: 671558461
-type: way
+type: node
 latitude: 49.56336
 longitude: 8.16554
 postcode: "67269"
 city: Grünstadt
-street: "Turnstraße"
-housenumber: 7
+street: Turnstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

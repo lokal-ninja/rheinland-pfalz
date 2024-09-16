@@ -1,11 +1,11 @@
 id: 661554267
-type: way
+type: node
 latitude: 49.82296
 longitude: 6.73037
 postcode: "54338"
 city: Schweich
-street: "Im Handwerkerhof"
-housenumber: 36
+street: Im Handwerkerhof
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

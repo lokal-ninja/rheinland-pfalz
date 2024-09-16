@@ -1,11 +1,11 @@
 id: 236709646
-type: way
+type: node
 latitude: 50.74963
 longitude: 7.82559
 postcode: "57580"
 city: Gebhardshain
-street: "Raiffeisenstraße"
-housenumber: 22
-phone: "+49 2747 930300"
+street: Raiffeisenstraße
+housenumber: "22"
+phone: +49 2747 930300
 opening_hours: ""
 website: ""

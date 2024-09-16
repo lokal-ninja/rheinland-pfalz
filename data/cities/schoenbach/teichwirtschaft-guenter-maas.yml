@@ -1,11 +1,11 @@
 id: 587857055
-type: way
+type: node
 latitude: 50.21352
 longitude: 6.95315
 postcode: "54552"
 city: Schönbach
-street: "Mühlenweg"
-housenumber: 6
-phone: "+49 (0) 26 76 91 01 01"
+street: Mühlenweg
+housenumber: "6"
+phone: +49 (0) 26 76 91 01 01
 opening_hours: ""
 website: ""

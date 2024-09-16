@@ -1,11 +1,11 @@
 id: 116841435
-type: way
+type: node
 latitude: 49.96453
 longitude: 8.3144
 postcode: "55130"
 city: Mainz
-street: "Oppenheimer Straße"
-housenumber: 67
-phone: "+49 6131 939800"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.nahkauf.de/maerkte/mainz-laubenheim-44618190-scheider-handels-gmbh-co-kg-oppenheimer-strasse-67"
+street: Oppenheimer Straße
+housenumber: "67"
+phone: +49 6131 939800
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.nahkauf.de/maerkte/mainz-laubenheim-44618190-scheider-handels-gmbh-co-kg-oppenheimer-strasse-67

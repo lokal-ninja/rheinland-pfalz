@@ -1,11 +1,11 @@
 id: 726083388
-type: way
+type: node
 latitude: 49.8483
 longitude: 7.84327
 postcode: "55545"
 city: Bad Kreuznach
-street: "Rüdesheimer Straße"
-housenumber: 81
-phone: "+49 671 28441"
+street: Rüdesheimer Straße
+housenumber: "81"
+phone: +49 671 28441
 opening_hours: ""
-website: "https://blumenhaus-bad-kreuznach.de/"
+website: https://blumenhaus-bad-kreuznach.de/

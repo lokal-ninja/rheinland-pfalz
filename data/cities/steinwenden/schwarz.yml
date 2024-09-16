@@ -1,11 +1,11 @@
 id: 1167628023
-type: way
+type: node
 latitude: 49.45406
 longitude: 7.52507
 postcode: "66879"
 city: Steinwenden
-street: "Eisenbahnstraße"
-housenumber: 22
+street: Eisenbahnstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

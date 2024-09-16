@@ -1,11 +1,11 @@
 id: 229603335
-type: way
+type: node
 latitude: 49.52227
 longitude: 8.35008
 postcode: "67227"
 city: Frankenthal (Pfalz)
-street: "Hammstraße"
-housenumber: 11
+street: Hammstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 13:00-18:00; Sa 10:00-13:00"
-website: "https://www.roller-lars.de/"
+opening_hours: Mo-Fr 13:00-18:00; Sa 10:00-13:00
+website: https://www.roller-lars.de/

@@ -1,11 +1,11 @@
 id: 441028899
-type: way
+type: node
 latitude: 50.65073
 longitude: 7.95143
 postcode: "56470"
 city: Bad Marienberg (Westerwald)
-street: "Marktstraße"
-housenumber: 2
+street: Marktstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

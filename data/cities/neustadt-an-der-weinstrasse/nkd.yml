@@ -4,8 +4,8 @@ latitude: 49.35136
 longitude: 8.13696
 postcode: "67433"
 city: Neustadt an der Weinstraße
-street: "Hauptstraße"
-housenumber: 32
+street: Hauptstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.nkd.com/de_de/storelocator/?store-locator-search=67433"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.nkd.com/de_de/storelocator/?store-locator-search=67433

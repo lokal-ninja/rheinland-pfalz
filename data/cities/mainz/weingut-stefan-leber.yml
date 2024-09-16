@@ -4,8 +4,8 @@ latitude: 49.95783
 longitude: 8.27837
 postcode: "55129"
 city: Mainz
-street: "Klein-Winternheimer Weg"
-housenumber: 4
-phone: "+49 6131 507371"
-opening_hours: "Tu,We,Fr 09:00-12:00,16:00-19:00; Sa 10:00-14:00"
-website: "https://www.weingut-leber.de/"
+street: Klein-Winternheimer Weg
+housenumber: "4"
+phone: +49 6131 507371
+opening_hours: Tu,We,Fr 09:00-12:00,16:00-19:00; Sa 10:00-14:00
+website: https://www.weingut-leber.de/

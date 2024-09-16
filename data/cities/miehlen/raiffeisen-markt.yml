@@ -1,11 +1,11 @@
 id: 393449717
-type: way
+type: node
 latitude: 50.21799
 longitude: 7.84423
 postcode: "56357"
 city: Miehlen
-street: "Laubornstraße"
-housenumber: 6
+street: Laubornstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su off"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su off
 website: ""

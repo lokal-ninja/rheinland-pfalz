@@ -1,11 +1,11 @@
 id: 275246307
-type: way
+type: node
 latitude: 49.21437
 longitude: 8.35965
 postcode: "76726"
 city: Germersheim
-street: "Friedrich-Ebert-Straße"
-housenumber: 18
+street: Friedrich-Ebert-Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
 website: ""

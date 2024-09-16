@@ -4,8 +4,8 @@ latitude: 50.4268
 longitude: 7.54534
 postcode: "56566"
 city: Neuwied
-street: "Alleestraße"
-housenumber: 16
+street: Alleestraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-12:30; Su 07:30-11:00"
-website: "https://baeckerei-geisen.de/standorte-und-oeffnungszeiten/"
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-12:30; Su 07:30-11:00
+website: https://baeckerei-geisen.de/standorte-und-oeffnungszeiten/

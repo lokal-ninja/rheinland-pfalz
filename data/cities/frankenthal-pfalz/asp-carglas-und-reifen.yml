@@ -1,11 +1,11 @@
 id: 160607436
-type: way
+type: node
 latitude: 49.54955
 longitude: 8.33736
 postcode: "67227"
 city: Frankenthal (Pfalz)
-street: "Carl-Benz-Straße"
-housenumber: 4
+street: Carl-Benz-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

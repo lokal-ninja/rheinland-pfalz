@@ -1,11 +1,11 @@
 id: 1280129084
-type: way
+type: node
 latitude: 49.66091
 longitude: 7.6458
 postcode: "67742"
 city: Adenbach
-street: "Brucherhof"
-housenumber: 1
+street: Brucherhof
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

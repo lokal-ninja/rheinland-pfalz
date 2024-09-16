@@ -1,11 +1,11 @@
 id: 480651572
-type: way
+type: node
 latitude: 50.48647
 longitude: 7.32665
 postcode: "56656"
 city: Brohl-Lützing
-street: "Quellenstraße"
-housenumber: 18
-phone: "+49 2633 1752"
+street: Quellenstraße
+housenumber: "18"
+phone: +49 2633 1752
 opening_hours: ""
-website: "https://www.bestattungen-netz.de"
+website: https://www.bestattungen-netz.de

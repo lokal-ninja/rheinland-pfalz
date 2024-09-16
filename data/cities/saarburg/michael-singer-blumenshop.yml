@@ -1,11 +1,11 @@
 id: 196281785
-type: way
+type: node
 latitude: 49.60416
 longitude: 6.54018
 postcode: "54439"
 city: Saarburg
-street: "Heckingstraße"
-housenumber: 37
+street: Heckingstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

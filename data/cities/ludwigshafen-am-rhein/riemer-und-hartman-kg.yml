@@ -1,11 +1,11 @@
 id: 170224847
-type: way
+type: node
 latitude: 49.46488
 longitude: 8.41855
 postcode: "67059"
 city: Ludwigshafen am Rhein
-street: "Bruchwiesenstraße"
+street: Bruchwiesenstraße
 housenumber: 17a
-phone: "+49 621 577483"
-opening_hours: "Mo-Fr 08:00-18:00,Sa 08:30-12:30"
-website: "https://www.riemerundhartmann.de/"
+phone: +49 621 577483
+opening_hours: Mo-Fr 08:00-18:00,Sa 08:30-12:30
+website: https://www.riemerundhartmann.de/

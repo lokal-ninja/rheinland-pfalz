@@ -1,11 +1,11 @@
 id: 357206038
-type: way
+type: node
 latitude: 49.78605
 longitude: 7.48529
 postcode: "55606"
 city: Kirn
-street: "Stettiner Straße"
-housenumber: 7
+street: Stettiner Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

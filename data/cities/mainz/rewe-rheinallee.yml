@@ -4,8 +4,8 @@ latitude: 50.01418
 longitude: 8.25796
 postcode: "55120"
 city: Mainz
-street: "Rheinallee"
-housenumber: 64
-phone: "+49 6131 9458955"
-opening_hours: "Mo-Sa 07:00-21:30"
-website: "https://www.rewe.de/marktseite/mainz/840445/rewe-markt-rheinallee-64/"
+street: Rheinallee
+housenumber: "64"
+phone: +49 6131 9458955
+opening_hours: Mo-Sa 07:00-21:30
+website: https://www.rewe.de/marktseite/mainz/840445/rewe-markt-rheinallee-64/

@@ -1,11 +1,11 @@
 id: 34315785
-type: way
+type: node
 latitude: 49.86317
 longitude: 8.33139
 postcode: "55283"
 city: Nierstein
-street: "Freyburger Allee"
-housenumber: 1
+street: Freyburger Allee
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/filialen/nierstein/freyburger-allee-1/3946"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/filialen/nierstein/freyburger-allee-1/3946

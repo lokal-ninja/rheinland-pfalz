@@ -4,8 +4,8 @@ latitude: 50.33643
 longitude: 7.25632
 postcode: "56736"
 city: Kottenheim
-street: "August-Horch-Straße"
-housenumber: 1
-phone: "+49 2651 9589 0"
+street: August-Horch-Straße
+housenumber: "1"
+phone: +49 2651 9589 0
 opening_hours: ""
-website: "https://www.autohaus-kainz.de"
+website: https://www.autohaus-kainz.de

@@ -1,11 +1,11 @@
 id: 138608039
-type: way
+type: node
 latitude: 50.39034
 longitude: 7.55479
 postcode: "56070"
 city: Koblenz
-street: "August-Thyssen-Straße"
-housenumber: 10
-phone: "+49 (0)261-984580"
+street: August-Thyssen-Straße
+housenumber: "10"
+phone: +49 (0)261-984580
 opening_hours: ""
 website: ""

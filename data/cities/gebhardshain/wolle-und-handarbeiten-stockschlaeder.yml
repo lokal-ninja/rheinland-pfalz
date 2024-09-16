@@ -1,11 +1,11 @@
 id: 236702816
-type: way
+type: node
 latitude: 50.74645
 longitude: 7.81921
 postcode: "57580"
 city: Gebhardshain
-street: "Mittelstraße"
-housenumber: 7
-phone: "+49 2747 3108"
+street: Mittelstraße
+housenumber: "7"
+phone: +49 2747 3108
 opening_hours: ""
 website: ""

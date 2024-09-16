@@ -1,11 +1,11 @@
 id: 147059753
-type: way
+type: node
 latitude: 49.74372
 longitude: 6.61489
 postcode: ""
 city: Trier
-street: "Eurener Straße"
-housenumber: 81
+street: Eurener Straße
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

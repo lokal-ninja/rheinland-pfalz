@@ -1,11 +1,11 @@
 id: 495265553
-type: way
+type: node
 latitude: 49.9547
 longitude: 7.01253
 postcode: "54492"
 city: Zeltingen-Rachtig
-street: "Weingartenstraße"
-housenumber: 58
-phone: "+49 6532 3994"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su nach Vereinbarung"
-website: "https://www.weingut-leos.de/"
+street: Weingartenstraße
+housenumber: "58"
+phone: +49 6532 3994
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su "nach Vereinbarung"
+website: https://www.weingut-leos.de/

@@ -1,11 +1,11 @@
 id: 229221227
-type: way
+type: node
 latitude: 49.97522
 longitude: 8.02621
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Neisser Straße"
-housenumber: 10
-phone: "+49 6132 710660"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.rwz.de/standorte_details.html?standort=10014"
+street: Neisser Straße
+housenumber: "10"
+phone: +49 6132 710660
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.rwz.de/standorte_details.html?standort=10014

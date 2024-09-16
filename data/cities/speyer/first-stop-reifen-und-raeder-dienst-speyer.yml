@@ -1,11 +1,11 @@
 id: 642886455
-type: way
+type: node
 latitude: 49.32905
 longitude: 8.42889
 postcode: "67346"
 city: Speyer
-street: "Karl-Spindler-Straße"
-housenumber: 2
+street: Karl-Spindler-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

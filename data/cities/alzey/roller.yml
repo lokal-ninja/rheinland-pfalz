@@ -1,11 +1,11 @@
 id: 40591583
-type: way
+type: node
 latitude: 49.74751
 longitude: 8.13682
 postcode: "55232"
 city: Alzey
-street: "Karl-Heinz-Kipp-Straße"
-housenumber: 32
+street: Karl-Heinz-Kipp-Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

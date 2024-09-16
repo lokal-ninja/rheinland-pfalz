@@ -1,11 +1,11 @@
 id: 357166229
-type: way
+type: node
 latitude: 49.77728
 longitude: 7.45419
 postcode: "55606"
 city: Kirn
-street: "Obersteiner Straße"
-housenumber: 
+street: Obersteiner Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

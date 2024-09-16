@@ -4,8 +4,8 @@ latitude: 49.03875
 longitude: 8.29854
 postcode: "76744"
 city: Wörth am Rhein
-street: "Rheinstraße"
-housenumber: 3
+street: Rheinstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://www.mannheim.mercedes-benz.de"
+website: http://www.mannheim.mercedes-benz.de

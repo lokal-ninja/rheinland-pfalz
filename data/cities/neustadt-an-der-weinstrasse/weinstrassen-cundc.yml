@@ -1,11 +1,11 @@
 id: 180625135
-type: way
+type: node
 latitude: 49.34907
 longitude: 8.17181
 postcode: ""
 city: Neustadt an der Weinstraße
-street: "Joachim-Meichßner-Straße"
-housenumber: 2
-phone: "+49 6321 40020"
-opening_hours: "Mo,Tu 07:00-18:00; We,Th,Fr 07:00-19:00; Sa 07:00-13:00; Su,PH off"
-website: "http://www.weinstrassen-cc.de/"
+street: Joachim-Meichßner-Straße
+housenumber: "2"
+phone: +49 6321 40020
+opening_hours: Mo,Tu 07:00-18:00; We,Th,Fr 07:00-19:00; Sa 07:00-13:00; Su,PH off
+website: http://www.weinstrassen-cc.de/

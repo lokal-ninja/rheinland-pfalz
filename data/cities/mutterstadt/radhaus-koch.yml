@@ -1,11 +1,11 @@
 id: 101593949
-type: way
+type: node
 latitude: 49.42726
 longitude: 8.36324
 postcode: "67112"
 city: Mutterstadt
-street: "Im Vorderkehr"
+street: Im Vorderkehr
 housenumber: 12b
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:30-18:30; Sa 09:00-13:00; We off"
-website: "https://www.radhaus-koch.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:30-18:30; Sa 09:00-13:00; We off
+website: https://www.radhaus-koch.de/

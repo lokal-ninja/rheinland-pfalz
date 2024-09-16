@@ -1,11 +1,11 @@
 id: 494391774
-type: way
+type: node
 latitude: 49.92307
 longitude: 7.96506
 postcode: "55411"
 city: Bingen am Rhein
-street: "Rheinhessenstraße"
-housenumber: 71
-phone: "+49 6725 2640"
+street: Rheinhessenstraße
+housenumber: "71"
+phone: +49 6725 2640
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 524953563
-type: way
+type: node
 latitude: 50.39016
 longitude: 7.52754
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Fraunhofer-Straße"
-housenumber: 13
-phone: "+49 261 92166800"
-opening_hours: "Mo-Fr 08:00-17:00; Sa, Su, PH off"
-website: "https://posaidon.de"
+street: Fraunhofer-Straße
+housenumber: "13"
+phone: +49 261 92166800
+opening_hours: Mo-Fr 08:00-17:00; Sa, Su, PH off
+website: https://posaidon.de

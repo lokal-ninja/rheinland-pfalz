@@ -1,11 +1,11 @@
 id: 116111805
-type: way
+type: node
 latitude: 50.39504
 longitude: 7.51285
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Auf dem Hahnenberg"
-housenumber: 49
+street: Auf dem Hahnenberg
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

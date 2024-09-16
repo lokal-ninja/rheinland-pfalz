@@ -1,11 +1,11 @@
 id: 138272643
-type: way
+type: node
 latitude: 50.38799
 longitude: 7.55531
 postcode: "56070"
 city: Koblenz
-street: "August-Thyssen-Straße"
-housenumber: 1
+street: August-Thyssen-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

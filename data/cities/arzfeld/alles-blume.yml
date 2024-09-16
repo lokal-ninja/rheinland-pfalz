@@ -1,11 +1,11 @@
 id: 1304423448
-type: way
+type: node
 latitude: 50.08799
 longitude: 6.27256
 postcode: "54687"
 city: Arzfeld
-street: "Hauptstraße"
-housenumber: 24
-phone: "+49 06550 9299854"
-opening_hours: "Mo-Fr 08:30-18:00, Sa 08:00-13:00"
+street: Hauptstraße
+housenumber: "24"
+phone: +49 06550 9299854
+opening_hours: Mo-Fr 08:30-18:00, Sa 08:00-13:00
 website: ""

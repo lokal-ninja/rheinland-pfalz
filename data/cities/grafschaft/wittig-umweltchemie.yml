@@ -1,11 +1,11 @@
 id: 232104223
-type: way
+type: node
 latitude: 50.57714
 longitude: 7.09333
 postcode: "53501"
 city: Grafschaft
-street: "Carl-Bosch-Straße"
-housenumber: 17
+street: Carl-Bosch-Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

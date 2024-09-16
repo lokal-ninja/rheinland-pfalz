@@ -1,11 +1,11 @@
 id: 357114891
-type: way
+type: node
 latitude: 49.79728
 longitude: 7.439
 postcode: "55606"
 city: Kirn
-street: "Schloßstraße"
-housenumber: 3
+street: Schloßstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

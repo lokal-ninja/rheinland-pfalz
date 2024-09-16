@@ -1,11 +1,11 @@
 id: 142918683
-type: way
+type: node
 latitude: 49.09607
 longitude: 8.12323
 postcode: "76872"
 city: Winden
-street: "Minfelder Straße"
-housenumber: 3
+street: Minfelder Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

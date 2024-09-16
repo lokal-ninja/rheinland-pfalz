@@ -4,8 +4,8 @@ latitude: 50.36105
 longitude: 7.59497
 postcode: "56068"
 city: Koblenz
-street: "An der Liebfrauenkirche"
-housenumber: 1
-phone: "+49 (0)261 - 450 992 90"
-opening_hours: "Mo-Sa 10:00-20:00; Su 13:00-18:00"
-website: "https://www.pfeffersackundsoehne.de/"
+street: An der Liebfrauenkirche
+housenumber: "1"
+phone: +49 (0)261 - 450 992 90
+opening_hours: Mo-Sa 10:00-20:00; Su 13:00-18:00
+website: https://www.pfeffersackundsoehne.de/

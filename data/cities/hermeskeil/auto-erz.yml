@@ -1,11 +1,11 @@
 id: 564440904
-type: way
+type: node
 latitude: 49.66379
 longitude: 6.9652
 postcode: "54411"
 city: Hermeskeil
-street: "Am Fohlengarten"
-housenumber: 4
+street: Am Fohlengarten
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

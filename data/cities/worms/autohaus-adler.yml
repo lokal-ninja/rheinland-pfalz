@@ -1,11 +1,11 @@
 id: 1082117420
-type: way
+type: node
 latitude: 49.63167
 longitude: 8.3493
 postcode: "67549"
 city: Worms
-street: "Alzeyer Straße"
-housenumber: 
-phone: "+49 6241 9726042"
+street: Alzeyer Straße
+housenumber: ""
+phone: +49 6241 9726042
 opening_hours: ""
 website: ""

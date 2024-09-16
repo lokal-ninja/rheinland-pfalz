@@ -1,11 +1,11 @@
 id: 147397306
-type: way
+type: node
 latitude: 50.34689
 longitude: 6.61531
 postcode: "54584"
 city: Feusdorf
-street: "Birgeler Straße"
-housenumber: 14
+street: Birgeler Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

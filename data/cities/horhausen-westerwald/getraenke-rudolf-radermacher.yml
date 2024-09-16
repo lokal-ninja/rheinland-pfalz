@@ -1,11 +1,11 @@
 id: 286940837
-type: way
+type: node
 latitude: 50.58177
 longitude: 7.52063
 postcode: "56593"
 city: Horhausen (Westerwald)
-street: "Industriepark"
-housenumber: 14
+street: Industriepark
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:00
 website: ""

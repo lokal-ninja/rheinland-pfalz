@@ -1,11 +1,11 @@
 id: 591626612
-type: way
+type: node
 latitude: 49.48741
 longitude: 8.29524
 postcode: "67133"
 city: Maxdorf
-street: "Carl-Zeiss-Straße"
-housenumber: 1
+street: Carl-Zeiss-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

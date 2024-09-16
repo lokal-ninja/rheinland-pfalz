@@ -1,11 +1,11 @@
 id: 187056541
-type: way
+type: node
 latitude: 49.54033
 longitude: 7.41533
 postcode: "66869"
 city: Kusel
-street: "Glanstraße"
-housenumber: 52
+street: Glanstraße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

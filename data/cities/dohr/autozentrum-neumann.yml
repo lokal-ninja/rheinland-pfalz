@@ -1,11 +1,11 @@
 id: 563625177
-type: way
+type: node
 latitude: 50.13404
 longitude: 7.12776
 postcode: "56812"
 city: Dohr
-street: "Am Heckbaum"
-housenumber: 1
-phone: "+49 2671 917502"
+street: Am Heckbaum
+housenumber: "1"
+phone: +49 2671 917502
 opening_hours: ""
-website: "http://autozentrum-neumann.de/"
+website: http://autozentrum-neumann.de/

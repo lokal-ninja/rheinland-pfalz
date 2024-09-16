@@ -1,11 +1,11 @@
 id: 1000456532
-type: way
+type: node
 latitude: 50.81026
 longitude: 7.87952
 postcode: "57548"
 city: Kirchen (Sieg)
-street: "An der Siegbrücke"
-housenumber: 6
+street: An der Siegbrücke
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

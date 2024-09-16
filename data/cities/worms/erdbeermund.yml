@@ -1,11 +1,11 @@
 id: 195774821
-type: way
+type: node
 latitude: 49.65545
 longitude: 8.35604
 postcode: "67547"
 city: Worms
-street: "Am Gallborn"
+street: Am Gallborn
 housenumber: 7b
 phone: ""
-opening_hours: "Mo-Th 09:00-23:45; Fr,Sa 09:15-01:45; PH,Su 12:00-23:45"
-website: "https://www.erdbeermund.de/filialen/worms"
+opening_hours: Mo-Th 09:00-23:45; Fr,Sa 09:15-01:45; PH,Su 12:00-23:45
+website: https://www.erdbeermund.de/filialen/worms

@@ -1,11 +1,11 @@
 id: 196270289
-type: way
+type: node
 latitude: 49.84115
 longitude: 8.23846
 postcode: "55278"
 city: Undenheim
-street: "Staatsrat-Schwamb-Straße"
-housenumber: 131
+street: Staatsrat-Schwamb-Straße
+housenumber: "131"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/filialen/undenheim/staatsrat-schwamb-strasse-131/3931"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/filialen/undenheim/staatsrat-schwamb-strasse-131/3931

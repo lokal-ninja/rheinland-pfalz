@@ -1,11 +1,11 @@
 id: 154932071
-type: way
+type: node
 latitude: 49.92209
 longitude: 7.96318
 postcode: "55411"
 city: Bingen am Rhein
-street: "Am Brandweiher"
-housenumber: 1
+street: Am Brandweiher
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.stefan-brisbois.de/"
+website: https://www.stefan-brisbois.de/

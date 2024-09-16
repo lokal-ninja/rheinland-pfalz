@@ -1,11 +1,11 @@
 id: 68792155
-type: way
+type: node
 latitude: 49.96258
 longitude: 8.2548
 postcode: "55129"
 city: Mainz
-street: "Carl-Zeiss-Straße"
-housenumber: 35
+street: Carl-Zeiss-Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

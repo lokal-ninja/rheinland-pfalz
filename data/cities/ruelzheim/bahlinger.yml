@@ -1,11 +1,11 @@
 id: 88912219
-type: way
+type: node
 latitude: 49.14925
 longitude: 8.29827
 postcode: "76761"
 city: Rülzheim
-street: "Gutenbergstraße"
-housenumber: 4
-phone: "+49 7272 919389"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:30; Su,PH off"
-website: "https://www.suzuki-bahlinger.de/"
+street: Gutenbergstraße
+housenumber: "4"
+phone: +49 7272 919389
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:30; Su,PH off
+website: https://www.suzuki-bahlinger.de/

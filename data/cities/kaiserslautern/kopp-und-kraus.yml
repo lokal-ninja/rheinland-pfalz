@@ -1,11 +1,11 @@
 id: 30685317
-type: way
+type: node
 latitude: 49.44799
 longitude: 7.7744
 postcode: "67657"
 city: Kaiserslautern
-street: "Ludwigstraße"
-housenumber: 36
+street: Ludwigstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.koppundkrauss.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.koppundkrauss.de/

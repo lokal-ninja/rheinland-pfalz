@@ -1,11 +1,11 @@
 id: 67553267
-type: way
+type: node
 latitude: 49.96938
 longitude: 8.26239
 postcode: "55129"
 city: Mainz
-street: "Curiestraße"
-housenumber: 24
+street: Curiestraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

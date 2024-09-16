@@ -4,8 +4,8 @@ latitude: 49.62961
 longitude: 8.35032
 postcode: "67549"
 city: Worms
-street: "Monsheimer Straße"
-housenumber: 18
-phone: "+49 6241 591844"
-opening_hours: "Mo-Fr 07:30-12:00,13:00-17:30; Th 07:30-12:00,13:00-18:30; Sa 09:00-13:00"
-website: "http://dreissigacker-sohn.de/"
+street: Monsheimer Straße
+housenumber: "18"
+phone: +49 6241 591844
+opening_hours: Mo-Fr 07:30-12:00,13:00-17:30; Th 07:30-12:00,13:00-18:30; Sa 09:00-13:00
+website: http://dreissigacker-sohn.de/

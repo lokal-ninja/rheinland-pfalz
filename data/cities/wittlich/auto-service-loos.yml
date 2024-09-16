@@ -1,11 +1,11 @@
 id: 489090581
-type: way
+type: node
 latitude: 49.99082
 longitude: 6.91183
 postcode: "54516"
 city: Wittlich
-street: "Otto-Hahn-Straße"
-housenumber: 15
+street: Otto-Hahn-Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Rufen Sie an"
+opening_hours: '"Rufen Sie an"'
 website: ""

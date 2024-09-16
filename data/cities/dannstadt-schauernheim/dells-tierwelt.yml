@@ -1,11 +1,11 @@
 id: 259179000
-type: way
+type: node
 latitude: 49.4177
 longitude: 8.32535
 postcode: "67125"
 city: Dannstadt-Schauernheim
-street: "Münchhof"
-housenumber: 1
-phone: "+49 6231 929870"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:00,14:00-18:00,Sa 09:00-13:00"
-website: "https://www.dells-tierwelt.com/"
+street: Münchhof
+housenumber: "1"
+phone: +49 6231 929870
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00,14:00-18:00,Sa 09:00-13:00
+website: https://www.dells-tierwelt.com/

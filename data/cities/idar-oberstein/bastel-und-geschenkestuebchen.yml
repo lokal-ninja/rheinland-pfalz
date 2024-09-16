@@ -1,11 +1,11 @@
 id: 677985369
-type: way
+type: node
 latitude: 49.71402
 longitude: 7.28404
 postcode: "55743"
 city: Idar-Oberstein
-street: "Algenrodter Straße"
-housenumber: 51
-phone: "+49 6781 2178520"
-opening_hours: "Mo 10:00-12:00; Fr 14:00-17:00"
+street: Algenrodter Straße
+housenumber: "51"
+phone: +49 6781 2178520
+opening_hours: Mo 10:00-12:00; Fr 14:00-17:00
 website: ""

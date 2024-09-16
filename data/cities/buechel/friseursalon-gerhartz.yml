@@ -1,11 +1,11 @@
 id: 541884011
-type: way
+type: node
 latitude: 50.17263
 longitude: 7.08736
 postcode: "56823"
 city: Büchel
-street: "Morschweiler Straße"
-housenumber: 23
-phone: "+49 2678 252"
-opening_hours: "Tu-Fr 08:30-18:00,Sa 08:00-13:00"
+street: Morschweiler Straße
+housenumber: "23"
+phone: +49 2678 252
+opening_hours: Tu-Fr 08:30-18:00,Sa 08:00-13:00
 website: ""

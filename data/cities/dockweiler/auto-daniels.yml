@@ -1,11 +1,11 @@
 id: 282071302
-type: way
+type: node
 latitude: 50.25113
 longitude: 6.77938
 postcode: ""
 city: Dockweiler
-street: "Hauptstraße"
-housenumber: 44
-phone: "+49 6595 900856"
+street: Hauptstraße
+housenumber: "44"
+phone: +49 6595 900856
 opening_hours: ""
-website: "https://auto-daniels.de/"
+website: https://auto-daniels.de/

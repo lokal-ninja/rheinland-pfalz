@@ -4,8 +4,8 @@ latitude: 50.43797
 longitude: 7.41404
 postcode: "56626"
 city: Andernach
-street: "Werftstraße"
-housenumber: 27
-phone: "+49 2632 505184"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-17:30; Su 07:30 - 17:30"
+street: Werftstraße
+housenumber: "27"
+phone: +49 2632 505184
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-17:30; Su 07:30 - 17:30
 website: ""

@@ -1,11 +1,11 @@
 id: 490725581
-type: way
+type: node
 latitude: 50.42022
 longitude: 7.21433
 postcode: "56653"
 city: Wehr
-street: "Hauptstraße"
-housenumber: 27
-phone: "+49 2636 800092"
-opening_hours: "tu,th 08:30-12:30,15:00-18:00; fr 08:30-18:00; sa 08:00-12:30"
-website: "http://www.hofladen-esch.de/"
+street: Hauptstraße
+housenumber: "27"
+phone: +49 2636 800092
+opening_hours: tu,th 08:30-12:30,15:00-18:00; fr 08:30-18:00; sa 08:00-12:30
+website: http://www.hofladen-esch.de/

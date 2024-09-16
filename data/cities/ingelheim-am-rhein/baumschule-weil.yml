@@ -1,11 +1,11 @@
 id: 788032387
-type: way
+type: node
 latitude: 49.98508
 longitude: 8.04154
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Konrad-Adenauer-Straße"
-housenumber: 55
+street: Konrad-Adenauer-Straße
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://www.weil-baumschulen.de/"
+website: https://www.weil-baumschulen.de/

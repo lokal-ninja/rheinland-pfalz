@@ -1,11 +1,11 @@
 id: 98863143
-type: way
+type: node
 latitude: 49.45277
 longitude: 7.78677
 postcode: "67657"
 city: Kaiserslautern
-street: "Mainzer Straße"
-housenumber: 81
+street: Mainzer Straße
+housenumber: "81"
 phone: ""
 opening_hours: ""
-website: "https://www.euromaster.de/"
+website: https://www.euromaster.de/

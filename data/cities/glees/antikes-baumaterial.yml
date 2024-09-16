@@ -1,11 +1,11 @@
 id: 490747866
-type: way
+type: node
 latitude: 50.43269
 longitude: 7.24296
 postcode: "56653"
 city: Glees
-street: "Wehrer Straße"
-housenumber: 2
-phone: "+49 2636 2529"
+street: Wehrer Straße
+housenumber: "2"
+phone: +49 2636 2529
 opening_hours: ""
-website: "https://antikesbaumaterial.de/"
+website: https://antikesbaumaterial.de/

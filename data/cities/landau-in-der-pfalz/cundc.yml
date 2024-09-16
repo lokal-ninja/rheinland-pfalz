@@ -4,8 +4,8 @@ latitude: 49.19197
 longitude: 8.1285
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Johannes-Kopp-Straße"
-housenumber: 10
+street: Johannes-Kopp-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:30, Sa 08:00-14:00; Su,PH off"
-website: "https://freykissel.org/CC-Landau/"
+opening_hours: Mo-Fr 08:00-19:30, Sa 08:00-14:00; Su,PH off
+website: https://freykissel.org/CC-Landau/

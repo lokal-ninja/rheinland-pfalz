@@ -1,11 +1,11 @@
 id: 314635760
-type: way
+type: node
 latitude: 49.50775
 longitude: 8.299
 postcode: "67245"
 city: Lambsheim
-street: "Gerberstraße"
-housenumber: 3
+street: Gerberstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

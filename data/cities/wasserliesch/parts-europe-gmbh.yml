@@ -1,11 +1,11 @@
 id: 192281897
-type: way
+type: node
 latitude: 49.69413
 longitude: 6.56062
 postcode: "54332"
 city: Wasserliesch
-street: "Conrad-Röntgen-Straße"
-housenumber: 2
-phone: "+49 6501 9695-0"
+street: Conrad-Röntgen-Straße
+housenumber: "2"
+phone: +49 6501 9695-0
 opening_hours: ""
-website: "https://partseurope.eu"
+website: https://partseurope.eu

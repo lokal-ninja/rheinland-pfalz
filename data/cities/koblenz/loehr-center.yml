@@ -1,11 +1,11 @@
 id: 24887271
-type: way
+type: node
 latitude: 50.35985
 longitude: 7.59069
 postcode: "56068"
 city: Koblenz
-street: "Hohenfelder Straße"
-housenumber: 22
-phone: "+49 261 1339070"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.loehr-center.de/"
+street: Hohenfelder Straße
+housenumber: "22"
+phone: +49 261 1339070
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.loehr-center.de/

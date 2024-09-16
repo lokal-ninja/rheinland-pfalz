@@ -1,11 +1,11 @@
 id: 422406760
-type: way
+type: node
 latitude: 49.41209
 longitude: 7.38815
 postcode: "66901"
 city: Schönenberg-Kübelberg
-street: "Miesauer Straße"
-housenumber: 58
+street: Miesauer Straße
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

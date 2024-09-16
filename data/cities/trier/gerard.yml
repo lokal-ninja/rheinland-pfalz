@@ -1,11 +1,11 @@
 id: 229924338
-type: way
+type: node
 latitude: 49.81803
 longitude: 6.70201
 postcode: "54293"
 city: Trier
-street: "Seiferstraße"
-housenumber: 3
+street: Seiferstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

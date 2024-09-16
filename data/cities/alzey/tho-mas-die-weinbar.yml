@@ -4,8 +4,8 @@ latitude: 49.74527
 longitude: 8.11293
 postcode: "55232"
 city: Alzey
-street: "Rossmarkt"
-housenumber: 4
-phone: "+49 6731-9 479 410"
-opening_hours: "Tu-Sa 11:00-23:00"
-website: "https://www.to-mas.de"
+street: Rossmarkt
+housenumber: "4"
+phone: +49 6731-9 479 410
+opening_hours: Tu-Sa 11:00-23:00
+website: https://www.to-mas.de

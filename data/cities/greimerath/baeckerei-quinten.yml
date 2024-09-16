@@ -1,11 +1,11 @@
 id: 473089159
-type: way
+type: node
 latitude: 49.56252
 longitude: 6.68231
 postcode: "54314"
 city: Greimerath
-street: "Hauptstraße"
-housenumber: 46
+street: Hauptstraße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

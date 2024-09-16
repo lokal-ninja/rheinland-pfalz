@@ -1,11 +1,11 @@
 id: 146355637
-type: way
+type: node
 latitude: 50.54151
 longitude: 7.26481
 postcode: "53489"
 city: Sinzig
-street: "Sandkauler Weg"
-housenumber: 5
-phone: "+49 2642 90360"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-15:30; Su,PH off"
-website: "https://www.kbm.de/standorte/sinzig.html"
+street: Sandkauler Weg
+housenumber: "5"
+phone: +49 2642 90360
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-15:30; Su,PH off
+website: https://www.kbm.de/standorte/sinzig.html

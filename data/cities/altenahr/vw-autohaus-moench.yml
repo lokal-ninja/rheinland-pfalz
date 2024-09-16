@@ -1,11 +1,11 @@
 id: 293081015
-type: way
+type: node
 latitude: 50.52471
 longitude: 6.99106
 postcode: "53505"
 city: Altenahr
-street: "Roßberg"
-housenumber: 127
+street: Roßberg
+housenumber: "127"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.56645
 longitude: 8.16263
 postcode: "67269"
 city: Grünstadt
-street: "Hauptstraße"
-housenumber: 119
-phone: "+49 6359 4090531"
-opening_hours: "Tu-Sa 10:00-13:00, Tu-Fr 15:00-18:00"
-website: "http://www.goldschmiede-gruenstadt.de/"
+street: Hauptstraße
+housenumber: "119"
+phone: +49 6359 4090531
+opening_hours: Tu-Sa 10:00-13:00, Tu-Fr 15:00-18:00
+website: http://www.goldschmiede-gruenstadt.de/

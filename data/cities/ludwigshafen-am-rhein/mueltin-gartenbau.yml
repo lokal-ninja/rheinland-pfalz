@@ -1,11 +1,11 @@
 id: 321445940
-type: way
+type: node
 latitude: 49.53018
 longitude: 8.39513
 postcode: "67069"
 city: Ludwigshafen am Rhein
-street: "Ostring"
-housenumber: 135
-phone: "+49 621 6296195"
+street: Ostring
+housenumber: "135"
+phone: +49 621 6296195
 opening_hours: ""
-website: "https://www.mültin.de/"
+website: https://www.mültin.de/

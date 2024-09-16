@@ -1,11 +1,11 @@
 id: 145705059
-type: way
+type: node
 latitude: 49.75351
 longitude: 6.62511
 postcode: "54294"
 city: Trier
-street: "Aachener Straße"
+street: Aachener Straße
 housenumber: 21;23
-phone: "+49 651 9982311"
+phone: +49 651 9982311
 opening_hours: ""
-website: "http://www.mic24.com/cms2/front_content.php"
+website: http://www.mic24.com/cms2/front_content.php

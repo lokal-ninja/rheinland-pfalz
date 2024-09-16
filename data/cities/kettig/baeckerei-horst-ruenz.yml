@@ -1,11 +1,11 @@
 id: 486193485
-type: way
+type: node
 latitude: 50.398
 longitude: 7.46186
 postcode: "56220"
 city: Kettig
-street: "Breite Straße"
-housenumber: 4
+street: Breite Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

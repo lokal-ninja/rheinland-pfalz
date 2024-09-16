@@ -5,7 +5,7 @@ longitude: 8.21253
 postcode: "67251"
 city: Freinsheim
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Fr 13:00-18:00; Sa 12:00-12:30"
-website: "https://www.openstreetmap.org/#map=19/49.50555/8.21280"
+opening_hours: Fr 13:00-18:00; Sa 12:00-12:30
+website: https://www.openstreetmap.org/#map=19/49.50555/8.21280

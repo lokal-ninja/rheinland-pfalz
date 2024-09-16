@@ -1,11 +1,11 @@
 id: 160607433
-type: way
+type: node
 latitude: 49.54558
 longitude: 8.34162
 postcode: "67227"
 city: Frankenthal (Pfalz)
-street: "Adam-Opel-Straße"
-housenumber: 20
+street: Adam-Opel-Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://dewetech.de/"
+website: https://dewetech.de/

@@ -1,11 +1,11 @@
 id: 431228235
-type: way
+type: node
 latitude: 49.68498
 longitude: 6.55788
 postcode: "54329"
 city: Konz
-street: "Am Maarbach"
-housenumber: 1
+street: Am Maarbach
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

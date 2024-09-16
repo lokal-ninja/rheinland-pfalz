@@ -1,11 +1,11 @@
 id: 402881639
-type: way
+type: node
 latitude: 49.24884
 longitude: 7.44571
 postcode: "66497"
 city: Contwig
-street: "Pirmasenser Straße"
-housenumber: 103
+street: Pirmasenser Straße
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

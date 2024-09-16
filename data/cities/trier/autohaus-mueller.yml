@@ -1,11 +1,11 @@
 id: 297577614
-type: way
+type: node
 latitude: 49.77556
 longitude: 6.685
 postcode: "54292"
 city: Trier
-street: "Ruwerer Straße"
+street: Ruwerer Straße
 housenumber: 1B
-phone: "+49 651 99530"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-14:00"
+phone: +49 651 99530
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-14:00
 website: ""

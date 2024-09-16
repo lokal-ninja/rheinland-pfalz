@@ -1,11 +1,11 @@
 id: 102758772
-type: way
+type: node
 latitude: 50.2225
 longitude: 6.64485
 postcode: "54568"
 city: Gerolstein
-street: "Raiffeisenstraße"
-housenumber: 17
+street: Raiffeisenstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

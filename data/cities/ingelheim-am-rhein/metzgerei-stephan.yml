@@ -4,8 +4,8 @@ latitude: 49.96499
 longitude: 8.06056
 postcode: "55218"
 city: Ingelheim am Rhein
-street: "Rinderbachstraße"
-housenumber: 7
+street: Rinderbachstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 07:30-18:30; Sa 06:30-13:00"
-website: "https://www.metzgerei-stephan.de/"
+opening_hours: Tu-Fr 07:30-18:30; Sa 06:30-13:00
+website: https://www.metzgerei-stephan.de/

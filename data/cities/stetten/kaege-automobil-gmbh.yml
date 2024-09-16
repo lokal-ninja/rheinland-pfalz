@@ -1,11 +1,11 @@
 id: 572358192
-type: way
+type: node
 latitude: 49.66972
 longitude: 8.09615
 postcode: "67294"
 city: Stetten
-street: "Im Langgarten"
-housenumber: 2
-phone: "+49 6355 3640"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 09:00-12:00"
-website: "https://www.kaege.de/"
+street: Im Langgarten
+housenumber: "2"
+phone: +49 6355 3640
+opening_hours: Mo-Fr 07:30-17:00; Sa 09:00-12:00
+website: https://www.kaege.de/

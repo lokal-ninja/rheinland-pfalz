@@ -1,11 +1,11 @@
 id: 329522775
-type: way
+type: node
 latitude: 50.35486
 longitude: 7.22128
 postcode: "56729"
 city: Ettringen
-street: "Neue Schulstraße"
-housenumber: 16
+street: Neue Schulstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

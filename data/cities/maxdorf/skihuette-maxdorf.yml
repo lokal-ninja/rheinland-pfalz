@@ -1,11 +1,11 @@
 id: 617401952
-type: way
+type: node
 latitude: 49.47731
 longitude: 8.289
 postcode: "67133"
 city: Maxdorf
-street: "Maxdorfer Weg"
-housenumber: 22
+street: Maxdorfer Weg
+housenumber: "22"
 phone: ""
-opening_hours: "Mo,Tu 16:00-19:00; Th,Fr 16:00-19:00; Sa 10:00-13:00"
-website: "http://www.skihütte-maxdorf.de/"
+opening_hours: Mo,Tu 16:00-19:00; Th,Fr 16:00-19:00; Sa 10:00-13:00
+website: http://www.skihütte-maxdorf.de/

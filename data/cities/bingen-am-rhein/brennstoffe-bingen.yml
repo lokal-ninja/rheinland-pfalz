@@ -1,11 +1,11 @@
 id: 573861300
-type: way
+type: node
 latitude: 49.964
 longitude: 7.94976
 postcode: "55411"
 city: Bingen am Rhein
-street: "Globusallee"
-housenumber: 8
+street: Globusallee
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://brennstoffe-bingen.de/"
+website: https://brennstoffe-bingen.de/

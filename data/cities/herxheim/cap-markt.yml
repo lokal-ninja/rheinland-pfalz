@@ -1,11 +1,11 @@
 id: 243517776
-type: way
+type: node
 latitude: 49.1461
 longitude: 8.21483
 postcode: "76863"
 city: Herxheim
-street: "Obere Hauptstraße"
-housenumber: 7
+street: Obere Hauptstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su,PH off"
-website: "https://cap-markt.de/maerkte/herxheim"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su,PH off
+website: https://cap-markt.de/maerkte/herxheim

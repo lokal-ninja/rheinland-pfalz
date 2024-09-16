@@ -1,11 +1,11 @@
 id: 112417563
-type: way
+type: node
 latitude: 49.31662
 longitude: 8.44162
 postcode: "67346"
 city: Speyer
-street: "Domplatz"
+street: Domplatz
 housenumber: 1b
-phone: "+49 6232 1020"
-opening_hours: "Apr-Oct 10:00-17:00; Nov-Mar 10:00-16:00"
-website: "https://www.dom-zu-speyer.de/besuch-planen/dom-info/"
+phone: +49 6232 1020
+opening_hours: Apr-Oct 10:00-17:00; Nov-Mar 10:00-16:00
+website: https://www.dom-zu-speyer.de/besuch-planen/dom-info/

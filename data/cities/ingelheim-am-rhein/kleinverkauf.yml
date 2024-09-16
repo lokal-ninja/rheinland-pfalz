@@ -4,8 +4,8 @@ latitude: 49.99441
 longitude: 8.11224
 postcode: "55262"
 city: Ingelheim am Rhein
-street: "Binger Straße"
-housenumber: 11
-phone: "+49 6132 7106987"
-opening_hours: "Mo-Fr 07:00-13:00,14:30-18:00; Sa 07:00-13:00; PH off"
-website: "https://kleinverkauf.vog-ingelheim.de"
+street: Binger Straße
+housenumber: "11"
+phone: +49 6132 7106987
+opening_hours: Mo-Fr 07:00-13:00,14:30-18:00; Sa 07:00-13:00; PH off
+website: https://kleinverkauf.vog-ingelheim.de

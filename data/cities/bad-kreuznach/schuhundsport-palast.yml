@@ -1,11 +1,11 @@
 id: 208080809
-type: way
+type: node
 latitude: 49.84595
 longitude: 7.87608
 postcode: "55543"
 city: Bad Kreuznach
-street: "Schwabenheimer Weg"
-housenumber: 1
-phone: "+49 671 4834700"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.schuh-frank.de/schuh-sport-palast-bad-kreuznach"
+street: Schwabenheimer Weg
+housenumber: "1"
+phone: +49 671 4834700
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.schuh-frank.de/schuh-sport-palast-bad-kreuznach

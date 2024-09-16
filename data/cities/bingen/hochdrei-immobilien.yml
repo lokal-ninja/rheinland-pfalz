@@ -4,8 +4,8 @@ latitude: 49.96857
 longitude: 7.89508
 postcode: "55411"
 city: Bingen
-street: "Salzstraße"
-housenumber: 6
-phone: "+49 6721 9842288"
-opening_hours: "Mo-Fr 09:00-12:00"
-website: "https://www.hochdrei-immobilien.de/"
+street: Salzstraße
+housenumber: "6"
+phone: +49 6721 9842288
+opening_hours: Mo-Fr 09:00-12:00
+website: https://www.hochdrei-immobilien.de/

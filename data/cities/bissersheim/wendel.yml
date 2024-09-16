@@ -1,11 +1,11 @@
 id: 351699549
-type: way
+type: node
 latitude: 49.53716
 longitude: 8.20192
 postcode: "67281"
 city: Bissersheim
-street: "Bachgasse"
-housenumber: 1
-phone: "+49 6359 6611"
-opening_hours: "Mo-Fr 13:00-18:00; Sa 10:00-16:00"
-website: "https://www.wendel-weingut.de/"
+street: Bachgasse
+housenumber: "1"
+phone: +49 6359 6611
+opening_hours: Mo-Fr 13:00-18:00; Sa 10:00-16:00
+website: https://www.wendel-weingut.de/

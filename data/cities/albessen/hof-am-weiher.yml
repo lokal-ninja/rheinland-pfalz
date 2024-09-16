@@ -1,11 +1,11 @@
 id: 422822193
-type: way
+type: node
 latitude: 49.51663
 longitude: 7.33059
 postcode: "66871"
 city: Albessen
-street: "Burgweg"
-housenumber: 1
+street: Burgweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

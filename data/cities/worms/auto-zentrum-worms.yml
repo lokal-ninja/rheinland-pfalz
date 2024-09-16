@@ -1,11 +1,11 @@
 id: 394121417
-type: way
+type: node
 latitude: 49.63107
 longitude: 8.35286
 postcode: "67549"
 city: Worms
-street: "Alzeyer Straße"
-housenumber: 16
-phone: "+49 6241 425542"
+street: Alzeyer Straße
+housenumber: "16"
+phone: +49 6241 425542
 opening_hours: ""
-website: "https://www.mibile.de/AUTOZENTRUMWORMS"
+website: https://www.mibile.de/AUTOZENTRUMWORMS

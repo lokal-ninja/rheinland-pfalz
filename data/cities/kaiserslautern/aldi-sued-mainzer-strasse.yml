@@ -1,11 +1,11 @@
 id: 98862991
-type: way
+type: node
 latitude: 49.45289
 longitude: 7.78501
 postcode: "67657"
 city: Kaiserslautern
-street: "Mainzer Straße"
-housenumber: 69
+street: Mainzer Straße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de

@@ -1,11 +1,11 @@
 id: 131221142
-type: way
+type: node
 latitude: 50.44984
 longitude: 7.68272
 postcode: "56206"
 city: Hilgert
-street: "In den Erlen"
-housenumber: 15
+street: In den Erlen
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

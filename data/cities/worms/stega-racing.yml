@@ -4,8 +4,8 @@ latitude: 49.70952
 longitude: 8.34973
 postcode: "67550"
 city: Worms
-street: "Jakob-Hammel-Straße"
-housenumber: 13
-phone: "+49 6242 9120100"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 9:00-14:00; Su,PH off"
-website: "https://stega-racing.de/"
+street: Jakob-Hammel-Straße
+housenumber: "13"
+phone: +49 6242 9120100
+opening_hours: Mo-Fr 09:00-19:00; Sa 9:00-14:00; Su,PH off
+website: https://stega-racing.de/

@@ -1,11 +1,11 @@
 id: 43947087
-type: way
+type: node
 latitude: 49.58241
 longitude: 8.35169
 postcode: "67240"
 city: Bobenheim-Roxheim
-street: "Südring"
-housenumber: 2
+street: Südring
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

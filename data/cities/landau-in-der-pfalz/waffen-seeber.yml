@@ -4,8 +4,8 @@ latitude: 49.19744
 longitude: 8.11179
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Marktstraße"
-housenumber: 62
-phone: "+49 6341 88429"
-opening_hours: "Mo-We 09:00-13:00; Sa 09:00-13:00; Th,Fr 09:00-13:00,14:00-18:00"
-website: "https://waffen-seeber.de/"
+street: Marktstraße
+housenumber: "62"
+phone: +49 6341 88429
+opening_hours: Mo-We 09:00-13:00; Sa 09:00-13:00; Th,Fr 09:00-13:00,14:00-18:00
+website: https://waffen-seeber.de/

@@ -1,11 +1,11 @@
 id: 122563982
-type: way
+type: node
 latitude: 49.84464
 longitude: 7.8743
 postcode: "55543"
 city: Bad Kreuznach
-street: "Badenheimer Straße"
-housenumber: 22
+street: Badenheimer Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We 09:00-15:00; Sa 09:00-13:00"
-website: "https://www.maler-lipp.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We 09:00-15:00; Sa 09:00-13:00
+website: https://www.maler-lipp.de/

@@ -4,8 +4,8 @@ latitude: 49.75376
 longitude: 6.6395
 postcode: "54290"
 city: Trier
-street: "Brotstraße"
-housenumber: 30
-phone: "+49 651 4361450"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-20:00"
+street: Brotstraße
+housenumber: "30"
+phone: +49 651 4361450
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-20:00
 website: ""

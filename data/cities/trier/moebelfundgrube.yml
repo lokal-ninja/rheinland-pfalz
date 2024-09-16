@@ -1,11 +1,11 @@
 id: 124433275
-type: way
+type: node
 latitude: 49.77096
 longitude: 6.6576
 postcode: "54292"
 city: Trier
-street: "Castelforte-Straße"
-housenumber: 8
+street: Castelforte-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; PH off"
+opening_hours: Mo-Sa 10:00-19:00; PH off
 website: ""

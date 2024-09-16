@@ -4,8 +4,8 @@ latitude: 48.98922
 longitude: 8.2467
 postcode: "76776"
 city: Neuburg am Rhein
-street: "Schulstraße"
-housenumber: 17
-phone: "+49-7273-935130"
-opening_hours: "Mo off; Tu-Fr 09:00-18:00; Sa 08:00-14:00"
-website: "https://www.haargenau-mohr.de/"
+street: Schulstraße
+housenumber: "17"
+phone: +49-7273-935130
+opening_hours: Mo off; Tu-Fr 09:00-18:00; Sa 08:00-14:00
+website: https://www.haargenau-mohr.de/

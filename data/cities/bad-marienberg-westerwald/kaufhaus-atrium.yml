@@ -1,11 +1,11 @@
 id: 441025027
-type: way
+type: node
 latitude: 50.65001
 longitude: 7.95075
 postcode: "56470"
 city: Bad Marienberg (Westerwald)
-street: "Bismarckstraße"
-housenumber: 12
+street: Bismarckstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

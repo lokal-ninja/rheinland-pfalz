@@ -4,8 +4,9 @@ latitude: 50.18517
 longitude: 7.14066
 postcode: "56814"
 city: Greimersburg
-street: "Mittelstraße"
-housenumber: 2
+street: Mittelstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu,Th,Fr 06:30-11:00, Mo,We 06:30-11:00, Sa 07:00-11:00, Su 08:00-10:00, Tu,Th,Fr 15:00-18:00"
+opening_hours: Tu,Th,Fr 06:30-11:00, Mo,We 06:30-11:00, Sa 07:00-11:00, Su 08:00-10:00,
+    Tu,Th,Fr 15:00-18:00
 website: ""

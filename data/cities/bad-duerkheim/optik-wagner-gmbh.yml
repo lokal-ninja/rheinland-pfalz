@@ -4,8 +4,8 @@ latitude: 49.46085
 longitude: 8.16761
 postcode: "67098"
 city: Bad Dürkheim
-street: "Römerplatz"
-housenumber: 8
-phone: "+49 6322 2060"
-opening_hours: "Mo-Fr 9:00-18:30; Sa 9:00-14:00"
-website: "https://www.optik-wagner-gmbh.de/"
+street: Römerplatz
+housenumber: "8"
+phone: +49 6322 2060
+opening_hours: Mo-Fr 9:00-18:30; Sa 9:00-14:00
+website: https://www.optik-wagner-gmbh.de/

@@ -1,11 +1,11 @@
 id: 192073225
-type: way
+type: node
 latitude: 49.78477
 longitude: 7.65566
 postcode: "55566"
 city: Bad Sobernheim
-street: "Staudernheimer Straße"
-housenumber: 2
+street: Staudernheimer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://www.ekcomputer.de/"
+website: http://www.ekcomputer.de/

@@ -1,11 +1,11 @@
 id: 103179406
-type: way
+type: node
 latitude: 49.31616
 longitude: 8.39299
 postcode: "67373"
 city: Dudenhofen
-street: "Speyerer Straße"
-housenumber: 19
+street: Speyerer Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: "https://www.wasgau-ag.de"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
+website: https://www.wasgau-ag.de

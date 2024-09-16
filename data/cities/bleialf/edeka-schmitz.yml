@@ -1,11 +1,11 @@
 id: 219794230
-type: way
+type: node
 latitude: 50.23525
 longitude: 6.27875
 postcode: "54608"
 city: Bleialf
-street: "Bahnhofstraße"
-housenumber: 49
-phone: "+49 6555 1482"
-opening_hours: "Mo-Sa 08:00-21:00"
+street: Bahnhofstraße
+housenumber: "49"
+phone: +49 6555 1482
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

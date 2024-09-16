@@ -1,11 +1,11 @@
 id: 91959015
-type: way
+type: node
 latitude: 49.63261
 longitude: 6.55241
 postcode: "54441"
 city: Ayl
-street: "Im Brühl"
-housenumber: 24
-phone: "+49 6581 3668"
+street: Im Brühl
+housenumber: "24"
+phone: +49 6581 3668
 opening_hours: ""
-website: "http://www.raevenhof.de/"
+website: http://www.raevenhof.de/

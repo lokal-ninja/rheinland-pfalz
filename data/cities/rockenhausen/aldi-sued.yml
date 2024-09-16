@@ -1,11 +1,11 @@
 id: 335052514
-type: way
+type: node
 latitude: 49.63675
 longitude: 7.83135
 postcode: "67806"
 city: Rockenhausen
-street: "An der Linde"
-housenumber: 14
+street: An der Linde
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

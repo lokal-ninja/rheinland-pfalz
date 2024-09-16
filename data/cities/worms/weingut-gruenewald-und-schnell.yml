@@ -1,11 +1,11 @@
 id: 142303175
-type: way
+type: node
 latitude: 49.61075
 longitude: 8.3214
 postcode: "67551"
 city: Worms
-street: "Untere Hauptstraße"
-housenumber: 65
+street: Untere Hauptstraße
+housenumber: "65"
 phone: ""
 opening_hours: ""
-website: "https://www.gruenewald-schnell.de/"
+website: https://www.gruenewald-schnell.de/

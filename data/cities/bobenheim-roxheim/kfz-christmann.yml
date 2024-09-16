@@ -1,11 +1,11 @@
 id: 102189388
-type: way
+type: node
 latitude: 49.57288
 longitude: 8.36063
 postcode: "67240"
 city: Bobenheim-Roxheim
-street: "Industriestraße"
-housenumber: 2
-phone: "+49 6239 3003"
+street: Industriestraße
+housenumber: "2"
+phone: +49 6239 3003
 opening_hours: ""
-website: "https://kfz-christmann.com/"
+website: https://kfz-christmann.com/

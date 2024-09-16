@@ -1,11 +1,11 @@
 id: 148882451
-type: way
+type: node
 latitude: 50.55525
 longitude: 7.24611
 postcode: "53489"
 city: Sinzig
-street: "Kripper Straße"
+street: Kripper Straße
 housenumber: 10a
-phone: "+49 2642 991000"
-opening_hours: "Mo-Sa 08:00-19:00; Su off; PH off"
-website: "https://www.rossmann.de"
+phone: +49 2642 991000
+opening_hours: Mo-Sa 08:00-19:00; Su off; PH off
+website: https://www.rossmann.de

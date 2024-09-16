@@ -1,11 +1,11 @@
 id: 500914799
-type: way
+type: node
 latitude: 50.09271
 longitude: 6.81207
 postcode: "54531"
 city: Manderscheid
-street: "Kurfürstenstraße"
-housenumber: 30
+street: Kurfürstenstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

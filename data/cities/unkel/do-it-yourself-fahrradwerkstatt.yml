@@ -1,11 +1,11 @@
 id: 310789455
-type: way
+type: node
 latitude: 50.59592
 longitude: 7.22149
 postcode: "53572"
 city: Unkel
-street: "Linzer Straße"
-housenumber: 25
-phone: "+49 151 18668334"
-opening_hours: "Tu 15:00-17:00"
-website: "https://gfv-unkel.de/fahrradwerkstatt/"
+street: Linzer Straße
+housenumber: "25"
+phone: +49 151 18668334
+opening_hours: Tu 15:00-17:00
+website: https://gfv-unkel.de/fahrradwerkstatt/

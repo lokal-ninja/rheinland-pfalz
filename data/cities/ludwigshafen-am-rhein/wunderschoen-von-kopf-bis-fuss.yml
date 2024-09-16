@@ -1,11 +1,11 @@
 id: 382233102
-type: way
+type: node
 latitude: 49.44836
 longitude: 8.37592
 postcode: "67065"
 city: Ludwigshafen am Rhein
-street: "Robert-Mayer-Straße"
-housenumber: 3
+street: Robert-Mayer-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.wunderschoenvonkopfbisfuss.com/"
+website: https://www.wunderschoenvonkopfbisfuss.com/

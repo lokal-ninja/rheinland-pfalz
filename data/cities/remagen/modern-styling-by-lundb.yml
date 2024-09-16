@@ -4,8 +4,8 @@ latitude: 50.61372
 longitude: 7.20752
 postcode: "53424"
 city: Remagen
-street: "Hauptstraße"
-housenumber: 61
-phone: "+49 2228 911297"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 08:00-14:00; Mo off"
+street: Hauptstraße
+housenumber: "61"
+phone: +49 2228 911297
+opening_hours: Tu-Fr 09:00-18:30; Sa 08:00-14:00; Mo off
 website: ""

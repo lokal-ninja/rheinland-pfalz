@@ -4,8 +4,8 @@ latitude: 50.00336
 longitude: 8.26995
 postcode: "55116"
 city: Mainz
-street: "Flachsmarktstraße"
-housenumber: 30
-phone: "+49 6131 232337"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-17:00"
-website: "https://www.schmitt-kopierautomaten.de/"
+street: Flachsmarktstraße
+housenumber: "30"
+phone: +49 6131 232337
+opening_hours: Mo-Fr 09:00-13:00,14:00-17:00
+website: https://www.schmitt-kopierautomaten.de/

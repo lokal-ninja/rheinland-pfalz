@@ -1,11 +1,11 @@
 id: 341730061
-type: way
+type: node
 latitude: 49.66835
 longitude: 8.01813
 postcode: "67292"
 city: Kirchheimbolanden
-street: "Freiheitsstraße"
-housenumber: 3
-phone: "+49 6352 2358"
+street: Freiheitsstraße
+housenumber: "3"
+phone: +49 6352 2358
 opening_hours: ""
-website: "https://schlossgarten.skoda-auto.de/"
+website: https://schlossgarten.skoda-auto.de/

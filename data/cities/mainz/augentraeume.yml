@@ -4,8 +4,8 @@ latitude: 49.98122
 longitude: 8.24433
 postcode: "55128"
 city: Mainz
-street: "Wilhelmsstraße"
-housenumber: 2
+street: Wilhelmsstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 09:00-18:00, Sa 09:00-13:00"
+opening_hours: Mo-Tu,Th-Fr 09:00-18:00, Sa 09:00-13:00
 website: ""

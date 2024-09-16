@@ -4,8 +4,8 @@ latitude: 49.84483
 longitude: 8.35323
 postcode: "55276"
 city: Oppenheim
-street: "Sant'-Ambrogio-Ring"
-housenumber: 3
-phone: "+49 6133 7089729"
-opening_hours: "Mo-Sa 06:00-19:00; Su 08:00-18:00"
-website: "https://www.schaefer-dein-baecker.de/"
+street: Sant'-Ambrogio-Ring
+housenumber: "3"
+phone: +49 6133 7089729
+opening_hours: Mo-Sa 06:00-19:00; Su 08:00-18:00
+website: https://www.schaefer-dein-baecker.de/

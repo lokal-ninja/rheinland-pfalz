@@ -4,8 +4,8 @@ latitude: 50.00868
 longitude: 8.26407
 postcode: "55118"
 city: Mainz
-street: "Frauenlobstraße"
-housenumber: 69
-phone: "+49 6131 6296136"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-16:00"
-website: "http://www.chiangrai-mainz.de/"
+street: Frauenlobstraße
+housenumber: "69"
+phone: +49 6131 6296136
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-16:00
+website: http://www.chiangrai-mainz.de/

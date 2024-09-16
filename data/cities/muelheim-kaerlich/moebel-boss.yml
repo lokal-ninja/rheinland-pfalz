@@ -1,11 +1,11 @@
 id: 116456145
-type: way
+type: node
 latitude: 50.39336
 longitude: 7.53181
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Am Hohen Stein"
-housenumber: 1
-phone: "+49 261 291490"
-opening_hours: "Mo-Fr 10:00-20:00, Sa 10:00-20:00"
-website: "https://moebel-boss.de"
+street: Am Hohen Stein
+housenumber: "1"
+phone: +49 261 291490
+opening_hours: Mo-Fr 10:00-20:00, Sa 10:00-20:00
+website: https://moebel-boss.de

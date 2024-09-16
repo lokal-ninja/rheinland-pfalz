@@ -1,11 +1,11 @@
 id: 111429329
-type: way
+type: node
 latitude: 50.36588
 longitude: 7.29538
 postcode: "56743"
 city: Mendig
-street: "Robert-Bosch-Straße"
-housenumber: 2
+street: Robert-Bosch-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

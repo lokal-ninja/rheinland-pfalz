@@ -4,8 +4,8 @@ latitude: 49.91577
 longitude: 7.07608
 postcode: "54470"
 city: Bernkastel-Kues
-street: "Alte Römerstraße"
-housenumber: 3
-phone: "+49 65 31 64 07"
-opening_hours: "Mo-Su 11:00-18:00"
-website: "https://www.huthansen.de"
+street: Alte Römerstraße
+housenumber: "3"
+phone: +49 65 31 64 07
+opening_hours: Mo-Su 11:00-18:00
+website: https://www.huthansen.de

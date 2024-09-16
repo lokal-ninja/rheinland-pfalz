@@ -1,11 +1,11 @@
 id: 211014400
-type: way
+type: node
 latitude: 50.65955
 longitude: 7.41954
 postcode: "53567"
 city: Asbach
-street: "Anton-Limbach-Straße"
-housenumber: 1
+street: Anton-Limbach-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.vorteil-center.de/"
+website: https://www.vorteil-center.de/

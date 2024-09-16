@@ -4,8 +4,8 @@ latitude: 50.39592
 longitude: 7.51951
 postcode: "56218"
 city: Mülheim-Kärlich
-street: "Industriestraße"
-housenumber: 45
-phone: "+49 2630 962755"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-18:00; PH off"
+street: Industriestraße
+housenumber: "45"
+phone: +49 2630 962755
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-18:00; PH off
 website: ""

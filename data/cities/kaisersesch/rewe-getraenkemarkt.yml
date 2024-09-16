@@ -1,11 +1,11 @@
 id: 500213044
-type: way
+type: node
 latitude: 50.23354
 longitude: 7.14375
 postcode: "56759"
 city: Kaisersesch
-street: "Koblenzer Straße"
-housenumber: 16
+street: Koblenzer Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

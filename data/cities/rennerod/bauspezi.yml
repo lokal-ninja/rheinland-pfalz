@@ -1,11 +1,11 @@
 id: 769874909
-type: way
+type: node
 latitude: 50.60128
 longitude: 8.06537
 postcode: "56477"
 city: Rennerod
-street: "Gewerbestraße"
-housenumber: 2
+street: Gewerbestraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

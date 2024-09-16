@@ -1,11 +1,11 @@
 id: 866710508
-type: way
+type: node
 latitude: 50.56045
 longitude: 7.24455
 postcode: "53424"
 city: Remagen
-street: "Sinziger Straße"
-housenumber: 50
-phone: "+49 2642 21134"
-opening_hours: "Mo-Fr 08:00-17:00; Sa,Su,PH off"
-website: "https://www.auto-schaefer.biz"
+street: Sinziger Straße
+housenumber: "50"
+phone: +49 2642 21134
+opening_hours: Mo-Fr 08:00-17:00; Sa,Su,PH off
+website: https://www.auto-schaefer.biz

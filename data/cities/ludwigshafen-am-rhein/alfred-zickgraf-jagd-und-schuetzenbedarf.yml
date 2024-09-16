@@ -1,11 +1,11 @@
 id: 169943824
-type: way
+type: node
 latitude: 49.46605
 longitude: 8.4303
 postcode: "67065"
 city: Ludwigshafen am Rhein
-street: "Ganghoferstraße"
-housenumber: 21
+street: Ganghoferstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.waffen-zickgraf.de/"
+website: https://www.waffen-zickgraf.de/

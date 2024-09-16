@@ -4,8 +4,8 @@ latitude: 49.99865
 longitude: 8.26998
 postcode: "55116"
 city: Mainz
-street: "Ludwigsstraße"
-housenumber: 9
+street: Ludwigsstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
 website: ""

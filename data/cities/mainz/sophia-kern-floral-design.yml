@@ -4,8 +4,8 @@ latitude: 49.99847
 longitude: 8.27348
 postcode: "55116"
 city: Mainz
-street: "Leichhof"
-housenumber: 24
-phone: "+49 6131 - 69 69 494"
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://sophiakern.de/"
+street: Leichhof
+housenumber: "24"
+phone: +49 6131 - 69 69 494
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://sophiakern.de/

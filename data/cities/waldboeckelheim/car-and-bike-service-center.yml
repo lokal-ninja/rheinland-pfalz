@@ -1,11 +1,11 @@
 id: 923693754
-type: way
+type: node
 latitude: 49.82085
 longitude: 7.72168
 postcode: "55596"
 city: Waldböckelheim
-street: "Am Welschberg"
-housenumber: 6
-phone: "+496758/8099909"
+street: Am Welschberg
+housenumber: "6"
+phone: +496758/8099909
 opening_hours: ""
-website: "https://www.carandbike-servicecenter.de/"
+website: https://www.carandbike-servicecenter.de/

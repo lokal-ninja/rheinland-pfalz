@@ -4,8 +4,8 @@ latitude: 49.36715
 longitude: 8.26515
 postcode: "67454"
 city: Haßloch
-street: "Herrenweg"
-housenumber: 2
+street: Herrenweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su,PH off"
-website: "https://www.penny.de/marktsuche"
+opening_hours: Mo-Sa 07:30-21:00; Su,PH off
+website: https://www.penny.de/marktsuche

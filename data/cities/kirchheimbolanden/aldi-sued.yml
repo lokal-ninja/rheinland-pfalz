@@ -1,11 +1,11 @@
 id: 273653043
-type: way
+type: node
 latitude: 49.66037
 longitude: 8.01992
 postcode: "67292"
 city: Kirchheimbolanden
-street: "Woogmorgen"
-housenumber: 14
+street: Woogmorgen
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

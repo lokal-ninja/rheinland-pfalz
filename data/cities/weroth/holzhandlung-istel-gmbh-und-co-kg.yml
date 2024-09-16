@@ -1,11 +1,11 @@
 id: 694477878
-type: way
+type: node
 latitude: 50.46633
 longitude: 7.94805
 postcode: "56414"
 city: Weroth
-street: "In der Mark"
-housenumber: 5
+street: In der Mark
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

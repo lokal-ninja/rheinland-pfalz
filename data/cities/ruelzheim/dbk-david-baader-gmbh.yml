@@ -1,11 +1,11 @@
 id: 209874356
-type: way
+type: node
 latitude: 49.16451
 longitude: 8.29782
 postcode: "76761"
 city: Rülzheim
-street: "Nordring"
-housenumber: 26
+street: Nordring
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

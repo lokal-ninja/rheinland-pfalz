@@ -1,11 +1,11 @@
 id: 984573178
-type: way
+type: node
 latitude: 49.48899
 longitude: 8.3858
 postcode: "67071"
 city: Ludwigshafen am Rhein
-street: "Mannheimer Straße"
-housenumber: 69
+street: Mannheimer Straße
+housenumber: "69"
 phone: ""
 opening_hours: ""
-website: "https://allesgehtzubruch.de/"
+website: https://allesgehtzubruch.de/

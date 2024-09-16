@@ -4,8 +4,8 @@ latitude: 49.63202
 longitude: 8.36291
 postcode: "67547"
 city: Worms
-street: "Kämmererstraße"
-housenumber: 43
+street: Kämmererstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"
-website: "https://www.fotogena-worms.de"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00
+website: https://www.fotogena-worms.de

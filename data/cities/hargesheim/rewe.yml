@@ -1,11 +1,11 @@
 id: 520325331
-type: way
+type: node
 latitude: 49.87051
 longitude: 7.81938
 postcode: "55595"
 city: Hargesheim
-street: "Arthur-Rauner-Straße"
-housenumber: 1
+street: Arthur-Rauner-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

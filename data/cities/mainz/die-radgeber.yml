@@ -4,8 +4,8 @@ latitude: 50.00202
 longitude: 8.27161
 postcode: "55116"
 city: Mainz
-street: "Christofsstraße"
-housenumber: 5
-phone: "+49 6131372444"
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-16:00"
+street: Christofsstraße
+housenumber: "5"
+phone: +49 6131372444
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-16:00
 website: ""

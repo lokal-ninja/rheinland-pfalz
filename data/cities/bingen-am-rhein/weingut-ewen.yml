@@ -1,11 +1,11 @@
 id: 222059956
-type: way
+type: node
 latitude: 49.94917
 longitude: 7.9124
 postcode: "55411"
 city: Bingen am Rhein
-street: "Saarlandstraße"
-housenumber: 141
+street: Saarlandstraße
+housenumber: "141"
 phone: ""
 opening_hours: ""
-website: "https://www.ewenwein.de/"
+website: https://www.ewenwein.de/

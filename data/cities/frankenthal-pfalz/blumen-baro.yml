@@ -1,11 +1,11 @@
 id: 164535880
-type: way
+type: node
 latitude: 49.54582
 longitude: 8.37054
 postcode: "67227"
 city: Frankenthal (Pfalz)
-street: "Mörscher Straße"
-housenumber: 147
+street: Mörscher Straße
+housenumber: "147"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.12777
 longitude: 6.9019
 postcode: "54558"
 city: Gillenfeld
-street: "Brunnenstraße"
-housenumber: 17
+street: Brunnenstraße
+housenumber: "17"
 phone: "+496573727"
-opening_hours: "Tu-Th 08:00-12:30, Fr 8:00-18:00, Sa 08:00-13:00"
-website: "http://www.roden-fleich.de/"
+opening_hours: Tu-Th 08:00-12:30, Fr 8:00-18:00, Sa 08:00-13:00
+website: http://www.roden-fleich.de/

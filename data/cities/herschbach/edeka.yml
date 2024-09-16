@@ -1,11 +1,11 @@
 id: 193544264
-type: way
+type: node
 latitude: 50.57927
 longitude: 7.73865
 postcode: "56249"
 city: Herschbach
-street: "Am Bahndamm"
-housenumber: 6
+street: Am Bahndamm
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: Mo-Sa 08:00-21:00; PH off
 website: ""

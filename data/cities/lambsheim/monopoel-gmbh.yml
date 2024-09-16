@@ -1,11 +1,11 @@
 id: 318260884
-type: way
+type: node
 latitude: 49.50738
 longitude: 8.29852
 postcode: "67245"
 city: Lambsheim
-street: "Gerberstraße"
-housenumber: 2
+street: Gerberstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.monopoel.de/"
+website: https://www.monopoel.de/

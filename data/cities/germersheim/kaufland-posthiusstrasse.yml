@@ -1,11 +1,11 @@
 id: 162355668
-type: way
+type: node
 latitude: 49.20783
 longitude: 8.36265
 postcode: "76726"
 city: Germersheim
-street: "Posthiusstraße"
-housenumber: 5
+street: Posthiusstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.kaufland.de/"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.kaufland.de/

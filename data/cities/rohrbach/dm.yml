@@ -4,8 +4,8 @@ latitude: 49.13197
 longitude: 8.13247
 postcode: "76865"
 city: Rohrbach
-street: "Hauptstraße"
-housenumber: 93
-phone: "+49 6349 4192100"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.dm.de/store/de-2723/rohrbach/hauptstrasse-93"
+street: Hauptstraße
+housenumber: "93"
+phone: +49 6349 4192100
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.dm.de/store/de-2723/rohrbach/hauptstrasse-93

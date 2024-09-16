@@ -1,11 +1,11 @@
 id: 443047504
-type: way
+type: node
 latitude: 50.55658
 longitude: 7.24322
 postcode: "53489"
 city: Sinzig
-street: "Kölner Straße"
-housenumber: 50
-phone: "+49 2642 9078100"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su,PH off"
+street: Kölner Straße
+housenumber: "50"
+phone: +49 2642 9078100
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su,PH off
 website: ""

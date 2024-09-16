@@ -1,11 +1,11 @@
 id: 630238572
-type: way
+type: node
 latitude: 49.55725
 longitude: 8.18221
 postcode: "67269"
 city: Grünstadt
-street: "Daimlerstraße"
-housenumber: 23
+street: Daimlerstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "http://www.globus-gruenstadt.de/"
+website: http://www.globus-gruenstadt.de/

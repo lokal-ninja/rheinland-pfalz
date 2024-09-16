@@ -1,11 +1,11 @@
 id: 397975133
-type: way
+type: node
 latitude: 49.13134
 longitude: 8.13152
 postcode: "76865"
 city: Rohrbach
-street: "Hauptstraße"
-housenumber: 93
+street: Hauptstraße
+housenumber: "93"
 phone: ""
-opening_hours: "Mo-Sa 06:30-21:00; Su 08:00-17:00; PH off"
-website: "http://www.suedpfalz-center.de/"
+opening_hours: Mo-Sa 06:30-21:00; Su 08:00-17:00; PH off
+website: http://www.suedpfalz-center.de/

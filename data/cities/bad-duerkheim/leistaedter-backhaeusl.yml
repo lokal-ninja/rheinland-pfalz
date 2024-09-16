@@ -4,8 +4,8 @@ latitude: 49.49307
 longitude: 8.15788
 postcode: "67098"
 city: Bad Dürkheim
-street: "Hauptstraße"
-housenumber: 43
+street: Hauptstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 06:00-11:00"
-website: "https://www.unser-dorfladen.org/"
+opening_hours: Mo-Fr 06:00-11:00
+website: https://www.unser-dorfladen.org/

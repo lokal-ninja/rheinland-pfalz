@@ -4,8 +4,8 @@ latitude: 49.98665
 longitude: 8.18209
 postcode: "55126"
 city: Mainz
-street: "Katzenberg"
-housenumber: 13
-phone: "+49 6131 940980"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.tegut.com/"
+street: Katzenberg
+housenumber: "13"
+phone: +49 6131 940980
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.tegut.com/

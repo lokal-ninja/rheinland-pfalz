@@ -4,8 +4,8 @@ latitude: 49.31872
 longitude: 8.43331
 postcode: "67346"
 city: Speyer
-street: "Wormser Straße"
-housenumber: 47
-phone: "+49 6232 72337"
-opening_hours: "Tu-Fr 09:30-12:00,14:00-18:15; Sa 09:30-13:00"
-website: "https://www.kunsthandlung-memmel.de"
+street: Wormser Straße
+housenumber: "47"
+phone: +49 6232 72337
+opening_hours: Tu-Fr 09:30-12:00,14:00-18:15; Sa 09:30-13:00
+website: https://www.kunsthandlung-memmel.de

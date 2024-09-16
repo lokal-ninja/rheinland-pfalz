@@ -4,8 +4,8 @@ latitude: 49.20585
 longitude: 8.13094
 postcode: "76829"
 city: Landau in der Pfalz
-street: "Taubensuhlstraße"
-housenumber: 3
-phone: "+49 6341 9600410"
-opening_hours: "Mo-Sa 06:30-20:00"
-website: "https://www.baeckerei-reuther.de/Verkaufsstellen/Landau"
+street: Taubensuhlstraße
+housenumber: "3"
+phone: +49 6341 9600410
+opening_hours: Mo-Sa 06:30-20:00
+website: https://www.baeckerei-reuther.de/Verkaufsstellen/Landau

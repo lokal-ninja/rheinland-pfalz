@@ -4,8 +4,8 @@ latitude: 50.5438
 longitude: 7.24867
 postcode: "53489"
 city: Sinzig
-street: "Ausdorferstraße"
-housenumber: 5
-phone: "+49 2642 981415"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-14:00"
-website: "https://www.spielwaren-sauer.de"
+street: Ausdorferstraße
+housenumber: "5"
+phone: +49 2642 981415
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-14:00
+website: https://www.spielwaren-sauer.de

@@ -1,11 +1,11 @@
 id: 179749883
-type: way
+type: node
 latitude: 49.93632
 longitude: 7.31073
 postcode: "55487"
 city: Sohren
-street: "In der Sitters"
-housenumber: 
+street: In der Sitters
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

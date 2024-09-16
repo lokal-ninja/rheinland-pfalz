@@ -1,11 +1,11 @@
 id: 527059798
-type: way
+type: node
 latitude: 50.10157
 longitude: 7.73713
 postcode: "55430"
 city: Oberwesel
-street: "Im Tuchscheren"
-housenumber: 6
+street: Im Tuchscheren
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

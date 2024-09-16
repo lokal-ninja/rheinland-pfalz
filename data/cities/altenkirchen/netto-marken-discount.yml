@@ -1,11 +1,11 @@
 id: 1054593806
-type: way
+type: node
 latitude: 50.69477
 longitude: 7.65403
 postcode: "57610"
 city: Altenkirchen
-street: "Siegener Straße"
-housenumber: 67
+street: Siegener Straße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

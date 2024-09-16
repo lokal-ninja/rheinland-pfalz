@@ -1,11 +1,11 @@
 id: 399475821
-type: way
+type: node
 latitude: 50.35236
 longitude: 7.39771
 postcode: "56299"
 city: Ochtendung
-street: "Langenbergstraße"
-housenumber: 2
+street: Langenbergstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

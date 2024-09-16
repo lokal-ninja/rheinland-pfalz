@@ -4,8 +4,8 @@ latitude: 50.20738
 longitude: 6.42441
 postcode: "54595"
 city: Prüm
-street: "Hahnplatz"
-housenumber: 25
-phone: "+49 6551 148400"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-12:30; PH closed"
+street: Hahnplatz
+housenumber: "25"
+phone: +49 6551 148400
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-12:30; PH closed
 website: ""

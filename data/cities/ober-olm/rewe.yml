@@ -1,11 +1,11 @@
 id: 37932076
-type: way
+type: node
 latitude: 49.94318
 longitude: 8.19086
 postcode: "55270"
 city: Ober-Olm
-street: "Jägerpfad"
-housenumber: 2
+street: Jägerpfad
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; PH closed"
+opening_hours: Mo-Sa 08:00-22:00; PH closed
 website: ""

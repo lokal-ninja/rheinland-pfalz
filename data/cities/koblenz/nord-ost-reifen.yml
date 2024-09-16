@@ -1,11 +1,11 @@
 id: 376270064
-type: way
+type: node
 latitude: 50.38308
 longitude: 7.58908
 postcode: "56070"
 city: Koblenz
-street: "Kesselheimer Weg"
-housenumber: 34
-phone: "+49 261 200 893 9"
-opening_hours: "Mo-Fr 09:00-17:00"
+street: Kesselheimer Weg
+housenumber: "34"
+phone: +49 261 200 893 9
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

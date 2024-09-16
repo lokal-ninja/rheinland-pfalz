@@ -4,8 +4,9 @@ latitude: 50.5127
 longitude: 7.29481
 postcode: "53498"
 city: Bad Breisig
-street: "Zehnerstraße"
-housenumber: 43
-phone: "+49 (0) 2633 421 93 20"
-opening_hours: "Mo off; Tu-We 09:00-18:00; Th 09:00-19:00; Fr 09:00-18:00; Sa 08:00-14:00; PH off"
-website: "https://www.friseursalon-bad-breisig.de"
+street: Zehnerstraße
+housenumber: "43"
+phone: +49 (0) 2633 421 93 20
+opening_hours: Mo off; Tu-We 09:00-18:00; Th 09:00-19:00; Fr 09:00-18:00; Sa 08:00-14:00;
+    PH off
+website: https://www.friseursalon-bad-breisig.de

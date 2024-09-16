@@ -1,11 +1,11 @@
 id: 82510140
-type: way
+type: node
 latitude: 50.43651
 longitude: 7.83094
 postcode: "56410"
 city: Montabaur
-street: "Großer Markt"
-housenumber: 13
+street: Großer Markt
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00,Sa 09:00-14:00,Su off"
+opening_hours: Mo-Fr 09:00-18:00,Sa 09:00-14:00,Su off
 website: ""

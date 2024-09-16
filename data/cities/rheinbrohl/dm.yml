@@ -1,11 +1,11 @@
 id: 401545676
-type: way
+type: node
 latitude: 50.50335
 longitude: 7.32139
 postcode: "56598"
 city: Rheinbrohl
-street: "Industriestraße"
-housenumber: 
+street: Industriestraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

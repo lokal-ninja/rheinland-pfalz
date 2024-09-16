@@ -1,11 +1,11 @@
 id: 453501580
-type: way
+type: node
 latitude: 50.58522
 longitude: 7.0283
 postcode: "53501"
 city: Grafschaft
-street: "Dürener Straße"
-housenumber: 46
+street: Dürener Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""
