@@ -1,6 +1,6 @@
 ---
 title: Kirchberg
 url: /kirchberg/
-latitude: 49.952
-longitude: 7.405
+latitude: 49.94
+longitude: 7.4
 ---

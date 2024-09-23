@@ -1,6 +1,6 @@
 ---
 title: Grafschaft
 url: /grafschaft/
-latitude: 50.588
-longitude: 7.114
+latitude: 50.57
+longitude: 7.092
 ---

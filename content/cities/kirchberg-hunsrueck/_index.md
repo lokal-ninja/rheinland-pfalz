@@ -1,6 +1,6 @@
 ---
-title: Kirchberg/Hunsrück
+title: Kirchberg (Hunsrück)
 url: /kirchberg-hunsrueck/
-latitude: 49.94
-longitude: 7.4
+latitude: 49.949
+longitude: 7.407
 ---
