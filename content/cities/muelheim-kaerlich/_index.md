@@ -1,6 +1,6 @@
 ---
 title: Mülheim-Kärlich
 url: /muelheim-kaerlich/
-latitude: 50.388
-longitude: 7.484
+latitude: 50.387
+longitude: 7.499
 ---
