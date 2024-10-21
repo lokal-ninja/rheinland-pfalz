@@ -1,6 +1,6 @@
 ---
 title: Landscheid
 url: /landscheid/
-latitude: 49.988
-longitude: 6.78
+latitude: 49.991
+longitude: 6.785
 ---

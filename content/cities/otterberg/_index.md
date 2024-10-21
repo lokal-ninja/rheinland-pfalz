@@ -1,6 +1,6 @@
 ---
 title: Otterberg
 url: /otterberg/
-latitude: 49.503
+latitude: 49.502
 longitude: 7.772
 ---
