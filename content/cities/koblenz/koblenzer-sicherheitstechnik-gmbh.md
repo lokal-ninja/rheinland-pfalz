@@ -1,5 +1,5 @@
 ---
-title: "Koblenzer Sicherheitstechnik  GmbH"
+title: "Koblenzer Sicherheitstechnik GmbH"
 url: /koblenz/koblenzer-sicherheitstechnik-gmbh/
 shop: Schlüsseldienst
 ---
