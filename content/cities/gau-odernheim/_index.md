@@ -1,6 +1,6 @@
 ---
 title: Gau-Odernheim
 url: /gau-odernheim/
-latitude: 49.774
-longitude: 8.19
+latitude: 49.784
+longitude: 8.192
 ---
