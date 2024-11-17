@@ -1,5 +1,5 @@
 ---
 title: "Elektrotechnik Pick"
-url: /hontheim/elektrotechnik-pick-2/
+url: /hontheim/elektrotechnik-pick-sonnenstrasse/
 shop: Elektronik
 ---

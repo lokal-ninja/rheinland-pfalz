@@ -1,6 +1,6 @@
 ---
 title: Eich
 url: /eich/
-latitude: 49.743
-longitude: 8.384
+latitude: 49.749
+longitude: 8.398
 ---
