@@ -1,5 +1,5 @@
 ---
 title: "Hilti"
 url: /muelheim-kaerlich/hilti/
-shop: Eisenwaren
+shop: Allgemein
 ---
