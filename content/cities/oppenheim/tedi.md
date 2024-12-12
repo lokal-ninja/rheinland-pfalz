@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /hassloch/tedi-langgasse/
+url: /oppenheim/tedi/
 shop: Kramladen
 ---

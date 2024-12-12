@@ -7,5 +7,5 @@ city: Worms
 street: Friedrich-Ebert-Straße
 housenumber: "36"
 phone: ""
-opening_hours: Mo-Fr 08:00-18:00
+opening_hours: Mo-Tu,Th-Fr 08:00-18:00; We,Sa 09:00-13:00
 website: ""
