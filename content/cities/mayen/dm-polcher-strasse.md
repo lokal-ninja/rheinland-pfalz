@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /mayen/dm-hahnengasse/
+url: /mayen/dm-polcher-strasse/
 shop: Drogerie
 ---
