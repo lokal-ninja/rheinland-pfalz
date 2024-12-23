@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /mainz/lidl-alte-markthalle/
+url: /pruem/lidl/
 shop: Supermarkt
 ---

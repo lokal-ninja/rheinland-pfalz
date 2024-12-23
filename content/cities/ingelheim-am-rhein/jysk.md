@@ -1,5 +1,5 @@
 ---
-title: "Jysk"
+title: "JYSK"
 url: /ingelheim-am-rhein/jysk/
 shop: Möbel
 ---
