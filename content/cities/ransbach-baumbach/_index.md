@@ -1,6 +1,6 @@
 ---
 title: Ransbach-Baumbach
 url: /ransbach-baumbach/
-latitude: 50.472
-longitude: 7.736
+latitude: 50.469
+longitude: 7.726
 ---

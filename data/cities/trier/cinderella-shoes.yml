@@ -7,5 +7,5 @@ city: Trier
 street: Rotbachstraße
 housenumber: "10"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,We,Fr 14:00-18:00; Tu,Th 14:00-16:00; Sa 13:00-17:00
 website: ""
