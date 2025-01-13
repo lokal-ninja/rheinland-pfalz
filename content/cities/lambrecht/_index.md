@@ -1,6 +1,6 @@
 ---
 title: Lambrecht
 url: /lambrecht/
-latitude: 49.373
-longitude: 8.08
+latitude: 49.372
+longitude: 8.071
 ---
