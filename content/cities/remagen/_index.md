@@ -1,6 +1,6 @@
 ---
 title: Remagen
 url: /remagen/
-latitude: 50.577
-longitude: 7.243
+latitude: 50.623
+longitude: 7.208
 ---
