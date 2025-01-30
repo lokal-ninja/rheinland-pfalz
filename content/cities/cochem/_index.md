@@ -1,6 +1,6 @@
 ---
 title: Cochem
 url: /cochem/
-latitude: 50.151
-longitude: 7.168
+latitude: 50.159
+longitude: 7.18
 ---

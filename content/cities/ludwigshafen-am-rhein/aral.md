@@ -1,5 +1,5 @@
 ---
 title: "Aral"
 url: /ludwigshafen-am-rhein/aral/
-shop: Lebensmittel
+shop: Allgemein
 ---

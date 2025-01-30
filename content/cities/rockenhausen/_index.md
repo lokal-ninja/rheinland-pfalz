@@ -1,6 +1,6 @@
 ---
 title: Rockenhausen
 url: /rockenhausen/
-latitude: 49.629
-longitude: 7.82
+latitude: 49.643
+longitude: 7.827
 ---

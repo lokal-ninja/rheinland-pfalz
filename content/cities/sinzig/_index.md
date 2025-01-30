@@ -1,6 +1,6 @@
 ---
 title: Sinzig
 url: /sinzig/
-latitude: 50.544
-longitude: 7.258
+latitude: 50.545
+longitude: 7.247
 ---

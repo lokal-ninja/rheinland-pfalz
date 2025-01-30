@@ -1,6 +1,6 @@
 ---
 title: Gebhardshain
 url: /gebhardshain/
-latitude: 50.745
-longitude: 7.812
+latitude: 50.746
+longitude: 7.819
 ---
