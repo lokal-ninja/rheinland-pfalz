@@ -1,5 +1,5 @@
 ---
-title: "Ernsting's family"
+title: "Ernstings Family"
 url: /koblenz/ernstings-family/
 shop: Kleidung
 ---
