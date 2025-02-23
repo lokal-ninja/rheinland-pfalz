@@ -1,6 +1,6 @@
 ---
 title: Nieder-Wiesen
 url: /nieder-wiesen/
-latitude: 49.732
-longitude: 7.978
+latitude: 49.731
+longitude: 7.979
 ---

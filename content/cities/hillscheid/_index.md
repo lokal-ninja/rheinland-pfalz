@@ -1,6 +1,6 @@
 ---
 title: Hillscheid
 url: /hillscheid/
-latitude: 50.41
-longitude: 7.694
+latitude: 50.409
+longitude: 7.695
 ---
