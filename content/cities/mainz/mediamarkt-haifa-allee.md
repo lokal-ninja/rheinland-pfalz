@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /mainz/mediamarkt-am-brand/
+url: /mainz/mediamarkt-haifa-allee/
 shop: Elektronik
 ---

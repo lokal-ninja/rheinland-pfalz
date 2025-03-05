@@ -1,5 +1,5 @@
 ---
 title: "Ernsting's family"
-url: /mayen/ernstings-family-marktplatz/
+url: /mayen/ernstings-family-marktstrasse/
 shop: Kleidung
 ---
