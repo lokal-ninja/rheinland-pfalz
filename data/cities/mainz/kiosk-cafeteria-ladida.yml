@@ -7,6 +7,5 @@ city: Mainz
 street: Illstraße
 housenumber: "1"
 phone: ""
-opening_hours: Mo-Th 11:00-14:30,17:00-22:00; Fr 11:00-14:30,17:00-22:00; Sa 12:00-14:30,17:00-21:30;
-    Su 15:00-21:30
+opening_hours: Mo-Fr 12:00-20:30; Su 14:30-20:30; Sa off
 website: ""

@@ -1,5 +1,5 @@
 ---
-title: "only"
+title: "ONLY"
 url: /trier/only/
 shop: Kleidung
 ---
