@@ -1,6 +1,6 @@
 ---
 title: Niederkirchen
 url: /niederkirchen/
-latitude: 49.575
+latitude: 49.574
 longitude: 7.695
 ---
