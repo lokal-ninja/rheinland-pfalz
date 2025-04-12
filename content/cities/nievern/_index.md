@@ -1,6 +1,6 @@
 ---
 title: Nievern
 url: /nievern/
-latitude: 50.331
+latitude: 50.332
 longitude: 7.699
 ---
