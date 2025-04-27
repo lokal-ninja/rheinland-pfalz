@@ -1,6 +1,6 @@
 ---
 title: Neumagen-Dhron
 url: /neumagen-dhron/
-latitude: 49.858
-longitude: 6.897
+latitude: 49.85
+longitude: 6.898
 ---

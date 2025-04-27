@@ -1,6 +1,6 @@
 ---
 title: Zeltingen-Rachtig
 url: /zeltingen-rachtig/
-latitude: 49.952
-longitude: 7.018
+latitude: 49.953
+longitude: 7.02
 ---
