@@ -1,6 +1,6 @@
 ---
 title: Ramsen
 url: /ramsen/
-latitude: 49.537
-longitude: 8.028
+latitude: 49.536
+longitude: 8.013
 ---
