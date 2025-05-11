@@ -1,5 +1,5 @@
 ---
-title: "Die Lohner's"
+title: "Die Lohners"
 url: /trier/die-lohners-fleischstrasse/
 shop: Bäckerei
 ---

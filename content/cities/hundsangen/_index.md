@@ -1,6 +1,6 @@
 ---
 title: Hundsangen
 url: /hundsangen/
-latitude: 50.454
-longitude: 7.985
+latitude: 50.46
+longitude: 7.973
 ---
