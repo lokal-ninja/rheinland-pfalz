@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /gau-algesheim/aldi-sued/
 shop: Supermarkt
 ---

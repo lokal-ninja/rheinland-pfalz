@@ -1,6 +1,6 @@
 ---
 title: Carlsberg
 url: /carlsberg/
-latitude: 49.501
-longitude: 8.031
+latitude: 49.503
+longitude: 8.039
 ---

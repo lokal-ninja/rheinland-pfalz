@@ -7,5 +7,6 @@ city: Bad Kreuznach
 street: ""
 housenumber: ""
 phone: ""
-opening_hours: ""
+opening_hours: Mo 09:30-18:30; Tu 09:00-18:30; We,Th 09:30-18:30; Fr 09:00-18:30;
+    Sa 09:30-18:00
 website: ""

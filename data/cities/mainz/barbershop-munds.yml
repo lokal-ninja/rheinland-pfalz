@@ -7,6 +7,5 @@ city: Mainz
 street: Leichhofstraße
 housenumber: "5"
 phone: "+4961318898629"
-opening_hours: Montag  10:00–20:00 Dienstag  10:00–20:00 Mittwoch  10:00–20:00 Donnerstag  10:00–20:00
-    Freitag  10:00–20:00 Samstag  10:00–20:00 Sonntag  Closed
+opening_hours: Mo-Sa 10:00-20:00; Su off
 website: ""

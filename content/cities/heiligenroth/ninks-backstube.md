@@ -1,5 +1,5 @@
 ---
-title: "Nink's Backstube"
+title: "Ninks Backstube"
 url: /heiligenroth/ninks-backstube/
 shop: Bäckerei
 ---

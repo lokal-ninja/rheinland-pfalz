@@ -1,5 +1,5 @@
 ---
-title: "VIANOR"
+title: "Vianor"
 url: /badem/vianor/
 shop: Reifen
 ---

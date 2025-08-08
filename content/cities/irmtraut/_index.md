@@ -1,6 +1,6 @@
 ---
 title: Irmtraut
 url: /irmtraut/
-latitude: 50.553
-longitude: 8.061
+latitude: 50.558
+longitude: 8.064
 ---
