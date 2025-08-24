@@ -1,6 +1,6 @@
 ---
 title: Puderbach
 url: /puderbach/
-latitude: 50.593
-longitude: 7.608
+latitude: 50.598
+longitude: 7.61
 ---
