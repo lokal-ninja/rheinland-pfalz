@@ -1,6 +1,6 @@
 ---
 title: Sohren
 url: /sohren/
-latitude: 49.931
-longitude: 7.305
+latitude: 49.922
+longitude: 7.306
 ---

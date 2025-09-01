@@ -1,5 +1,5 @@
 ---
-title: "Expert Klein"
+title: "expert klein"
 url: /mayen/expert-klein/
 shop: Elektronik
 ---
