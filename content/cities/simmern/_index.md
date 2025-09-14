@@ -1,6 +1,6 @@
 ---
 title: Simmern
 url: /simmern/
-latitude: 50.39
-longitude: 7.678
+latitude: 49.968
+longitude: 7.562
 ---
