@@ -1,6 +1,6 @@
 ---
 title: Gau-Bickelheim
 url: /gau-bickelheim/
-latitude: 49.835
-longitude: 8.022
+latitude: 49.837
+longitude: 8.018
 ---

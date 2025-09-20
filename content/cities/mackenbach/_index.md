@@ -1,6 +1,6 @@
 ---
 title: Mackenbach
 url: /mackenbach/
-latitude: 49.472
-longitude: 7.585
+latitude: 49.473
+longitude: 7.584
 ---

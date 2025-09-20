@@ -1,6 +1,6 @@
 ---
 title: Badem
 url: /badem/
-latitude: 50.013
-longitude: 6.614
+latitude: 50.004
+longitude: 6.604
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Edeka"
+title: "EDEKA"
 url: /bullay/edeka/
 shop: Supermarkt
 ---
