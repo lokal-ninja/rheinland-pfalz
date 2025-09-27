@@ -1,5 +1,5 @@
 ---
 title: "Aldi Süd"
-url: /pirmasens/aldi-sued-simter-strasse/
+url: /landstuhl/aldi-sued-torfstrasse/
 shop: Supermarkt
 ---

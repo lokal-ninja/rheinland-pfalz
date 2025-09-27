@@ -1,6 +1,6 @@
 ---
 title: Fließem
 url: /fliessem/
-latitude: 50.019
-longitude: 6.54
+latitude: 50.026
+longitude: 6.543
 ---
