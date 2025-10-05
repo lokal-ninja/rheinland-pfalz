@@ -1,5 +1,5 @@
 ---
 title: "Reparo"
 url: /mainz/reparo/
-shop: Handy
+shop: Allgemein
 ---

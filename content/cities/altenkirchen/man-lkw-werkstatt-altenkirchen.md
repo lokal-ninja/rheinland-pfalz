@@ -1,5 +1,5 @@
 ---
 title: "MAN Lkw-Werkstatt Altenkirchen"
 url: /altenkirchen/man-lkw-werkstatt-altenkirchen/
-shop: Autowerkstatt
+shop: Allgemein
 ---
