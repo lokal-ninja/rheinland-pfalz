@@ -1,11 +1,11 @@
 id: 5160868284
 type: node
-latitude: 49.04061
+latitude: 49.04064
 longitude: 8.28937
 postcode: "76744"
 city: Wörth am Rhein
 street: Kühgrunddamm
 housenumber: "4"
 phone: ""
-opening_hours: Mo-Sa 08:00-20:00;PH,Su off
-website: ""
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.dm.de/store/d2g2/woerth-am-rhein/kuehgrunddamm-4
