@@ -1,6 +1,6 @@
 ---
 title: Niederelbert
 url: /niederelbert/
-latitude: 50.404
-longitude: 7.813
+latitude: 50.401
+longitude: 7.811
 ---
