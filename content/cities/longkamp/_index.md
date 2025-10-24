@@ -1,6 +1,6 @@
 ---
 title: Longkamp
 url: /longkamp/
-latitude: 49.89
-longitude: 7.119
+latitude: 49.879
+longitude: 7.124
 ---

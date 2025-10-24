@@ -1,6 +1,6 @@
 ---
 title: Freinsheim
 url: /freinsheim/
-latitude: 49.505
-longitude: 8.208
+latitude: 49.508
+longitude: 8.214
 ---
