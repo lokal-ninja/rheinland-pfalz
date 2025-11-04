@@ -1,5 +1,5 @@
 ---
-title: "Schäfer - Dein Bäcker"
+title: "Schäfer Dein Bäcker"
 url: /diez/schaefer-dein-baecker/
 shop: Bäckerei
 ---
