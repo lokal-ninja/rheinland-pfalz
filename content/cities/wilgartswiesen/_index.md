@@ -1,6 +1,6 @@
 ---
 title: Wilgartswiesen
 url: /wilgartswiesen/
-latitude: 49.205
-longitude: 7.865
+latitude: 49.207
+longitude: 7.869
 ---
