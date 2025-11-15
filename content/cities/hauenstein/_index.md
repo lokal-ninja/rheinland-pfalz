@@ -1,6 +1,6 @@
 ---
 title: Hauenstein
 url: /hauenstein/
-latitude: 49.192
-longitude: 7.856
+latitude: 49.198
+longitude: 7.834
 ---
