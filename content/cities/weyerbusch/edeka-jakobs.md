@@ -1,5 +1,5 @@
 ---
-title: "Edeka Jakobs"
+title: "EDEKA Jakobs"
 url: /weyerbusch/edeka-jakobs/
 shop: Supermarkt
 ---

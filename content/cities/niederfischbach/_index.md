@@ -1,6 +1,6 @@
 ---
 title: Niederfischbach
 url: /niederfischbach/
-latitude: 50.858
-longitude: 7.882
+latitude: 50.857
+longitude: 7.88
 ---
