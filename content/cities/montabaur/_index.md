@@ -1,6 +1,6 @@
 ---
 title: Montabaur
 url: /montabaur/
-latitude: 50.441
-longitude: 7.826
+latitude: 50.436
+longitude: 7.831
 ---
