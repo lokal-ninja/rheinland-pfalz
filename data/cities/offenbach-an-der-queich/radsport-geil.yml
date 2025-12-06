@@ -1,11 +1,12 @@
 id: 1347902746
 type: node
-latitude: 49.19478
-longitude: 8.19656
+latitude: 49.1948
+longitude: 8.19662
 postcode: "76877"
 city: Offenbach an der Queich
-street: ""
-housenumber: ""
-phone: ""
-opening_hours: Mo-Fr 10:00-13:00,14:00-19:00; We 10:00-13:00; Sa 09:00-14:00
+street: Raiffeisenstraße
+housenumber: "9"
+phone: +49 6348 6106873
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,14:00-19:00; We 10:00-13:00; Sa 09:00-14:00;
+    Su,PH off
 website: https://www.radsport-geil.de/

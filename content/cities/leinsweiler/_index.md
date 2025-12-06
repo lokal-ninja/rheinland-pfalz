@@ -1,6 +1,6 @@
 ---
 title: Leinsweiler
 url: /leinsweiler/
-latitude: 49.183
-longitude: 8.02
+latitude: 49.182
+longitude: 8.023
 ---
