@@ -1,6 +1,6 @@
 ---
 title: Bassenheim
 url: /bassenheim/
-latitude: 50.36
-longitude: 7.461
+latitude: 50.357
+longitude: 7.476
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lahnstein
 url: /lahnstein/
-latitude: 50.321
-longitude: 7.598
+latitude: 50.301
+longitude: 7.606
 ---
