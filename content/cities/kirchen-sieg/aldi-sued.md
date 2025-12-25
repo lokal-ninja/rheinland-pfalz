@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /kirchen-sieg/aldi-sued/
 shop: Supermarkt
 ---
