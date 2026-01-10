@@ -1,6 +1,6 @@
 ---
 title: Büchenbeuren
 url: /buechenbeuren/
-latitude: 49.921
-longitude: 7.279
+latitude: 49.928
+longitude: 7.284
 ---
