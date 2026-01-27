@@ -1,6 +1,6 @@
 ---
 title: Kirchen (Sieg)
 url: /kirchen-sieg/
-latitude: 50.81
-longitude: 7.864
+latitude: 50.803
+longitude: 7.883
 ---

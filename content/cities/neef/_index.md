@@ -1,6 +1,6 @@
 ---
 title: Neef
 url: /neef/
-latitude: 50.092
-longitude: 7.138
+latitude: 50.09
+longitude: 7.137
 ---

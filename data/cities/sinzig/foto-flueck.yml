@@ -7,5 +7,5 @@ city: Sinzig
 street: Mühlenbachstraße
 housenumber: "42"
 phone: +49 2642 43373
-opening_hours: Mo,Die,Do,Fr 10:00-13:00,14:00-18:00, Mi 10:00-13:00
+opening_hours: Mo,tu,Th,Fr 10:00-13:00,14:00-18:00; We 10:00-13:00
 website: ""

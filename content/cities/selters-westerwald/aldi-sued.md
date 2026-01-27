@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /selters-westerwald/aldi-sued/
 shop: Supermarkt
 ---
