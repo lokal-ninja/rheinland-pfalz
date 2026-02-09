@@ -1,6 +1,6 @@
 ---
 title: Trierweiler
 url: /trierweiler/
-latitude: 49.75
-longitude: 6.551
+latitude: 49.769
+longitude: 6.589
 ---

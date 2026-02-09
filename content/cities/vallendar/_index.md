@@ -1,6 +1,6 @@
 ---
 title: Vallendar
 url: /vallendar/
-latitude: 50.398
-longitude: 7.614
+latitude: 50.4
+longitude: 7.616
 ---
