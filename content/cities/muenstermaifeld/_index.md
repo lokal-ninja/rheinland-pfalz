@@ -1,6 +1,6 @@
 ---
 title: Münstermaifeld
 url: /muenstermaifeld/
-latitude: 50.251
-longitude: 7.357
+latitude: 50.25
+longitude: 7.356
 ---

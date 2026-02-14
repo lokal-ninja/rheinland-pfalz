@@ -1,6 +1,6 @@
 ---
 title: Windesheim
 url: /windesheim/
-latitude: 49.907
-longitude: 7.818
+latitude: 49.911
+longitude: 7.819
 ---
