@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /bad-kreuznach/aldi-sued-alzeyer-strasse/
 shop: Supermarkt
 ---
