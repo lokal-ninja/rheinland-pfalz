@@ -1,6 +1,6 @@
 ---
 title: Merxheim
 url: /merxheim/
-latitude: 49.794
-longitude: 7.556
+latitude: 49.795
+longitude: 7.558
 ---

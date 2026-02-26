@@ -1,6 +1,6 @@
 ---
 title: Dörrebach
 url: /doerrebach/
-latitude: 49.947
+latitude: 49.945
 longitude: 7.723
 ---

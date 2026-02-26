@@ -1,6 +1,6 @@
 ---
 title: Kallstadt
 url: /kallstadt/
-latitude: 49.489
-longitude: 8.177
+latitude: 49.491
+longitude: 8.175
 ---

@@ -1,6 +1,6 @@
 ---
 title: Emmelshausen
 url: /emmelshausen/
-latitude: 50.157
-longitude: 7.56
+latitude: 50.156
+longitude: 7.561
 ---
