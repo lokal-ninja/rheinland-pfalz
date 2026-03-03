@@ -1,6 +1,6 @@
 ---
 title: Hütschenhausen
 url: /huetschenhausen/
-latitude: 49.422
-longitude: 7.489
+latitude: 49.431
+longitude: 7.513
 ---

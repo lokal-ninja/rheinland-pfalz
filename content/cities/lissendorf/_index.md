@@ -1,6 +1,6 @@
 ---
 title: Lissendorf
 url: /lissendorf/
-latitude: 50.316
-longitude: 6.609
+latitude: 50.315
+longitude: 6.612
 ---
