@@ -1,6 +1,6 @@
 ---
 title: Zell (Mosel)
 url: /zell-mosel/
-latitude: 50.027
-longitude: 7.163
+latitude: 50.02
+longitude: 7.177
 ---

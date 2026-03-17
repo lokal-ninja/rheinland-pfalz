@@ -1,5 +1,5 @@
 ---
-title: "UNION Bauzentrum Hornbach Neuhofen"
+title: "Union Bauzentrum Hornbach Neuhofen"
 url: /neuhofen/union-bauzentrum-hornbach-neuhofen/
 shop: Baustoffe
 ---
