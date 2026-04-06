@@ -1,6 +1,6 @@
 ---
 title: Gönnheim
 url: /goennheim/
-latitude: 49.447
-longitude: 8.24
+latitude: 49.448
+longitude: 8.241
 ---

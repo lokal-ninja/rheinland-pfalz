@@ -1,6 +1,6 @@
 ---
 title: Hennweiler
 url: /hennweiler/
-latitude: 49.819
-longitude: 7.435
+latitude: 49.82
+longitude: 7.431
 ---

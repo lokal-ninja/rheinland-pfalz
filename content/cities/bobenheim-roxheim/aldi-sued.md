@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /bobenheim-roxheim/aldi-sued/
 shop: Supermarkt
 ---
