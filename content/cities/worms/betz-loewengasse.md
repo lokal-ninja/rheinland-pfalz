@@ -1,5 +1,5 @@
 ---
 title: "Betz"
-url: /worms/betz-arndtstrasse/
+url: /worms/betz-loewengasse/
 shop: Schreibwaren
 ---

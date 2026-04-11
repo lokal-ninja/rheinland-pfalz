@@ -1,6 +1,6 @@
 ---
 title: Dierdorf
 url: /dierdorf/
-latitude: 50.548
-longitude: 7.656
+latitude: 50.547
+longitude: 7.645
 ---

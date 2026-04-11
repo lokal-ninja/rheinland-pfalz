@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /mainz/lidl-grosse-bleiche/
+url: /mainz/lidl-hattenbergstrasse/
 shop: Supermarkt
 ---
