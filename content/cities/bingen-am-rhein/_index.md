@@ -1,6 +1,6 @@
 ---
 title: Bingen am Rhein
 url: /bingen-am-rhein/
-latitude: 49.967
-longitude: 7.887
+latitude: 49.968
+longitude: 7.888
 ---

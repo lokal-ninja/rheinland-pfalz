@@ -1,5 +1,5 @@
 ---
-title: "EDEKA Wirz"
+title: "Edeka Wirz"
 url: /boppard/edeka-wirz/
 shop: Supermarkt
 ---
