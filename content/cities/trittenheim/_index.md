@@ -1,6 +1,6 @@
 ---
 title: Trittenheim
 url: /trittenheim/
-latitude: 49.824
-longitude: 6.896
+latitude: 49.823
+longitude: 6.899
 ---

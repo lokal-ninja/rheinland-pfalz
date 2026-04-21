@@ -1,5 +1,5 @@
 ---
-title: "EDEKA Scholz"
+title: "Edeka Scholz"
 url: /ludwigshafen-am-rhein/edeka-scholz/
 shop: Supermarkt
 ---
