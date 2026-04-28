@@ -1,6 +1,6 @@
 ---
 title: Worms
 url: /worms/
-latitude: 49.642
-longitude: 8.355
+latitude: 49.629
+longitude: 8.363
 ---

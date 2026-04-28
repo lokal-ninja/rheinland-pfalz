@@ -1,6 +1,6 @@
 ---
 title: Ellerstadt
 url: /ellerstadt/
-latitude: 49.463
-longitude: 8.262
+latitude: 49.462
+longitude: 8.259
 ---

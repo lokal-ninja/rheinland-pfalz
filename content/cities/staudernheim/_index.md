@@ -1,6 +1,6 @@
 ---
 title: Staudernheim
 url: /staudernheim/
-latitude: 49.78
-longitude: 7.691
+latitude: 49.782
+longitude: 7.696
 ---
