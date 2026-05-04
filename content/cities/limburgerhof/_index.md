@@ -1,6 +1,6 @@
 ---
 title: Limburgerhof
 url: /limburgerhof/
-latitude: 49.417
-longitude: 8.389
+latitude: 49.422
+longitude: 8.394
 ---

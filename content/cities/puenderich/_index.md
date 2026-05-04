@@ -1,6 +1,6 @@
 ---
 title: Pünderich
 url: /puenderich/
-latitude: 50.04
-longitude: 7.131
+latitude: 50.039
+longitude: 7.132
 ---
