@@ -1,6 +1,6 @@
 ---
 title: Katzenelnbogen
 url: /katzenelnbogen/
-latitude: 50.273
-longitude: 7.971
+latitude: 50.268
+longitude: 7.977
 ---
