@@ -1,6 +1,6 @@
 ---
 title: Kottenheim
 url: /kottenheim/
-latitude: 50.336
-longitude: 7.256
+latitude: 50.347
+longitude: 7.257
 ---

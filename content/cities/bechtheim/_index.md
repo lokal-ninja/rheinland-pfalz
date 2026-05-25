@@ -1,6 +1,6 @@
 ---
 title: Bechtheim
 url: /bechtheim/
-latitude: 49.725
-longitude: 8.299
+latitude: 49.728
+longitude: 8.291
 ---

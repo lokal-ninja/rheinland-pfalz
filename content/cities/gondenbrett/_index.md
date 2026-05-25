@@ -1,6 +1,6 @@
 ---
 title: Gondenbrett
 url: /gondenbrett/
-latitude: 50.256
-longitude: 6.412
+latitude: 50.251
+longitude: 6.414
 ---

@@ -7,5 +7,6 @@ city: Mainz
 street: Hintere Bleiche
 housenumber: "7"
 phone: ""
-opening_hours: Mo-Fr 10:00-19:00
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-10:00; PH off; easter+40 days,easter+61
+    days off
 website: ""

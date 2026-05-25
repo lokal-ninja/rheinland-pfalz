@@ -1,6 +1,6 @@
 ---
 title: Partenheim
 url: /partenheim/
-latitude: 49.883
-longitude: 8.074
+latitude: 49.884
+longitude: 8.077
 ---
