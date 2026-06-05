@@ -1,6 +1,6 @@
 ---
 title: Landau
 url: /landau/
-latitude: 49.196
-longitude: 8.116
+latitude: 49.198
+longitude: 8.12
 ---

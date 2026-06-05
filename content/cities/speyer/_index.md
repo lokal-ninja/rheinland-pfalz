@@ -1,6 +1,6 @@
 ---
 title: Speyer
 url: /speyer/
-latitude: 49.309
-longitude: 8.424
+latitude: 49.32
+longitude: 8.432
 ---

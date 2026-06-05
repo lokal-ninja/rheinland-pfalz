@@ -1,6 +1,6 @@
 ---
 title: Bellheim
 url: /bellheim/
-latitude: 49.19
-longitude: 8.284
+latitude: 49.197
+longitude: 8.307
 ---

@@ -1,6 +1,6 @@
 ---
 title: Neuwied
 url: /neuwied/
-latitude: 50.451
-longitude: 7.423
+latitude: 50.44
+longitude: 7.473
 ---
