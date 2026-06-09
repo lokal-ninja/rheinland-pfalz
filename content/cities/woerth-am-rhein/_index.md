@@ -1,6 +1,6 @@
 ---
 title: Wörth am Rhein
 url: /woerth-am-rhein/
-latitude: 49.05
-longitude: 8.269
+latitude: 49.052
+longitude: 8.263
 ---

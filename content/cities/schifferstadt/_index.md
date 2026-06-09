@@ -2,5 +2,5 @@
 title: Schifferstadt
 url: /schifferstadt/
 latitude: 49.384
-longitude: 8.391
+longitude: 8.393
 ---
