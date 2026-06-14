@@ -1,6 +1,6 @@
 ---
 title: Ludwigshafen am Rhein
 url: /ludwigshafen-am-rhein/
-latitude: 49.455
-longitude: 8.381
+latitude: 49.534
+longitude: 8.389
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hontheim
 url: /hontheim/
-latitude: 50.07
-longitude: 6.99
+latitude: 50.071
+longitude: 6.993
 ---
