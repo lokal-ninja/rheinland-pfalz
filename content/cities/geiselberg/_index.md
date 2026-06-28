@@ -1,6 +1,6 @@
 ---
 title: Geiselberg
 url: /geiselberg/
-latitude: 49.325
-longitude: 7.704
+latitude: 49.328
+longitude: 7.69
 ---
