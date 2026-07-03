@@ -1,6 +1,6 @@
 ---
 title: Albig
 url: /albig/
-latitude: 49.773
-longitude: 8.119
+latitude: 49.768
+longitude: 8.115
 ---
