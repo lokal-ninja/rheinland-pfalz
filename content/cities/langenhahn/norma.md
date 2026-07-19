@@ -1,5 +1,5 @@
 ---
-title: "NORMA"
+title: "Norma"
 url: /langenhahn/norma/
 shop: Supermarkt
 ---

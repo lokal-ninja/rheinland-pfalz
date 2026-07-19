@@ -1,5 +1,0 @@
----
-title: "Netto Marken-Discount"
-url: /idar-oberstein/netto-marken-discount-hauptstrasse/
-shop: Supermarkt
----

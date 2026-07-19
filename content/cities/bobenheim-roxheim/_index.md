@@ -1,6 +1,6 @@
 ---
 title: Bobenheim-Roxheim
 url: /bobenheim-roxheim/
-latitude: 49.586
-longitude: 8.359
+latitude: 49.593
+longitude: 8.356
 ---
