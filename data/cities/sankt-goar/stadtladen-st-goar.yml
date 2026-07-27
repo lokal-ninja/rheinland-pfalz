@@ -7,5 +7,5 @@ city: Sankt Goar
 street: Heerstraße
 housenumber: "108"
 phone: ""
-opening_hours: Mo,Tu,Th,Fr 08:00-18:00; We,Sa 08:00-13:00
+opening_hours: Tu,Th,Fr 08:00-18:00; We,Sa 08:00-13:00; Mo 08:00-12:00,13:30-18:00
 website: ""

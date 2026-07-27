@@ -1,6 +1,6 @@
 ---
 title: Klingenmünster
 url: /klingenmuenster/
-latitude: 49.14
-longitude: 8.018
+latitude: 49.139
+longitude: 8.025
 ---
