@@ -1,6 +1,6 @@
 ---
 title: Zerf
 url: /zerf/
-latitude: 49.599
-longitude: 6.682
+latitude: 49.601
+longitude: 6.688
 ---

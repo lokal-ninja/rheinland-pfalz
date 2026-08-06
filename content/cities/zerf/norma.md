@@ -1,5 +1,5 @@
 ---
-title: "NORMA"
+title: "Norma"
 url: /zerf/norma/
 shop: Supermarkt
 ---

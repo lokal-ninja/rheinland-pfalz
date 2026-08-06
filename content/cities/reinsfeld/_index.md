@@ -1,6 +1,6 @@
 ---
 title: Reinsfeld
 url: /reinsfeld/
-latitude: 49.673
-longitude: 6.876
+latitude: 49.68
+longitude: 6.879
 ---

@@ -2,5 +2,5 @@
 title: Vinningen
 url: /vinningen/
 latitude: 49.156
-longitude: 7.557
+longitude: 7.548
 ---

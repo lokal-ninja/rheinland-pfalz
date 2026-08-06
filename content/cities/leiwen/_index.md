@@ -1,6 +1,6 @@
 ---
 title: Leiwen
 url: /leiwen/
-latitude: 49.822
-longitude: 6.883
+latitude: 49.819
+longitude: 6.88
 ---
