@@ -1,6 +1,6 @@
 ---
 title: Bockenau
 url: /bockenau/
-latitude: 49.836
-longitude: 7.68
+latitude: 49.834
+longitude: 7.687
 ---

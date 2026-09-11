@@ -7,5 +7,6 @@ city: Schönenberg-Kübelberg
 street: Burgstraße
 housenumber: "9"
 phone: "+496373893690"
-opening_hours: ""
+opening_hours: Mo 14:00-18:00; Tu,Th 08:00-14:00; We 08:00-12:00,14:00-17:00; Fr-Su
+    off
 website: ""

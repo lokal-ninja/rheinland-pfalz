@@ -1,6 +1,6 @@
 ---
 title: Mutterstadt
 url: /mutterstadt/
-latitude: 49.431
-longitude: 8.369
+latitude: 49.424
+longitude: 8.363
 ---

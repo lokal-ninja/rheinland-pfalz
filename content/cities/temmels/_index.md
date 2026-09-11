@@ -1,6 +1,6 @@
 ---
 title: Temmels
 url: /temmels/
-latitude: 49.689
-longitude: 6.464
+latitude: 49.691
+longitude: 6.467
 ---

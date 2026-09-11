@@ -1,6 +1,6 @@
 ---
 title: Altenahr
 url: /altenahr/
-latitude: 50.516
-longitude: 6.987
+latitude: 50.522
+longitude: 6.994
 ---

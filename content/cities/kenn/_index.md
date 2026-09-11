@@ -1,6 +1,6 @@
 ---
 title: Kenn
 url: /kenn/
-latitude: 49.805
-longitude: 6.724
+latitude: 49.804
+longitude: 6.722
 ---

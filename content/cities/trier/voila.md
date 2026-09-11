@@ -1,5 +1,5 @@
 ---
-title: "Voilá"
+title: "Voilà"
 url: /trier/voila/
 shop: Kleidung
 ---

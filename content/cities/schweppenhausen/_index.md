@@ -1,6 +1,6 @@
 ---
 title: Schweppenhausen
 url: /schweppenhausen/
-latitude: 49.924
-longitude: 7.801
+latitude: 49.92
+longitude: 7.792
 ---

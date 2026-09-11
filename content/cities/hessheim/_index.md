@@ -1,6 +1,6 @@
 ---
 title: Heßheim
 url: /hessheim/
-latitude: 49.545
-longitude: 8.313
+latitude: 49.544
+longitude: 8.314
 ---
