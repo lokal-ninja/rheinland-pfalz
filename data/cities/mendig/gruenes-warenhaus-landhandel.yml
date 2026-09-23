@@ -7,5 +7,5 @@ city: Mendig
 street: Bahnstraße
 housenumber: 37a
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We 09:00-14:00; Sa 08:30-13:00
 website: https://www.landhandel-geisen.de/

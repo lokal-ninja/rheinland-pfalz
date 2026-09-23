@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /annweiler-am-trifels/aldi-sued/
 shop: Supermarkt
 ---

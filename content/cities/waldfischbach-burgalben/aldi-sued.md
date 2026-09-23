@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /waldfischbach-burgalben/aldi-sued/
 shop: Supermarkt
 ---

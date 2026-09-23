@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /speyer/aldi-sued-iggelheimer-strasse/
 shop: Supermarkt
 ---
